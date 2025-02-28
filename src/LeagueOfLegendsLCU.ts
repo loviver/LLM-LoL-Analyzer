@@ -81,7 +81,14 @@ class LCUListener {
         
         const actions: Record<number, any> = {};
 
-        this.lastChampionData.actions[0].forEach((action: any) => {
+        const pickActions = this.lastChampionData.actions
+        .map((action: any) => action.filter((item: any) => item.type === 'pick'))
+        .flat();
+      
+        //console.log(pickActions);
+      
+
+        pickActions.forEach((action: any) => {
           const actorId = Number(action.actorCellId);
 
           if (!Number.isInteger(actorId)) {
@@ -207,7 +214,7 @@ class LCUListener {
         */
 
         // Función para formatear los datos de un jugador
-        const formatPlayerData = async (player: any) => {
+        const formatPlayerData =  (player: any) => {
 
           return {
             championName: player.championName,

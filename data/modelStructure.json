@@ -2,6 +2,14 @@
   "champion": {
     "name": "Jhin"
   },
+  "matchVs": {
+    "enemy": "Caitlyn"
+  },
+  "role_tips": [
+    "Jhin es vulnerable a los engages de campeones con mucho CC como Nautilus.",
+    "El uso de Galeforce puede ser crucial para escapar de engages enemigos.",
+    "El rango de Jhin es limitado, por lo que es importante mantener la distancia en peleas."
+  ],
   "recommended_build": {
     "starting_items": [
       {

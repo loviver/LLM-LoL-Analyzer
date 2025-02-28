@@ -1,5 +1,6 @@
 import dotenv from 'dotenv';
 import fs from 'fs';
+import { diff } from "json-diff-ts";
 
 import LCUListener from './LeagueOfLegendsLCU';
 import GeminiAI from './GeminiAI';
@@ -14,6 +15,8 @@ const listener = new LCUListener(
     './currentGame'
 );
 
+console.log(process.env.PATH_LOL)
+
 const api = new GeminiAI(process.env.GEMINI_API ?? "");
 
 // Establecer contexto global (el meta de objetos)
@@ -27,10 +30,11 @@ var championSelectData: any = null;
 // Escuchar eventos
 listener.on('championSelect', async (data: any) => {
 
-  var changed = true;
+  let changed = true;
 
-  if(championSelectData) {
-    if(championSelectData !== data) {
+  if (championSelectData) {
+    // Comparar el contenido en lugar de la referencia en memoria
+    if (JSON.stringify(championSelectData) === JSON.stringify(data)) {
       changed = false;
     }
   }
@@ -40,79 +44,97 @@ listener.on('championSelect', async (data: any) => {
     ...data.teams.enemyTeam
   ].filter((player: any) => player.completed === false);
 
-  console.log(`leftPlayers`, leftPlayers);
+  const isYourTurn = data.teams.myTeam.some((player: any) => player.isInProgress === true);
 
-  if(changed && leftPlayers.length == 0) {
+  //console.log(`leftPlayers`, leftPlayers);
+
+  if(changed/* && leftPlayers.length == 0*/) {
     championSelectData = data;
     
     const jsonStructure = fs.readFileSync('data/modelChampionSelect.json', 'utf8');
 
     const respuesta = await api.askQuestion(
-      `Te brindaré un JSON que tiene información de mi selección de campeones actual,
-      En ella estarán los campeones que tiene mi equipo y los campeones que tiene el equipo enemigo.
-      Los spells de mi equipo y los baneos hechos, debes analizar la composición que tiene mi equipo 
-      hasta el momento y la del equipo enemigo y darme un análisis de la situación actual.
-      Trata de utilizar un lenguaje facil de digerir, ser directo y conciso. 
-
-      Si brindas alguna recomendacion de que tipo de campeon pickear, da ejemplos,
-      Quiero que me brindes
-      la informacion en un JSON con la siguiente estructura: ${jsonStructure}`,
+      `A continuación, te proporcionaré un JSON con la información de la selección actual de campeones:
+      
+      - Campeones seleccionados por mi equipo.
+      - Campeones seleccionados por el equipo enemigo.
+      - Hechizos (spells) de mi equipo.
+      - Baneos realizados.
+      
+      Analiza la composición de ambos equipos y ofréceme un análisis claro y conciso de la situación actual. Utiliza un lenguaje sencillo, directo y fácil de entender. 
+      
+      Si recomiendas elegir algún tipo de campeón, por favor incluye ejemplos concretos.
+      
+      Devuélveme la respuesta en un JSON con la siguiente estructura: ${jsonStructure}`,
       data
     );
+    
 
-    fs.writeFileSync('./currentGame/championResponse.json', JSON.stringify(data, null, 2));
+    fs.writeFileSync('./currentGame/championResponse.json', JSON.stringify(respuesta, null, 2));
     console.log(`championResponseUpdate`);
   }
 });
 
 listener.on('liveData', async (data: any) => {
-
   const deepData = {
     currentItems: data.currentItems,
-    allyItems: data.team.players.map((player: any) => {
-      return player.items;
-    }),
-    enemyTeam: data.enemyTeam.players.map((player: any) => {
-      return player.items;
-    })
+    allyItems: data.team.players.map((player: any) =>
+      player.items.map((item: any) => item.displayName)
+    ),
+    enemyTeam: data.enemyTeam.players.map((player: any) =>
+      player.items.map((item: any) => item.displayName)
+    )
   };
-
+  
   let changed = true;
+  
+  if (catchLiveData) {
+    // Comparar arrays usando json-diff-ts
+    const allyDiff = diff(catchLiveData.allyItems, deepData.allyItems);
+    const enemyDiff = diff(catchLiveData.enemyTeam, deepData.enemyTeam);
 
-  if(catchLiveData) {
-    if(
-      !(catchLiveData.allyItems === deepData.allyItems
-        && catchLiveData.enemyTeam === deepData.enemyTeam)) {
+    const allyHasChanges = allyDiff && Object.keys(allyDiff).length > 0;
+    const enemyHasChanges = enemyDiff && Object.keys(enemyDiff).length > 0;
+  
+    if (allyHasChanges || enemyHasChanges) {
+      console.log("Se detectaron cambios en los ítems:");
+      if (allyDiff) console.log("Cambios en aliados:", {
+        allyDiff
+      });
+      if (enemyDiff) console.log("Cambios en enemigos:", {
+        enemyDiff
+      });
+    } else {
       changed = false;
     }
   }
 
-  if(changed) {
-    // console.log('Live game data updated:', data);
-
+  if (changed) {
     const jsonStructure = fs.readFileSync('data/modelStructure.json', 'utf8');
-    
+
     const respuesta = await api.askQuestion(
-      `Respondeme en un JSON bien estructurado de la siguiente forma ${JSON.stringify(jsonStructure)}.
-      Te brindare un JSON con los items actuales del juego y otro json con algunos stats de la partida actual
-      para que puedas determinar la respuesta considera
-      los items mas raros y dificiles de counterear o mas fuertes.
-      Se claro y conciso en tu respuesta, si es sabes quien es el win condition, el carry aliado o enemigo y hay
-      que enfocarse en el dilo,
-      Analiza en base a los cs actuales, el oro, kills aliadas y enemigas, torretas.
-      Ten en cuenta que el indice 'current' contiene los stats del jugador a ayudar,
-      ten en cuenta para comparar con el rol enemigo de la misma posicion.
-      Los nombres de los items, usa tal cual te los brindo.`,
+      `
+      Se te proporcionan dos JSON:
+        1. "actualItems": lista de items actuales (mantén los nombres tal cual).
+        2. "currentGame": estadísticas de la partida, donde "current" corresponde al jugador a ayudar y se incluye información del enemigo en la misma posición.
+    
+      Analiza lo siguiente:
+        - Identifica los items necesarios para hacer counter/ganar ventaja.
+        - Evalúa estadísticas clave: cs, oro, kills (aliadas y enemigas) y torretas.
+        - Determina si hay un win condition o un carry (ya sea aliado o enemigo) que deba focalizarse.
+        - Si el jugador a ayudar es jungla, brindale las rutas mas eficientes para limpiar y gankear.
+    
+      Responde de forma clara, concisa y técnica utilizando el formato JSON especificado en "structure".
+      `,
       {
+        structure: jsonStructure,
         currentGame: data,
-        actualItems: actualItems
+        actualItems: data.currentItems
       }
     );
 
     fs.writeFileSync('./currentGame/gameResponse.json', JSON.stringify(respuesta, null, 2));
-    console.log(`gameResponseUpdate`);
-
-    const fileName = `${respuesta.champion.name}+${Date.now()}.json`;
+    console.log(`gameResponseUpdate ${Date.now()}`);
 
     catchLiveData = {
       currentGold: data.currentGold,
