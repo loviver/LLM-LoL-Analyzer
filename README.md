@@ -1,6 +1,5 @@
 # LLM-LoL-Analyzer
 
-![LoL Analyzer Banner](https://i.imgur.com/example.jpg)  
 *Análisis inteligente de partidas de League of Legends con modelos de lenguaje grandes (LLM).* 🚀
 
 ## 📌 Descripción
