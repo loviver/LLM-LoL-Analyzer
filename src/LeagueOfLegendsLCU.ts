@@ -94,8 +94,10 @@ class LCUListener {
             isPlayer: false
           };
         });
+        
+        const localPlayerCellId = Number(this.lastChampionData.localPlayerCellId);
 
-        actions[this.lastChampionData.localPlayerCellId].isPlayer = true;
+        actions[localPlayerCellId].isPlayer = true;
 
         // Función auxiliar para formatear los datos de cada jugador
         const formatPlayer = (player: any) => {
@@ -176,10 +178,13 @@ class LCUListener {
         { httpsAgent: this.httpsAgent }
       );
 
+      var localPlayerScore = null;
+
       if (JSON.stringify(response.data) !== JSON.stringify(this.lastLiveData)) {
         this.lastLiveData = response.data;
 
         fs.writeFileSync(path.join(this.currentGamePath, 'liveData.json'), JSON.stringify(response.data, null, 2));
+
 
         // Obtener el jugador activo de allPlayers usando find
         const currentPlayer = this.lastLiveData.allPlayers.find(
@@ -190,12 +195,32 @@ class LCUListener {
           throw new Error("Jugador activo no encontrado");
         }
 
-        // Función para formatear los datos de un jugador
-        const formatPlayerData = (player: any) => {
+        /*
+        if(!localPlayerScore) {
+          const playerScoresQuery = await axios.get(
+            `https://127.0.0.1:2999/liveclientdata/playerscores?riotId=${currentPlayer.riotId}`,
+            { httpsAgent: this.httpsAgent }
+          ) as any;
           
+          console.log(`playerScoresQuery`, playerScoresQuery);
+        }
+        */
+
+        // Función para formatear los datos de un jugador
+        const formatPlayerData = async (player: any) => {
+
           return {
             championName: player.championName,
+            riotId: player.riotId,
+            summonerName: player.summonerName,
             level: player.level,
+            position: player.position,
+            kills: player.scores.kills,
+            creepScore: player.scores.creepScore,
+            deaths: player.scores.deaths,
+            assists: player.scores.assists,
+            wardScore: player.scores.wardScore,
+            team: player.team,
             items: player.items.map((item: any) => {
 
               const itemData = DataDragon.findItemByKey(item.itemID);
@@ -209,10 +234,6 @@ class LCUListener {
                 price: item.price
               }
             }),
-            kills: player.scores.kills,
-            deaths: player.scores.deaths,
-            assists: player.scores.assists,
-            wardScore: player.scores.wardScore,
             runes: Object.entries(player.runes).map((rune: any) => {
               return {
                 type: rune[0],
@@ -227,7 +248,6 @@ class LCUListener {
                 displayName: spell[1].displayName,
               }
             }),
-            team: player.team,
           }
         };
 

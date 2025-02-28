@@ -2,515 +2,76 @@
   "mySkills": [
     {
       "abilityKey": "E",
-      "displayName": "Barril de Pólvora",
-      "abilityLevel": 0
+      "displayName": "Terror Creciente",
+      "abilityLevel": 2
     },
     {
       "abilityKey": "Q",
-      "displayName": "Parrrlamentar",
-      "abilityLevel": 1
+      "displayName": "Danza de Flechas",
+      "abilityLevel": 5
     },
     {
       "abilityKey": "R",
-      "displayName": "Descarga de Cañones",
-      "abilityLevel": 0
+      "displayName": "Alivio de Cordero",
+      "abilityLevel": 2
     },
     {
       "abilityKey": "W",
-      "displayName": "Eliminar Escorbuto",
-      "abilityLevel": 0
+      "displayName": "Frenesí de Lobo",
+      "abilityLevel": 4
     }
   ],
-  "currentGold": 500,
-  "currentLevel": 1,
-  "current": {
-    "championName": "Gangplank",
-    "level": 1,
-    "items": [
-      {
-        "id": 3340,
-        "count": 1,
-        "displayName": "Centinela Invisible",
-        "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-        "stats": {},
-        "price": 0
-      }
-    ],
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
-    "wardScore": 0,
-    "runes": [
-      {
-        "type": "keystone",
-        "displayName": "Conquistador",
-        "id": 8010
-      },
-      {
-        "type": "primaryRuneTree",
-        "displayName": "Precisión",
-        "id": 8000
-      },
-      {
-        "type": "secondaryRuneTree",
-        "displayName": "Inspiración",
-        "id": 8300
-      }
-    ],
-    "spells": [
-      {
-        "spellOrder": "summonerSpellOne",
-        "displayName": "Fantasma"
-      },
-      {
-        "spellOrder": "summonerSpellTwo",
-        "displayName": "Destello"
-      }
-    ],
-    "team": "ORDER"
-  },
+  "currentGold": 4163.03466796875,
+  "currentLevel": 12,
+  "current": {},
   "team": {
-    "turrets": [],
-    "players": [
+    "turrets": [
       {
-        "championName": "Seraphine",
-        "level": 1,
-        "items": [
-          {
-            "id": 3865,
-            "count": 1,
-            "displayName": "Mapamundi",
-            "description": "",
-            "stats": {
-              "FlatHPPoolMod": 30
-            },
-            "price": 400
-          },
-          {
-            "id": 2003,
-            "count": 2,
-            "displayName": "Poción de Vida",
-            "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
-            "stats": {},
-            "price": 50
-          },
-          {
-            "id": 3340,
-            "count": 1,
-            "displayName": "Centinela Invisible",
-            "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-            "stats": {},
-            "price": 0
-          }
-        ],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Cometa Arcano",
-            "id": 8229
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Dominación",
-            "id": 8100
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Curación"
-          }
-        ],
-        "team": "ORDER"
+        "time": 1293.9892578125,
+        "asisters": [],
+        "killer": "Bot Kai'Sa"
       },
       {
-        "championName": "Rumble",
-        "level": 1,
-        "items": [
-          {
-            "id": 1102,
-            "count": 1,
-            "displayName": "Cría de Trotabrisas",
-            "description": "<mainText><stats></stats><br><br><passive>Compañeros de la Jungla</passive><br>Invocas un <font color='#38A8E8'>Trotabrisas</font> que te ayudará a pelear contra monstruos.<br><br><passive>Paso de Trotabrisas</passive><br>El compañero crece conforme cazas monstruos, lo que potencia tu <spellName>Castigo</spellName>. Al alcanzar su tamaño máximo, te otorgará <speed>velocidad de movimiento</speed> al entrar a la maleza, lo cual aumentará al asesinar a monstruos grandes.</mainText>",
-            "stats": {},
-            "price": 450
-          },
-          {
-            "id": 3340,
-            "count": 1,
-            "displayName": "Centinela Invisible",
-            "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-            "stats": {},
-            "price": 0
-          }
-        ],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Cometa Arcano",
-            "id": 8229
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Dominación",
-            "id": 8100
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Castigo"
-          }
-        ],
-        "team": "ORDER"
-      },
-      {
-        "championName": "Vayne",
-        "level": 1,
-        "items": [
-          {
-            "id": 1055,
-            "count": 1,
-            "displayName": "Espada de Doran",
-            "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
-            "stats": {
-              "FlatHPPoolMod": 80,
-              "FlatPhysicalDamageMod": 10,
-              "PercentLifeStealMod": 0.03
-            },
-            "price": 450
-          },
-          {
-            "id": 2003,
-            "count": 1,
-            "displayName": "Poción de Vida",
-            "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
-            "stats": {},
-            "price": 50
-          },
-          {
-            "id": 3340,
-            "count": 1,
-            "displayName": "Centinela Invisible",
-            "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-            "stats": {},
-            "price": 0
-          }
-        ],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Estrategia Ofensiva",
-            "id": 8005
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Precisión",
-            "id": 8000
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Barrera"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Destello"
-          }
-        ],
-        "team": "ORDER"
-      },
-      {
-        "championName": "Mordekaiser",
-        "level": 1,
-        "items": [
-          {
-            "id": 1056,
-            "count": 1,
-            "displayName": "Sortija de Doran",
-            "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
-            "stats": {
-              "FlatHPPoolMod": 90,
-              "FlatMagicDamageMod": 18
-            },
-            "price": 400
-          },
-          {
-            "id": 2003,
-            "count": 2,
-            "displayName": "Poción de Vida",
-            "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
-            "stats": {},
-            "price": 50
-          },
-          {
-            "id": 3340,
-            "count": 1,
-            "displayName": "Centinela Invisible",
-            "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-            "stats": {},
-            "price": 0
-          }
-        ],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Cometa Arcano",
-            "id": 8229
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Dominación",
-            "id": 8100
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Teleportación"
-          }
-        ],
-        "team": "ORDER"
+        "time": 1636.4342041015625,
+        "asisters": [],
+        "killer": "Minion_T100L1S52N0332",
+        "lane": "top",
+        "position": "inhibitor",
+        "team": "CHAOS"
       }
+    ],
+    "players": [
+      {},
+      {},
+      {},
+      {}
     ]
   },
   "enemyTeam": {
-    "turrets": [],
-    "players": [
+    "turrets": [
       {
-        "championName": "Leona",
-        "level": 1,
-        "items": [],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Agarre del Perpetuo",
-            "id": 8437
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Valor",
-            "id": 8400
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Ignición"
-          }
-        ],
-        "team": "CHAOS"
+        "time": 1048.56298828125,
+        "asisters": [],
+        "killer": "Bot Vayne",
+        "lane": "mid",
+        "position": "inhibitor",
+        "team": "ORDER"
       },
       {
-        "championName": "Warwick",
-        "level": 1,
-        "items": [],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Estrategia Ofensiva",
-            "id": 8005
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Precisión",
-            "id": 8000
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Castigo"
-          }
-        ],
-        "team": "CHAOS"
-      },
-      {
-        "championName": "Darius",
-        "level": 1,
-        "items": [],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Agarre del Perpetuo",
-            "id": 8437
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Valor",
-            "id": 8400
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Fantasma"
-          }
-        ],
-        "team": "CHAOS"
-      },
-      {
-        "championName": "Kai'Sa",
-        "level": 1,
-        "items": [],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Estrategia Ofensiva",
-            "id": 8005
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Precisión",
-            "id": 8000
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Barrera"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Destello"
-          }
-        ],
-        "team": "CHAOS"
-      },
-      {
-        "championName": "Lissandra",
-        "level": 1,
-        "items": [],
-        "kills": 0,
-        "deaths": 0,
-        "assists": 0,
-        "wardScore": 0,
-        "runes": [
-          {
-            "type": "keystone",
-            "displayName": "Electrocutar",
-            "id": 8112
-          },
-          {
-            "type": "primaryRuneTree",
-            "displayName": "Dominación",
-            "id": 8100
-          },
-          {
-            "type": "secondaryRuneTree",
-            "displayName": "Precisión",
-            "id": 8000
-          }
-        ],
-        "spells": [
-          {
-            "spellOrder": "summonerSpellOne",
-            "displayName": "Destello"
-          },
-          {
-            "spellOrder": "summonerSpellTwo",
-            "displayName": "Teleportación"
-          }
-        ],
-        "team": "CHAOS"
+        "time": 1754.6875,
+        "asisters": [],
+        "killer": "Bot Vayne",
+        "lane": "mid",
+        "position": "tier2",
+        "team": "ORDER"
       }
+    ],
+    "players": [
+      {},
+      {},
+      {},
+      {},
+      {}
     ]
   }
 }

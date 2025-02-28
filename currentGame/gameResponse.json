@@ -1,0 +1,67 @@
+{
+  "champion": {
+    "name": "Kindred"
+  },
+  "recommended_build": {
+    "core_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Proporciona una valiosa fuente de Tenacidad y un escudo contra daño de burst, aumentando la supervivencia en peleas de equipo.",
+        "precision": "Alta prioridad debido a la falta de resistencia del campeón Kindred."
+      },
+      {
+        "item_name": "Guardián",
+        "explanation": "Para aumentar la supervivencia y otorgar vision al equipo"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Resistencia mágica y daño adicional en peleas prolongadas, combinando ofensiva y defensa.",
+        "precision": "A considerar si hay daño mágico considerable del equipo enemigo."
+      },
+      {
+        "item_name": "Espadafuria de Guinsoo",
+        "explanation": "Maximiza el daño sostenido en peleas prolongadas y otorga daño magico y velocidad de ataque, para tener daño hibrido",
+        "precision": "Priorizar si no es el focus del equipo enemigo."
+      },
+      {
+        "item_name": "Elixir de Habilidad",
+        "explanation": "Otorga un punto de habilidad, se utiliza para mejorar la R de Kindred.",
+        "priority": "Siempre mejorar la ulti."
+      }
+    ],
+    "consumables": [
+      {
+        "item_name": "Centinela de Control",
+        "explanation": "Esencial para controlar la visión alrededor de los objetivos y negar la visión enemiga."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de ataques básicos enemigos, aumentando la supervivencia en duelos y peleas contra AD carries. Aumenta la armadura",
+      "precision": "Si necesitas armadura, buena opcion."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Ofrecen resistencia mágica y tenacidad, reduciendo la duración de controles de masas.",
+      "precision": "Cuando el equipo enemigo tiene mucho CC magico."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "70%"
+    },
+    "key_performance_factors": [
+      "Priorizar supervivencia para hacer daño sostenido en las peleas de equipo.",
+      "Vision y control de objetivos para la composicion de Kindred.",
+      "Manejo de posicionamiento en el mapa para evitar ser focus.",
+      "Build defensiva pensando que ya hay suficiente daño."
+    ]
+  },
+  "final_recommendation": "Considerando la situación actual, con una torre enemiga mid ya caída, es crucial asegurar la supervivencia para aprovechar el daño de Kindred. Dada la ventaja de oro, es viable invertir en items defensivos como Sterak y Juicio de Atma para liderar el equipo."
+}
