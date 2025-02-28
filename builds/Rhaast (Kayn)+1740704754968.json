@@ -1,0 +1,72 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos / Cría de Trotabrisas / Retoño de Pisamusgo",
+        "explanation": "Elige el compañero de la jungla que mejor se adapte a tu estilo de juego y a las necesidades de tu equipo. Rasgafuegos para daño, Trotabrisas para movilidad, Pisamusgo para defensa."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Lanza de Shojin",
+        "explanation": "Aumenta el Daño, vida y permite spamear habilidades básicas con mas frecuencia."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, incrementando el daño de tu equipo y de tu mismo."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Proporciona vida y un escudo que ayuda a sobrevivir al burst del Zed y al daño de Jhin."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Daño persistente en area con inmolacion, hace frente a comps que intenten meterse en tu cara."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta tu curación propia y la de tus aliados."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Armadura, resistencia mágica y un aumento de daño basado en los segs en combate, para hacerte mas peligroso en el equipo enemigo"
+      },
+      {
+        "item_name": "Oportunidades",
+        "explanation": "Proporciona Daño de Ataque, Letalidad, Aceleracion de Habilidad, y tras estar fuera de combate contra campeones, obtienes <scaleLethality>Letalidad. Si un campeón muere después de haberle infligido daño recientemente obtienes velocidad de movimiento."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de ataques básicos, útil contra Jhin."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Reduce la duración de los controles de masas (CC) del equipo enemigo."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Cuchilla Oscura y Lanza de Shojin son fundamentales para maximizar el daño y la frecuencia de habilidades de Rhaast.",
+      "Guantelete de Sterak te permite sobrevivir al burst del equipo enemigo.",
+      "Considera Fauces de Malmortius si el equipo enemigo tiene mucho daño mágico AP."
+    ]
+  },
+  "final_recommendation": "Prioriza la supervivencia con Sterak y Apariencia Espiritual, adaptando tus items ofensivos según la composición enemiga. Cuchilla Oscura y Lanza de Shojin son core para el daño y la frecuencia de habilidades."
+}

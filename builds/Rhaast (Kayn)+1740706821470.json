@@ -1,0 +1,64 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Ofrece daño inicial para limpiar la jungla y luego potenciar los ganks."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain inicial en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Ideal contra composiciones con muchos campeones cuerpo a cuerpo, como la que enfrentas (Kindred puede ser melee con su R). El daño constante y la armadura son valiosos."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para tu equipo y velocidad de movimiento para Rhaast, synergy perfecta con el Omnivampirismo y tu capacidad de extenderte en teamfights. Además del daño y vida, item clave contra tanques o duelistas."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Vida adicional y un escudo que te permite sobrevivir al burst de Zed y Jhin."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Armadura y Resistencia Mágica adicional. Daño adicional en combates prolongados contra oponentes cuerpo a cuerpo o contra Kindred, Zed y Jhin ya que este último tiene mucho rango."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Contra Jhin (AD Carry) y Zed, aplica Heridas Graves y disuade a los enemigos de atacarte."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Si el equipo enemigo tiene mucho daño mágico además del de Zed, proporciona resistencia mágica y velocidad de movimiento."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Opción defensiva para asegurar que sobrevivas el suficiente tiempo en las peleas y puedas curarte con omnivampirismo"
+      },
+      {
+        "item_name": "Hidra Titánica",
+        "explanation": "Si necesitas mas daño, puedes optar por este objeto, pero recuerca que contra mas defensas tengas, mas aprovechas tu curación y por ende eres mas util"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques de Jhin y Zed."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Si hay mucho CC en el equipo enemigo además del daño mágico. La tenacidad te permite escapar de Kindred y Zed."
+    }
+  },
+  "estrategia": "Esta build busca ofrecer una mezcla de daño sostenido y capacidad de supervivencia para Rhaast.  Centrate en zonificar a los carries y causar la mayor disrupción en la team fight. Recuerda que tu objetivo es atraer la mayor cantidad de atención y ser una piedra en el zapato del equipo enemigo, mas que un carry. \n\nEnfrenta a Kindred temprano para evitar que se fedee. En teamfights, concentrate en Zed y Jhin, absorbiendo la mayor cantidad de daño posible mientras permites que tu equipo haga el daño verdadero."
+}

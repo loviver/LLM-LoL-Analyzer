@@ -1,0 +1,76 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Ofrece sustain en la jungla y un escudo que te da algo de aguante inicial."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Regeneración de vida adicional mientras limpias la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Corazón de Acero",
+        "explanation": "Escalar vida para tradear daño y ganar vida permanente a medida que vas dando golpes cargados."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de tus objetivos al dañarlos con habilidades físicas, sinergiza con el kit de Rhaast, con daño físico y el daño de área, que también le da movilidad."
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Daño en área y permite limpiar oleadas de minions rapidamente, que beneficia a su aguante y resistencia."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Te proporciona un escudo de vida al recibir mucho daño que combina con tu vida total."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño Físico adicional al estar en combate contra campeones enemigos, torretas o monstruos épicos"
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación recibida, lo que mejora la sostenibilidad de Rhaast."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Útil para reflejar daño y aplicar Heridas Graves a Kindred y Jhin"
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Ofrece resistencia mágica y velocidad de movimiento, útil contra Zed y Kindred, si tienen daño mágico en su build."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Jhin y Zed"
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Ofrecen tenacidad, lo que ayuda a reducir el control de masas de Kindred y Zed."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Corazón de Acero es clave para tradear daño y aguantar en las peleas.",
+      "Cuchilla Oscura es crucial para reducir la armadura de los enemigos, lo que beneficia a tu equipo.",
+      "Adapta los items situacionales según la composición del equipo enemigo y las fases de la partida."
+    ]
+  },
+  "final_recommendation": "Prioriza escalar vida con Corazón de Acero y Cuchilla Oscura , adaptando tu build con resistencia mágica y/o tenacidad según sea necesario. El objetivo es ser una amenaza sostenible en las peleas de equipo y reducir la capacidad de Jhin dekitearte."
+}

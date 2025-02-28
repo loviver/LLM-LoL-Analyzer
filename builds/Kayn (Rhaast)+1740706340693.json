@@ -1,0 +1,85 @@
+{
+  "champion": {
+    "name": "Kayn (Rhaast)"
+  },
+  "enemies": {
+    "Kindred": "AD, Movilidad, Rango",
+    "Zed": "AD, Burst, Asesino",
+    "Jhin": "AD, Rango, Control de Zona"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Item de jungla que te da omnivampirismo contra monstruos y te ayuda a limpiar la jungla mas rapido, luego evoluciona y te otorga daño magico adicional y relentiza."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Hacha Hogareña",
+        "explanation": "Danio de ataque y velocidad de ataque que te permitira hacer clear rapido de la jungla."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para tu equipo y movilidad para ti, muy útil contra equipos con alta armadura y para perseguir enemigos como Kindred y Jhin."
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Vida, armadura y daño en area, te hara mas tanque y haras daño a los enemigos que se acerquen"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Escudo que escala con vida adicional y tenacidad, te protege de burst damage de Zed y Jhin."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Resurrección para aguantar más en peleas y evitar morir por Zed o Jhin."
+      },
+      {
+        "item_name": "Maldad",
+        "explanation": "Poder de habilidad, mana y aceleracion de habilidad, ademas quemaras el suelo al usar tu ultimate reduciendo la resistencia magica de los oponentes."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Daño al atacante y Heridas Graves. Reduce la curación de Kindred y Jhin."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Contra Kindred y Jhin si estan muy feed, reduce el daño magico, obtienes velocidad y resistencia magica tras ser golpeado."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño, Resistencia magica, armadura y daño fisico adicional por seg, te hara mas tanque y con mas daño."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de ataques básicos, ayuda contra Jhin y Kindred."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad y Resistencia Mágica, reducen el control de Kindred."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "90%",
+      "situational_itemization": "85%",
+      "counterplay_suggestions": "88%"
+    },
+    "key_performance_factors": [
+      "Priorizar la Cuchilla Oscura te proporciona movilidad y reducción de armadura para tu equipo, lo cual es útil contra Zed.",
+      "El Guantelete de Sterak y Ángel Guardián son clave para sobrevivir al burst damage de Zed y Jhin.",
+      "Tener en cuenta si el equipo enemigo tiene mucha armadura o daño mágico para priorizar entre Cota de Espinas y Fuerza de la Naturaleza."
+    ]
+  },
+  "final_recommendation": "Céntrate en buildearte tanque para ser un estorbo para el enemigo, reduciendo su daño y siendo una fuente de daño constante. Prioriza la supervivencia y la utilidad para tu equipo."
+}

@@ -1,0 +1,81 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_comp": {
+    "Kindred": "Movilidad y daño a distancia.",
+    "Zed": "Asesino AD, alto burst.",
+    "Jhin": "ADC con daño explosivo y utilidad."
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Ofrece daño inicial y permite una limpieza de la jungla más eficiente."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en la jungla para mantener la salud."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Proporciona armadura, vida y daño sostenido a los enemigos cercanos, ideal para Rhaast que quiere estar en el medio de la pelea."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, permitiendo que tu equipo inflinja más daño físico, además de dar vida y aceleración de habilidad."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Garantiza una cantidad significativa de supervivencia, al proporcionarnos tenacidad y un gran escudo cuando estamos con poca vida."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Ofrece daño de ataque adicional segun la vida maxima, ademas de armadura y resistencia magica con aceleracion de habilidad."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la resistencia mágica contra el daño de Kindred y las curaciones de Rhaast."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Proporciona una segunda oportunidad contra el burst de Zed y Jhin."
+      },
+      {
+        "item_name": "Hidra Titánica",
+        "explanation": "Ofrece daño en area en base a la vida y daño de ataque que tengamos."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Reduce la curacion de Kindred y proporciona Armadura."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Zed y Jhin, y te da armadura adicional."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Ofrece resistencia mágica y tenacidad, útil contra el CC."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "92%",
+      "situational_itemization": "88%",
+      "counterplay_suggestions": "90%"
+    },
+    "key_performance_factors": [
+      "La correcta activación de la forma Rhaast es crucial para el sustain y daño.",
+      "Priorizar la supervivencia y resistencia para aguantar el daño en peleas prolongadas.",
+      "El uso inteligente del kit de Rhaast para interrumpir los engages de Zed y proteger a los carries."
+    ]
+  },
+  "final_recommendation": "Como Rhaast, tu prioridad es ser un luchador tanque que absorbe daño y causa disrupción en las filas enemigas. Prioriza items que te den supervivencia y daño sostenido. Adapta los items situacionales según la partida, pero mantén un core que te haga resistente y peligroso en el combate cuerpo a cuerpo."
+}

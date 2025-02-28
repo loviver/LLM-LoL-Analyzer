@@ -1,0 +1,80 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "core_items": [
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de Zed y Jhin, mientras te da vida y aceleración de habilidad. La velocidad de movimiento ayuda a perseguir enemigos.",
+        "priority": "Alto"
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Ofrece un escudo al recibir burst de daño, útil contra Zed y Jhin. También proporciona tenacidad para reducir la duración del CC de Kindred.",
+        "priority": "Alto"
+      },
+      {
+        "item_name": "Hidra Voraz",
+        "explanation": "Ofrece daño en area para limpiar oleadas y un daño aumentado en tus auto ataques",
+        "priority": "Medio"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Ofrece resistencia magica y armadura para enfrentarte a campeones hibridos",
+        "priority": "Medio"
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Contra Kindred, la resistencia mágica y la velocidad de movimiento te ayudan a sobrevivir y a acercarte.",
+        "priority": "Medio"
+      },
+      {
+        "item_name": "Malmortius",
+        "explanation": "Contra Zed y Jhin, escudo de daño magico y Daño",
+        "priority": "Medio"
+      },
+      {
+        "item_name": "Rompecascos",
+        "explanation": "Permite Pushear y sacar ventajas de una linea",
+        "priority": "Bajo"
+      },
+      {
+        "item_name": "Sterak",
+        "explanation": "Contra Zed y Jhin, Daño",
+        "priority": "Bajo"
+      },
+      {
+        "item_name": "Armadura de Warmog",
+        "explanation": "Sustain y aguante",
+        "priority": "Bajo"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques de Jhin y los autoataques de Kindred, mientras proporciona armadura contra Zed.",
+      "priority": "Alto"
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Si el CC de Kindred es problemático, la tenacidad ayuda a reducir la duración de los efectos.",
+      "priority": "Medio"
+    }
+  },
+  "augmentation_recommendations": {
+    "key_choices": [
+      "Persistencia de Cazador",
+      "Fuerza del Dragón",
+      "Poder Demoníaco"
+    ],
+    "Best": {
+      "item_name": "Persistencia de Cazador",
+      "explanation": "Tenacidad y Omnivampiro. El mejor para Rhaast"
+    }
+  },
+  "strategy_notes": "Rhaast destaca en teamfights prolongadas y en la limpieza de oleadas, Enfócate en items que te permitan sobrevivir al burst de daño y maximizar tu potencial de curación. Elige las botas según la composición del equipo enemigo y prioriza los aumentos que complementen tu estilo de juego de tanque y luchador."
+}

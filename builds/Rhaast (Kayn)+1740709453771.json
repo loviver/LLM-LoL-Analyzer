@@ -1,0 +1,73 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Compañero de la Jungla, proporciona un escudo que ayuda a la supervivencia inicial en la jungla."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional para los primeros clears de la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Lanza de Shojin",
+        "explanation": "Aceleración de habilidad para usar habilidades mas seguido, y la pasiva aumenta el daño de las habilidades con el tiempo."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de Kindred y Zed, aumenta el daño contra objetivos con armadura y proporciona velocidad de movimiento."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Aumenta la capacidad de supervivencia con vida adicional y escudo contra el burst de Zed y Jhin."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño de Ataque, Armadura, Resistencia Mágica y Aceleración de Habilidad. Además, te otorga daño Físico adicional al estar en combate contra campeones enemigos, torretas o monstruos épicos, basado en tu Vida Máxima."
+      },
+      {
+        "item_name": "Malestar",
+        "explanation": "Daño Mágico adicional que potencia el daño de Rhaast en un equipo con daño mixto contra equipos tanques o con mucha vida."
+      },
+      {
+        "item_name": "Rukerno Kaénico",
+        "explanation": "Escudo mágico contra el daño AP de Kindred."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta las curaciones de Rhaast, bueno si el equipo enemigo tiene poco daño mágico."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los autoataques de Jhin y los básicos de Kindred."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad contra el control de masas (CC) de Kindred y Zed, además de resistencia mágica."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "90%",
+      "situational_itemization": "85%",
+      "counterplay_suggestions": "88%"
+    },
+    "key_performance_factors": [
+      "Maximizar el daño de Rhaast contra campeones squishy como Jhin y Zed.",
+      "Sobrevivir al burst de Zed y Kindred.",
+      "Aprovechar la capacidad de curación de Rhaast para sustain en combate.",
+      "Reducir la efectividad de los carries enemigos (Jhin/Kindred) con ralentizaciones o debilitaciones."
+    ]
+  },
+  "final_recommendation": "Prioriza la supervivencia con Sterak y un item defensivo (según el daño enemigo), luego maximiza el daño con Cuchilla Oscura y Lanza de Shojin, sin descuidar la movilidad para asegurar los asesinatos."
+}

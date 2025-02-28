@@ -1,0 +1,81 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)",
+    "role": "Jungler"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Ofrece sustain en la jungla y un escudo útil al limpiar campamentos y gankear."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Lanza de Shojin",
+        "explanation": "Aumenta el daño y la velocidad de las habilidades de Rhaast."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los objetivos, beneficiando el daño físico de Rhaast y el de tus aliados."
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Un buen item de tanque para Rhaast que aumenta su daño y ofrece un buen aguante."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Proporciona un escudo contra burst damage, importante contra Zed."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación de Rhaast, buena contra Kindred y el daño en general del equipo enemigo."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Proporciona daño, armadura, resistencia mágica y aceleración de habilidad contra campeones enemigos, torretas o monstruos épicos"
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Útil como seguro de vida contra el burst de Zed o Jhin."
+      },
+      {
+        "item_name": "Corazón de Hielo",
+        "explanation": "Reduce la velocidad de ataque de los campeones enemigos cercanos."
+      },
+      {
+        "item_name": "Botas Simbióticas",
+        "explanation": "Obtienes Retirada Potenciada y si las mantienes lo suficiente, te ofrecen velocidad extra fuera de combate."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos, especialmente útil contra Jhin y Kindred."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Ofrece resistencia mágica y tenacidad, útil contra el control de Kindred y Zed."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "82%"
+    },
+    "key_performance_factors": [
+      "Priorizar la reducción de armadura para maximizar el daño de Rhaast y el equipo.",
+      "Seleccionar items defensivos que contrarresten el daño predominante del equipo enemigo.",
+      "Aprovechar la alta movilidad de Rhaast para flanquear y desorganizar al equipo enemigo."
+    ]
+  },
+  "final_recommendation": "Concéntrate en construir una base de daño y resistencia con Cuchilla Oscura y un item tanque. El resto de los items deben ser situacionales, priorizando la resistencia mágica y armadura según el daño de Kindred, Zed y Jhin. La Lanza de Shojin sirve para spamear habilidades."
+}

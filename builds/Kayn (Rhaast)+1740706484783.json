@@ -1,0 +1,82 @@
+{
+  "champion": {
+    "name": "Kayn (Rhaast)"
+  },
+  "enemy_comp": {
+    "mid": "Zed",
+    "adc": "Jhin",
+    "jungle": "Kindred"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Ofrece daño contra monstruos y regeneración de vida/maná en la jungla. Es lo mas recomdable."
+      },
+      {
+        "item_name": "Poción Reutilizable",
+        "explanation": "Sustain en la jungla para mantenerte farmeando y gankeando."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Buen item para limpiar oleadas y tener daño en area. Rhaast necesita estar cerca de sus enemigos, buen sinergia con la pasiva."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para el equipo y velocidad de movimiento para Rhaast, sinergia con la pasiva."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Escudo para sobrevivir el burst de Zed y Jhin y tenacidad."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Revivir te permite ser más agresivo en teamfights. Considerar si Zed te deletea rápidamente."
+      },
+      {
+        "item_name": "Fauces de Malmortius",
+        "explanation": "Resistencia mágica y escudo mágico si Zed es muy feed o si hay mucho daño magico enemigo"
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Contra Kindred y Jhin, reduce la curación y refleja daño."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Más resistencia mágica y velocidad de movimiento si el equipo enemigo tiene mucho daño mágico."
+      },
+      {
+        "item_name": "Corazón de Hielo",
+        "explanation": "Reduce la velocidad de ataque de los carries enemigos y la aceleracion de habilidad es muy importante."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los autoataques de Jhin y la Kindred."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad contra el CC de Kindred (ralentización de flechas) y Zed"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Asegurarse de buildear la Egida de Fuego Solar para maximizar el daño y la limpieza en area.",
+      "El Guantelete de Sterak ayuda a sobrevivir al burst de Zed y Jhin. Juega alrededor de este cooldown",
+      "Adaptar los items situacionales según el progreso de la partida y que tan fed estan los enemigos.",
+      "Cote de Espinas ayudara a tener un mejor enfrentamiento contra los carrys del juego."
+    ]
+  },
+  "final_recommendation": "Comienza con el item de jungla y una poción, luego prioriza la armadura y vida. Adaptate a la composicion enemiga."
+}

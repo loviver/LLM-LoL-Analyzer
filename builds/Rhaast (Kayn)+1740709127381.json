@@ -1,0 +1,81 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Omnivampirismo y quemadura a monstruos, bueno para limpiar la jungla rápidamente y sustain."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en los primeros niveles de la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Excelente para daño constante en peleas prolongadas, aumenta tu daño y daño de equipo por mas tiempo",
+        "notes": "Inicia con Ceniza de Bami para limpieza más rapida de la Jungla, luego Cota de Malla"
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura en los enemigos que golpeas, útil contra Zed y Jhin, permite que tu equipo haga más daño físico.",
+        "notes": "Ideal para bajar tanques enemigos y ayudar a tu equipo con daño."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "vida y un gran escudo que te ayuda a sobrevivir a los bursts de Zed y Jhin.",
+        "notes": "Prioriza la Vida por la pasiva de Rhaast."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño de Ataque y defensas adicionales, complementando la build centrada en Daño y aguante",
+        "notes": "Daño adicional contra campeones y monstruos en early"
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Heridas graves contra Kindred y Jhin si se curan mucho, además de armadura.",
+        "notes": "Contra equipos con curación."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Resistencia mágica y aumenta la curación que recibes, útil contra el daño mágico de Kindred y otros.",
+        "notes": "Cuando necesitan más Resistencia mágica."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "En caso de necesitar una segunda oportunidad",
+        "notes": "Contra diveos y bursts muy fuertes."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Armadura y reducción de daño de ataques básicos, bueno contra Zed y Jhin.",
+      "notes": "Contra mucho daño físico."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Resistencia mágica y tenacidad, útil contra el CC y daño mágico de Kindred y otros.",
+      "notes": "Si hay mucho control de masas o daño mágico."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "75%"
+    },
+    "key_performance_factors": [
+      "Égida de Fuego Solar proporciona daño constante y es muy efectiva en peleas prolongadas que Rhaast busca.",
+      "Cuchilla Oscura reduce la armadura de objetivos prioritarios, beneficiando al equipo.",
+      "La elección de botas depende de la composición enemiga y de la necesidad de resistencia mágica/tenacidad o armadura/reducción de daño de auto ataques."
+    ]
+  },
+  "final_recommendation": "Esta build se enfoca en la supervivencia y el daño constante en peleas prolongadas, aprovechando la naturaleza de Rhaast. Ajusta los items situacionales según la partida."
+}

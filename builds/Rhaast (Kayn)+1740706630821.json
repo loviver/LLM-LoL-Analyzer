@@ -1,0 +1,81 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos/Cría de Trotabrisas/Retoño de Pisamusgo",
+        "explanation": "Elige según tu estilo de juego: Rasgafuegos (quemadura y ralentización), Trotabrisas (velocidad en la jungla) o Pisamusgo (escudo)."
+      },
+      {
+        "item_name": "Poción Reutilizable",
+        "explanation": "Sustain en la jungla para poder farmear y gankear con más frecuencia."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Abrecaminos",
+        "explanation": "Proporciona Vida, Armadura, y Velocidad de Movimiento adicional, útil para iniciar peleas y sobrevivir el burst de Zed y Jhin.  La ralentización del ataque básico ayuda a mantener a Kindred en rango.",
+        "precision": "75%"
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, aumentando el daño a Zed y Jhin. Otorga Vida y Aceleración de Habilidad, útiles para un Rhaast más tanque y con mayor uso de habilidades.",
+        "precision": "70%"
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Daño mágico constante alrededor de Rhaast, útil contra campeones con poca movilidad como Jhin y para limpiar oleadas rápidamente. Aumenta la vida y armadura de Rhaast",
+        "precision": "65%"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Reduce la curación de Kindred y Jhin si se basan mucho en robo de vida o vampirismo físico. Aumenta la armadura de Rhaast y castiga los ataques básicos.",
+        "precision": "60%"
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la resistencia mágica contra el daño mágico de Kindred y Zed.  Mejora la curación propia de Rhaast, permitiendo aguantar más en peleas.",
+        "precision": "55%"
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Combina daño, resistencia y aceleración de habilidad. Aumenta el daño físico en base a la vida máxima, útil para pelear contra Zed y Jhin",
+        "precision": "45%"
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Buen item si necesitas un poco mas de durabilidad y daño, además el escudo te permitirá sobrevivir contra el combo de zed y jhin",
+        "precision": "50%"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Kindred y Jhin, además de proporcionar armadura adicional.",
+      "precision": "70%"
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Si hay mucho control de masas en el equipo enemigo (aunque Zed no se basa en esto, puede ayudar contra otros campeones).",
+      "precision": "55%"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Abrecaminos y Cuchilla Oscura son cruciales para la capacidad de Rhaast para iniciar peleas y reducir la armadura del equipo enemigo.",
+      "La elección entre Cota de Espinas y Apariencia Espiritual dependerá de la composición del equipo enemigo.",
+      "El uso correcto de las habilidades de Kayn (W y Q) para infligir daño y curarse es vital para el éxito del Rhaast."
+    ]
+  },
+  "final_recommendation": "Prioriza la vida, la armadura y el daño en ese orden (dependiendo el juego) para poder absorber daño, tener un buen tiempo de combate y poder ejecutar a la linea trasera."
+}

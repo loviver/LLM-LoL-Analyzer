@@ -1,0 +1,79 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_team": {
+    "mid": "Zed",
+    "jungle": "Kindred",
+    "adc": "Jhin"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Proporciona Omnivampirismo y un efecto de quemadura para limpiar la jungla más rápido, también ayuda a gankear con lentitud."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain inicial en la jungla para mantener la vida mientras farmeas."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Black Cleaver",
+        "explanation": "Reducción de armadura para el equipo y velocidad de movimiento para Rhaast, ideal para extender los combates y potenciar el daño."
+      },
+      {
+        "item_name": "Celestial Opposition",
+        "explanation": "Proporciona vida y reduce el daño recibido tras recibirlo, relentizando enemigos cercanos. Ofrece sustain y utilidad."
+      },
+      {
+        "item_name": "Hidra Profana",
+        "explanation": "Daño de área adicional y robo de vida para aumentar el sustain en peleas prolongadas y mejorar el farmeo."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Death's Dance",
+        "explanation": "Más daño y armadura, además de un efecto único que retrasa el daño recibido, ideal contra Zed y Jhin."
+      },
+      {
+        "item_name": "Sterak's Gage",
+        "explanation": "Escudo para evitar burst de daño, como el de Zed o Jhin, y tenacidad adicional."
+      },
+      {
+        "item_name": "Spirit Visage",
+        "explanation": "Aumenta la curación recibida, potenciando el robo de vida de Rhaast y el sustain proporcionado por otros items, contra el daño mágico del equipo enemigo."
+      },
+      {
+        "item_name": "Thornmail",
+        "explanation": "En caso de que el jhin tenga mucho robo de vida o alguien con mucha curacion en el equipo, el thornmail puede ser importante."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reducción del daño de ataques básicos, muy útil contra Jhin y la posibilidad de kiteo de Kindred.",
+      "precision": "65%"
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad para reducir la duración de los efectos de control de Kindred y Zed, además de resistencia mágica.",
+      "precision": "50%"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "75%"
+    },
+    "key_performance_factors": [
+      "El uso adecuado del robo de vida de Rhaast combinado con los items aumenta la supervivencia en peleas largas.",
+      "Black Cleaver potencia el daño del equipo contra tanques y campeones con armadura, y funciona sinergicamente para rhaast.",
+      "Sterak's Gage es crucial para evitar ser bursteado por Zed o Jhin, mientras que Spirit Visage mejora el sustain."
+    ]
+  },
+  "final_recommendation": "Prioriza la resistencia y el sustain con Black Cleaver, Celestial Opposition y Hidra Profana. Adapta el resto de tu build según el tipo de daño predominante del equipo enemigo y si necesitas más resistencia a burst o control de masas."
+}

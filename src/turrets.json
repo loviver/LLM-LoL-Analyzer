@@ -1,0 +1,50 @@
+{
+  "turrets": {
+    "blue": {
+      "top": {
+        "tier1": "Turret_T100_L1_P1",
+        "tier2": "Turret_T100_L1_P2",
+        "inhibitor": "Turret_T100_L1_P3",
+        "nexus1": "Turret_T100_L1_P4",
+        "nexus2": "Turret_T100_L1_P5"
+      },
+      "mid": {
+        "tier1": "Turret_T100_L2_P1",
+        "tier2": "Turret_T100_L2_P2",
+        "inhibitor": "Turret_T100_L2_P3",
+        "nexus1": "Turret_T100_L2_P4",
+        "nexus2": "Turret_T100_L2_P5"
+      },
+      "bot": {
+        "tier1": "Turret_T100_L3_P1",
+        "tier2": "Turret_T100_L3_P2",
+        "inhibitor": "Turret_T100_L3_P3",
+        "nexus1": "Turret_T100_L3_P4",
+        "nexus2": "Turret_T100_L3_P5"
+      }
+    },
+    "red": {
+      "top": {
+        "tier1": "Turret_T200_L1_P1",
+        "tier2": "Turret_T200_L1_P2",
+        "inhibitor": "Turret_T200_L1_P3",
+        "nexus1": "Turret_T200_L1_P4",
+        "nexus2": "Turret_T200_L1_P5"
+      },
+      "mid": {
+        "tier1": "Turret_T200_L2_P1",
+        "tier2": "Turret_T200_L2_P2",
+        "inhibitor": "Turret_T200_L2_P3",
+        "nexus1": "Turret_T200_L2_P4",
+        "nexus2": "Turret_T200_L2_P5"
+      },
+      "bot": {
+        "tier1": "Turret_T200_L3_P1",
+        "tier2": "Turret_T200_L3_P2",
+        "inhibitor": "Turret_T200_L3_P3",
+        "nexus1": "Turret_T200_L3_P4",
+        "nexus2": "Turret_T200_L3_P5"
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Turret_T100_L1_P1": { "color": "blue", "lane": "top", "position": "tier1", "team": "ORDER" },
+  "Turret_T100_L1_P2": { "color": "blue", "lane": "top", "position": "tier2", "team": "ORDER" },
+  "Turret_T100_L1_P3": { "color": "blue", "lane": "top", "position": "inhibitor", "team": "ORDER" },
+  "Turret_T100_L1_P4": { "color": "blue", "lane": "top", "position": "nexus1", "team": "ORDER" },
+  "Turret_T100_L1_P5": { "color": "blue", "lane": "top", "position": "nexus2", "team": "ORDER" },
+
+  "Turret_T100_L2_P1": { "color": "blue", "lane": "mid", "position": "tier1", "team": "ORDER" },
+  "Turret_T100_L2_P2": { "color": "blue", "lane": "mid", "position": "tier2", "team": "ORDER" },
+  "Turret_T100_L2_P3": { "color": "blue", "lane": "mid", "position": "inhibitor", "team": "ORDER" },
+  "Turret_T100_L2_P4": { "color": "blue", "lane": "mid", "position": "nexus1", "team": "ORDER" },
+  "Turret_T100_L2_P5": { "color": "blue", "lane": "mid", "position": "nexus2", "team": "ORDER" },
+
+  "Turret_T100_L3_P1": { "color": "blue", "lane": "bot", "position": "tier1", "team": "ORDER" },
+  "Turret_T100_L3_P2": { "color": "blue", "lane": "bot", "position": "tier2", "team": "ORDER" },
+  "Turret_T100_L3_P3": { "color": "blue", "lane": "bot", "position": "inhibitor", "team": "ORDER" },
+  "Turret_T100_L3_P4": { "color": "blue", "lane": "bot", "position": "nexus1", "team": "ORDER" },
+  "Turret_T100_L3_P5": { "color": "blue", "lane": "bot", "position": "nexus2", "team": "ORDER" },
+
+  "Turret_T200_L1_P1": { "color": "red", "lane": "top", "position": "tier1", "team": "CHAOS" },
+  "Turret_T200_L1_P2": { "color": "red", "lane": "top", "position": "tier2", "team": "CHAOS" },
+  "Turret_T200_L1_P3": { "color": "red", "lane": "top", "position": "inhibitor", "team": "CHAOS" },
+  "Turret_T200_L1_P4": { "color": "red", "lane": "top", "position": "nexus1", "team": "CHAOS" },
+  "Turret_T200_L1_P5": { "color": "red", "lane": "top", "position": "nexus2", "team": "CHAOS" },
+
+  "Turret_T200_L2_P1": { "color": "red", "lane": "mid", "position": "tier1", "team": "CHAOS" },
+  "Turret_T200_L2_P2": { "color": "red", "lane": "mid", "position": "tier2", "team": "CHAOS" },
+  "Turret_T200_L2_P3": { "color": "red", "lane": "mid", "position": "inhibitor", "team": "CHAOS" },
+  "Turret_T200_L2_P4": { "color": "red", "lane": "mid", "position": "nexus1", "team": "CHAOS" },
+  "Turret_T200_L2_P5": { "color": "red", "lane": "mid", "position": "nexus2", "team": "CHAOS" },
+
+  "Turret_T200_L3_P1": { "color": "red", "lane": "bot", "position": "tier1", "team": "CHAOS" },
+  "Turret_T200_L3_P2": { "color": "red", "lane": "bot", "position": "tier2", "team": "CHAOS" },
+  "Turret_T200_L3_P3": { "color": "red", "lane": "bot", "position": "inhibitor", "team": "CHAOS" },
+  "Turret_T200_L3_P4": { "color": "red", "lane": "bot", "position": "nexus1", "team": "CHAOS" },
+  "Turret_T200_L3_P5": { "color": "red", "lane": "bot", "position": "nexus2", "team": "CHAOS" }
+}

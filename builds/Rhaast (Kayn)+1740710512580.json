@@ -1,0 +1,82 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_composition": {
+    "Kindred": "Movilidad, daño a distancia, marca que puede explotar.",
+    "Zed": "Asesino AD, burst damage, movilidad, difícil de rastrear.",
+    "Jhin": "ADC con alto daño, control de masas (trampas y ulti)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Ofrece un escudo que se regenera en la jungla y fuera de combate."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain en la jungla al inicio de partida."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Daño sostenido en área y armadura, útil para limpiar la jungla y resistir daño de Zed y Jhin.",
+        "precision": "65%"
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para aumentar el daño contra Zed, Jhin y Kindred. Vida y Aceleración de Habilidad.",
+        "precision": "60%"
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Escudo para sobrevivir al burst de Zed o Kindred. Aumenta el daño de ataque basado en la vida.",
+        "precision": "55%"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación de la pasiva de Rhaast y proporciona resistencia mágica contra Kindred.",
+        "precision": "50%"
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño adicional basado en vida, armadura y resistencia magica, te hace mas potente en daño y defensas.",
+        "precision": "48%"
+      },
+      {
+        "item_name": "Placa del Hombre Muerto",
+        "explanation": "Movilidad para perseguir objetivos y armadura contra el daño físico del equipo enemigo.",
+        "precision": "45%"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Jhin y proporciona armadura contra Zed.",
+      "precision": "60%"
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad para reducir la duración del CC de Kindred y Jhin, además de resistencia mágica.",
+      "precision": "40%"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "La Égida de Fuego Solar proporciona daño sostenido y limpieza de oleadas.",
+      "Cuchilla Oscura ayuda a derretir tanques y campeones con armadura.",
+      "Aprovechar la curación de Rhaast para contrarrestar el poke del equipo enemigo.",
+      "Gestionar bien la movilidad para perseguir objetivos o escapar de situaciones peligrosas."
+    ]
+  },
+  "final_recommendation": "Prioriza la supervivencia y el daño sostenido con Égida de Fuego Solar y Cuchilla Oscura. Adapta los items situacionales según la composición y el flujo de la partida, centrándote en la resistencia mágica si Kindred se vuelve una amenaza o en la armadura y la movilidad para lidiar con Zed y Jhin."
+}
