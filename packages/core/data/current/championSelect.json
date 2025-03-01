@@ -3,7 +3,7 @@
     [
       {
         "actorCellId": 1,
-        "championId": 29,
+        "championId": 62,
         "completed": true,
         "id": 1,
         "isAllyAction": true,
@@ -13,7 +13,7 @@
       },
       {
         "actorCellId": 2,
-        "championId": 16,
+        "championId": 39,
         "completed": true,
         "id": 2,
         "isAllyAction": true,
@@ -23,7 +23,7 @@
       },
       {
         "actorCellId": 3,
-        "championId": 32,
+        "championId": 68,
         "completed": true,
         "id": 3,
         "isAllyAction": true,
@@ -33,7 +33,7 @@
       },
       {
         "actorCellId": 4,
-        "championId": 84,
+        "championId": 37,
         "completed": true,
         "id": 4,
         "isAllyAction": true,
@@ -93,7 +93,7 @@
       },
       {
         "actorCellId": 0,
-        "championId": 122,
+        "championId": 60,
         "completed": true,
         "id": 10,
         "isAllyAction": true,
@@ -118,13 +118,13 @@
   "boostableSkinCount": 1,
   "chatDetails": {
     "mucJwtDto": {
-      "channelClaim": "1602577617-team1",
+      "channelClaim": "1602585973-team1",
       "domain": "lol-champ-select",
-      "jwt": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJpc3MiOiJsb2wtcGxhdGZvcm0iLCJjaG4iOiIxNjAyNTc3NjE3LXRlYW0xIiwidHlwIjoibG9sLWNoYW1wLXNlbGVjdCIsImV4cCI6MTc0MDgyODYwNiwiaWF0IjoxNzQwODI4MDA2LCJqdGkiOiI5NDU3N2ZiYi1jMzA2LTQyNWEtODBkNi05Njc3OTdmOWJhYTMiLCJjcm0iOiIxNjAyNTc3NjE3LXRlYW0xQGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.Y5ZPuROSWZY-sLbHqlv0bRwaIbSxDHkIvzK8CQgZJseCo3NN_LZnO6y8PGu8OQxo5oWRc-0YmfuuZDxAtbkqyFi3QdmHbtT2Z2Z_ibPqvh7ci_xawDu_LKTQ6chSBtxS7ZcA1Mmmj2LURGseXoDuYAxVN4kIZ4Kpq1Af9PJYnkeKWrW7NfNXZapWTSxL08UtqnkDbhxFawc9mU0dAKWEMT-zawvkoT7T5Z1nVJvcQyYoGrdeKzhg1fiZi8IwigwCUsIXFOdZuSmmNlJCw90Qqyj3CPcJCcxkguQO72m0bW5O88siD-UcwEi9dXQ13WQ9uad6X91qVJZmAP96YGakew",
+      "jwt": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJpc3MiOiJsb2wtcGxhdGZvcm0iLCJjaG4iOiIxNjAyNTg1OTczLXRlYW0xIiwidHlwIjoibG9sLWNoYW1wLXNlbGVjdCIsImV4cCI6MTc0MDgzOTk2NywiaWF0IjoxNzQwODM5MzY3LCJqdGkiOiIwM2ZkOTAzMi1iYTNiLTQ2NzUtOTQ3Zi03ODRjMGYyZjA0YTIiLCJjcm0iOiIxNjAyNTg1OTczLXRlYW0xQGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.XeyyTh1uVZCjD03wpT3pfUiRM-M0pTnWRRW-SqGocVnsesrC8HmQ9Q0tFWAulZ3zJYzOBFQt5nMXLx1DXWbW9_8YwzwNs_NzQfYJbh5_EZqF9cl951josfpFR7tnBiAPVmw-PQDezmJgZybjpIllPxUzd0gZkDdgzj3TDlV_XjWTjgeqQ4OjBxghvAFURQ0l6oga-On6kQ0yEidZYCb2AsYDQRv1raYZZJZ-O5Gp3vwEov9y6-k0Tp9vESg8e0mYxEePB1hdyR6_MTjHeZiHWnSueAT5Ytz2626QgqGeoo4dUDBj8nJBlpWTiQGGWuf_7jc63UFLFqt6J4to_Dc0qw",
       "targetRegion": "la1"
     },
-    "multiUserChatId": "1602577617-team1",
-    "multiUserChatPassword": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJpc3MiOiJsb2wtcGxhdGZvcm0iLCJjaG4iOiIxNjAyNTc3NjE3LXRlYW0xIiwidHlwIjoibG9sLWNoYW1wLXNlbGVjdCIsImV4cCI6MTc0MDgyODYwNiwiaWF0IjoxNzQwODI4MDA2LCJqdGkiOiI5NDU3N2ZiYi1jMzA2LTQyNWEtODBkNi05Njc3OTdmOWJhYTMiLCJjcm0iOiIxNjAyNTc3NjE3LXRlYW0xQGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.Y5ZPuROSWZY-sLbHqlv0bRwaIbSxDHkIvzK8CQgZJseCo3NN_LZnO6y8PGu8OQxo5oWRc-0YmfuuZDxAtbkqyFi3QdmHbtT2Z2Z_ibPqvh7ci_xawDu_LKTQ6chSBtxS7ZcA1Mmmj2LURGseXoDuYAxVN4kIZ4Kpq1Af9PJYnkeKWrW7NfNXZapWTSxL08UtqnkDbhxFawc9mU0dAKWEMT-zawvkoT7T5Z1nVJvcQyYoGrdeKzhg1fiZi8IwigwCUsIXFOdZuSmmNlJCw90Qqyj3CPcJCcxkguQO72m0bW5O88siD-UcwEi9dXQ13WQ9uad6X91qVJZmAP96YGakew"
+    "multiUserChatId": "1602585973-team1",
+    "multiUserChatPassword": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJpc3MiOiJsb2wtcGxhdGZvcm0iLCJjaG4iOiIxNjAyNTg1OTczLXRlYW0xIiwidHlwIjoibG9sLWNoYW1wLXNlbGVjdCIsImV4cCI6MTc0MDgzOTk2NywiaWF0IjoxNzQwODM5MzY3LCJqdGkiOiIwM2ZkOTAzMi1iYTNiLTQ2NzUtOTQ3Zi03ODRjMGYyZjA0YTIiLCJjcm0iOiIxNjAyNTg1OTczLXRlYW0xQGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.XeyyTh1uVZCjD03wpT3pfUiRM-M0pTnWRRW-SqGocVnsesrC8HmQ9Q0tFWAulZ3zJYzOBFQt5nMXLx1DXWbW9_8YwzwNs_NzQfYJbh5_EZqF9cl951josfpFR7tnBiAPVmw-PQDezmJgZybjpIllPxUzd0gZkDdgzj3TDlV_XjWTjgeqQ4OjBxghvAFURQ0l6oga-On6kQ0yEidZYCb2AsYDQRv1raYZZJZ-O5Gp3vwEov9y6-k0Tp9vESg8e0mYxEePB1hdyR6_MTjHeZiHWnSueAT5Ytz2626QgqGeoo4dUDBj8nJBlpWTiQGGWuf_7jc63UFLFqt6J4to_Dc0qw"
   },
   "counter": -1,
   "gameId": 0,
@@ -138,13 +138,13 @@
     {
       "assignedPosition": "",
       "cellId": 0,
-      "championId": 122,
+      "championId": 60,
       "championPickIntent": 0,
       "nameVisibilityType": "",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "a7a4aa56-7171-557c-9aaa-c10b72f02325",
-      "selectedSkinId": 122000,
+      "selectedSkinId": 60000,
       "spell1Id": 6,
       "spell2Id": 4,
       "summonerId": 24525000,
@@ -154,13 +154,13 @@
     {
       "assignedPosition": "",
       "cellId": 1,
-      "championId": 29,
+      "championId": 62,
       "championPickIntent": 0,
       "nameVisibilityType": "",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 29000,
+      "selectedSkinId": 62000,
       "spell1Id": 18446744073709552000,
       "spell2Id": 18446744073709552000,
       "summonerId": 0,
@@ -170,13 +170,13 @@
     {
       "assignedPosition": "",
       "cellId": 2,
-      "championId": 16,
+      "championId": 39,
       "championPickIntent": 0,
       "nameVisibilityType": "",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 16000,
+      "selectedSkinId": 39000,
       "spell1Id": 18446744073709552000,
       "spell2Id": 18446744073709552000,
       "summonerId": 0,
@@ -186,13 +186,13 @@
     {
       "assignedPosition": "",
       "cellId": 3,
-      "championId": 32,
+      "championId": 68,
       "championPickIntent": 0,
       "nameVisibilityType": "",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 32000,
+      "selectedSkinId": 68000,
       "spell1Id": 18446744073709552000,
       "spell2Id": 18446744073709552000,
       "summonerId": 0,
@@ -202,13 +202,13 @@
     {
       "assignedPosition": "",
       "cellId": 4,
-      "championId": 84,
+      "championId": 37,
       "championPickIntent": 0,
       "nameVisibilityType": "",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 84000,
+      "selectedSkinId": 37000,
       "spell1Id": 18446744073709552000,
       "spell2Id": 18446744073709552000,
       "summonerId": 0,
@@ -304,7 +304,7 @@
   ],
   "timer": {
     "adjustedTimeLeftInPhase": 0,
-    "internalNowInEpochMs": 1740828022549,
+    "internalNowInEpochMs": 1740839427629,
     "isInfinite": false,
     "phase": "GAME_STARTING",
     "totalTimeInPhase": 0

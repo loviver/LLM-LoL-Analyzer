@@ -1,35 +1,45 @@
-[
-  {
-    "title": "Análisis de Composición de Equipo",
-    "team": "Mi equipo: Draven, Viego, Camille, Nami, Galio",
-    "strengths": [
-      "Diversidad de daño: El equipo tiene una buena mezcla de daño físico y mágico, lo que dificulta al equipo enemigo armarse contra un solo tipo de daño.",
-      "Potencial de snowball: Draven y Viego son campeones que pueden volverse muy fuertes rápidamente si obtienen una ventaja temprana.",
-      "Engage y desenganche: Camille y Galio pueden iniciar peleas, mientras que Nami puede mantener a salvo a los carries del equipo.",
-      "Movilidad: Viego y Camille tienen buena movilidad, lo que les permite moverse por el mapa y buscar oportunidades."
-    ],
-    "weaknesses": [
-      "Vulnerabilidad a composiciones de pokeo: Draven es vulnerable a composiciones enemigas que lo ataquen a distancia antes de que pueda acercarse.",
-      "Dependencia de la habilidad: Varios campeones (Camille, Viego, Galio) dependen de acertar sus habilidades para ser efectivos.",
-      "Falta de sustain: El equipo carece de fuentes confiables de curación o escudos, lo que los hace vulnerables al daño constante."
-    ],
-    "currentSituation": [
-      "Fase de Selección: El equipo tiene un buen potencial de daño y control, pero puede tener problemas contra composiciones que se centren en pokeo y derribar a Draven antes de la pelea o a campeones que se curen mucho.",
-      "Equipo Enemigo: Lulu, Jhin, Yone, Mordekaiser, Ekko.",
-      "Análisis vs Enemigo:",
-      [
-        "El equipo enemigo tiene bastante daño, especialmente con Jhin y Ekko. Mordekaiser y Yone proveen daño constante en peleas prolongadas.",
-        "Lulu puede proteger a sus carries, pero Nami puede contrarrestar esto con su oleada y control de masas.",
-        "El equipo enemigo tiene potencial de engage con Yone, Mordekaiser y Ekko, por lo que Galio y Camille deben estar listos para proteger a Draven y Nami.",
-        "La movilidad de Yone y Ekko puede ser un problema, especialmente si se centran en Draven."
-      ]
-    ],
-    "posibleDraft": [
-      "Priorizar objetos de resistencia mágica en Galio y Nami para contrarrestar el daño de Ekko y Lulu.",
-      "Asegurar que Draven tenga una buena línea para obtener una ventaja temprana.",
-      "Considerar un objeto de movilidad en Camille (ej: Fuerza de la Trinidad) para poder alcanzar a los carries enemigos.",
-      "Comunicación constante para coordinar el engage y proteger a los carries."
-    ],
-    "summary": "El equipo tiene el potencial de ganar, pero necesita jugar inteligentemente y contrarrestar las amenazas del equipo enemigo. Proteger a Draven y coordinar el engage son claves para la victoria."
-  }
-]
+{
+  "final_recommendation": "Tu equipo tiene una buena mezcla de daño, control y aguante, pero le falta un carry de daño físico puro. Considera elegir un ADC tradicional como Jinx o Caitlyn, o un luchador de daño como Tryndamere si quieres algo más agresivo.",
+  "summary": [
+    {
+      "title": "Análisis de Composición de Equipo",
+      "team": "Elise, Wukong, Irelia, Rumble, Sona",
+      "strengths": [
+        "Diversidad de daño: Tienes daño mágico con Elise, Rumble y Sona, y daño físico con Wukong e Irelia.",
+        "Potencial de Engage: Wukong e Irelia pueden iniciar peleas, mientras que Elise y Rumble pueden seguir con daño explosivo.",
+        "Sustain y Peel: Sona provee curación y control de masas para proteger a tus carries."
+      ],
+      "weaknesses": [
+        "Falta de un ADC tradicional: No tienes un hipercarry de daño sostenido, lo que puede dificultar las peleas prolongadas y la toma de objetivos.",
+        "Vulnerabilidad a composiciones de poke: Rumble es vulnerable al poke debido a su rango corto, y Sona puede ser fácilmente asesinada si la atrapan.",
+        "Dependencia del Maná: La mayoría de tus campeones dependen del maná, lo que puede ser problemático en las fases iniciales del juego."
+      ],
+      "currentSituation": [
+        "Fase de Selección: Tienes una composición decente, pero podrías beneficiarte de un ADC tradicional para tener una fuente de daño más fiable en las últimas etapas del juego.",
+        "Riesgo sin información del equipo enemigo: La falta de información sobre el equipo enemigo dificulta la optimización de tu composición. Considera elegir un campeón versátil que pueda adaptarse a diferentes situaciones.",
+        "Prioridades en la partida:",
+        [
+          "Control de la jungla: Elise debe enfocarse en controlar la jungla y gankear las líneas para dar ventaja a tu equipo.",
+          "Protección de Sona: El resto del equipo debe proteger a Sona de los asesinos enemigos.",
+          "Coordinación de la iniciación: Wukong e Irelia deben coordinar sus iniciaciones con el daño de Elise y Rumble para maximizar el impacto de las peleas en equipo.",
+          "Adaptación: Estar preparado para adaptar tu estrategia según la composición y el estilo de juego del equipo enemigo."
+        ]
+      ],
+      "summary": "Tu equipo tiene una buena mezcla de daño, control y aguante, pero le falta un carry de daño físico puro. Considera elegir un ADC tradicional o un luchador de daño."
+    },
+    {
+      "title": "Análisis del Equipo Enemigo",
+      "team": "Equipo Enemigo: Desconocido",
+      "strengths": [
+        "Desconocido: No se pueden determinar fortalezas sin información sobre los campeones."
+      ],
+      "weaknesses": [
+        "Desconocido: No se pueden determinar debilidades sin información sobre los campeones."
+      ],
+      "currentSituation": [
+        "Desconocido: No se puede determinar la situación actual sin información sobre los campeones."
+      ],
+      "summary": "No se puede realizar un análisis del equipo enemigo sin información sobre sus campeones."
+    }
+  ]
+}

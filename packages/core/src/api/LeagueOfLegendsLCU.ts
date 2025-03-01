@@ -104,7 +104,7 @@ class LCUListener {
         
         const localPlayerCellId = Number(this.lastChampionData.localPlayerCellId);
 
-        actions[localPlayerCellId].isPlayer = true;
+        pickActions[localPlayerCellId].isPlayer = true;
 
         // Función auxiliar para formatear los datos de cada jugador
         const formatPlayer = (player: any) => {
@@ -119,10 +119,10 @@ class LCUListener {
           }) : [];
 
           return {
-            isPlayer: actions[player.cellId] ? actions[player.cellId].isPlayer : false,
-            pickTurn: actions[player.cellId] ? actions[player.cellId].pickTurn : null,
-            completed: actions[player.cellId] ? actions[player.cellId].completed : null,
-            isInProgress: actions[player.cellId] ? actions[player.cellId].isInProgress : null,
+            isPlayer: pickActions[player.cellId] ? pickActions[player.cellId].isPlayer : false,
+            pickTurn: pickActions[player.cellId] ? pickActions[player.cellId].pickTurn : null,
+            completed: pickActions[player.cellId] ? pickActions[player.cellId].completed : null,
+            isInProgress: pickActions[player.cellId] ? pickActions[player.cellId].isInProgress : null,
             spells: spells,
             champion: champion ? {
               name: champion.name,
@@ -238,7 +238,8 @@ class LCUListener {
                 displayName: item.displayName,
                 description: itemData.description,
                 stats: itemData.stats,
-                price: item.price
+                price: item.price,
+                slot: item.slot,
               }
             }),
             runes: Object.entries(player.runes).map((rune: any) => {
@@ -274,6 +275,7 @@ class LCUListener {
 
         // Crear el objeto final con la información requerida
         const improveJson = {
+          currentTime: this.lastLiveData.gameData.gameTime,
           mySkills: Object.entries(this.lastLiveData.activePlayer.abilities)
             .map((ability: any) => ({
               abilityKey: ability[0],

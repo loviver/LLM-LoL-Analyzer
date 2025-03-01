@@ -1,69 +1,1477 @@
 {
-  "champion": {
-    "name": "Jhin"
+  "responseStructured": {
+    "champion": "Elise",
+    "matchVs": {
+      "enemy": "Maestro Yi"
+    },
+    "final_recommendation": "Prioriza gankear la bot lane para aprovechar la agresividad del equipo enemigo y proteger a Kai'Sa. Evita duelos directos con Maestro Yi a menos que tengas ventaja. Invade la jungla enemiga aprovechando la falta de visión de Kai'Sa.",
+    "role_tips": [
+      "Prioriza gankear líneas donde tengas ventaja o el enemigo esté extendido. Irelia está fed, considerala un objetivo prioritario para ayudar a tu mid laner.",
+      "Con Irelia fedeada en MID, considera usar tu ventaja temprana para coordinar un gankeo y darle un respiro. Un shutdown podría cambiar el curso de la partida.",
+      "Prioriza el control de visión en el lado de la jungla de Maestro Yi para anticipar sus movimientos y proteger a tus carries. El objetivo es evitar que Maestro Yi se salga de control.",
+      "Dado que Annie ya tiene visión con su Lente del Oráculo, coordina con ella para invadir la jungla enemiga y negar visión a Maestro Yi. Esto dificultará sus gankeos y facilitará los tuyos.",
+      "Considera un gankeo temprano en BOT para aprovechar la ventaja de nivel de Kai'Sa y Annie, aunque ten cuidado con el contra-gankeo de Maestro Yi. Prioriza asegurar el Dragón si la oportunidad se presenta.",
+      "Considerando que Kai'Sa tiene una buena ventaja en BOT y Maestro Yi está enfocándose en ese lado del mapa, busca oportunidades para contra-gankear y proteger a tu ADC.",
+      "Con el oro que tienes, es crucial que compres el Cosechador Nocturno cuanto antes para maximizar tu daño explosivo y capacidad de gankeo.",
+      "Debido a que tienes la Sortija de Doran y el Calzado Ligeramente Mágico, puedes enfocarte en limpiar la jungla más rápido y buscar oportunidades de gankeo más agresivas en MID o BOT.",
+      "Prioriza la mejora de tu Centinela Invisible a un Lente del Oráculo para negar visión al Maestro Yi, ya que esto te permitirá emboscarlo más fácilmente.",
+      "Debido al potencial de snowball de Irelia, sigue apoyándola en MID para mantener su ventaja. Considera colocar un Centinela de Control en la jungla enemiga para evitar que Akali la sorprenda.",
+      "Prioriza objetivos como Dragones y Heraldo si Maestro Yi está ocupado en otra parte del mapa. Tu equipo necesita ventaja en objetivos.",
+      "Mantente atento a la posición de Cassiopeia en TOP. Podría rotar para apoyar a Maestro Yi en la jungla. Considera colocar un centinela profundo para prevenirlo.",
+      "Con Wukong obteniendo Fuerza de la Trinidad, coordina gankeos para aprovechar su daño y control en peleas pequeñas.",
+      "Sona está priorizando ítems de maná, lo cual indica que buscará pokeo constante. Coordina gankeos para castigar su posicionamiento agresivo.",
+      "Kai'Sa está priorizando daño en BOT. Prioriza la compra de un Guardián de Control para negar visión enemiga y evitar emboscadas.",
+      "Prioriza el gankeo de la línea de Cassiopeia, ya que está vulnerable en TOP contra ganks debido a que está comprando objetos de maná y vida. Evita queescale demasiado.",
+      "A pesar de que Irelia está fedeada, enfócate en apoyar a tus carries (Kai'Sa/Rumble) para asegurar objetivos y evitar que Maestro Yi snowball aún más.",
+      "Si Akali empieza a rotar mucho, usa tu ventaja de visión para anticipar sus movimientos y proteger a tus aliados.",
+      "Debido a que Maestro Yi y Kai'Sa se están enfocando en daño, considera comprar ítems de utilidad como el Cetro de Cristal de Rylai para ralentizar a tus enemigos y facilitar el trabajo a tus carries.",
+      "Dado que Rumble tiene un buen 'early', coordina un gankeo temprano para ayudarlo a sacar ventaja en TOP antes de que Cassiopeia escale demasiado.",
+      "Viendo que Kai'Sa es una amenaza, comunicate con Sona para coordinar gankeos a BOT y mantenerla a raya.",
+      "Coordina con Annie para invadir la jungla enemiga y negar visión a Maestro Yi, ya que ahora posee una Lente del Oráculo.",
+      "Annie ya tiene visión con su Lente del Oráculo, coordina con ella para invadir la jungla enemiga y negar visión a Maestro Yi. Esto dificultará sus gankeos y facilitará los tuyos.",
+      "Observa la posición de Annie al momento de gankear en BOT, si se encuentra muy adelante es propenso a un posible gankeo de tu parte.",
+      "Debido a que el Maestro Yi se encuentra levemente superior en farm, intenta gankear aquellas lineas con menor oro, ya que es propenso a estar ahí.",
+      "Con el oro que tienes, sigue priorizando el Cosechador Nocturno para maximizar tu daño explosivo.",
+      "Coordina gankeos en TOP para ayudar a Rumble a mantener la ventaja sobre Cassiopeia.",
+      "Vigila el nivel de Maestro Yi. Si se está quedando atrás, explota esa ventaja con contra-jungleo agresivo.",
+      "Coordina con Irelia para invadir la jungla enemiga y negar recursos a Maestro Yi.",
+      "Prioriza Dragones si Kai'Sa está presionando la línea de BOT. Es un objetivo seguro que beneficia a tu equipo.",
+      "Coordina con Wukong para asegurar objetivos neutrales y evitar que Maestro Yi farmee libremente.",
+      "Continúa priorizando el control de visión en el lado de la jungla de Maestro Yi para anticipar sus movimientos y proteger a tus carries.",
+      "Prioriza gankear BOT lane, la cual tiene una ventana de gankeo debido a la agresividad del equipo enemigo.",
+      "Vigila el nivel de Maestro Yi. Se encuentra levemente superior en farm, explota esa ventaja con contra-jungleo agresivo en el lado de la jungla donde no tengas visión.",
+      "Con tu oro actual, continua armando el Cosechador Nocturno para aumentar tu daño explosivo. Considera comprar un Guardián de Control en tu próxima compra.",
+      "Prioriza el gankeo de BOT, ya que Kai'Sa está pusheando y es vulnerable a gankeos.",
+      "Como Annie ya no tiene Centinela de Control, puedes aprovechar para invadir la jungla enemiga y robar recursos a Maestro Yi.",
+      "Continua priorizando el control de visión en el lado de la jungla de Maestro Yi para anticipar sus movimientos y proteger a tus carries.",
+      "Vigila el nivel de Maestro Yi, explota esa ventaja con contra-jungleo agresivo en el lado de la jungla donde no tengas visión.",
+      "Prioriza gankear la bot lane para contrarrestar la agresividad del equipo enemigo y proteger a Kai'Sa."
+    ],
+    "feedback_mybuild": [
+      "Tu build inicial es correcta, pero enfócate en completar un objeto de daño AP como el Cosechador Nocturno para explotar carries enemigos.",
+      "Considera comprar Botas de Hechicero para aumentar tu penetración mágica y daño.",
+      "Considera comprar Botas Jonicas de Lucidez para reducir el tiempo de reutilización de tus habilidades y aumentar tu capacidad de gankear.",
+      "Con el oro que tienes, puedes comprar un Sello Oscuro para aumentar tu daño y potencial de snowball.",
+      "Con tu oro actual (1725), prioriza comprar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo.",
+      "Considera comprar Botas de Hechicero en tu próxima compra para aumentar tu penetración mágica y daño.",
+      "Considera comprar un Morellonomicón para aplicar Heridas Graves a Kai'Sa y Maestro Yi, reduciendo su capacidad de curación.",
+      "Con el oro que tienes, puedes comprar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo.",
+      "Tu build actual es buena para el 'early game', pero para escalar mejor en la partida, empieza a construir el Cosechador Nocturno para burstear objetivos prioritarios.",
+      "Con tu oro actual (1827), prioriza comprar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo. Es crítico que lo completes pronto.",
+      "Con el oro que tienes actualmente, te recomiendo priorizar la compra de un Componente Mítico para avanzar hacia el Cosechador Nocturno, ya que te dará el daño explosivo que necesitas en los gankeos.",
+      "Con el oro que tienes disponible, considera completar el Cosechador Nocturno, es crítico para aumentar tu daño explosivo y potencial de gankeo. Prioriza este objeto.",
+      "Con tu oro actual (1995), prioriza completar el Cosechador Nocturno para maximizar tu daño explosivo y capacidad de gankeo.",
+      "Prioriza completar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo. Es tu principal objetivo ahora.",
+      "Con el oro restante, compra un Sello Oscuro para incrementar tu poder mágico y potencial de snowball.",
+      "Analiza comprar las Botas de Hechicero después del Cosechador para maximizar tu daño.",
+      "Con tu oro actual (2117), prioriza completar el Cosechador Nocturno para maximizar tu daño explosivo y capacidad de gankeo. Es crítico que lo completes pronto.",
+      "Con el oro que tienes, es crucial que compres el Cosechador Nocturno cuanto antes para maximizar tu daño explosivo y capacidad de gankeo.",
+      "Continúa armando el Cosechador Nocturno para aumentar tu daño explosivo.",
+      "Considera comprar un Guardián de Control en tu próxima compra."
+    ],
+    "feedback_update_builds_notify": [
+      "Rumble ha completado El Tormento de Liandry, lo que aumenta su daño sostenido. Ten cuidado al enfrentarlo en peleas prolongadas.",
+      "Annie ha comprado un Centinela de Control, así que es probable que haya visión defensiva cerca de la línea de BOT.",
+      "Irelia ha comprado Espada del Rey Arruinado y Arco Recurvado, lo que indica que está priorizando daño de ataque y velocidad de ataque para ganar duelos. Ten cuidado al enfrentarla.",
+      "Maestro Yi ha comprado Espada del Rey Arruinado, ahora es más peligroso en duelos y tiene más sustain. Evita enfrentarlo solo si no tienes ventaja.",
+      "Akali compró Alternador Hextech, lo que le da un burst adicional. Ten cuidado al gankearla.",
+      "Wukong está priorizando Fuerza de la Trinidad, lo cual indica que buscará duelos constantes. Considera ayudarlo a mantener su ventaja.",
+      "Kai'Sa está priorizando daño en BOT. Prioriza la compra de un Guardián de Control para negar visión enemiga y evitar emboscadas.",
+      "Cassiopeia está comprando Vara de las Edades, lo que aumentará su sustain y daño a largo plazo. Considera gankearla antes de que se vuelva incontrolable.",
+      "Akali ya no tiene Centinela de Control. Podría significar que está enfocada en farmear o que está dejando de lado el control de visión.",
+      "Kai'Sa tiene daño, necesita prioridad en los gankeos para quitarle presión",
+      "Irelia ha cambiado Manto Anulamagia por Capa de Negatrones, busca daño mágico en el equipo enemigo.",
+      "Annie ya no tiene Centinela de Control. Podría significar que está enfocada en farmear o que está dejando de lado el control de visión.",
+      "Kai'Sa compró Matakrakens, incrementando su daño contra objetivos prioritarios. Intenta evitar duelos prolongados con ella.",
+      "Cassiopeia está armando Vara de las Edades, lo que significa que se volverá más resistente y con mayor daño a largo plazo. Prioriza gankearla antes de que sea demasiado tarde.",
+      "Cassiopeia agregó un Centinela de Control a su inventario, mantente alerta a la posible colocación de visión defensiva en su área.",
+      "Irelia ahora tiene Arco Recurvado en su inventario. Ten en cuenta su aumento en velocidad de ataque para duelos.",
+      "Annie ahora tiene Recompensa Mundial en su inventario.",
+      "Kai'Sa tiene daño, necesita prioridad en los gankeos para quitarle presión.",
+      "Annie compró Maldad, incrementando su daño y facilitando los 'engage' con su ultimate. Mantente a distancia y ten cuidado con sus iniciaciones.",
+      "Kai'Sa compró Matakrakens, lo que significa que puede hacer mucho daño a objetivos prioritarios. Prioriza gankear la línea BOT para evitar que se alimente más.",
+      "Cassiopeia continúa construyendo la Vara de las Edades, lo que significa que se volverá más resistente y con mayor daño a largo plazo. Prioriza gankearla antes de que sea demasiado tarde.",
+      "Maestro Yi tiene la Espada del Rey Arruinado, ahora es más peligroso en duelos y tiene más sustain. Evita enfrentarlo solo si no tienes ventaja.",
+      "Cassiopeia está construyendo Vara de las Edades, lo que significa que se volverá más resistente y con mayor daño a largo plazo. Prioriza gankearla antes de que sea demasiado tarde.",
+      "Kai'Sa ha cambiado Espada Larga por Puñal Serrado, aumentando su letalidad.",
+      "Kai'Sa ha quitado un Centinela de Control de su inventario, podrías invadir su jungla.",
+      "Akali compró Descarga Tormentosa, prioriza gankear su línea cuando tenga poca vida o el stun esté disponible."
+    ],
+    "item_build_core": [
+      "Cosechador Nocturno"
+    ],
+    "item_build_counter_tips": [
+      "Si Maestro Yi se vuelve un problema, considera comprar un Ángel Guardián para sobrevivir a su burst.",
+      "Si Cassiopeia es muy fuerte, compra un Velo de la Banshee para bloquear una de sus habilidades.",
+      "Si Annie empieza a fedearse, considera comprar un Velo de la Banshee para bloquear su combo inicial.",
+      "Si Kai'Sa se vuelve un problema, un Reloj de Arena de Zhonya te permitirá sobrevivir a su burst y dar tiempo a tu equipo para responder.",
+      "Considera comprar un Ángel Guardián si te están focuseando en las peleas en equipo, especialmente si Maestro Yi es el objetivo principal.",
+      "Si Kai'Sa se vuelve incontrolable, compra Armadura de Warmog para aguantar su daño por ráfagas, ya que no tiene robo de vida"
+    ]
   },
-  "matchVs": {
-    "enemy": "Caitlyn"
+  "respuesta": {
+    "champion": {
+      "name": "Elise"
+    },
+    "matchVs": {
+      "enemy": "Maestro Yi"
+    },
+    "role_tips": [
+      "Prioriza gankear la bot lane para contrarrestar la agresividad del equipo enemigo y proteger a Kai'Sa.",
+      "Coordina gankeos en TOP para ayudar a Rumble a mantener la ventaja sobre Cassiopeia.",
+      "Vigila el nivel de Maestro Yi. Si se está quedando atrás, explota esa ventaja con contra-jungleo agresivo.",
+      "Coordina con Irelia para invadir la jungla enemiga y negar recursos a Maestro Yi."
+    ],
+    "feedback_mybuild": [
+      "Continúa armando el Cosechador Nocturno para aumentar tu daño explosivo.",
+      "Considera comprar un Guardián de Control en tu próxima compra."
+    ],
+    "feedback_update_builds_notify": [
+      "Kai'Sa ha quitado un Centinela de Control de su inventario, podrías invadir su jungla.",
+      "Akali compró Descarga Tormentosa, prioriza gankear su línea cuando tenga poca vida o el stun esté disponible."
+    ],
+    "final_recommendation": "Prioriza gankear la bot lane para aprovechar la agresividad del equipo enemigo y proteger a Kai'Sa. Evita duelos directos con Maestro Yi a menos que tengas ventaja. Invade la jungla enemiga aprovechando la falta de visión de Kai'Sa.",
+    "item_build_core": [
+      "Cosechador Nocturno"
+    ],
+    "item_build_counter_tips": []
   },
-  "role_tips": [
-    "Jhin no está presente en esta partida.",
-    "Analizando el estado actual del juego para Darius."
-  ],
-  "recommended_build": {
-    "starting_items": [],
-    "core_items": [
+  "prompt": {
+    "structure": "{\r\n  \"champion\": {\r\n    \"name\": \"\"\r\n  },\r\n  \"matchVs\": {\r\n    \"enemy\": \"\"\r\n  },\r\n  \"role_tips\": [],\r\n  \"feedback_mybuild\": [],\r\n  \"feedback_update_builds_notify\": [],\r\n  \"final_recommendation\": \"plain_text\",\r\n  \"item_build_core\": [],\r\n  \"item_build_counter_tips\": []\r\n}",
+    "currentGame": {
+      "mySkills": [
+        {
+          "abilityKey": "E",
+          "displayName": "Capullo / Rápel",
+          "abilityLevel": 1
+        },
+        {
+          "abilityKey": "Q",
+          "displayName": "Neurotoxina / Mordida Venenosa",
+          "abilityLevel": 1
+        },
+        {
+          "abilityKey": "R",
+          "displayName": "Forma Arácnida",
+          "abilityLevel": 1
+        },
+        {
+          "abilityKey": "W",
+          "displayName": "Araña Volátil / Raudo Frenesí",
+          "abilityLevel": 1
+        }
+      ],
+      "currentGold": 2362.173828125,
+      "currentLevel": 6,
+      "current": {
+        "championName": "Elise",
+        "riotId": "BukeleDicktador#503",
+        "summonerName": "BukeleDicktador#503",
+        "level": 6,
+        "position": "",
+        "kills": 0,
+        "creepScore": 0,
+        "deaths": 3,
+        "assists": 0,
+        "wardScore": 0,
+        "team": "ORDER",
+        "items": [
+          {
+            "id": 1056,
+            "count": 1,
+            "displayName": "Sortija de Doran",
+            "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+            "stats": {
+              "FlatHPPoolMod": 90,
+              "FlatMagicDamageMod": 18
+            },
+            "price": 400,
+            "slot": 0
+          },
+          {
+            "id": 2003,
+            "count": 1,
+            "displayName": "Poción de Vida",
+            "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+            "stats": {},
+            "price": 50,
+            "slot": 1
+          },
+          {
+            "id": 2151,
+            "count": 1,
+            "displayName": "Elixir de Avaricia",
+            "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Otorga <trueDamage>5 de daño verdadero</trueDamage> al impacto contra súbditos durante 60 seg. Cuando este efecto expire, obtendrás 40 de oro. </mainText>",
+            "stats": {},
+            "price": 50,
+            "slot": 2
+          },
+          {
+            "id": 2422,
+            "count": 1,
+            "displayName": "Calzado Ligeramente Mágico",
+            "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br>Otorga <speed>10 de Velocidad de Movimiento</speed> adicional. Las botas hechas a partir del Calzado Ligeramente Mágico retienen esta velocidad de movimiento adicional.</mainText>",
+            "stats": {
+              "FlatMovementSpeedMod": 25
+            },
+            "price": 300,
+            "slot": 3
+          },
+          {
+            "id": 2152,
+            "count": 1,
+            "displayName": "Elixir de Fuerza",
+            "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Otorga 20 de fuerza adaptable durante 60 seg. </mainText>",
+            "stats": {},
+            "price": 50,
+            "slot": 4
+          },
+          {
+            "id": 3340,
+            "count": 1,
+            "displayName": "Centinela Invisible",
+            "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+            "stats": {},
+            "price": 0,
+            "slot": 6
+          }
+        ],
+        "runes": [
+          {
+            "type": "keystone",
+            "displayName": "Conquistador",
+            "id": 8010
+          },
+          {
+            "type": "primaryRuneTree",
+            "displayName": "Precisión",
+            "id": 8000
+          },
+          {
+            "type": "secondaryRuneTree",
+            "displayName": "Inspiración",
+            "id": 8300
+          }
+        ],
+        "spells": [
+          {
+            "spellOrder": "summonerSpellOne",
+            "displayName": "Fantasma"
+          },
+          {
+            "spellOrder": "summonerSpellTwo",
+            "displayName": "Destello"
+          }
+        ]
+      },
+      "team": {
+        "turrets": [
+          {
+            "time": 1164.14501953125,
+            "asisters": [],
+            "killer": "Bot Kai'Sa"
+          }
+        ],
+        "players": [
+          {
+            "championName": "Wukong",
+            "riotId": "MonkeyKing#BOT",
+            "summonerName": "Bot Wukong",
+            "level": 9,
+            "position": "JUNGLE",
+            "kills": 4,
+            "creepScore": 60,
+            "deaths": 7,
+            "assists": 6,
+            "wardScore": 28.490434646606445,
+            "team": "ORDER",
+            "items": [
+              {
+                "id": 1103,
+                "count": 1,
+                "displayName": "Retoño de Pisamusgo",
+                "description": "<mainText><stats></stats><br><br><passive>Compañeros de la Jungla</passive><br>Invocas un <font color='#1CA935'>Pisamusgo</font> que te ayuda a pelear contra monstruos.<br><br><passive>Valor de Pisamusgo</passive><br>El compañero crece conforme cazas monstruos, lo que potencia tu <spellName>Castigo</spellName>. Al alcanzar su tamaño máximo, te otorga un <shield>escudo</shield> que se regenera tras matar monstruos grandes o al estar fuera del combate.</mainText>",
+                "stats": {},
+                "price": 450,
+                "slot": 0
+              },
+              {
+                "id": 3078,
+                "count": 1,
+                "displayName": "Fuerza de la Trinidad",
+                "description": "<mainText><stats><attention>36</attention> de Daño de Ataque<br><attention>30%</attention> de Velocidad de Ataque<br><attention>333</attention> de Vida<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Espada Encantada</passive><br>Después de usar una habilidad, tu siguiente ataque inflige <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br> <br><passive>Apresurar</passive><br>Atacar te otorga <speed>20 de Velocidad de Movimiento</speed> durante 2 seg.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 333,
+                  "FlatPhysicalDamageMod": 36,
+                  "PercentAttackSpeedMod": 0.3
+                },
+                "price": 133,
+                "slot": 1
+              },
+              {
+                "id": 2021,
+                "count": 1,
+                "displayName": "Excavador de Túneles",
+                "description": "<mainText><stats><attention>15</attention> de Daño de Ataque<br><attention>250</attention> de Vida</stats><br><br></mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 250,
+                  "FlatPhysicalDamageMod": 15
+                },
+                "price": 400,
+                "slot": 2
+              },
+              {
+                "id": 3133,
+                "count": 1,
+                "displayName": "Martillo de Guerra de Caulfield",
+                "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 20
+                },
+                "price": 100,
+                "slot": 3
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Agarre del Perpetuo",
+                "id": 8437
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Valor",
+                "id": 8400
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Castigo Desatado"
+              }
+            ]
+          },
+          {
+            "championName": "Irelia",
+            "riotId": "Irelia#BOT",
+            "summonerName": "Bot Irelia",
+            "level": 10,
+            "position": "MIDDLE",
+            "kills": 10,
+            "creepScore": 50,
+            "deaths": 8,
+            "assists": 4,
+            "wardScore": 14.102365493774414,
+            "team": "ORDER",
+            "items": [
+              {
+                "id": 1054,
+                "count": 1,
+                "displayName": "Escudo de Doran",
+                "description": "<mainText><stats><attention>110</attention> de Vida</stats><br><br><passive>Concentración Tenaz</passive><br>Recuperas <healing>4 de Vida</healing> cada 5 seg. <br>Tras recibir daño de un campeón, restauras <healing>vida</healing> a lo largo de 8 seg.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 110,
+                  "FlatHPRegenMod": 0.8
+                },
+                "price": 450,
+                "slot": 0
+              },
+              {
+                "id": 3153,
+                "count": 1,
+                "displayName": "Espada del Rey Arruinado",
+                "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>25%</attention> de Velocidad de Ataque<br><attention>10%</attention> de Robo de Vida</stats><br><br><passive>Filo Neblina</passive><br>Los ataques infligen <physicalDamage>un porcentaje</physicalDamage> de la vida actual del enemigo como <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br><br><passive>Sombras Desgarradoras</passive><br>Atacar a un campeón tres veces lo <status>ralentiza</status> en un 30% durante 1 seg.</mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 40,
+                  "PercentAttackSpeedMod": 0.25,
+                  "PercentLifeStealMod": 0.1
+                },
+                "price": 725,
+                "slot": 1
+              },
+              {
+                "id": 2055,
+                "count": 1,
+                "displayName": "Centinela de Control",
+                "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos <keywordStealth>camuflados</keywordStealth>.</mainText>",
+                "stats": {},
+                "price": 75,
+                "slot": 2
+              },
+              {
+                "id": 3091,
+                "count": 1,
+                "displayName": "Al Filo de la Cordura",
+                "description": "<mainText><stats><attention>50%</attention> de Velocidad de Ataque<br><attention>45</attention> de Resistencia Mágica<br><attention>20%</attention> de Tenacidad</stats><br><br><passive>Fragor</passive><br>Los ataques infligen <magicDamage>daño mágico adicional</magicDamage> <OnHit>al impacto</OnHit>.</mainText>",
+                "stats": {
+                  "FlatSpellBlockMod": 45,
+                  "PercentAttackSpeedMod": 0.5
+                },
+                "price": 550,
+                "slot": 3
+              },
+              {
+                "id": 1036,
+                "count": 1,
+                "displayName": "Espada Larga",
+                "description": "<mainText><stats><attention>10</attention> de Daño de Ataque</stats><br><br></mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 10
+                },
+                "price": 350,
+                "slot": 4
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Agarre del Perpetuo",
+                "id": 8437
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Valor",
+                "id": 8400
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Teleportación Desatada"
+              }
+            ]
+          },
+          {
+            "championName": "Rumble",
+            "riotId": "Rumble#BOT",
+            "summonerName": "Bot Rumble",
+            "level": 10,
+            "position": "TOP",
+            "kills": 5,
+            "creepScore": 50,
+            "deaths": 4,
+            "assists": 0,
+            "wardScore": 13.975712776184082,
+            "team": "ORDER",
+            "items": [
+              {
+                "id": 1056,
+                "count": 1,
+                "displayName": "Sortija de Doran",
+                "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 90,
+                  "FlatMagicDamageMod": 18
+                },
+                "price": 400,
+                "slot": 0
+              },
+              {
+                "id": 6653,
+                "count": 1,
+                "displayName": "El Tormento de Liandry",
+                "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>300</attention> de Vida</stats><br><br><passive>Tormento</passive><br>Infligir daño con habilidades quema a los enemigos por un <magicDamage>2% de su Vida Máxima como daño mágico</magicDamage> por seg durante 3 seg.<br><br><passive>Sufrimiento</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 300,
+                  "FlatMagicDamageMod": 70
+                },
+                "price": 800,
+                "slot": 1
+              },
+              {
+                "id": 2022,
+                "count": 1,
+                "displayName": "Mena Brillante",
+                "description": "<mainText><stats><attention>5</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {},
+                "price": 250,
+                "slot": 2
+              },
+              {
+                "id": 1001,
+                "count": 1,
+                "displayName": "Botas",
+                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 25
+                },
+                "price": 300,
+                "slot": 3
+              },
+              {
+                "id": 1052,
+                "count": 1,
+                "displayName": "Libro Amplificador",
+                "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 20
+                },
+                "price": 400,
+                "slot": 4
+              },
+              {
+                "id": 1028,
+                "count": 1,
+                "displayName": "Cristal de Rubí",
+                "description": "<mainText><stats><attention>150</attention> de Vida</stats><br><br></mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 150
+                },
+                "price": 400,
+                "slot": 5
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Cometa Arcano",
+                "id": 8229
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Teleportación Desatada"
+              }
+            ]
+          },
+          {
+            "championName": "Sona",
+            "riotId": "Sona#BOT",
+            "summonerName": "Bot Sona",
+            "level": 9,
+            "position": "UTILITY",
+            "kills": 5,
+            "creepScore": 10,
+            "deaths": 8,
+            "assists": 0,
+            "wardScore": 30.432918548583984,
+            "team": "ORDER",
+            "items": [
+              {
+                "id": 3866,
+                "count": 1,
+                "displayName": "Brújula Rúnica",
+                "description": "<mainText><stats><attention>100</attention> de Vida<br><attention>50%</attention> de Regen. de Vida Básica<br><attention>50%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Misión de Soporte</passive><br>Obtienes <keywordMajor>0</keywordMajor> de oro de este objeto para transformarlo en <rarityGeneric>Recompensa Mundial</rarityGeneric>. <br><br><passive>Riquezas Compartidas</passive> (0 seg, máx. 0 cargas)<br>Al estar cerca de un campeón aliado, infligir daño a campeones enemigos o matar súbditos te otorga oro.<active>Activa</active> (3 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 100
+                },
+                "price": 400,
+                "slot": 0
+              },
+              {
+                "id": 6617,
+                "count": 1,
+                "displayName": "Renovador de Piedra Lunar",
+                "description": "<mainText><stats><attention>25</attention> de Poder de Habilidad<br><attention>200</attention> de Vida<br><attention>20</attention> de Aceleración de Habilidad<br><attention>125%</attention> de Regen. de Maná Básica</stats><br><br><passive>Gracia Estrellada</passive><br>Curar o escudar a un aliado extiende el efecto a otro aliado (que no seas tú), lo que <healing>cura un 30%</healing> o <shield>escuda un 35%</shield> de la cantidad original.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 200,
+                  "FlatMagicDamageMod": 25
+                },
+                "price": 500,
+                "slot": 1
+              },
+              {
+                "id": 3070,
+                "count": 1,
+                "displayName": "Lágrima de la Diosa",
+                "description": "<mainText><stats><attention>240</attention> de Maná</stats><br><br><passive>Flujo de Maná</passive> (8 seg. Hasta 4 cargas)<br>Asestar impactos con habilidades otorga <scaleMana>3 de Maná Máximo</scaleMana> (se duplica contra campeones), hasta un <scaleMana>360</scaleMana>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de Daño físico adicional</physicalDamage> a los súbditos.</mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 240
+                },
+                "price": 400,
+                "slot": 2
+              },
+              {
+                "id": 1027,
+                "count": 1,
+                "displayName": "Cristal de Zafiro",
+                "description": "<mainText><stats><attention>300</attention> de Maná</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 300
+                },
+                "price": 300,
+                "slot": 3
+              },
+              {
+                "id": 3067,
+                "count": 1,
+                "displayName": "Gemaluz",
+                "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 200
+                },
+                "price": 150,
+                "slot": 4
+              },
+              {
+                "id": 4642,
+                "count": 1,
+                "displayName": "Espejo de Vitrobandle",
+                "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad<br><attention>100%</attention> de Regen. de Maná Básica<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 20
+                },
+                "price": 50,
+                "slot": 5
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Cometa Arcano",
+                "id": 8229
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Curación"
+              }
+            ]
+          }
+        ]
+      },
+      "enemyTeam": {
+        "turrets": [],
+        "players": [
+          {
+            "championName": "Akali",
+            "riotId": "Akali#BOT",
+            "summonerName": "Bot Akali",
+            "level": 9,
+            "position": "MIDDLE",
+            "kills": 5,
+            "creepScore": 40,
+            "deaths": 5,
+            "assists": 2,
+            "wardScore": 22.649961471557617,
+            "team": "CHAOS",
+            "items": [
+              {
+                "id": 1054,
+                "count": 1,
+                "displayName": "Escudo de Doran",
+                "description": "<mainText><stats><attention>110</attention> de Vida</stats><br><br><passive>Concentración Tenaz</passive><br>Recuperas <healing>4 de Vida</healing> cada 5 seg. <br>Tras recibir daño de un campeón, restauras <healing>vida</healing> a lo largo de 8 seg.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 110,
+                  "FlatHPRegenMod": 0.8
+                },
+                "price": 450,
+                "slot": 0
+              },
+              {
+                "id": 2022,
+                "count": 1,
+                "displayName": "Mena Brillante",
+                "description": "<mainText><stats><attention>5</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {},
+                "price": 250,
+                "slot": 1
+              },
+              {
+                "id": 4646,
+                "count": 1,
+                "displayName": "Descarga Tormentosa",
+                "description": "<mainText><stats><attention>90</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Jinete de la Tormenta</passive><br>Infligir un 25% de la Vida Máxima de un campeón como daño en un lapso de 2.5 seg le aplica <passive>Aguacero</passive> y otorga un <speed>25% de Velocidad de Movimiento</speed> durante 1.5 seg.<br><br><passive>Aguacero</passive><br>Tras 2 seg, inflige <magicDamage>daño mágico</magicDamage>. Si el objetivo muere antes de que se active <passive>Aguacero</passive>, infliges daño a los enemigos cercanos y recibes <gold>30 de oro</gold>.</mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 90,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 900,
+                "slot": 2
+              },
+              {
+                "id": 1001,
+                "count": 1,
+                "displayName": "Botas",
+                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 25
+                },
+                "price": 300,
+                "slot": 3
+              },
+              {
+                "id": 3145,
+                "count": 1,
+                "displayName": "Alternador Hextech",
+                "description": "<mainText><stats><attention>45</attention> de Poder de Habilidad</stats><br><br><passive>Acelerado</passive><br>Infligir daño a un campeón le inflige <magicDamage>daño mágico adicional</magicDamage>.</mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 45
+                },
+                "price": 300,
+                "slot": 4
+              },
+              {
+                "id": 2055,
+                "count": 1,
+                "displayName": "Centinela de Control",
+                "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos <keywordStealth>camuflados</keywordStealth>.</mainText>",
+                "stats": {},
+                "price": 75,
+                "slot": 5
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Electrocutar",
+                "id": 8112
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Precisión",
+                "id": 8000
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Teleportación Desatada"
+              }
+            ]
+          },
+          {
+            "championName": "Kai'Sa",
+            "riotId": "Kaisa#BOT",
+            "summonerName": "Bot Kai'Sa",
+            "level": 10,
+            "position": "BOTTOM",
+            "kills": 8,
+            "creepScore": 80,
+            "deaths": 3,
+            "assists": 2,
+            "wardScore": 19.17548179626465,
+            "team": "CHAOS",
+            "items": [
+              {
+                "id": 1055,
+                "count": 1,
+                "displayName": "Espada de Doran",
+                "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 80,
+                  "FlatPhysicalDamageMod": 10,
+                  "PercentLifeStealMod": 0.03
+                },
+                "price": 450,
+                "slot": 0
+              },
+              {
+                "id": 1001,
+                "count": 1,
+                "displayName": "Botas",
+                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 25
+                },
+                "price": 300,
+                "slot": 1
+              },
+              {
+                "id": 3144,
+                "count": 1,
+                "displayName": "Honda del Explorador",
+                "description": "<mainText><stats><attention>20%</attention> de Velocidad de Ataque</stats><br><br><passive>Tiro Certero</passive><br>Infligir daño a un campeón le inflige <magicDamage>daño mágico adicional</magicDamage>. <br>Los ataques reducen este enfriamiento en 1 seg.</mainText>",
+                "stats": {
+                  "PercentAttackSpeedMod": 0.2
+                },
+                "price": 100,
+                "slot": 3
+              },
+              {
+                "id": 6672,
+                "count": 1,
+                "displayName": "Matakrakens",
+                "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>40%</attention> de Velocidad de Ataque<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Derríbalo</passive><br>Cada tercer ataque inflige <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>. Este daño aumenta según la vida faltante del objetivo.</mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 45,
+                  "PercentAttackSpeedMod": 0.4,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 425,
+                "slot": 4
+              },
+              {
+                "id": 3134,
+                "count": 1,
+                "displayName": "Puñal Serrado",
+                "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 20
+                },
+                "price": 300,
+                "slot": 5
+              },
+              {
+                "id": 3363,
+                "count": 1,
+                "displayName": "Alteración de Visión Lejana",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>198 a 99</scaleLevel> seg)<br>Revela un área distante durante 2 seg y deja un Centinela que expira al detectar a un campeón enemigo.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Estrategia Ofensiva",
+                "id": 8005
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Precisión",
+                "id": 8000
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Barrera"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Destello"
+              }
+            ]
+          },
+          {
+            "championName": "Maestro Yi",
+            "riotId": "MasterYi#BOT",
+            "summonerName": "Bot Maestro Yi",
+            "level": 9,
+            "position": "JUNGLE",
+            "kills": 5,
+            "creepScore": 60,
+            "deaths": 8,
+            "assists": 4,
+            "wardScore": 22.627117156982422,
+            "team": "CHAOS",
+            "items": [
+              {
+                "id": 1102,
+                "count": 1,
+                "displayName": "Cría de Trotabrisas",
+                "description": "<mainText><stats></stats><br><br><passive>Compañeros de la Jungla</passive><br>Invocas un <font color='#38A8E8'>Trotabrisas</font> que te ayudará a pelear contra monstruos.<br><br><passive>Paso de Trotabrisas</passive><br>El compañero crece conforme cazas monstruos, lo que potencia tu <spellName>Castigo</spellName>. Al alcanzar su tamaño máximo, te otorgará <speed>velocidad de movimiento</speed> al entrar a la maleza, lo cual aumentará al asesinar a monstruos grandes.</mainText>",
+                "stats": {},
+                "price": 450,
+                "slot": 0
+              },
+              {
+                "id": 3153,
+                "count": 1,
+                "displayName": "Espada del Rey Arruinado",
+                "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>25%</attention> de Velocidad de Ataque<br><attention>10%</attention> de Robo de Vida</stats><br><br><passive>Filo Neblina</passive><br>Los ataques infligen <physicalDamage>un porcentaje</physicalDamage> de la vida actual del enemigo como <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br><br><passive>Sombras Desgarradoras</passive><br>Atacar a un campeón tres veces lo <status>ralentiza</status> en un 30% durante 1 seg.</mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 40,
+                  "PercentAttackSpeedMod": 0.25,
+                  "PercentLifeStealMod": 0.1
+                },
+                "price": 725,
+                "slot": 1
+              },
+              {
+                "id": 6690,
+                "count": 1,
+                "displayName": "Rectriz",
+                "description": "<mainText><stats><attention>15</attention> de Daño de Ataque<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 15,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 425,
+                "slot": 2
+              },
+              {
+                "id": 1001,
+                "count": 1,
+                "displayName": "Botas",
+                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 25
+                },
+                "price": 300,
+                "slot": 3
+              },
+              {
+                "id": 1052,
+                "count": 1,
+                "displayName": "Libro Amplificador",
+                "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 20
+                },
+                "price": 400,
+                "slot": 4
+              },
+              {
+                "id": 1043,
+                "count": 1,
+                "displayName": "Arco Recurvado",
+                "description": "<mainText><stats><attention>15%</attention> de Velocidad de Ataque</stats><br><br><passive>Aguijón</passive><br>Los ataques infligen <physicalDamage>15 de daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.</mainText>",
+                "stats": {
+                  "PercentAttackSpeedMod": 0.15
+                },
+                "price": 450,
+                "slot": 5
+              },
+              {
+                "id": 3364,
+                "count": 1,
+                "displayName": "Lente del Oráculo",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>160 a 100</scaleLevel> seg, máx. 2 cargas)<br>Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 6 seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Estrategia Ofensiva",
+                "id": 8005
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Precisión",
+                "id": 8000
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Castigo Desatado"
+              }
+            ]
+          },
+          {
+            "championName": "Cassiopeia",
+            "riotId": "Cassiopeia#BOT",
+            "summonerName": "Bot Cassiopeia",
+            "level": 11,
+            "position": "TOP",
+            "kills": 7,
+            "creepScore": 50,
+            "deaths": 6,
+            "assists": 3,
+            "wardScore": 25.522296905517578,
+            "team": "CHAOS",
+            "items": [
+              {
+                "id": 1056,
+                "count": 1,
+                "displayName": "Sortija de Doran",
+                "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 90,
+                  "FlatMagicDamageMod": 18
+                },
+                "price": 400,
+                "slot": 0
+              },
+              {
+                "id": 6657,
+                "count": 1,
+                "displayName": "Vara de las Edades",
+                "description": "<mainText><stats><attention>50</attention> de Poder de Habilidad<br><attention>400</attention> de Vida<br><attention>400</attention> de Maná</stats><br><br><passive>Atemporal</passive><br>Este objeto obtiene <scaleHealth>10 de Vida</scaleHealth>, <scaleMana>20 de Maná</scaleMana> y <scaleAP>3 de Poder de Habilidad</scaleAP> cada 60 seg hasta 10 veces. Al alcanzar el máximo de acumulaciones, subes un nivel.<br><br><passive>Eternidad</passive><br>Recibir daño de campeones restaura un <scaleMana>7%</scaleMana> del daño como <scaleMana>Maná</scaleMana>. <br>Lanzar una habilidad <healing>cura por un 25%</healing> del Maná gastado.</mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 400,
+                  "FlatHPPoolMod": 400,
+                  "FlatMagicDamageMod": 50
+                },
+                "price": 450,
+                "slot": 1
+              },
+              {
+                "id": 3070,
+                "count": 1,
+                "displayName": "Lágrima de la Diosa",
+                "description": "<mainText><stats><attention>240</attention> de Maná</stats><br><br><passive>Flujo de Maná</passive> (8 seg. Hasta 4 cargas)<br>Asestar impactos con habilidades otorga <scaleMana>3 de Maná Máximo</scaleMana> (se duplica contra campeones), hasta un <scaleMana>360</scaleMana>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de Daño físico adicional</physicalDamage> a los súbditos.</mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 240
+                },
+                "price": 400,
+                "slot": 2
+              },
+              {
+                "id": 1027,
+                "count": 1,
+                "displayName": "Cristal de Zafiro",
+                "description": "<mainText><stats><attention>300</attention> de Maná</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 300
+                },
+                "price": 300,
+                "slot": 3
+              },
+              {
+                "id": 3108,
+                "count": 1,
+                "displayName": "Códice Diabólico",
+                "description": "<mainText><stats><attention>25</attention> de Poder de Habilidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 25
+                },
+                "price": 200,
+                "slot": 4
+              },
+              {
+                "id": 3363,
+                "count": 1,
+                "displayName": "Alteración de Visión Lejana",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>198 a 99</scaleLevel> seg)<br>Revela un área distante durante 2 seg y deja un Centinela que expira al detectar a un campeón enemigo.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Cometa Arcano",
+                "id": 8229
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Teleportación Desatada"
+              }
+            ]
+          },
+          {
+            "championName": "Annie",
+            "riotId": "Annie#BOT",
+            "summonerName": "Bot Annie",
+            "level": 9,
+            "position": "UTILITY",
+            "kills": 4,
+            "creepScore": 20,
+            "deaths": 3,
+            "assists": 6,
+            "wardScore": 17.758909225463867,
+            "team": "CHAOS",
+            "items": [
+              {
+                "id": 3871,
+                "count": 1,
+                "displayName": "Espina Dimensional de Zaz'Zak",
+                "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>75%</attention> de Regen. de Vida Básica<br><attention>75%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Explosión del Vacío</passive><br>Infligir daño a un campeón con una habilidad provoca una explosión que inflige <magicDamage>daño mágico</magicDamage>.<br><br><active>Activa</active> (4 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 200
+                },
+                "price": 0,
+                "slot": 0
+              },
+              {
+                "id": 3118,
+                "count": 1,
+                "displayName": "Maldad",
+                "description": "<mainText><stats><attention>85</attention> de Poder de Habilidad<br><attention>600</attention> de Maná<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Desdén</passive><br>Obtienes 20 de Aceleración de Habilidad de la definitiva.<br><br><passive>Campo Tóxico</passive><br>Infligir daño a un campeón con tu definitiva quema el suelo donde esté parado durante 3 seg, lo que le inflige <magicDamage>daño mágico</magicDamage> por seg y reduce su <scaleMR>resistencia mágica</scaleMR>. <br></mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 600,
+                  "FlatMagicDamageMod": 85
+                },
+                "price": 650,
+                "slot": 1
+              },
+              {
+                "id": 1001,
+                "count": 1,
+                "displayName": "Botas",
+                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 25
+                },
+                "price": 300,
+                "slot": 2
+              },
+              {
+                "id": 1004,
+                "count": 1,
+                "displayName": "Amuleto de las Hadas",
+                "description": "<mainText><stats><attention>50%</attention> de Regen. de Maná Básica</stats><br><br></mainText>",
+                "stats": {},
+                "price": 200,
+                "slot": 3
+              },
+              {
+                "id": 1011,
+                "count": 1,
+                "displayName": "Cinturón de Gigante",
+                "description": "<mainText><stats><attention>350</attention> de Vida</stats><br><br></mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 350
+                },
+                "price": 500,
+                "slot": 5
+              },
+              {
+                "id": 3364,
+                "count": 1,
+                "displayName": "Lente del Oráculo",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>160 a 100</scaleLevel> seg, máx. 2 cargas)<br>Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 6 seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Cometa Arcano",
+                "id": 8229
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "displayName": "Ignición"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "resumeChanges": [
       {
-        "item_name": "Black Cleaver",
-        "explanation": "Reduce la armadura del Darius enemigo, permitiendo a tu equipo infligir más daño físico.",
-        "precision": "80%"
+        "player": "current",
+        "diff": {
+          "added": [
+            {
+              "slot": "4",
+              "displayName": "Elixir de Fuerza"
+            }
+          ],
+          "removed": [],
+          "updated": []
+        }
       },
       {
-        "item_name": "Sterak's Gage",
-        "explanation": "Proporciona un escudo contra el burst del Veigar enemigo y aumenta la supervivencia.",
-        "precision": "75%"
+        "player": "Wukong",
+        "team": "ally",
+        "diff": {
+          "added": [],
+          "removed": [
+            {
+              "slot": "5",
+              "displayName": "Mena Brillante"
+            }
+          ],
+          "updated": [
+            {
+              "slot": "3",
+              "oldValue": "Espada Larga",
+              "newValue": "Martillo de Guerra de Caulfield"
+            }
+          ]
+        }
       },
       {
-        "item_name": "Dead Man's Plate",
-        "explanation": "Aumenta la movilidad para perseguir al Ezreal enemigo y ofrece armadura adicional contra el Darius enemigo.",
-        "precision": "70%"
+        "player": "Irelia",
+        "team": "ally",
+        "diff": {
+          "added": [],
+          "removed": [
+            {
+              "slot": "5",
+              "displayName": "Arco Recurvado"
+            }
+          ],
+          "updated": [
+            {
+              "slot": "3",
+              "oldValue": "Arco Recurvado",
+              "newValue": "Al Filo de la Cordura"
+            },
+            {
+              "slot": "4",
+              "oldValue": "Capa de Negatrones",
+              "newValue": "Espada Larga"
+            }
+          ]
+        }
+      },
+      {
+        "player": "Rumble",
+        "team": "ally",
+        "diff": {
+          "added": [
+            {
+              "slot": "5",
+              "displayName": "Cristal de Rubí"
+            }
+          ],
+          "removed": [],
+          "updated": []
+        }
+      },
+      {
+        "player": "Maestro Yi",
+        "team": "enemy",
+        "diff": {
+          "added": [],
+          "removed": [],
+          "updated": [
+            {
+              "slot": "5",
+              "oldValue": "Daga",
+              "newValue": "Arco Recurvado"
+            }
+          ]
+        }
       }
     ],
-    "situational_items": [
-      {
-        "item_name": "Maw of Malmortius",
-        "explanation": "Escudo contra el daño mágico de Veigar, especialmente si está fedeado.",
-        "precision": "65%"
+    "history_couch": {
+      "champion": "Elise",
+      "matchVs": {
+        "enemy": "Maestro Yi"
       },
-      {
-        "item_name": "Guardian Angel",
-        "explanation": "Ofrece una segunda oportunidad en peleas de equipo prolongadas contra la composición enemiga.",
-        "precision": "60%"
-      }
-    ]
-  },
-  "boots": {
-    "primary": {
-      "item_name": "Plated Steelcaps",
-      "explanation": "Reduce el daño de los ataques básicos del Ezreal y Darius enemigos.",
-      "precision": "70%"
-    },
-    "alternative": {
-      "item_name": "Mercury's Treads",
-      "explanation": "Reduce la duración del CC de Veigar y Soraka enemigos si el CC es un problema importante.",
-      "precision": "60%"
+      "final_recommendation": "Prioriza gankear la bot lane para aprovechar la ventaja de Kai'sa y contrarrestar la agresividad del enemigo. Completa el Cosechador Nocturno para aumentar tu capacidad de burst. Vigila la jungla enemiga, ya que Annie ya no tiene visión allí.",
+      "role_tips": [
+        "Prioriza gankear líneas donde tengas ventaja o el enemigo esté extendido. Irelia está fed, considerala un objetivo prioritario para ayudar a tu mid laner.",
+        "Con Irelia fedeada en MID, considera usar tu ventaja temprana para coordinar un gankeo y darle un respiro. Un shutdown podría cambiar el curso de la partida.",
+        "Prioriza el control de visión en el lado de la jungla de Maestro Yi para anticipar sus movimientos y proteger a tus carries. El objetivo es evitar que Maestro Yi se salga de control.",
+        "Dado que Annie ya tiene visión con su Lente del Oráculo, coordina con ella para invadir la jungla enemiga y negar visión a Maestro Yi. Esto dificultará sus gankeos y facilitará los tuyos.",
+        "Considera un gankeo temprano en BOT para aprovechar la ventaja de nivel de Kai'Sa y Annie, aunque ten cuidado con el contra-gankeo de Maestro Yi. Prioriza asegurar el Dragón si la oportunidad se presenta.",
+        "Considerando que Kai'Sa tiene una buena ventaja en BOT y Maestro Yi está enfocándose en ese lado del mapa, busca oportunidades para contra-gankear y proteger a tu ADC.",
+        "Con el oro que tienes, es crucial que compres el Cosechador Nocturno cuanto antes para maximizar tu daño explosivo y capacidad de gankeo.",
+        "Debido a que tienes la Sortija de Doran y el Calzado Ligeramente Mágico, puedes enfocarte en limpiar la jungla más rápido y buscar oportunidades de gankeo más agresivas en MID o BOT.",
+        "Prioriza la mejora de tu Centinela Invisible a un Lente del Oráculo para negar visión al Maestro Yi, ya que esto te permitirá emboscarlo más fácilmente.",
+        "Debido al potencial de snowball de Irelia, sigue apoyándola en MID para mantener su ventaja. Considera colocar un Centinela de Control en la jungla enemiga para evitar que Akali la sorprenda.",
+        "Prioriza objetivos como Dragones y Heraldo si Maestro Yi está ocupado en otra parte del mapa. Tu equipo necesita ventaja en objetivos.",
+        "Mantente atento a la posición de Cassiopeia en TOP. Podría rotar para apoyar a Maestro Yi en la jungla. Considera colocar un centinela profundo para prevenirlo.",
+        "Con Wukong obteniendo Fuerza de la Trinidad, coordina gankeos para aprovechar su daño y control en peleas pequeñas.",
+        "Sona está priorizando ítems de maná, lo cual indica que buscará pokeo constante. Coordina gankeos para castigar su posicionamiento agresivo.",
+        "Kai'Sa está priorizando daño en BOT. Prioriza la compra de un Guardián de Control para negar visión enemiga y evitar emboscadas.",
+        "Prioriza el gankeo de la línea de Cassiopeia, ya que está vulnerable en TOP contra ganks debido a que está comprando objetos de maná y vida. Evita queescale demasiado.",
+        "A pesar de que Irelia está fedeada, enfócate en apoyar a tus carries (Kai'Sa/Rumble) para asegurar objetivos y evitar que Maestro Yi snowball aún más.",
+        "Si Akali empieza a rotar mucho, usa tu ventaja de visión para anticipar sus movimientos y proteger a tus aliados.",
+        "Debido a que Maestro Yi y Kai'Sa se están enfocando en daño, considera comprar ítems de utilidad como el Cetro de Cristal de Rylai para ralentizar a tus enemigos y facilitar el trabajo a tus carries.",
+        "Dado que Rumble tiene un buen 'early', coordina un gankeo temprano para ayudarlo a sacar ventaja en TOP antes de que Cassiopeia escale demasiado.",
+        "Viendo que Kai'Sa es una amenaza, comunicate con Sona para coordinar gankeos a BOT y mantenerla a raya.",
+        "Coordina con Annie para invadir la jungla enemiga y negar visión a Maestro Yi, ya que ahora posee una Lente del Oráculo.",
+        "Annie ya tiene visión con su Lente del Oráculo, coordina con ella para invadir la jungla enemiga y negar visión a Maestro Yi. Esto dificultará sus gankeos y facilitará los tuyos.",
+        "Observa la posición de Annie al momento de gankear en BOT, si se encuentra muy adelante es propenso a un posible gankeo de tu parte.",
+        "Debido a que el Maestro Yi se encuentra levemente superior en farm, intenta gankear aquellas lineas con menor oro, ya que es propenso a estar ahí.",
+        "Con el oro que tienes, sigue priorizando el Cosechador Nocturno para maximizar tu daño explosivo.",
+        "Coordina gankeos en TOP para ayudar a Rumble a mantener la ventaja sobre Cassiopeia.",
+        "Vigila el nivel de Maestro Yi. Si se está quedando atrás, explota esa ventaja con contra-jungleo agresivo.",
+        "Coordina con Irelia para invadir la jungla enemiga y negar recursos a Maestro Yi.",
+        "Prioriza Dragones si Kai'Sa está presionando la línea de BOT. Es un objetivo seguro que beneficia a tu equipo.",
+        "Coordina con Wukong para asegurar objetivos neutrales y evitar que Maestro Yi farmee libremente.",
+        "Continúa priorizando el control de visión en el lado de la jungla de Maestro Yi para anticipar sus movimientos y proteger a tus carries.",
+        "Prioriza gankear BOT lane, la cual tiene una ventana de gankeo debido a la agresividad del equipo enemigo.",
+        "Vigila el nivel de Maestro Yi. Se encuentra levemente superior en farm, explota esa ventaja con contra-jungleo agresivo en el lado de la jungla donde no tengas visión.",
+        "Con tu oro actual, continua armando el Cosechador Nocturno para aumentar tu daño explosivo. Considera comprar un Guardián de Control en tu próxima compra.",
+        "Prioriza el gankeo de BOT, ya que Kai'Sa está pusheando y es vulnerable a gankeos.",
+        "Como Annie ya no tiene Centinela de Control, puedes aprovechar para invadir la jungla enemiga y robar recursos a Maestro Yi.",
+        "Continua priorizando el control de visión en el lado de la jungla de Maestro Yi para anticipar sus movimientos y proteger a tus carries.",
+        "Vigila el nivel de Maestro Yi, explota esa ventaja con contra-jungleo agresivo en el lado de la jungla donde no tengas visión."
+      ],
+      "feedback_mybuild": [
+        "Tu build inicial es correcta, pero enfócate en completar un objeto de daño AP como el Cosechador Nocturno para explotar carries enemigos.",
+        "Considera comprar Botas de Hechicero para aumentar tu penetración mágica y daño.",
+        "Considera comprar Botas Jonicas de Lucidez para reducir el tiempo de reutilización de tus habilidades y aumentar tu capacidad de gankear.",
+        "Con el oro que tienes, puedes comprar un Sello Oscuro para aumentar tu daño y potencial de snowball.",
+        "Con tu oro actual (1725), prioriza comprar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo.",
+        "Considera comprar Botas de Hechicero en tu próxima compra para aumentar tu penetración mágica y daño.",
+        "Considera comprar un Morellonomicón para aplicar Heridas Graves a Kai'Sa y Maestro Yi, reduciendo su capacidad de curación.",
+        "Con el oro que tienes, puedes comprar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo.",
+        "Tu build actual es buena para el 'early game', pero para escalar mejor en la partida, empieza a construir el Cosechador Nocturno para burstear objetivos prioritarios.",
+        "Con tu oro actual (1827), prioriza comprar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo. Es crítico que lo completes pronto.",
+        "Con el oro que tienes actualmente, te recomiendo priorizar la compra de un Componente Mítico para avanzar hacia el Cosechador Nocturno, ya que te dará el daño explosivo que necesitas en los gankeos.",
+        "Con el oro que tienes disponible, considera completar el Cosechador Nocturno, es crítico para aumentar tu daño explosivo y potencial de gankeo. Prioriza este objeto.",
+        "Con tu oro actual (1995), prioriza completar el Cosechador Nocturno para maximizar tu daño explosivo y capacidad de gankeo.",
+        "Prioriza completar el Cosechador Nocturno para aumentar tu daño explosivo y potencial de gankeo. Es tu principal objetivo ahora.",
+        "Con el oro restante, compra un Sello Oscuro para incrementar tu poder mágico y potencial de snowball.",
+        "Analiza comprar las Botas de Hechicero después del Cosechador para maximizar tu daño.",
+        "Con tu oro actual (2117), prioriza completar el Cosechador Nocturno para maximizar tu daño explosivo y capacidad de gankeo. Es crítico que lo completes pronto.",
+        "Con el oro que tienes, es crucial que compres el Cosechador Nocturno cuanto antes para maximizar tu daño explosivo y capacidad de gankeo."
+      ],
+      "feedback_update_builds_notify": [
+        "Rumble ha completado El Tormento de Liandry, lo que aumenta su daño sostenido. Ten cuidado al enfrentarlo en peleas prolongadas.",
+        "Annie ha comprado un Centinela de Control, así que es probable que haya visión defensiva cerca de la línea de BOT.",
+        "Irelia ha comprado Espada del Rey Arruinado y Arco Recurvado, lo que indica que está priorizando daño de ataque y velocidad de ataque para ganar duelos. Ten cuidado al enfrentarla.",
+        "Maestro Yi ha comprado Espada del Rey Arruinado, ahora es más peligroso en duelos y tiene más sustain. Evita enfrentarlo solo si no tienes ventaja.",
+        "Akali compró Alternador Hextech, lo que le da un burst adicional. Ten cuidado al gankearla.",
+        "Wukong está priorizando Fuerza de la Trinidad, lo cual indica que buscará duelos constantes. Considera ayudarlo a mantener su ventaja.",
+        "Kai'Sa está priorizando daño en BOT. Prioriza la compra de un Guardián de Control para negar visión enemiga y evitar emboscadas.",
+        "Cassiopeia está comprando Vara de las Edades, lo que aumentará su sustain y daño a largo plazo. Considera gankearla antes de que se vuelva incontrolable.",
+        "Akali ya no tiene Centinela de Control. Podría significar que está enfocada en farmear o que está dejando de lado el control de visión.",
+        "Kai'Sa tiene daño, necesita prioridad en los gankeos para quitarle presión",
+        "Irelia ha cambiado Manto Anulamagia por Capa de Negatrones, busca daño mágico en el equipo enemigo.",
+        "Annie ya no tiene Centinela de Control. Podría significar que está enfocada en farmear o que está dejando de lado el control de visión.",
+        "Kai'Sa compró Matakrakens, incrementando su daño contra objetivos prioritarios. Intenta evitar duelos prolongados con ella.",
+        "Cassiopeia está armando Vara de las Edades, lo que significa que se volverá más resistente y con mayor daño a largo plazo. Prioriza gankearla antes de que sea demasiado tarde.",
+        "Cassiopeia agregó un Centinela de Control a su inventario, mantente alerta a la posible colocación de visión defensiva en su área.",
+        "Irelia ahora tiene Arco Recurvado en su inventario. Ten en cuenta su aumento en velocidad de ataque para duelos.",
+        "Annie ahora tiene Recompensa Mundial en su inventario.",
+        "Kai'Sa tiene daño, necesita prioridad en los gankeos para quitarle presión.",
+        "Annie compró Maldad, incrementando su daño y facilitando los 'engage' con su ultimate. Mantente a distancia y ten cuidado con sus iniciaciones.",
+        "Kai'Sa compró Matakrakens, lo que significa que puede hacer mucho daño a objetivos prioritarios. Prioriza gankear la línea BOT para evitar que se alimente más.",
+        "Cassiopeia continúa construyendo la Vara de las Edades, lo que significa que se volverá más resistente y con mayor daño a largo plazo. Prioriza gankearla antes de que sea demasiado tarde.",
+        "Maestro Yi tiene la Espada del Rey Arruinado, ahora es más peligroso en duelos y tiene más sustain. Evita enfrentarlo solo si no tienes ventaja.",
+        "Cassiopeia está construyendo Vara de las Edades, lo que significa que se volverá más resistente y con mayor daño a largo plazo. Prioriza gankearla antes de que sea demasiado tarde.",
+        "Kai'Sa ha cambiado Espada Larga por Puñal Serrado, aumentando su letalidad.",
+        "Kai'Sa ha quitado un Centinela de Control de su inventario, podrías invadir su jungla.",
+        "Akali compró Descarga Tormentosa, prioriza gankear su línea cuando tenga poca vida o el stun esté disponible."
+      ],
+      "item_build_core": [
+        "Cosechador Nocturno"
+      ],
+      "item_build_counter_tips": [
+        "Si Maestro Yi se vuelve un problema, considera comprar un Ángel Guardián para sobrevivir a su burst.",
+        "Si Cassiopeia es muy fuerte, compra un Velo de la Banshee para bloquear una de sus habilidades.",
+        "Si Annie empieza a fedearse, considera comprar un Velo de la Banshee para bloquear su combo inicial.",
+        "Si Kai'Sa se vuelve un problema, un Reloj de Arena de Zhonya te permitirá sobrevivir a su burst y dar tiempo a tu equipo para responder.",
+        "Considera comprar un Ángel Guardián si te están focuseando en las peleas en equipo, especialmente si Maestro Yi es el objetivo principal.",
+        "Si Kai'Sa se vuelve incontrolable, compra Armadura de Warmog para aguantar su daño por ráfagas, ya que no tiene robo de vida"
+      ]
     }
-  },
-  "performance_analysis": {
-    "estimated_accuracy": {
-      "build_recommendation": "85%",
-      "situational_itemization": "75%",
-      "counterplay_suggestions": "80%"
-    },
-    "key_performance_factors": [
-      "Priorizar la supervivencia contra Veigar y Ezreal, quienes parecen ser los carries principales del equipo enemigo.",
-      "Utilizar la reducción de armadura de Black Cleaver para ayudar a tu equipo a burstear a los carries enemigos.",
-      "No iniciar peleas innecesarias, jugar en torno a los objetivos y esperar el momento adecuado para involucrarse."
-    ]
-  },
-  "final_recommendation": "Considerando el oro disponible, completa Black Cleaver y luego Sterak's Gage para aumentar tu supervivencia contra el daño enemigo. La estrategia principal debe ser sobrevivir al burst de Veigar y reducir la armadura de los tanques enemigos para ayudar a tu equipo a infligir daño."
+  }
 }
