@@ -1,0 +1,72 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Ayuda con el sustain en la jungla y facilita el farmeo inicial."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Aumenta el sustain mientras limpias los campamentos."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Lanza de Shojin",
+        "explanation": "Aceleración de habilidad para usar más habilidades básicas, potencia el daño infligido por Rhaast."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, otorga vida y aumenta la velocidad de movimiento al infligir daño físico. Excelente para divear enemigos."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Ofrece un escudo al recibir mucho daño, aumentando la supervivencia en teamfights."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Contra Zed y Jhin, este item provee seguridad y una segunda oportunidad en peleas en equipo."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Contra campeones que infligen mucho daño físico, este item permite reducir la curación y refleja daño, es muy efectivo contra Jhin que es un campeon de auto ataque."
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Aumenta la vida, la armadura y el daño a campeones cercanos que te permitan pushear lineas facilmente."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Contra daño magico o si te focusean mucho con daño mágico, y otorga velocidad de movimiento para perseguir a los rivales"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos, muy útil contra Jhin y contribuye a la supervivencia."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Si el equipo enemigo tiene mucho control de masas o daño mágico, ofrece resistencia mágica y tenacidad."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "83%"
+    },
+    "key_performance_factors": [
+      "Priorizar objetos que ofrezcan aceleración de habilidad para maximizar el daño y la movilidad de Rhaast.",
+      "Asegurarse de tener sustain para sobrevivir en el frente de batalla y curar al equipo.",
+      "Evaluar la necesidad de resistencia mágica o armadura según la composición del equipo enemigo."
+    ]
+  },
+  "final_recommendation": "Prioriza la construcción de objetos que te permitan resistir daño, infligir daño sostenido y curar a tu equipo. Evalua si necesitas resistencia mágica o armadura según el equipo enemigo."
+}

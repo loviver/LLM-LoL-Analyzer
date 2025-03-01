@@ -1,0 +1,84 @@
+{
+  "champion": {
+    "name": "Jhin"
+  },
+  "matchVs": {
+    "enemy": "Caitlyn"
+  },
+  "role_tips": [
+    "Jhin es vulnerable a los engages de campeones con mucho CC como Nautilus.",
+    "El uso de Galeforce puede ser crucial para escapar de engages enemigos.",
+    "El rango de Jhin es limitado, por lo que es importante mantener la distancia en peleas."
+  ],
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Doran's Blade",
+        "explanation": "Ofrece daño adicional y sustain en la fase de líneas."
+      },
+      {
+        "item_name": "Health Potion",
+        "explanation": "Ayuda a mantenerse en línea por más tiempo."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Galeforce",
+        "explanation": "Proporciona movilidad extra para reposicionarse contra campeones con mucho CC como Nautilus.",
+        "precision": "64.5%"
+      },
+      {
+        "item_name": "Collector",
+        "explanation": "Maximiza el daño de ejecución, útil contra Kai'Sa.",
+        "precision": "58.2%"
+      },
+      {
+        "item_name": "Rapid Firecannon",
+        "explanation": "Aumenta el rango de ataque para hostigar sin exponerse al CC enemigo.",
+        "precision": "55.9%"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Lord Dominik's Regards",
+        "explanation": "Contra tanques como Nautilus, aumenta el daño a objetivos con mucha vida.",
+        "precision": "51.3%"
+      },
+      {
+        "item_name": "Guardian Angel",
+        "explanation": "Buena opción si el equipo enemigo tiene asesinos o CC en cadena.",
+        "precision": "49.7%"
+      },
+      {
+        "item_name": "Maw of Malmortius",
+        "explanation": "Si el equipo enemigo tiene mucho daño mágico, proporciona escudo contra burst AP.",
+        "precision": "50.2%"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Berserker's Greaves",
+      "explanation": "Aumenta la velocidad de ataque, lo que ayuda a Jhin a generar más daño con su pasiva.",
+      "precision": "62.3%"
+    },
+    "alternative": {
+      "item_name": "Plated Steelcaps",
+      "explanation": "Útil si el equipo enemigo tiene mucho daño físico o letalidad.",
+      "precision": "50.1%"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "87%",
+      "situational_itemization": "78%",
+      "counterplay_suggestions": "82%"
+    },
+    "key_performance_factors": [
+      "El uso adecuado de Galeforce puede mejorar la supervivencia en engages de Nautilus.",
+      "El Collector es útil si el equipo enemigo tiene campeones de bajo HP que dependen de curaciones.",
+      "El tiempo de activación de Guardian Angel es crucial en peleas largas."
+    ]
+  },
+  "final_recommendation": "Prioriza la movilidad y el burst con Galeforce y Collector, mientras evalúas si necesitas más daño contra tanques o supervivencia contra asesinos."
+}

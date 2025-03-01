@@ -1,0 +1,2731 @@
+{
+  "activePlayer": {
+    "abilities": {
+      "E": {
+        "abilityLevel": 3,
+        "displayName": "Aprehender",
+        "id": "DariusAxeGrabCone",
+        "rawDescription": "GeneratedTip_Spell_DariusAxeGrabCone_Description",
+        "rawDisplayName": "GeneratedTip_Spell_DariusAxeGrabCone_DisplayName"
+      },
+      "Passive": {
+        "displayName": "Hemorragia",
+        "id": "DariusHemoMarker",
+        "rawDescription": "GeneratedTip_Passive_DariusHemoMarker_Description",
+        "rawDisplayName": "GeneratedTip_Passive_DariusHemoMarker_DisplayName"
+      },
+      "Q": {
+        "abilityLevel": 3,
+        "displayName": "Diezmar",
+        "id": "DariusCleave",
+        "rawDescription": "GeneratedTip_Spell_DariusCleave_Description",
+        "rawDisplayName": "GeneratedTip_Spell_DariusCleave_DisplayName"
+      },
+      "R": {
+        "abilityLevel": 2,
+        "displayName": "Guillotina Noxiana",
+        "id": "DariusExecute",
+        "rawDescription": "GeneratedTip_Spell_DariusExecute_Description",
+        "rawDisplayName": "GeneratedTip_Spell_DariusExecute_DisplayName"
+      },
+      "W": {
+        "abilityLevel": 3,
+        "displayName": "Golpe Incapacitante",
+        "id": "DariusNoxianTacticsONH",
+        "rawDescription": "GeneratedTip_Spell_DariusNoxianTacticsONH_Description",
+        "rawDisplayName": "GeneratedTip_Spell_DariusNoxianTacticsONH_DisplayName"
+      }
+    },
+    "championStats": {
+      "abilityHaste": 0,
+      "abilityPower": 0,
+      "armor": 90.19400024414062,
+      "armorPenetrationFlat": 0,
+      "armorPenetrationPercent": 0.699999988079071,
+      "attackDamage": 152.59300231933594,
+      "attackRange": 175,
+      "attackSpeed": 0.6865311861038208,
+      "bonusArmorPenetrationPercent": 1,
+      "bonusMagicPenetrationPercent": 1,
+      "critChance": 0,
+      "critDamage": 175,
+      "currentHealth": 0,
+      "healShieldPower": 0,
+      "healthRegenRate": 3.8705501556396484,
+      "lifeSteal": 0,
+      "magicLethality": 0,
+      "magicPenetrationFlat": 0,
+      "magicPenetrationPercent": 1,
+      "magicResist": 52.1822509765625,
+      "maxHealth": 1894.330078125,
+      "moveSpeed": 375,
+      "omnivamp": 0,
+      "physicalLethality": 0,
+      "physicalVamp": 0,
+      "resourceMax": 834.010009765625,
+      "resourceRegenRate": 2.0091500282287598,
+      "resourceType": "MANA",
+      "resourceValue": 834.010009765625,
+      "spellVamp": 0,
+      "tenacity": 5
+    },
+    "currentGold": 3524.35791015625,
+    "fullRunes": {
+      "generalRunes": [
+        {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        {
+          "displayName": "Triunfo",
+          "id": 9111,
+          "rawDescription": "perk_tooltip_9111",
+          "rawDisplayName": "perk_displayname_9111"
+        },
+        {
+          "displayName": "Leyenda: Aceleración",
+          "id": 9105,
+          "rawDescription": "perk_tooltip_9105",
+          "rawDisplayName": "perk_displayname_9105"
+        },
+        {
+          "displayName": "La Última Batalla",
+          "id": 8299,
+          "rawDescription": "perk_tooltip_8234",
+          "rawDisplayName": "perk_displayname_8234"
+        },
+        {
+          "displayName": "Calzado Mágico",
+          "id": 8304,
+          "rawDescription": "perk_tooltip_MagicalFootwear",
+          "rawDisplayName": "perk_displayname_MagicalFootwear"
+        },
+        {
+          "displayName": "Tónico Triple",
+          "id": 8313,
+          "rawDescription": "perk_tooltip_PerfectTiming",
+          "rawDisplayName": "perk_displayname_PerfectTiming"
+        }
+      ],
+      "keystone": {
+        "displayName": "Conquistador",
+        "id": 8010,
+        "rawDescription": "perk_tooltip_Conqueror",
+        "rawDisplayName": "perk_displayname_Conqueror"
+      },
+      "primaryRuneTree": {
+        "displayName": "Precisión",
+        "id": 8000,
+        "rawDescription": "perkstyle_tooltip_7201",
+        "rawDisplayName": "perkstyle_displayname_7201"
+      },
+      "secondaryRuneTree": {
+        "displayName": "Inspiración",
+        "id": 8300,
+        "rawDescription": "perkstyle_tooltip_7203",
+        "rawDisplayName": "perkstyle_displayname_7203"
+      },
+      "statRunes": [
+        {
+          "id": 5008,
+          "rawDescription": "perk_tooltip_StatModAdaptive"
+        },
+        {
+          "id": 5008,
+          "rawDescription": "perk_tooltip_StatModAdaptive"
+        },
+        {
+          "id": 5001,
+          "rawDescription": "perk_tooltip_StatModHealthScaling"
+        }
+      ]
+    },
+    "level": 12,
+    "riotId": "BukeleDicktador#503",
+    "riotIdGameName": "BukeleDicktador",
+    "riotIdTagLine": "503",
+    "summonerName": "BukeleDicktador#503",
+    "teamRelativeColors": true
+  },
+  "allPlayers": [
+    {
+      "championName": "Darius",
+      "isBot": false,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Elixir de Avaricia",
+          "itemID": 2151,
+          "price": 50,
+          "rawDescription": "GeneratedTip_Item_2151_Description",
+          "rawDisplayName": "Item_2151_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Elixir de Fuerza",
+          "itemID": 2152,
+          "price": 50,
+          "rawDescription": "GeneratedTip_Item_2152_Description",
+          "rawDisplayName": "Item_2152_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Calzado Ligeramente Mágico",
+          "itemID": 2422,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_2422_Description",
+          "rawDisplayName": "Item_2422_Name",
+          "slot": 2
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Tiamat",
+          "itemID": 3077,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3077_Description",
+          "rawDisplayName": "Item_3077_Name",
+          "slot": 3
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Elixir de Habilidad",
+          "itemID": 2150,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_2150_Description",
+          "rawDisplayName": "Item_2150_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 12,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Darius",
+      "rawSkinName": "game_character_skin_displayname_Darius_0",
+      "respawnTimer": 11.095584869384766,
+      "riotId": "BukeleDicktador#503",
+      "riotIdGameName": "BukeleDicktador",
+      "riotIdTagLine": "503",
+      "runes": {
+        "keystone": {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 0,
+        "creepScore": 0,
+        "deaths": 4,
+        "kills": 0,
+        "wardScore": 0
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "BukeleDicktador#503",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Fantasma",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Twitch",
+      "isBot": true,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada de Doran",
+          "itemID": 1055,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1055_Description",
+          "rawDisplayName": "Item_1055_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Filo del Infinito",
+          "itemID": 3031,
+          "price": 675,
+          "rawDescription": "GeneratedTip_Item_3031_Description",
+          "rawDisplayName": "Item_3031_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "El Coleccionista",
+          "itemID": 6676,
+          "price": 525,
+          "rawDescription": "GeneratedTip_Item_6676_Description",
+          "rawDisplayName": "Item_6676_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cetro Vampírico",
+          "itemID": 1053,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_1053_Description",
+          "rawDisplayName": "Item_1053_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Huracán de Runaan",
+          "itemID": 3085,
+          "price": 850,
+          "rawDescription": "GeneratedTip_Item_3085_Description",
+          "rawDisplayName": "Item_3085_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Alteración de Visión Lejana",
+          "itemID": 3363,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3363_Description",
+          "rawDisplayName": "Item_3363_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "BOTTOM",
+      "rawChampionName": "game_character_displayname_Twitch",
+      "rawSkinName": "game_character_skin_displayname_Twitch_0",
+      "respawnTimer": 9.082820892333984,
+      "riotId": "Twitch#BOT",
+      "riotIdGameName": "Twitch",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Estrategia Ofensiva",
+          "id": 8005,
+          "rawDescription": "perk_tooltip_PressTheAttack",
+          "rawDisplayName": "perk_displayname_PressTheAttack"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 3,
+        "creepScore": 140,
+        "deaths": 10,
+        "kills": 21,
+        "wardScore": 36.66822814941406
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Twitch",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Barrera",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerBarrier_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBarrier_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Soraka",
+      "isBot": true,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Tejesueños",
+          "itemID": 3870,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3870_Description",
+          "rawDisplayName": "Item_3870_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Renovador de Piedra Lunar",
+          "itemID": 6617,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_6617_Description",
+          "rawDisplayName": "Item_6617_Name",
+          "slot": 2
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Redención",
+          "itemID": 3107,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_3107_Description",
+          "rawDisplayName": "Item_3107_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Pebetero Ardiente",
+          "itemID": 3504,
+          "price": 700,
+          "rawDescription": "GeneratedTip_Item_3504_Description",
+          "rawDisplayName": "Item_3504_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 12,
+      "position": "UTILITY",
+      "rawChampionName": "game_character_displayname_Soraka",
+      "rawSkinName": "game_character_skin_displayname_Soraka_0",
+      "respawnTimer": 38.571231842041016,
+      "riotId": "Soraka#BOT",
+      "riotIdGameName": "Soraka",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Cometa Arcano",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 17,
+        "creepScore": 10,
+        "deaths": 11,
+        "kills": 0,
+        "wardScore": 29.44167709350586
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Soraka",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Curación",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Amumu",
+      "isBot": true,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cachorro de Rasgafuegos",
+          "itemID": 1101,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1101_Description",
+          "rawDisplayName": "Item_1101_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "El Tormento de Liandry",
+          "itemID": 6653,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_6653_Description",
+          "rawDisplayName": "Item_6653_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Égida de Fuego Solar",
+          "itemID": 3068,
+          "price": 1000,
+          "rawDescription": "GeneratedTip_Item_3068_Description",
+          "rawDisplayName": "Item_3068_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Gemaluz",
+          "itemID": 3067,
+          "price": 150,
+          "rawDescription": "GeneratedTip_Item_3067_Description",
+          "rawDisplayName": "Item_3067_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "JUNGLE",
+      "rawChampionName": "game_character_displayname_Amumu",
+      "rawSkinName": "game_character_skin_displayname_Amumu_0",
+      "respawnTimer": 30.33494758605957,
+      "riotId": "Amumu#BOT",
+      "riotIdGameName": "Amumu",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Agarre del Perpetuo",
+          "id": 8437,
+          "rawDescription": "perk_tooltip_GraspOfTheUndying",
+          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+        },
+        "primaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 12,
+        "creepScore": 80,
+        "deaths": 16,
+        "kills": 6,
+        "wardScore": 30.037939071655273
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Amumu",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Castigo Desatado",
+          "rawDescription": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Akali",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Joya Maldita",
+          "itemID": 4630,
+          "price": 700,
+          "rawDescription": "GeneratedTip_Item_4630_Description",
+          "rawDisplayName": "Item_4630_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Descarga Tormentosa",
+          "itemID": 4646,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_4646_Description",
+          "rawDisplayName": "Item_4646_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Brillo",
+          "itemID": 3057,
+          "price": 650,
+          "rawDescription": "GeneratedTip_Item_3057_Description",
+          "rawDisplayName": "Item_3057_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lumbría",
+          "itemID": 4645,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_4645_Description",
+          "rawDisplayName": "Item_4645_Name",
+          "slot": 3
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Reloj de Arena de Zhonya",
+          "itemID": 3157,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_3157_Description",
+          "rawDisplayName": "Item_3157_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "MIDDLE",
+      "rawChampionName": "game_character_displayname_Akali",
+      "rawSkinName": "game_character_skin_displayname_Akali_0",
+      "respawnTimer": 0,
+      "riotId": "Akali#BOT",
+      "riotIdGameName": "Akali",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Electrocutar",
+          "id": 8112,
+          "rawDescription": "perk_tooltip_Electrocute",
+          "rawDisplayName": "perk_displayname_Electrocute"
+        },
+        "primaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        }
+      },
+      "scores": {
+        "assists": 11,
+        "creepScore": 50,
+        "deaths": 10,
+        "kills": 15,
+        "wardScore": 31.98285484313965
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Akali",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Teleportación Desatada",
+          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Soraka",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Tejesueños",
+          "itemID": 3870,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3870_Description",
+          "rawDisplayName": "Item_3870_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Avance Implacable",
+          "itemID": 3176,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3176_Description",
+          "rawDisplayName": "Item_3176_Name",
+          "slot": 1
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Redención",
+          "itemID": 3107,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_3107_Description",
+          "rawDisplayName": "Item_3107_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Renovador de Piedra Lunar",
+          "itemID": 6617,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_6617_Description",
+          "rawDisplayName": "Item_6617_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Amuleto de las Hadas",
+          "itemID": 1004,
+          "price": 200,
+          "rawDescription": "GeneratedTip_Item_1004_Description",
+          "rawDisplayName": "Item_1004_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Libro Amplificador",
+          "itemID": 1052,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_1052_Description",
+          "rawDisplayName": "Item_1052_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "UTILITY",
+      "rawChampionName": "game_character_displayname_Soraka",
+      "rawSkinName": "game_character_skin_displayname_Soraka_0",
+      "respawnTimer": 0,
+      "riotId": "Soraka#BOT",
+      "riotIdGameName": "Soraka",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Cometa Arcano",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 20,
+        "creepScore": 10,
+        "deaths": 9,
+        "kills": 0,
+        "wardScore": 28.798648834228516
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Soraka",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Curación",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Ezreal",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Muramaná",
+          "itemID": 3042,
+          "price": 2900,
+          "rawDescription": "GeneratedTip_Item_3042_Description",
+          "rawDisplayName": "Item_3042_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Fuerza de la Trinidad",
+          "itemID": 3078,
+          "price": 133,
+          "rawDescription": "GeneratedTip_Item_3078_Description",
+          "rawDisplayName": "Item_3078_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espadón",
+          "itemID": 1038,
+          "price": 1300,
+          "rawDescription": "GeneratedTip_Item_1038_Description",
+          "rawDisplayName": "Item_1038_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lanza de Shojin",
+          "itemID": 3161,
+          "price": 675,
+          "rawDescription": "GeneratedTip_Item_3161_Description",
+          "rawDisplayName": "Item_3161_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Alteración de Visión Lejana",
+          "itemID": 3363,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3363_Description",
+          "rawDisplayName": "Item_3363_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "BOTTOM",
+      "rawChampionName": "game_character_displayname_Ezreal",
+      "rawSkinName": "game_character_skin_displayname_Ezreal_0",
+      "respawnTimer": 0,
+      "riotId": "Ezreal#BOT",
+      "riotIdGameName": "Ezreal",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Cometa Arcano",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 5,
+        "creepScore": 110,
+        "deaths": 10,
+        "kills": 12,
+        "wardScore": 26.523569107055664
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Ezreal",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Barrera",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerBarrier_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBarrier_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Darius",
+      "isBot": true,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Escudo de Doran",
+          "itemID": 1054,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1054_Description",
+          "rawDisplayName": "Item_1054_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Rompeavances",
+          "itemID": 6631,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_6631_Description",
+          "rawDisplayName": "Item_6631_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Guantelete de Sterak",
+          "itemID": 3053,
+          "price": 775,
+          "rawDescription": "GeneratedTip_Item_3053_Description",
+          "rawDisplayName": "Item_3053_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Punteras de Acero Revestidas",
+          "itemID": 3047,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_3047_Description",
+          "rawDisplayName": "Item_3047_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Placa del Hombre Muerto",
+          "itemID": 3742,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_3742_Description",
+          "rawDisplayName": "Item_3742_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 17,
+      "position": "TOP",
+      "rawChampionName": "game_character_displayname_Darius",
+      "rawSkinName": "game_character_skin_displayname_Darius_0",
+      "respawnTimer": 4.037654876708984,
+      "riotId": "Darius#BOT",
+      "riotIdGameName": "Darius",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Agarre del Perpetuo",
+          "id": 8437,
+          "rawDescription": "perk_tooltip_GraspOfTheUndying",
+          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+        },
+        "primaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 4,
+        "creepScore": 140,
+        "deaths": 7,
+        "kills": 14,
+        "wardScore": 32.952762603759766
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Darius",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Fantasma",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Veigar",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sortija de Doran",
+          "itemID": 1056,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_1056_Description",
+          "rawDisplayName": "Item_1056_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Abrazo del Serafín",
+          "itemID": 3040,
+          "price": 2900,
+          "rawDescription": "GeneratedTip_Item_3040_Description",
+          "rawDisplayName": "Item_3040_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Armadura de Tela",
+          "itemID": 1029,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1029_Description",
+          "rawDisplayName": "Item_1029_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Vara de las Edades",
+          "itemID": 6657,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_6657_Description",
+          "rawDisplayName": "Item_6657_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sombrero Mortífero de Rabadon",
+          "itemID": 3089,
+          "price": 1200,
+          "rawDescription": "GeneratedTip_Item_3089_Description",
+          "rawDisplayName": "Item_3089_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Zapatos de Lanzahechizos",
+          "itemID": 3175,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3175_Description",
+          "rawDisplayName": "Item_3175_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Alteración de Visión Lejana",
+          "itemID": 3363,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3363_Description",
+          "rawDisplayName": "Item_3363_Name",
+          "slot": 6
+        }
+      ],
+      "level": 17,
+      "position": "MIDDLE",
+      "rawChampionName": "game_character_displayname_Veigar",
+      "rawSkinName": "game_character_skin_displayname_Veigar_0",
+      "respawnTimer": 0,
+      "riotId": "Veigar#BOT",
+      "riotIdGameName": "Veigar",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Cometa Arcano",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 9,
+        "creepScore": 90,
+        "deaths": 9,
+        "kills": 19,
+        "wardScore": 42.18217468261719
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Veigar",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Teleportación Desatada",
+          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Hecarim",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sello de Acero",
+          "itemID": 2019,
+          "price": 150,
+          "rawDescription": "GeneratedTip_Item_2019_Description",
+          "rawDisplayName": "Item_2019_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Eclipse",
+          "itemID": 6692,
+          "price": 625,
+          "rawDescription": "GeneratedTip_Item_6692_Description",
+          "rawDisplayName": "Item_6692_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Excavador de Túneles",
+          "itemID": 2021,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_2021_Description",
+          "rawDisplayName": "Item_2021_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cuchilla Oscura",
+          "itemID": 3071,
+          "price": 225,
+          "rawDescription": "GeneratedTip_Item_3071_Description",
+          "rawDisplayName": "Item_3071_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Picacha",
+          "itemID": 1037,
+          "price": 875,
+          "rawDescription": "GeneratedTip_Item_1037_Description",
+          "rawDisplayName": "Item_1037_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": true,
+          "count": 1,
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 13,
+      "position": "JUNGLE",
+      "rawChampionName": "game_character_displayname_Hecarim",
+      "rawSkinName": "game_character_skin_displayname_Hecarim_0",
+      "respawnTimer": 0,
+      "riotId": "Hecarim#BOT",
+      "riotIdGameName": "Hecarim",
+      "riotIdTagLine": "BOT",
+      "runes": {
+        "keystone": {
+          "displayName": "Agarre del Perpetuo",
+          "id": 8437,
+          "rawDescription": "perk_tooltip_GraspOfTheUndying",
+          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+        },
+        "primaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 12,
+        "creepScore": 40,
+        "deaths": 10,
+        "kills": 6,
+        "wardScore": 28.341190338134766
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Bot Hecarim",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Fantasma",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Castigo Primitivo",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarOffensive_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarOffensive_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    }
+  ],
+  "events": {
+    "Events": [
+      {
+        "EventID": 0,
+        "EventName": "GameStart",
+        "EventTime": 0.4279415011405945
+      },
+      {
+        "EventID": 1,
+        "EventName": "MinionsSpawning",
+        "EventTime": 65.06295776367188
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 2,
+        "EventName": "ChampionKill",
+        "EventTime": 175.720458984375,
+        "KillerName": "Bot Amumu",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "EventID": 3,
+        "EventName": "FirstBlood",
+        "EventTime": 175.720458984375,
+        "Recipient": "Bot Amumu"
+      },
+      {
+        "Assisters": [],
+        "EventID": 4,
+        "EventName": "ChampionKill",
+        "EventTime": 247.46669006347656,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Ezreal"
+        ],
+        "EventID": 5,
+        "EventName": "ChampionKill",
+        "EventTime": 288.1296691894531,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 6,
+        "EventName": "ChampionKill",
+        "EventTime": 337.82666015625,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [],
+        "EventID": 7,
+        "EventName": "ChampionKill",
+        "EventTime": 348.6511535644531,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 8,
+        "EventName": "ChampionKill",
+        "EventTime": 360.4771728515625,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu"
+        ],
+        "EventID": 9,
+        "EventName": "ChampionKill",
+        "EventTime": 377.7538757324219,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 10,
+        "EventName": "ChampionKill",
+        "EventTime": 387.644775390625,
+        "KillerName": "Bot Amumu",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 11,
+        "EventName": "HordeKill",
+        "EventTime": 409.3440246582031,
+        "KillerName": "Bot Amumu",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 12,
+        "EventName": "ChampionKill",
+        "EventTime": 460.1435852050781,
+        "KillerName": "Turret_T100_L2_P3_1509986696",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Hecarim"
+        ],
+        "EventID": 13,
+        "EventName": "ChampionKill",
+        "EventTime": 506.0218505859375,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Hecarim"
+        ],
+        "EventID": 14,
+        "EventName": "ChampionKill",
+        "EventTime": 524.2196044921875,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Darius"
+        ],
+        "EventID": 15,
+        "EventName": "HordeKill",
+        "EventTime": 542.8289794921875,
+        "KillerName": "Bot Hecarim",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 16,
+        "EventName": "ChampionKill",
+        "EventTime": 556.6072387695312,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [
+          "Bot Darius"
+        ],
+        "EventID": 17,
+        "EventName": "HordeKill",
+        "EventTime": 557.4602661132812,
+        "KillerName": "Bot Hecarim",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "Bot Twitch"
+        ],
+        "EventID": 18,
+        "EventName": "ChampionKill",
+        "EventTime": 618.5879516601562,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Veigar"
+        ],
+        "EventID": 19,
+        "EventName": "ChampionKill",
+        "EventTime": 637.2249145507812,
+        "KillerName": "Bot Hecarim",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Ezreal"
+        ],
+        "EventID": 20,
+        "EventName": "ChampionKill",
+        "EventTime": 692.8307495117188,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Akali"
+        ],
+        "EventID": 21,
+        "EventName": "ChampionKill",
+        "EventTime": 710.488037109375,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Akali"
+        ],
+        "EventID": 22,
+        "EventName": "ChampionKill",
+        "EventTime": 719.7315673828125,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "EventID": 23,
+        "EventName": "Multikill",
+        "EventTime": 719.7315673828125,
+        "KillStreak": 2,
+        "KillerName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 24,
+        "EventName": "ChampionKill",
+        "EventTime": 728.7202758789062,
+        "KillerName": "Bot Hecarim",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [],
+        "EventID": 25,
+        "EventName": "ChampionKill",
+        "EventTime": 730.9575805664062,
+        "KillerName": "Bot Darius",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 26,
+        "EventName": "ChampionKill",
+        "EventTime": 737.6572875976562,
+        "KillerName": "Bot Hecarim",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "EventID": 27,
+        "EventName": "Multikill",
+        "EventTime": 737.6572875976562,
+        "KillStreak": 2,
+        "KillerName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Hecarim"
+        ],
+        "EventID": 28,
+        "EventName": "ChampionKill",
+        "EventTime": 776.7325439453125,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu"
+        ],
+        "EventID": 29,
+        "EventName": "ChampionKill",
+        "EventTime": 779.705322265625,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 30,
+        "EventName": "ChampionKill",
+        "EventTime": 790.03271484375,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [],
+        "EventID": 31,
+        "EventName": "ChampionKill",
+        "EventTime": 802.3199462890625,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Hecarim"
+        ],
+        "EventID": 32,
+        "EventName": "ChampionKill",
+        "EventTime": 844.31787109375,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 33,
+        "EventName": "TurretKilled",
+        "EventTime": 865.3368530273438,
+        "KillerName": "Bot Darius",
+        "TurretKilled": "Turret_T100_L2_P3_1509986696"
+      },
+      {
+        "EventID": 34,
+        "EventName": "FirstBrick",
+        "EventTime": 865.3368530273438,
+        "KillerName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 35,
+        "EventName": "ChampionKill",
+        "EventTime": 866.7451171875,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Veigar",
+          "Bot Hecarim"
+        ],
+        "EventID": 36,
+        "EventName": "ChampionKill",
+        "EventTime": 871.3147583007812,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Ezreal",
+          "Bot Hecarim"
+        ],
+        "EventID": 37,
+        "EventName": "ChampionKill",
+        "EventTime": 871.5797729492188,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [],
+        "EventID": 38,
+        "EventName": "ChampionKill",
+        "EventTime": 914.0386962890625,
+        "KillerName": "Bot Amumu",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [],
+        "EventID": 39,
+        "EventName": "ChampionKill",
+        "EventTime": 919.3935546875,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 40,
+        "EventName": "ChampionKill",
+        "EventTime": 933.837646484375,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Hecarim"
+        ],
+        "EventID": 41,
+        "EventName": "ChampionKill",
+        "EventTime": 936.211181640625,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 42,
+        "EventName": "ChampionKill",
+        "EventTime": 952.3082275390625,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [],
+        "EventID": 43,
+        "EventName": "ChampionKill",
+        "EventTime": 961.3001098632812,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [],
+        "EventID": 44,
+        "EventName": "ChampionKill",
+        "EventTime": 967.6978759765625,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 45,
+        "EventName": "ChampionKill",
+        "EventTime": 977.6163330078125,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Hecarim"
+        ],
+        "EventID": 46,
+        "EventName": "ChampionKill",
+        "EventTime": 999.2669067382812,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [
+          "Bot Veigar"
+        ],
+        "EventID": 47,
+        "EventName": "ChampionKill",
+        "EventTime": 1013.189453125,
+        "KillerName": "Bot Hecarim",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Veigar"
+        ],
+        "EventID": 48,
+        "EventName": "ChampionKill",
+        "EventTime": 1027.931884765625,
+        "KillerName": "Bot Hecarim",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [],
+        "EventID": 49,
+        "EventName": "ChampionKill",
+        "EventTime": 1029.9482421875,
+        "KillerName": "Turret_T100_L0_P3_3795288474",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [],
+        "EventID": 50,
+        "EventName": "ChampionKill",
+        "EventTime": 1031.51025390625,
+        "KillerName": "Turret_T100_L0_P3_3795288474",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu"
+        ],
+        "EventID": 51,
+        "EventName": "ChampionKill",
+        "EventTime": 1041.2879638671875,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 52,
+        "EventName": "ChampionKill",
+        "EventTime": 1051.9793701171875,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 53,
+        "EventName": "ChampionKill",
+        "EventTime": 1100.435791015625,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [
+          "Bot Hecarim"
+        ],
+        "EventID": 54,
+        "EventName": "ChampionKill",
+        "EventTime": 1107.4598388671875,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Amumu"
+        ],
+        "EventID": 55,
+        "EventName": "ChampionKill",
+        "EventTime": 1109.036376953125,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Akali"
+        ],
+        "EventID": 56,
+        "EventName": "ChampionKill",
+        "EventTime": 1117.0982666015625,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 57,
+        "EventName": "TurretKilled",
+        "EventTime": 1124.2841796875,
+        "KillerName": "Bot Darius",
+        "TurretKilled": "Turret_T100_L2_P2_1526764315"
+      },
+      {
+        "Assisters": [],
+        "EventID": 58,
+        "EventName": "ChampionKill",
+        "EventTime": 1153.9652099609375,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 59,
+        "EventName": "ChampionKill",
+        "EventTime": 1156.4779052734375,
+        "KillerName": "Bot Amumu",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 60,
+        "EventName": "ChampionKill",
+        "EventTime": 1188.817626953125,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [],
+        "EventID": 61,
+        "EventName": "ChampionKill",
+        "EventTime": 1193.2501220703125,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "EventID": 62,
+        "EventName": "Multikill",
+        "EventTime": 1193.2501220703125,
+        "KillStreak": 2,
+        "KillerName": "Bot Twitch"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu"
+        ],
+        "EventID": 63,
+        "EventName": "ChampionKill",
+        "EventTime": 1245.5076904296875,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu",
+          "Bot Akali"
+        ],
+        "EventID": 64,
+        "EventName": "ChampionKill",
+        "EventTime": 1252.4910888671875,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "EventID": 65,
+        "EventName": "Multikill",
+        "EventTime": 1252.4910888671875,
+        "KillStreak": 2,
+        "KillerName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 66,
+        "EventName": "ChampionKill",
+        "EventTime": 1266.1307373046875,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Amumu"
+        ],
+        "EventID": 67,
+        "EventName": "ChampionKill",
+        "EventTime": 1266.7686767578125,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu"
+        ],
+        "EventID": 68,
+        "EventName": "ChampionKill",
+        "EventTime": 1302.1912841796875,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [],
+        "EventID": 69,
+        "EventName": "TurretKilled",
+        "EventTime": 1303.6422119140625,
+        "KillerName": "Bot Darius",
+        "TurretKilled": "Turret_T100_L2_P1_1543541934"
+      },
+      {
+        "Assisters": [
+          "Bot Hecarim"
+        ],
+        "EventID": 70,
+        "EventName": "ChampionKill",
+        "EventTime": 1308.8668212890625,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Hecarim"
+        ],
+        "EventID": 71,
+        "EventName": "ChampionKill",
+        "EventTime": 1314.8818359375,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "EventID": 72,
+        "EventName": "Multikill",
+        "EventTime": 1314.8818359375,
+        "KillStreak": 2,
+        "KillerName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [],
+        "EventID": 73,
+        "EventName": "ChampionKill",
+        "EventTime": 1337.6195068359375,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [],
+        "EventID": 74,
+        "EventName": "ChampionKill",
+        "EventTime": 1339.29541015625,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "EventID": 75,
+        "EventName": "Multikill",
+        "EventTime": 1339.29541015625,
+        "KillStreak": 2,
+        "KillerName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 76,
+        "EventName": "ChampionKill",
+        "EventTime": 1341.9755859375,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Ezreal"
+        ],
+        "DragonType": "Fire",
+        "EventID": 77,
+        "EventName": "DragonKill",
+        "EventTime": 1377.5296630859375,
+        "KillerName": "Bot Hecarim",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 78,
+        "EventName": "TurretKilled",
+        "EventTime": 1397.060791015625,
+        "KillerName": "Minion_T200L1S44N0278",
+        "TurretKilled": "Turret_T100_L1_P3_1242677625"
+      },
+      {
+        "Assisters": [
+          "Bot Veigar"
+        ],
+        "EventID": 79,
+        "EventName": "ChampionKill",
+        "EventTime": 1401.1907958984375,
+        "KillerName": "Bot Hecarim",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 80,
+        "EventName": "ChampionKill",
+        "EventTime": 1402.05224609375,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [],
+        "EventID": 81,
+        "EventName": "ChampionKill",
+        "EventTime": 1449.909912109375,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Darius"
+        ],
+        "EventID": 82,
+        "EventName": "HeraldKill",
+        "EventTime": 1450.29443359375,
+        "KillerName": "Bot Hecarim",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 83,
+        "EventName": "ChampionKill",
+        "EventTime": 1480.856201171875,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 84,
+        "EventName": "TurretKilled",
+        "EventTime": 1524.314208984375,
+        "KillerName": "Bot Twitch",
+        "TurretKilled": "Turret_T200_L0_P3_511845594"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Darius"
+        ],
+        "EventID": 85,
+        "EventName": "ChampionKill",
+        "EventTime": 1531.1595458984375,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 86,
+        "EventName": "ChampionKill",
+        "EventTime": 1557.27001953125,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 87,
+        "EventName": "InhibKilled",
+        "EventTime": 1577.1658935546875,
+        "InhibKilled": "Inhib_T100_L2_P1_2669080337",
+        "KillerName": "Bot Darius"
+      },
+      {
+        "Assisters": [],
+        "EventID": 88,
+        "EventName": "ChampionKill",
+        "EventTime": 1583.5252685546875,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Ezreal"
+        ],
+        "EventID": 89,
+        "EventName": "ChampionKill",
+        "EventTime": 1583.9237060546875,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [],
+        "EventID": 90,
+        "EventName": "ChampionKill",
+        "EventTime": 1584.5006103515625,
+        "KillerName": "Bot Amumu",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [
+          "Bot Twitch"
+        ],
+        "EventID": 91,
+        "EventName": "ChampionKill",
+        "EventTime": 1637.6458740234375,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 92,
+        "EventName": "ChampionKill",
+        "EventTime": 1638.1572265625,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [],
+        "EventID": 93,
+        "EventName": "TurretKilled",
+        "EventTime": 1657.1243896484375,
+        "KillerName": "Minion_T200L1S53N0339",
+        "TurretKilled": "Turret_T100_L1_P2_1225900006"
+      },
+      {
+        "Assisters": [
+          "Bot Veigar"
+        ],
+        "EventID": 94,
+        "EventName": "ChampionKill",
+        "EventTime": 1665.0811767578125,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Amumu"
+        ],
+        "EventID": 95,
+        "EventName": "ChampionKill",
+        "EventTime": 1667.4752197265625,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [],
+        "EventID": 96,
+        "EventName": "TurretKilled",
+        "EventTime": 1687.1273193359375,
+        "KillerName": "Minion_T200L2S53N0329",
+        "TurretKilled": "Turret_T100_L1_P5_3625540808"
+      },
+      {
+        "Assisters": [
+          "Bot Ezreal",
+          "Bot Darius",
+          "Bot Veigar"
+        ],
+        "EventID": 97,
+        "EventName": "AtakhanKill",
+        "EventTime": 1751.62841796875,
+        "KillerName": "Bot Hecarim",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 98,
+        "EventName": "TurretKilled",
+        "EventTime": 1766.8258056640625,
+        "KillerName": "Bot Ezreal",
+        "TurretKilled": "Turret_T100_L0_P3_3795288474"
+      },
+      {
+        "Assisters": [
+          "Bot Twitch",
+          "Bot Soraka",
+          "Bot Amumu"
+        ],
+        "EventID": 99,
+        "EventName": "ChampionKill",
+        "EventTime": 1776.43017578125,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [],
+        "EventID": 100,
+        "EventName": "ChampionKill",
+        "EventTime": 1793.5540771484375,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "DragonType": "Hextech",
+        "EventID": 101,
+        "EventName": "DragonKill",
+        "EventTime": 1795.76416015625,
+        "KillerName": "Bot Hecarim",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 102,
+        "EventName": "ChampionKill",
+        "EventTime": 1796.7353515625,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [
+          "Bot Darius"
+        ],
+        "EventID": 103,
+        "EventName": "ChampionKill",
+        "EventTime": 1865.8038330078125,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "EventID": 104,
+        "EventName": "InhibRespawned",
+        "EventTime": 1877.15673828125,
+        "InhibRespawned": "Inhib_T100_L2_P1_2669080337"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Darius"
+        ],
+        "EventID": 105,
+        "EventName": "ChampionKill",
+        "EventTime": 1879.0867919921875,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Veigar"
+        ],
+        "EventID": 106,
+        "EventName": "ChampionKill",
+        "EventTime": 1882.54931640625,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 107,
+        "EventName": "ChampionKill",
+        "EventTime": 1908.0296630859375,
+        "KillerName": "Bot Darius",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [
+          "Bot Ezreal"
+        ],
+        "EventID": 108,
+        "EventName": "TurretKilled",
+        "EventTime": 1918.3671875,
+        "KillerName": "Bot Soraka",
+        "TurretKilled": "Turret_T100_L0_P2_3812066093"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 109,
+        "EventName": "ChampionKill",
+        "EventTime": 1931.80517578125,
+        "KillerName": "Bot Amumu",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 110,
+        "EventName": "ChampionKill",
+        "EventTime": 1933.5404052734375,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Amumu"
+        ],
+        "EventID": 111,
+        "EventName": "ChampionKill",
+        "EventTime": 1940.9019775390625,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Ezreal"
+      },
+      {
+        "Assisters": [
+          "Bot Akali"
+        ],
+        "EventID": 112,
+        "EventName": "ChampionKill",
+        "EventTime": 1957.8612060546875,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Hecarim"
+      },
+      {
+        "Assisters": [],
+        "EventID": 113,
+        "EventName": "TurretKilled",
+        "EventTime": 1961.058837890625,
+        "KillerName": "Minion_T200L1S63N0410",
+        "TurretKilled": "Turret_T100_L1_P1_1209122387"
+      },
+      {
+        "Assisters": [],
+        "EventID": 114,
+        "EventName": "ChampionKill",
+        "EventTime": 1977.8255615234375,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Akali"
+      },
+      {
+        "Assisters": [],
+        "EventID": 115,
+        "EventName": "InhibKilled",
+        "EventTime": 1984.605224609375,
+        "InhibKilled": "Inhib_T100_L2_P1_2669080337",
+        "KillerName": "Minion_T200L2S62N0402"
+      },
+      {
+        "Assisters": [
+          "Bot Veigar"
+        ],
+        "EventID": 116,
+        "EventName": "ChampionKill",
+        "EventTime": 1984.706787109375,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 117,
+        "EventName": "InhibKilled",
+        "EventTime": 1995.4862060546875,
+        "InhibKilled": "Inhib_T100_L1_P1_2786523670",
+        "KillerName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Darius"
+        ],
+        "EventID": 118,
+        "EventName": "ChampionKill",
+        "EventTime": 1997.7637939453125,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Amumu"
+        ],
+        "EventID": 119,
+        "EventName": "ChampionKill",
+        "EventTime": 2000.0545654296875,
+        "KillerName": "Bot Twitch",
+        "VictimName": "Bot Veigar"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Veigar"
+        ],
+        "EventID": 120,
+        "EventName": "ChampionKill",
+        "EventTime": 2003.4210205078125,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [],
+        "EventID": 121,
+        "EventName": "ChampionKill",
+        "EventTime": 2050.8359375,
+        "KillerName": "Bot Darius",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 122,
+        "EventName": "ChampionKill",
+        "EventTime": 2053.539794921875,
+        "KillerName": "Bot Akali",
+        "VictimName": "Bot Darius"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 123,
+        "EventName": "TurretKilled",
+        "EventTime": 2053.905029296875,
+        "KillerName": "Bot Ezreal",
+        "TurretKilled": "Turret_T100_L0_P1_3761733236"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 124,
+        "EventName": "ChampionKill",
+        "EventTime": 2067.17333984375,
+        "KillerName": "Bot Ezreal",
+        "VictimName": "Bot Twitch"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka"
+        ],
+        "EventID": 125,
+        "EventName": "ChampionKill",
+        "EventTime": 2074.92822265625,
+        "KillerName": "Bot Veigar",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [],
+        "EventID": 126,
+        "EventName": "TurretKilled",
+        "EventTime": 2077.509033203125,
+        "KillerName": "Minion_T200L1S66N0432",
+        "TurretKilled": "Turret_T100_L1_P5_3625540808"
+      },
+      {
+        "Assisters": [],
+        "EventID": 127,
+        "EventName": "InhibKilled",
+        "EventTime": 2082.3359375,
+        "InhibKilled": "Inhib_T100_L0_P1_2971077479",
+        "KillerName": "Bot Soraka"
+      },
+      {
+        "Assisters": [],
+        "EventID": 128,
+        "EventName": "TurretKilled",
+        "EventTime": 2082.924072265625,
+        "KillerName": "Minion_T200L2S66N0420",
+        "TurretKilled": "Turret_T100_L1_P4_3675873665"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Hecarim"
+        ],
+        "EventID": 129,
+        "EventName": "ChampionKill",
+        "EventTime": 2088.33544921875,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Amumu"
+      },
+      {
+        "Assisters": [
+          "Bot Soraka",
+          "Bot Ezreal"
+        ],
+        "EventID": 130,
+        "EventName": "ChampionKill",
+        "EventTime": 2102.301025390625,
+        "KillerName": "Bot Veigar",
+        "VictimName": "Bot Soraka"
+      },
+      {
+        "EventID": 131,
+        "EventName": "GameEnd",
+        "EventTime": 2106.709228515625,
+        "Result": "Lose"
+      }
+    ]
+  },
+  "gameData": {
+    "gameMode": "CLASSIC",
+    "gameTime": 2107.14453125,
+    "mapName": "Map11",
+    "mapNumber": 11,
+    "mapTerrain": "Default"
+  }
+}

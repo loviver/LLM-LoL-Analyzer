@@ -1,0 +1,72 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos/Cría de Trotabrisas/Retoño de Pisamusgo",
+        "explanation": "Elige el inicial de jungla según tu estilo: Rasgafuegos para daño y ralentización, Trotabrisas para velocidad de movimiento en la jungla, Pisamusgo para un escudo."
+      },
+      {
+        "item_name": "Poción Reutilizable",
+        "explanation": "Sustain en la jungla para mantenerte saludable."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Ofrece daño constante en área con Inmolar, perfecto para Rhaast en peleas prolongadas y para limpiar campamentos rapido, maximizando su impacto en combates cercanos"
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para todo el equipo y velocidad de movimiento para perseguir a los objetivos. Combinado con la pasiva de Rhaast, permite un buen daño sostenido."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Escudo al recibir mucho daño, junto con tenacidad para evitar ser controlado."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Fauces de Malmortius",
+        "explanation": "Escudo contra daño mágico burst, especialmente contra el Zed."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Una combinacion de resistencias, daño y aceleracion de habilidad, que permite tradear efectivamente y mantener el control en combates, además del daño adicional por su pasiva."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Reduce la curación del enemigo con Heridas Graves, util contra Kindred y Jhin, y aplica daño al atacante."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Si el equipo enemigo tiene mucho daño mágico, este item provee la capacidad de mitigarlo y escapar rapidamente."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Armadura y reducción del daño de ataques básicos, especialmente importante contra el Jhin y contra Kindred."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Resistencia mágica y tenacidad para reducir la duración de los controles, util contra Zed en caso de estar feed."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "75%"
+    },
+    "key_performance_factors": [
+      "Égida de Fuego Solar proporciona daño constante, ayudando a limpiar la jungla y en combates prolongados.",
+      "Cuchilla Oscura reduce armadura, lo que beneficia al equipo y al daño de Rhaast.",
+      "Guantelete de Sterak y Fauces de Malmortius aumentan la supervivencia."
+    ]
+  },
+  "final_recommendation": "Rhaast necesita ser tanky y hacer daño sostenido. Estos items te permiten hacer ambas cosas, mientras que te protegen contra sus carries."
+}

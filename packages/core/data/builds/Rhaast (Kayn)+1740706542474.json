@@ -1,0 +1,67 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Te proporciona daño contra monstruos y un daño en area para limpiar mas rapido la jungla."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional para los primeros niveles en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para el equipo y velocidad de movimiento, perfecto para perseguir y dañar a los enemigos. Bueno contra el Zed.",
+        "priority": "High"
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Vida y un escudo para sobrevivir al burst del Zed y Jhin, ademas de tenacidad.",
+        "priority": "High"
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Resurrección para evitar ser deleteado y darle una segunda oportunidad en la pelea.",
+        "priority": "Medium"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Fauces de Malmortius",
+        "explanation": "Resistencia mágica y un escudo contra daño mágico, muy útil contra Kindred y Zed si se estan fedeando.",
+        "consideration": "Si el daño mágico es alto."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daña a Kindred que es cuerpo a cuerpo, al ser rhaast lo puedes aprovechar ya que tiene armadura, resistencia magica y daño.",
+        "consideration": "Si necesitan counterear un Kindred cuerpo a cuerpo."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Armadura y heridas graves para reducir la curación del equipo enemigo, en especial Kindred y Jhin.",
+        "consideration": "Si necesitan contra curación."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Armadura adicional y reducción del daño de ataques básicos, excelente contra Jhin y la pasiva de Kindred."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Resistencia mágica y tenacidad, útil para reducir la duración del control de masas de Kindred y Zed. Pero en este equipo, es importante reducir el Daño."
+    }
+  },
+  "playstyle_notes": [
+    "Con Rhaast, tu objetivo es ser un bruiser que se mantiene en la pelea por mucho tiempo, infligiendo daño sostenido y control de masas.",
+    "Utiliza la curación de tus habilidades para sobrevivir al daño del equipo enemigo.",
+    "Prioriza a los carries enemigos como Jhin y Zed, pero ten cuidado con el burst de Kindred.",
+    "Comunícate con tu equipo para coordinar el engage y el focus a los objetivos."
+  ]
+}

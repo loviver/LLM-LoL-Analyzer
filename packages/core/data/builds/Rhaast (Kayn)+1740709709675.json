@@ -1,0 +1,78 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_team": {
+    "Kindred": "AD Damage, Mobile, Executes",
+    "Zed": "AD Assassin, Burst Damage, Mobile",
+    "Jhin": "AD Carry, High Damage, Immobile"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos/Cría de Trotabrisas/Retoño de Pisamusgo",
+        "explanation": "Item inicial obligatorio para la jungla, proporciona daño contra monstruos, sustain, y bonificaciones según la elección. (Rasgafuegos: Daño y ralentización, Trotabrisas: Velocidad de movimiento, Pisamusgo: Escudo)"
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain inicial en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Proporciona daño constante a los enemigos cercanos y armadura, ayudando a Rhaast a sobrevivir en peleas prolongadas. El daño de inmolación es útil para limpiar campamentos rápidamente y para infligir daño a campeones enemigos durante la curación de Rhaast.",
+        "priority": "Alto"
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para el equipo y velocidad de movimiento para Rhaast, sinergiza bien con el daño persistente y la capacidad de Rhaast de permanecer en combate.",
+        "priority": "Alto"
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Ofrece una buena cantidad de vida y un escudo que ayuda a Rhaast a sobrevivir al burst de campeones como Zed y Kindred, ademas del daño adicional de los campeones.",
+        "priority": "Medio"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Si el equipo enemigo tiene mucha curación o Kindred tiene una composición enfocada en daño físico , Cota de Espinas ayuda a reducir la curación enemiga y castiga a los atacantes.",
+        "reason": "Heridas Graves contra curación enemiga."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación propia de Rhaast haciéndolo aun mas tanke y dificil de bajar.",
+        "reason": "Aumenta la curación propia de Rhaast"
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño y resistencia adicional, la pasiva Manos Grandes te otorga un daño adicional para hacer el golpe que puede definir la pelea.",
+        "reason": "Equilibrio entre daño y defensa"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos enemigos y aumenta la armadura, ideal contra Jhin y Zed."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Proporciona resistencia mágica y tenacidad, útiles para reducir la duración de los efectos de control de Kindred y otros campeones con CC."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "75%"
+    },
+    "key_performance_factors": [
+      "Equilibrar daño y sustenibilidad es clave para Rhaast.",
+      "Adaptar la build a la composición enemiga maximiza la efectividad."
+    ]
+  },
+  "final_recommendation": "Prioriza armadura y vida para sobrevivir al burst AD de Zed y Jhin. Utiliza Égida de Fuego Solar y Cuchilla Oscura para daño constante. Considera Cota de Espinas contra curación o Kindred, y Apariencia Espiritual si necesitas aumentar tu autocuración."
+}

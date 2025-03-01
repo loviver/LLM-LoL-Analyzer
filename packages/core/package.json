@@ -1,0 +1,28 @@
+{
+  "name": "@lolanalizer/core",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "cross-env NODE_ENV=production dotenv_config_path=.env node -r dotenv/config dist/index.js",
+    "dev": "cross-env NODE_ENV=development dotenv_config_path=.env ts-node -r dotenv/config src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@overwolf/ow-cli": "^0.1.2",
+    "@types/node": "^22.13.5",
+    "@types/ws": "^8.5.14",
+    "cross-env": "^7.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7",
+    "json-diff-ts": "^4.1.0",
+    "ws": "^8.18.1"
+  }
+}

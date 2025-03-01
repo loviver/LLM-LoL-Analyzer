@@ -1,0 +1,78 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "description": "Proporciona daño contra monstruos y regeneración de maná en la jungla.",
+        "explanation": "Esencial para el sustain inicial en la jungla y para asegurar la transformación."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "description": "Restaura vida a lo largo del tiempo.",
+        "explanation": "Sustain adicional en los primeros niveles de la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "description": "Aumenta la supervivencia, daño en área y aceleración de habilidad.",
+        "explanation": "Ofrece daño constante y resistencia, ideal para entrar al frente en las peleas."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "description": "Reduce la armadura de los enemigos, aumenta la velocidad de movimiento y acelera las habilidades.",
+        "explanation": "Excelente para el daño sostenido, la reducción de armadura ayuda a lidiar con oponentes como Zed y Jhin."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "description": "Escudo al recibir daño que reduciría tu Vida por debajo de un 30%, Obtienes Daño de Ataque adicional",
+        "explanation": "Supervivencia y resistencia al burst de Zed y Jhin."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Cota de Espinas",
+        "description": "Al recibir un ataque, inflige daño mágico al atacante y, si es un campeón, le aplica Heridas Graves.",
+        "explanation": "Útil contra la curación de Kindred y Jhin."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "description": "Resistencia mágica y velocidad de movimiento.",
+        "explanation": "Para mitigar el daño mágico de Kindred y aumentar la movilidad."
+      },
+      {
+        "item_name": "Corazón de Hielo",
+        "description": "Aumenta considerablemente la armadura y ralentiza los ataques básicos del enemigo.",
+        "explanation": "Reduce la velocidad de Kindred y Jhin."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "description": "Mejora la velocidad de movimiento y reduce el daño de ataque recibido.",
+      "explanation": "Mitiga el daño físico de Zed y Jhin"
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "description": "Aumenta la velocidad de movimiento y reduce la duración de efectos incapacitantes.",
+      "explanation": "Opción viable si hay mucho control de masas en el equipo enemigo."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Balancear daño y resistencia es clave en Rhaast, priorizando la supervivencia en combates prolongados.",
+      "La correcta aplicación de Heridas Graves puede reducir el potencial de Kindred y Jhin.",
+      "El uso efectivo de las habilidades de Kayn y Rhaast en combates es fundamental para maximizar el daño y la utilidad."
+    ]
+  },
+  "final_recommendation": "Construye Égida de Fuego Solar y Cuchilla Oscura como base. Prioriza Punteras de Acero Revestidas, y ajusta el resto de los ítems según la composición y el daño predominante del equipo enemigo. Utiliza Cota de Espinas contra campeones que se curan mucho."
+}

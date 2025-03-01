@@ -1,0 +1,81 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_team": {
+    "Kindred": "Movilidad y daño a distancia",
+    "Zed": "Asesino AD con burst y movilidad",
+    "Jhin": "ADC con burst y control de área"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Brinda sustain en la jungla y un escudo que ayuda en los primeros gankeos."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Aumenta el daño persistente en peleas prolongadas y la capacidad de limpiar oleadas, synergiza bien con la forma Rhaast."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura del equipo enemigo, aumenta el daño de tu equipo y proporciona velocidad de movimiento para seguir a los objetivos."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Ofrece un escudo valioso contra el burst de Zed y Jhin, aumenta la supervivencia en peleas prolongadas."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Reduce las curaciones de Kindred y Jhin, además de ofrecer armadura adicional."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación propia, excelente contra equipos con daño mágico como Jhin y Kindred."
+      },
+      {
+        "item_name": "Rukerno Kaénico",
+        "explanation": "Proporciona una gran cantidad de Resistencia mágica y un escudo mágico. Bueno para contrarestar el daño de Kindred."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Ofrece Daño de Ataque, Armadura, Resistencia Mágica y Aceleración de Habilidad, y permite infligir daño adicional en combates extendidos."
+      },
+      {
+        "item_name": "Corazón de Acero",
+        "explanation": "Te proporciona una gran cantidad de vida y aumenta tu tamaño. Al ser un campeón cuerpo a cuerpo se vuelve muy fuerte."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Jhin y Kindred, además de proporcionar armadura."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Si la Kindred o el Jhin tienen mucho control de masas, disminuyen la duración de los mismos, y ofrecen resistencia magica."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "82%"
+    },
+    "key_performance_factors": [
+      "La Égida de Fuego Solar es fundamental para limpiar oleadas y mantener la presión en el mapa.",
+      "El Guantelete de Sterak y la Cota de Espinas son importantes para sobrevivir al burst del equipo enemigo y reducir su curación.",
+      "La adaptación de la build a la composición específica del equipo enemigo es clave."
+    ]
+  },
+  "final_recommendation": "Prioriza la Égida de Fuego Solar y Cuchilla Oscura para daño y utilidad, luego adapta tu build con Sterak y opciones defensivas según la composición y el juego enemigo. Vigila la Kindred y el Zed para counterearlos, siempre farmeando los campamentos de tu lado"
+}

@@ -1,0 +1,72 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Item inicial para la jungla, proporciona daño contra monstruos y sinergia con el estilo de juego de Rhaast."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Proporciona sustain, daño en área y armadura, ideal para enfrentarte a los carries enemigos e iniciar peleas."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para el equipo, daño adicional y velocidad de movimiento, complementa el estilo agresivo de Rhaast."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Escudo de vida para supervivencia en peleas de equipo y daño adicional."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Contra Kindred y Jhin, reduce su curación y refleja daño a los atacantes."
+      },
+      {
+        "item_name": "Fauces de Malmortius",
+        "explanation": "Contra Zed y otras fuentes de daño mágico explosivo, proporciona resistencia mágica y un escudo."
+      },
+      {
+        "item_name": "Armadura de Warmog",
+        "explanation": "Regeneración de vida masiva fuera de combate para poder reingresar a peleas rápidamente."
+      },
+      {
+        "item_name": "Rencor de Serylda",
+        "explanation": "Penetración de armadura adicional y ralentización contra objetivos con poca vida, ayuda a asegurar asesinatos contra campeones enemigos."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Armadura y reducción de daño de ataques básicos, útil contra Jhin y Zed."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Resistencia mágica y tenacidad contra el control de masas enemigo (si el equipo enemigo tuviera mucho)"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "83%"
+    },
+    "key_performance_factors": [
+      "Sobrevivir al burst de Zed mientras infliges daño constante.",
+      "Reducir la curación de Kindred y el daño de Jhin.",
+      "Priorizar la vida y el daño para escalar bien a late game."
+    ]
+  },
+  "final_recommendation": "Prioriza la Égida de Fuego Solar y la Cuchilla Oscura como objetos centrales.  Adapta el resto de tu build a las amenazas más peligrosas del equipo enemigo, teniendo en cuenta su daño, curación y composicion."
+}

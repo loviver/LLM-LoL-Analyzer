@@ -1,0 +1,92 @@
+/* Estilos generales de la tarjeta */
+.card {
+  background-color: #1f2937; /* bg-gray-800 */
+  color: white;
+  border-radius: 8px;
+  padding: 16px;
+  max-width: 500px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Encabezado de la tarjeta */
+.card-header {
+  border-bottom: 1px solid #374151; /* bg-gray-700 */
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+/* Contenido de la tarjeta */
+.card-content {
+  max-height: 500px;
+  overflow-y: auto; /* Permitir desplazamiento */
+  padding-right: 16px;
+}
+
+/* Área de desplazamiento */
+.scroll-area {
+  overflow-y: auto;
+  max-height: 500px;
+}
+
+/* Lista de consejos */
+.advice-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Elemento individual del consejo */
+.advice-item {
+  background-color: #111827; /* bg-gray-900 */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* Encabezado del consejo */
+.advice-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+/* Estilos para los badges */
+.badge {
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.badge-phase {
+  background-color: #2563eb; /* bg-blue-600 */
+  color: white;
+}
+
+.badge-default {
+  border: 1px solid white;
+}
+
+/* Timestamp del consejo */
+.timestamp {
+  font-size: 0.875rem;
+  color: #9ca3af; /* text-gray-400 */
+}
+
+/* Texto del consejo */
+.advice-text {
+  font-size: 1rem;
+  color: #e5e7eb;
+}
+
+/* Mensaje cuando no hay consejos */
+.no-advice {
+  font-size: 0.875rem;
+  color: #9ca3af; /* text-gray-400 */
+  text-align: center;
+}

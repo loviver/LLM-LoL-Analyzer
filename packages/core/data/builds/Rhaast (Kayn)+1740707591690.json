@@ -1,0 +1,80 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos/Cría de Trotabrisas/Retoño de Pisamusgo",
+        "explanation": "Elige el inicial de jungla según tu estilo de juego. Rasgafuegos para daño y ralentización, Trotabrisas para movilidad, o Pisamusgo para escudo y sustain."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Para sustain inicial en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Látigo Férreo",
+        "explanation": "Indispensable para clearwarve rapido y movilidad para gankear."
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Aumenta el daño en área y proporciona armadura y vida, combinando daño sostenido con capacidad de supervivencia para Rhaast."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, beneficiando tu daño y el de tus aliados, ademas de dar Vida,Daño y Aceleración"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Escudo para supervivencia contra burst, especialmente útil contra Zed y Jhin."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño, Armadura y Resistencia magica, item muy bueno vs campeones enemigos squish"
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Resurrección para supervivencia en peleas de equipo contra Zed y Jhin, que intentarán focusearte."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Excelente opción para ganar resistencia mágica contra Kindred y su daño mágico."
+      },
+      {
+        "item_name": "Corazón de Acero",
+        "explanation": "Esencial para maximizar la vida y daño por vida como Rhaast, especialmente contra un equipo con mucho daño."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Muy util contra composiciones con robo de vida o curaciones elevadas en el team rival (Jhin) que dificultan el burst."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Jhin y aumenta tu armadura contra Zed."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Útil si Kindred se vuelve un problema con su CC (ralentizaciones)."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "90%",
+      "situational_itemization": "85%",
+      "counterplay_suggestions": "88%"
+    },
+    "key_performance_factors": [
+      "Égida de Fuego Solar potencia el daño sostenido en el tiempo, ideal contra equipos sin tanques.",
+      "Guantelete de Sterak y Ángel Guardián ofrecen buena sinergia para evitar el burst de Zed y Jhin.",
+      "El robo de vida y el daño de las habilidades del personaje Rhaast lo convierten en un personaje difícil de matar."
+    ]
+  },
+  "final_recommendation": "Prioriza el daño sostenido y la capacidad de supervivencia con items como Égida de Fuego Solar y Guantelete de Sterak para poder aguantar el burst y drenar la vida de tus enemigos en peleas prolongadas. Ajusta tus resistencias según el principal tipo de daño del equipo enemigo (armadura contra Zed y Jhin, resistencia mágica contra Kindred)."
+}

@@ -1,0 +1,69 @@
+{
+  "champion": {
+    "name": "Jhin"
+  },
+  "matchVs": {
+    "enemy": "Caitlyn"
+  },
+  "role_tips": [
+    "Jhin no está presente en esta partida.",
+    "Analizando el estado actual del juego para Darius."
+  ],
+  "recommended_build": {
+    "starting_items": [],
+    "core_items": [
+      {
+        "item_name": "Black Cleaver",
+        "explanation": "Reduce la armadura del Darius enemigo, permitiendo a tu equipo infligir más daño físico.",
+        "precision": "80%"
+      },
+      {
+        "item_name": "Sterak's Gage",
+        "explanation": "Proporciona un escudo contra el burst del Veigar enemigo y aumenta la supervivencia.",
+        "precision": "75%"
+      },
+      {
+        "item_name": "Dead Man's Plate",
+        "explanation": "Aumenta la movilidad para perseguir al Ezreal enemigo y ofrece armadura adicional contra el Darius enemigo.",
+        "precision": "70%"
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Maw of Malmortius",
+        "explanation": "Escudo contra el daño mágico de Veigar, especialmente si está fedeado.",
+        "precision": "65%"
+      },
+      {
+        "item_name": "Guardian Angel",
+        "explanation": "Ofrece una segunda oportunidad en peleas de equipo prolongadas contra la composición enemiga.",
+        "precision": "60%"
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Plated Steelcaps",
+      "explanation": "Reduce el daño de los ataques básicos del Ezreal y Darius enemigos.",
+      "precision": "70%"
+    },
+    "alternative": {
+      "item_name": "Mercury's Treads",
+      "explanation": "Reduce la duración del CC de Veigar y Soraka enemigos si el CC es un problema importante.",
+      "precision": "60%"
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Priorizar la supervivencia contra Veigar y Ezreal, quienes parecen ser los carries principales del equipo enemigo.",
+      "Utilizar la reducción de armadura de Black Cleaver para ayudar a tu equipo a burstear a los carries enemigos.",
+      "No iniciar peleas innecesarias, jugar en torno a los objetivos y esperar el momento adecuado para involucrarse."
+    ]
+  },
+  "final_recommendation": "Considerando el oro disponible, completa Black Cleaver y luego Sterak's Gage para aumentar tu supervivencia contra el daño enemigo. La estrategia principal debe ser sobrevivir al burst de Veigar y reducir la armadura de los tanques enemigos para ayudar a tu equipo a infligir daño."
+}

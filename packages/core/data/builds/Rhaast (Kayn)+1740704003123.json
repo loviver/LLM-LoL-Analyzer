@@ -1,0 +1,97 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_team": {
+    "mid": {
+      "champion_name": "Zed",
+      "damage_type": "Physical",
+      "threat": "High burst, mobility"
+    },
+    "jungle": {
+      "champion_name": "Kindred",
+      "damage_type": "Mixed",
+      "threat": "Mobility, kiting, late-game scaling"
+    },
+    "adc": {
+      "champion_name": "Jhin",
+      "damage_type": "Physical",
+      "threat": "High burst, long range"
+    }
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Proporciona daño y quema a los monstruos de la jungla para una limpieza más rápida."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Ayuda a mantenerse saludable en los primeros intercambios y la limpieza de la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Excelente para daño sostenido en peleas prolongadas, útil contra objetivos cuerpo a cuerpo como Zed y permite una limpieza rápida de oleadas.  La vida adicional mejora el daño de Rhaast y la pasiva 'Inmolar' hace daño en área de forma continua."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Ofrece daño, vida, aceleración de habilidad y reducción de armadura, permitiendo penetrar la armadura de tanques y objetivos resistentes como Kindred si decide irse tanque."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Proporciona una fuente de sostenimiento con su robo de vida y armadura, a la vez que reduce el daño mágico, contrarrestando parte del daño mágico de Kindred en caso de que la lleve."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Contra Zed y Jhin, proporciona una segunda vida, útil si te focusean rápidamente."
+      },
+      {
+        "item_name": "Fauces de Malmortius",
+        "explanation": "Contra Zed y Jhin, proporciona una segunda vida, útil si te focusean rápidamente."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Proporciona daño físico adicional basado en tu vida maxima. Resistencia magica y armadura, buena opcion para peleas prolongadas"
+      },
+      {
+        "item_name": "Hidra Titánica",
+        "explanation": "Daño en área y vida, útil para limpieza de oleadas y daño adicional. Aumenta el daño de la forma Rhaast."
+      },
+      {
+        "item_name": "Oportunidades",
+        "explanation": "Si hay un objetivo que se pueda deletear muy facilmente y ganar velocidad de movimiento."
+      },
+      {
+        "item_name": "El Triturador",
+        "explanation": "Buena opcion contra campeones que se mueven mucho."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Jhin y Zed, además de ofrecer armadura."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Ofrecen resistencia mágica y tenacidad, reduciendo la duración del control de masas de Kindred."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "75%",
+      "counterplay_suggestions": "80%"
+    },
+    "key_performance_factors": [
+      "Égida de Fuego Solar para daño en área sostenido y limpieza de oleadas.",
+      "Cuchilla Oscura para reducir la armadura de los enemigos y daño al equipo",
+      "La elección de botas dependerá de la composición del equipo enemigo y la fase de la partida."
+    ]
+  },
+  "final_recommendation": "Prioriza la supervivencia y el daño sostenido con Égida de Fuego Solar y Cuchilla Oscura. Adapta la resistencia mágica o armadura según la fuente de daño más relevante en la partida y considera el daño de Hidra Titánica y la resistencia de Atma si necesitas más daño o capacidad de supervivencia."
+}

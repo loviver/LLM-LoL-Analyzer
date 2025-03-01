@@ -1,0 +1,80 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)"
+  },
+  "enemy_team": {
+    "Kindred": "Campeón de daño a distancia, vulnerable al engage.",
+    "Zed": "Asesino AD, peligroso por burst y movilidad.",
+    "Jhin": "Tirador AD, daño alto pero vulnerable al cierre de brecha."
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Te ayuda a limpiar la jungla de forma segura y sustainearte."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en los primeros niveles."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Excelente para aplicar daño constante en peleas prolongadas, útil contra Kindred y Jhin."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, aumenta el daño del equipo y te da velocidad de movimiento para perseguir objetivos. Ideal contra Zed y Jhin."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño, armadura, resistencia mágica y aceleración de habilidad. Ideal para campeones que entran en combate cuerpo a cuerpo en área."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Ofrece un escudo valioso contra el burst de Zed y Jhin, aumentando tu supervivencia."
+      },
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación de tus habilidades y ofrece resistencia mágica contra Kindred y Zed, mejorando tu sustain."
+      },
+      {
+        "item_name": "Corazón de Hielo",
+        "explanation": "Reduce la velocidad de ataque de Jhin y Kindred, disminuyendo su daño sostenido. También ofrece armadura."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Para aumentar el daño y volverte más tanque."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Permite una segunda oportunidad en teamfights."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reducción de daño de los ataques básicos de Jhin y Kindred, armadura adicional contra Zed."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad para reducir la duración de los efectos de control de Kindred y Zed, resistencia mágica adicional."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "90%",
+      "situational_itemization": "85%",
+      "counterplay_suggestions": "88%"
+    },
+    "key_performance_factors": [
+      "Égida de Fuego Solar y Cuchilla Oscura son fundamentales para el daño y la utilidad general de Rhaast.",
+      "Guantelete de Sterak aumenta considerablemente la capacidad de supervivencia en combate."
+    ]
+  },
+  "final_recommendation": "Este build prioriza el daño sostenido, la supervivencia y la utilidad en peleas de equipo, utilizando a Rhaast como un luchador que puede absorber daño y aplicar presión constante."
+}

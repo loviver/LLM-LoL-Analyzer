@@ -1,0 +1,73 @@
+{
+  "champion": {
+    "name": "Kayn (Rhaast)"
+  },
+  "enemies": {
+    "Kindred": "AD, Movilidad, Burst",
+    "Zed": "AD, Asesino, Burst",
+    "Jhin": "AD, Carry, Rango"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Compañero de la Jungla que otorga daño y quemadura a los monstruos."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain temprano en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Buena armadura y vida, daño sostenido en área, útil contra los carries enemigos y Kindred, además, synergiza con el estilo de pelea de Rhaast."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, aumenta el daño del equipo, y otorga velocidad de movimiento para persecución."
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Vida adicional y un escudo para sobrevivir al burst de Zed y Kindred, con el daño que ofrece Rhaast de base, este item es ideal."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación de la pasiva de Rhaast y proporciona resistencia mágica contra Jhin y Kindred, si se fedean por daño mágico."
+      },
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Daño , Armadura , Resistencia Magica y aceleracion de Habilidad, buena opcion por las manos grandes y un gran combo contra los enemigos AD."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Resurrección para sobrevivir a los engages del enemigo, especialmente útil si te enfocas demasiado y te burstean."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos de Zed, Jhin y Kindred, además de aumentar la armadura."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Si Kindred o Jhin te hacen mucho daño mágico, y por la tenacidad."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "92%",
+      "situational_itemization": "85%",
+      "counterplay_suggestions": "88%"
+    },
+    "key_performance_factors": [
+      "Égida de fuego solar ofrece daño de área para desgastar a los enemigos mientras peleas, con la pasiva.",
+      "Cuchilla Oscura es excelente para reducir la armadura de Zed y Jhin, permitiendo que Rhaast y tu equipo hagan más daño.",
+      "Sterak te ayuda a sobrevivir al burst, siendo Rhaast un campeon mele."
+    ]
+  },
+  "final_recommendation": "Prioriza la supervivencia y la reducción de armadura para maximizar el daño de Rhaast y del equipo contra los enemigos AD. Oriéntate a más resistencia mágica y tenacidad si recibes demasiado daño mágico."
+}

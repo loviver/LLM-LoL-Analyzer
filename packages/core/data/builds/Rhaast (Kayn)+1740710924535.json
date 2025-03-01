@@ -1,0 +1,70 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)",
+    "role": "Jungle"
+  },
+  "enemy_comp": {
+    "carry": "Jhin",
+    "midlaner": "Zed",
+    "jungler": "Kindred"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Retoño de Pisamusgo",
+        "explanation": "Brinda sustain y algo de aguante en los primeros niveles de la jungla. El escudo ayuda a sobrevivir contra invasiones tempranas."
+      },
+      {
+        "item_name": "Poción de Vida",
+        "explanation": "Sustain adicional en la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Ofrece una buena cantidad de armadura y vida para sobrevivir al daño de Kindred y Zed, ademas escala muy bien con Rhaast y su estilo de juego de dive."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reducción de armadura para el equipo enemigo y una valiosa velocidad de movimiento que te permitirá acercarte a tus objetivos, ideal contra carries como jhin"
+      },
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Este objeto sinergiza bien con la vida que vas a tener gracias a los items anteriores."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Apariencia Espiritual",
+        "explanation": "Aumenta la curación recibida, lo cual mejora enormemente el sustain de Rhaast y ayuda a sobrevivir burst de Zed y Jhin."
+      },
+      {
+        "item_name": "Corazón de Hielo",
+        "explanation": "Reduce la velocidad de ataque del carry enemigo y proporciona armadura y maná."
+      },
+      {
+        "item_name": "Fuerza de la Naturaleza",
+        "explanation": "Útil contra el daño mágico de Kindred y otros magos que se puedan encontrar en la partida, otorga velocidad de movimiento valiosa para perseguir objetivos."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Resurrección útil si te focusean mucho y necesitas una segunda oportunidad en las peleas."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce el daño de los ataques básicos, útil contra el daño de Jhin y la fase de lineas."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Tenacidad contra el control de Kindred o posibles aturdimientos."
+    }
+  },
+  "playstyle_notes": [
+    "Intenta focusear a los carries, Jhin y Zed, con tus habilidades e items. La reducción de armadura de Cuchilla Oscura ayudará al equipo a burstearlos.",
+    "Asegúrate de usar tu definitiva (R) para sobrevivir al burst de daño y curarte con tu pasiva.",
+    "Prioriza el control de objetivos como el Dragón y el Barón, ya que con tu build puedes tankear bastante daño."
+  ]
+}

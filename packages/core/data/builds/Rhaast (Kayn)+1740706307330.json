@@ -1,0 +1,73 @@
+{
+  "champion": {
+    "name": "Rhaast (Kayn)",
+    "role": "Jungler"
+  },
+  "recommended_build": {
+    "starting_items": [
+      {
+        "item_name": "Cachorro de Rasgafuegos",
+        "explanation": "Proporciona daño contra monstruos y regeneración de maná en la jungla. Rasgafuegos otorga ralentización."
+      },
+      {
+        "item_name": "Poción Reutilizable",
+        "explanation": "Sustain para la jungla."
+      }
+    ],
+    "core_items": [
+      {
+        "item_name": "Guantelete de Sterak",
+        "explanation": "Buen item de daño y supervivencia para Rhaast, ayuda a sobrevivir al burst de Zed y Jhin."
+      },
+      {
+        "item_name": "Cuchilla Oscura",
+        "explanation": "Reduce la armadura de los enemigos, aumentando el daño de Rhaast y su equipo. Buen item contra tanques y luchadores."
+      },
+      {
+        "item_name": "Égida de Fuego Solar",
+        "explanation": "Daño mágico constante y escalado con vida, bueno contra composiciones donde hay que estar en medio de la pelea."
+      }
+    ],
+    "situational_items": [
+      {
+        "item_name": "Juicio de Atma",
+        "explanation": "Armadura y resistencia mágica, daño basado en la vida, buena opcion contra daño mixto."
+      },
+      {
+        "item_name": "Cota de Espinas",
+        "explanation": "Si el Jhin enemigo feedeado es problema con su sustain, aplica Heridas Graves al atacante y refleja daño. Buen item contra campeones de autoataques."
+      },
+      {
+        "item_name": "Fauces de Malmortius",
+        "explanation": "Si el Zed o el Kindred son problemas con su daño mágico, proporciona daño, resistencia mágica, y un escudo antihechizos para prevenir burst."
+      },
+      {
+        "item_name": "Ángel Guardián",
+        "explanation": "Resurrección, buena si estas en el centro de la teamfight y hay posibilidad de focuseo."
+      }
+    ]
+  },
+  "boots": {
+    "primary": {
+      "item_name": "Punteras de Acero Revestidas",
+      "explanation": "Reduce daño de auto ataques, buenas contra Jhin, y campeones de daño fisico."
+    },
+    "alternative": {
+      "item_name": "Botas de Mercurio",
+      "explanation": "Reduce el control de Kindred y Zed."
+    }
+  },
+  "performance_analysis": {
+    "estimated_accuracy": {
+      "build_recommendation": "85%",
+      "situational_itemization": "80%",
+      "counterplay_suggestions": "75%"
+    },
+    "key_performance_factors": [
+      "El uso adecuado de la forma Rhaast y del diveo para iniciar peleas.",
+      "Steraks + Black Cleaver proporciona supervivencia y daño consistente.",
+      "La eleccion correcta de las botas según la composicion enemiga y los carrys."
+    ]
+  },
+  "final_recommendation": "Prioriza items que te permitan sobrevivir al burst y maximizar el daño sostenido de Rhaast, evaluando la necesidad de armadura y resistencia mágica dependiendo del progreso de la partida."
+}
