@@ -34,3 +34,6 @@ turbo-debug.log*
 
 # Mac system files
 Thumbs.db
+
+data/builds/*
+data/current/*

@@ -2,9 +2,9 @@ import dotenv from 'dotenv';
 import fs from 'fs';
 import { diff } from "json-diff-ts";
 
-import LCUListener from './LeagueOfLegendsLCU';
-import GeminiAI from './GeminiAI';
-import DataDragon from './DataDragon';
+import LCUListener from './api/LeagueOfLegendsLCU';
+import GeminiAI from './services/GeminiAI';
+import DataDragon from './api/DataDragon';
 
 // Obtiene el meta de objetos actual
 const actualItems = DataDragon.getItems();
@@ -12,7 +12,7 @@ const actualItems = DataDragon.getItems();
 // Configurar el listener
 const listener = new LCUListener(
     `${process.env.PATH_LOL}\\lockfile`,
-    './currentGame'
+    './data/current'
 );
 
 console.log(process.env.PATH_LOL)
@@ -51,7 +51,7 @@ listener.on('championSelect', async (data: any) => {
   if(changed/* && leftPlayers.length == 0*/) {
     championSelectData = data;
     
-    const jsonStructure = fs.readFileSync('data/modelChampionSelect.json', 'utf8');
+    const jsonStructure = fs.readFileSync('data/static/modelChampionSelect.json', 'utf8');
 
     const respuesta = await api.askQuestion(
       `A continuación, te proporcionaré un JSON con la información de la selección actual de campeones:
@@ -110,7 +110,7 @@ listener.on('liveData', async (data: any) => {
   }
 
   if (changed) {
-    const jsonStructure = fs.readFileSync('data/modelStructure.json', 'utf8');
+    const jsonStructure = fs.readFileSync('data/static/modelStructure.json', 'utf8');
 
     const respuesta = await api.askQuestion(
       `

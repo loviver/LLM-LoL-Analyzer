@@ -3,7 +3,7 @@ import fs from 'fs';
 class DataDragon {
 
   public static getTurrets() {
-    const items = JSON.parse(fs.readFileSync('data/turrets.json', 'utf8'));
+    const items = JSON.parse(fs.readFileSync('data/static/turrets.json', 'utf8'));
     return items;
   }
 
@@ -14,17 +14,17 @@ class DataDragon {
   }
   
   public static getItems() {
-    const items = JSON.parse(fs.readFileSync('data/items.json', 'utf8'));
+    const items = JSON.parse(fs.readFileSync('data/static//items.json', 'utf8'));
     return items;
   }
   
   public static getChampions() {
-    const items = JSON.parse(fs.readFileSync('data/champions.json', 'utf8'));
+    const items = JSON.parse(fs.readFileSync('data/static//champions.json', 'utf8'));
     return items;
   }
   
   public static getSpells() {
-    const items = JSON.parse(fs.readFileSync('data/spells.json', 'utf8'));
+    const items = JSON.parse(fs.readFileSync('data/static//spells.json', 'utf8'));
     return items;
   }
   
