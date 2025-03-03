@@ -3,129 +3,129 @@
     "abilities": {
       "E": {
         "abilityLevel": 1,
-        "displayName": "Capullo / Rápel",
-        "id": "EliseHumanE",
-        "rawDescription": "GeneratedTip_Spell_EliseHumanE_Description",
-        "rawDisplayName": "GeneratedTip_Spell_EliseHumanE_DisplayName"
+        "displayName": "Lluvia de Plomo",
+        "id": "MissFortuneScattershot",
+        "rawDescription": "GeneratedTip_Spell_MissFortuneScattershot_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MissFortuneScattershot_DisplayName"
       },
       "Passive": {
-        "displayName": "Reina de las Arañas",
-        "id": "ElisePassive",
-        "rawDescription": "GeneratedTip_Passive_ElisePassive_Description",
-        "rawDisplayName": "GeneratedTip_Passive_ElisePassive_DisplayName"
+        "displayName": "Toque de Amor",
+        "id": "MissFortunePassive",
+        "rawDescription": "GeneratedTip_Passive_MissFortunePassive_Description",
+        "rawDisplayName": "GeneratedTip_Passive_MissFortunePassive_DisplayName"
       },
       "Q": {
-        "abilityLevel": 1,
-        "displayName": "Neurotoxina / Mordida Venenosa",
-        "id": "EliseHumanQ",
-        "rawDescription": "GeneratedTip_Spell_EliseHumanQ_Description",
-        "rawDisplayName": "GeneratedTip_Spell_EliseHumanQ_DisplayName"
+        "abilityLevel": 2,
+        "displayName": "Doble Bala",
+        "id": "MissFortuneRicochetShot",
+        "rawDescription": "GeneratedTip_Spell_MissFortuneRicochetShot_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MissFortuneRicochetShot_DisplayName"
       },
       "R": {
         "abilityLevel": 1,
-        "displayName": "Forma Arácnida",
-        "id": "EliseR",
-        "rawDescription": "GeneratedTip_Spell_EliseR_Description",
-        "rawDisplayName": "GeneratedTip_Spell_EliseR_DisplayName"
+        "displayName": "Balacera",
+        "id": "MissFortuneBulletTime",
+        "rawDescription": "GeneratedTip_Spell_MissFortuneBulletTime_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MissFortuneBulletTime_DisplayName"
       },
       "W": {
-        "abilityLevel": 1,
-        "displayName": "Araña Volátil / Raudo Frenesí",
-        "id": "EliseHumanW",
-        "rawDescription": "GeneratedTip_Spell_EliseHumanW_Description",
-        "rawDisplayName": "GeneratedTip_Spell_EliseHumanW_DisplayName"
+        "abilityLevel": 2,
+        "displayName": "Alarde",
+        "id": "MissFortuneViciousStrikes",
+        "rawDescription": "GeneratedTip_Spell_MissFortuneViciousStrikes_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MissFortuneViciousStrikes_DisplayName"
       }
     },
     "championStats": {
-      "abilityHaste": 0,
-      "abilityPower": 56.44000244140625,
-      "armor": 47.775001525878906,
+      "abilityHaste": 6,
+      "abilityPower": 0,
+      "armor": 40.80000305175781,
       "armorPenetrationFlat": 0,
       "armorPenetrationPercent": 1,
-      "attackDamage": 66.8499984741211,
+      "attackDamage": 133.54400634765625,
       "attackRange": 550,
-      "attackSpeed": 0.6682031750679016,
+      "attackSpeed": 1.0945360660552979,
       "bonusArmorPenetrationPercent": 1,
       "bonusMagicPenetrationPercent": 1,
       "critChance": 0,
       "critDamage": 175,
-      "currentHealth": 1200.550048828125,
+      "currentHealth": 8.674676895141602,
       "healShieldPower": 0,
-      "healthRegenRate": 1.5740001201629639,
-      "lifeSteal": 0,
+      "healthRegenRate": 1.2634999752044678,
+      "lifeSteal": 0.029999999329447746,
       "magicLethality": 0,
       "magicPenetrationFlat": 0,
       "magicPenetrationPercent": 1,
       "magicResist": 35.13500213623047,
-      "maxHealth": 1200.550048828125,
-      "moveSpeed": 586.0620727539062,
+      "maxHealth": 1281.85009765625,
+      "moveSpeed": 128.20001220703125,
       "omnivamp": 0,
-      "physicalLethality": 0,
+      "physicalLethality": 10,
       "physicalVamp": 0,
-      "resourceMax": 521.5,
-      "resourceRegenRate": 1.8320000171661377,
+      "resourceMax": 708,
+      "resourceRegenRate": 2.2320001125335693,
       "resourceType": "MANA",
-      "resourceValue": 521.5,
+      "resourceValue": 389.12603759765625,
       "spellVamp": 0,
       "tenacity": 5
     },
-    "currentGold": 2423.375,
+    "currentGold": 690.2269287109375,
     "fullRunes": {
       "generalRunes": [
         {
-          "displayName": "Conquistador",
-          "id": 8010,
-          "rawDescription": "perk_tooltip_Conqueror",
-          "rawDisplayName": "perk_displayname_Conqueror"
+          "displayName": "Primer Golpe",
+          "id": 8369,
+          "rawDescription": "perk_tooltip_FirstStrike",
+          "rawDisplayName": "perk_displayname_FirstStrike"
         },
         {
-          "displayName": "Triunfo",
-          "id": 9111,
-          "rawDescription": "perk_tooltip_9111",
-          "rawDisplayName": "perk_displayname_9111"
+          "displayName": "Reembolso",
+          "id": 8321,
+          "rawDescription": "perk_tooltip_FuturesMarket",
+          "rawDisplayName": "perk_displayname_FuturesMarket"
         },
         {
-          "displayName": "Leyenda: Aceleración",
-          "id": 9105,
-          "rawDescription": "perk_tooltip_9105",
-          "rawDisplayName": "perk_displayname_9105"
+          "displayName": "Entrega de Galletas",
+          "id": 8345,
+          "rawDescription": "perk_tooltip_BiscuitDelivery",
+          "rawDisplayName": "perk_displayname_BiscuitDelivery"
         },
         {
-          "displayName": "La Última Batalla",
-          "id": 8299,
-          "rawDescription": "perk_tooltip_8234",
-          "rawDisplayName": "perk_displayname_8234"
+          "displayName": "Comodín",
+          "id": 8316,
+          "rawDescription": "perk_tooltip_MinionDematerializer",
+          "rawDisplayName": "perk_displayname_MinionDematerializer"
         },
         {
-          "displayName": "Calzado Mágico",
-          "id": 8304,
-          "rawDescription": "perk_tooltip_MagicalFootwear",
-          "rawDisplayName": "perk_displayname_MagicalFootwear"
+          "displayName": "Tormenta Creciente",
+          "id": 8236,
+          "rawDescription": "perk_tooltip_GatheringStorm",
+          "rawDisplayName": "perk_displayname_GatheringStorm"
         },
         {
-          "displayName": "Tónico Triple",
-          "id": 8313,
-          "rawDescription": "perk_tooltip_PerfectTiming",
-          "rawDisplayName": "perk_displayname_PerfectTiming"
+          "displayName": "Anillo de Flujo de Maná",
+          "id": 8226,
+          "rawDescription": "perk_tooltip_8226",
+          "rawDisplayName": "perk_displayname_8226"
         }
       ],
       "keystone": {
-        "displayName": "Conquistador",
-        "id": 8010,
-        "rawDescription": "perk_tooltip_Conqueror",
-        "rawDisplayName": "perk_displayname_Conqueror"
+        "displayName": "Primer Golpe",
+        "id": 8369,
+        "rawDescription": "perk_tooltip_FirstStrike",
+        "rawDisplayName": "perk_displayname_FirstStrike"
       },
       "primaryRuneTree": {
-        "displayName": "Precisión",
-        "id": 8000,
-        "rawDescription": "perkstyle_tooltip_7201",
-        "rawDisplayName": "perkstyle_displayname_7201"
-      },
-      "secondaryRuneTree": {
         "displayName": "Inspiración",
         "id": 8300,
         "rawDescription": "perkstyle_tooltip_7203",
         "rawDisplayName": "perkstyle_displayname_7203"
+      },
+      "secondaryRuneTree": {
+        "displayName": "Brujería",
+        "id": 8200,
+        "rawDescription": "perkstyle_tooltip_7202",
+        "rawDisplayName": "perkstyle_displayname_7202"
       },
       "statRunes": [
         {
@@ -137,8 +137,8 @@
           "rawDescription": "perk_tooltip_StatModAdaptive"
         },
         {
-          "id": 5001,
-          "rawDescription": "perk_tooltip_StatModHealthScaling"
+          "id": 5011,
+          "rawDescription": "perk_tooltip_StatModHealth"
         }
       ]
     },
@@ -151,7 +151,7 @@
   },
   "allPlayers": [
     {
-      "championName": "Elise",
+      "championName": "Teemo",
       "isBot": false,
       "isDead": false,
       "items": [
@@ -169,7 +169,7 @@
         {
           "canUse": true,
           "consumable": true,
-          "count": 1,
+          "count": 2,
           "displayName": "Poción de Vida",
           "itemID": 2003,
           "price": 50,
@@ -178,64 +178,53 @@
           "slot": 1
         },
         {
-          "canUse": true,
-          "consumable": true,
+          "canUse": false,
+          "consumable": false,
           "count": 1,
-          "displayName": "Elixir de Avaricia",
-          "itemID": 2151,
-          "price": 50,
-          "rawDescription": "GeneratedTip_Item_2151_Description",
-          "rawDisplayName": "Item_2151_Name",
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
           "slot": 2
         },
         {
           "canUse": false,
           "consumable": false,
           "count": 1,
-          "displayName": "Calzado Ligeramente Mágico",
-          "itemID": 2422,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_2422_Description",
-          "rawDisplayName": "Item_2422_Name",
+          "displayName": "Antifaz Embrujado",
+          "itemID": 3147,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3147_Description",
+          "rawDisplayName": "Item_3147_Name",
           "slot": 3
-        },
-        {
-          "canUse": true,
-          "consumable": true,
-          "count": 1,
-          "displayName": "Elixir de Fuerza",
-          "itemID": 2152,
-          "price": 50,
-          "rawDescription": "GeneratedTip_Item_2152_Description",
-          "rawDisplayName": "Item_2152_Name",
-          "slot": 4
         },
         {
           "canUse": true,
           "consumable": false,
           "count": 1,
-          "displayName": "Centinela Invisible",
-          "itemID": 3340,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
           "price": 0,
-          "rawDescription": "GeneratedTip_Item_3340_Description",
-          "rawDisplayName": "Item_3340_Name",
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
           "slot": 6
         }
       ],
-      "level": 6,
-      "position": "",
-      "rawChampionName": "game_character_displayname_Elise",
-      "rawSkinName": "game_character_skin_displayname_Elise_0",
+      "level": 7,
+      "position": "TOP",
+      "rawChampionName": "game_character_displayname_Teemo",
+      "rawSkinName": "game_character_skin_displayname_Teemo_4",
       "respawnTimer": 0,
-      "riotId": "BukeleDicktador#503",
-      "riotIdGameName": "BukeleDicktador",
-      "riotIdTagLine": "503",
+      "riotId": "iLiVen#LAN",
+      "riotIdGameName": "iLiVen",
+      "riotIdTagLine": "LAN",
       "runes": {
         "keystone": {
-          "displayName": "Conquistador",
-          "id": 8010,
-          "rawDescription": "perk_tooltip_Conqueror",
-          "rawDisplayName": "perk_displayname_Conqueror"
+          "displayName": "Estrategia Ofensiva",
+          "id": 8005,
+          "rawDescription": "perk_tooltip_PressTheAttack",
+          "rawDisplayName": "perk_displayname_PressTheAttack"
         },
         "primaryRuneTree": {
           "displayName": "Precisión",
@@ -244,39 +233,39 @@
           "rawDisplayName": "perkstyle_displayname_7201"
         },
         "secondaryRuneTree": {
-          "displayName": "Inspiración",
-          "id": 8300,
-          "rawDescription": "perkstyle_tooltip_7203",
-          "rawDisplayName": "perkstyle_displayname_7203"
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
         }
       },
       "scores": {
-        "assists": 0,
-        "creepScore": 0,
+        "assists": 1,
+        "creepScore": 40,
         "deaths": 3,
         "kills": 0,
-        "wardScore": 0
+        "wardScore": 5.0734944343566895
       },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "BukeleDicktador#503",
+      "skinID": 4,
+      "skinName": "AstroTeemo",
+      "summonerName": "iLiVen#LAN",
       "summonerSpells": {
         "summonerSpellOne": {
-          "displayName": "Fantasma",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
-        },
-        "summonerSpellTwo": {
           "displayName": "Destello",
           "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
           "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
         }
       },
       "team": "ORDER"
     },
     {
-      "championName": "Wukong",
-      "isBot": true,
+      "championName": "Nocturne",
+      "isBot": false,
       "isDead": false,
       "items": [
         {
@@ -294,24 +283,115 @@
           "canUse": false,
           "consumable": false,
           "count": 1,
-          "displayName": "Fuerza de la Trinidad",
-          "itemID": 3078,
-          "price": 133,
-          "rawDescription": "GeneratedTip_Item_3078_Description",
-          "rawDisplayName": "Item_3078_Name",
-          "slot": 1
+          "displayName": "Espada Larga",
+          "itemID": 1036,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1036_Description",
+          "rawDisplayName": "Item_1036_Name",
+          "slot": 2
         },
         {
           "canUse": false,
           "consumable": false,
           "count": 1,
-          "displayName": "Excavador de Túneles",
-          "itemID": 2021,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_2021_Description",
-          "rawDisplayName": "Item_2021_Name",
-          "slot": 2
+          "displayName": "Honda del Explorador",
+          "itemID": 3144,
+          "price": 100,
+          "rawDescription": "GeneratedTip_Item_3144_Description",
+          "rawDisplayName": "Item_3144_Name",
+          "slot": 3
         },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espadón",
+          "itemID": 1038,
+          "price": 1300,
+          "rawDescription": "GeneratedTip_Item_1038_Description",
+          "rawDisplayName": "Item_1038_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 7,
+      "position": "JUNGLE",
+      "rawChampionName": "game_character_displayname_Nocturne",
+      "rawSkinName": "game_character_skin_displayname_Nocturne_0",
+      "respawnTimer": 0,
+      "riotId": "T1 Xiorena#SKT",
+      "riotIdGameName": "T1 Xiorena",
+      "riotIdTagLine": "SKT",
+      "runes": {
+        "keystone": {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 2,
+        "creepScore": 60,
+        "deaths": 2,
+        "kills": 1,
+        "wardScore": 7.184588432312012
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "T1 Xiorena#SKT",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Castigo Desatado",
+          "rawDescription": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Zed",
+      "isBot": false,
+      "isDead": false,
+      "items": [
         {
           "canUse": false,
           "consumable": false,
@@ -321,244 +401,18 @@
           "price": 100,
           "rawDescription": "GeneratedTip_Item_3133_Description",
           "rawDisplayName": "Item_3133_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Cristal de Rubí",
-          "itemID": 1028,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_1028_Description",
-          "rawDisplayName": "Item_1028_Name",
-          "slot": 4
-        },
-        {
-          "canUse": true,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Centinela Invisible",
-          "itemID": 3340,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3340_Description",
-          "rawDisplayName": "Item_3340_Name",
-          "slot": 6
-        }
-      ],
-      "level": 9,
-      "position": "JUNGLE",
-      "rawChampionName": "game_character_displayname_MonkeyKing",
-      "rawSkinName": "game_character_skin_displayname_MonkeyKing_0",
-      "respawnTimer": 0,
-      "riotId": "MonkeyKing#BOT",
-      "riotIdGameName": "MonkeyKing",
-      "riotIdTagLine": "BOT",
-      "runes": {
-        "keystone": {
-          "displayName": "Agarre del Perpetuo",
-          "id": 8437,
-          "rawDescription": "perk_tooltip_GraspOfTheUndying",
-          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
-        },
-        "primaryRuneTree": {
-          "displayName": "Valor",
-          "id": 8400,
-          "rawDescription": "perkstyle_tooltip_7204",
-          "rawDisplayName": "perkstyle_displayname_7204"
-        },
-        "secondaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
-        }
-      },
-      "scores": {
-        "assists": 6,
-        "creepScore": 60,
-        "deaths": 7,
-        "kills": 4,
-        "wardScore": 30.05477523803711
-      },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Wukong",
-      "summonerSpells": {
-        "summonerSpellOne": {
-          "displayName": "Destello",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Castigo Desatado",
-          "rawDescription": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_DisplayName"
-        }
-      },
-      "team": "ORDER"
-    },
-    {
-      "championName": "Irelia",
-      "isBot": true,
-      "isDead": false,
-      "items": [
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Escudo de Doran",
-          "itemID": 1054,
-          "price": 450,
-          "rawDescription": "GeneratedTip_Item_1054_Description",
-          "rawDisplayName": "Item_1054_Name",
           "slot": 0
         },
         {
           "canUse": false,
           "consumable": false,
           "count": 1,
-          "displayName": "Espada del Rey Arruinado",
-          "itemID": 3153,
-          "price": 725,
-          "rawDescription": "GeneratedTip_Item_3153_Description",
-          "rawDisplayName": "Item_3153_Name",
+          "displayName": "Picacha",
+          "itemID": 1037,
+          "price": 875,
+          "rawDescription": "GeneratedTip_Item_1037_Description",
+          "rawDisplayName": "Item_1037_Name",
           "slot": 1
-        },
-        {
-          "canUse": true,
-          "consumable": true,
-          "count": 1,
-          "displayName": "Centinela de Control",
-          "itemID": 2055,
-          "price": 75,
-          "rawDescription": "GeneratedTip_Item_2055_Description",
-          "rawDisplayName": "Item_2055_Name",
-          "slot": 2
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Al Filo de la Cordura",
-          "itemID": 3091,
-          "price": 550,
-          "rawDescription": "GeneratedTip_Item_3091_Description",
-          "rawDisplayName": "Item_3091_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Espada Larga",
-          "itemID": 1036,
-          "price": 350,
-          "rawDescription": "GeneratedTip_Item_1036_Description",
-          "rawDisplayName": "Item_1036_Name",
-          "slot": 4
-        },
-        {
-          "canUse": true,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Centinela Invisible",
-          "itemID": 3340,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3340_Description",
-          "rawDisplayName": "Item_3340_Name",
-          "slot": 6
-        }
-      ],
-      "level": 10,
-      "position": "MIDDLE",
-      "rawChampionName": "game_character_displayname_Irelia",
-      "rawSkinName": "game_character_skin_displayname_Irelia_0",
-      "respawnTimer": 0,
-      "riotId": "Irelia#BOT",
-      "riotIdGameName": "Irelia",
-      "riotIdTagLine": "BOT",
-      "runes": {
-        "keystone": {
-          "displayName": "Agarre del Perpetuo",
-          "id": 8437,
-          "rawDescription": "perk_tooltip_GraspOfTheUndying",
-          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
-        },
-        "primaryRuneTree": {
-          "displayName": "Valor",
-          "id": 8400,
-          "rawDescription": "perkstyle_tooltip_7204",
-          "rawDisplayName": "perkstyle_displayname_7204"
-        },
-        "secondaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
-        }
-      },
-      "scores": {
-        "assists": 4,
-        "creepScore": 50,
-        "deaths": 8,
-        "kills": 10,
-        "wardScore": 14.102365493774414
-      },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Irelia",
-      "summonerSpells": {
-        "summonerSpellOne": {
-          "displayName": "Destello",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Teleportación Desatada",
-          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
-        }
-      },
-      "team": "ORDER"
-    },
-    {
-      "championName": "Rumble",
-      "isBot": true,
-      "isDead": false,
-      "items": [
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Sortija de Doran",
-          "itemID": 1056,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_1056_Description",
-          "rawDisplayName": "Item_1056_Name",
-          "slot": 0
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "El Tormento de Liandry",
-          "itemID": 6653,
-          "price": 800,
-          "rawDescription": "GeneratedTip_Item_6653_Description",
-          "rawDisplayName": "Item_6653_Name",
-          "slot": 1
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Mena Brillante",
-          "itemID": 2022,
-          "price": 250,
-          "rawDescription": "GeneratedTip_Item_2022_Description",
-          "rawDisplayName": "Item_2022_Name",
-          "slot": 2
         },
         {
           "canUse": false,
@@ -569,166 +423,9 @@
           "price": 300,
           "rawDescription": "GeneratedTip_Item_1001_Description",
           "rawDisplayName": "Item_1001_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Libro Amplificador",
-          "itemID": 1052,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_1052_Description",
-          "rawDisplayName": "Item_1052_Name",
-          "slot": 4
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Cristal de Rubí",
-          "itemID": 1028,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_1028_Description",
-          "rawDisplayName": "Item_1028_Name",
-          "slot": 5
-        },
-        {
-          "canUse": true,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Centinela Invisible",
-          "itemID": 3340,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3340_Description",
-          "rawDisplayName": "Item_3340_Name",
-          "slot": 6
-        }
-      ],
-      "level": 10,
-      "position": "TOP",
-      "rawChampionName": "game_character_displayname_Rumble",
-      "rawSkinName": "game_character_skin_displayname_Rumble_0",
-      "respawnTimer": 0,
-      "riotId": "Rumble#BOT",
-      "riotIdGameName": "Rumble",
-      "riotIdTagLine": "BOT",
-      "runes": {
-        "keystone": {
-          "displayName": "Cometa Arcano",
-          "id": 8229,
-          "rawDescription": "perk_tooltip_ArcaneComet",
-          "rawDisplayName": "perk_displayname_ArcaneComet"
-        },
-        "primaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
-        },
-        "secondaryRuneTree": {
-          "displayName": "Dominación",
-          "id": 8100,
-          "rawDescription": "perkstyle_tooltip_7200",
-          "rawDisplayName": "perkstyle_displayname_7200"
-        }
-      },
-      "scores": {
-        "assists": 0,
-        "creepScore": 50,
-        "deaths": 4,
-        "kills": 5,
-        "wardScore": 15.688243865966797
-      },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Rumble",
-      "summonerSpells": {
-        "summonerSpellOne": {
-          "displayName": "Destello",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Teleportación Desatada",
-          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
-        }
-      },
-      "team": "ORDER"
-    },
-    {
-      "championName": "Sona",
-      "isBot": true,
-      "isDead": false,
-      "items": [
-        {
-          "canUse": true,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Espina Dimensional de Zaz'Zak",
-          "itemID": 3871,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3871_Description",
-          "rawDisplayName": "Item_3871_Name",
-          "slot": 0
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Renovador de Piedra Lunar",
-          "itemID": 6617,
-          "price": 500,
-          "rawDescription": "GeneratedTip_Item_6617_Description",
-          "rawDisplayName": "Item_6617_Name",
-          "slot": 1
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Lágrima de la Diosa",
-          "itemID": 3070,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_3070_Description",
-          "rawDisplayName": "Item_3070_Name",
           "slot": 2
         },
         {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Cristal de Zafiro",
-          "itemID": 1027,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_1027_Description",
-          "rawDisplayName": "Item_1027_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Gemaluz",
-          "itemID": 3067,
-          "price": 150,
-          "rawDescription": "GeneratedTip_Item_3067_Description",
-          "rawDisplayName": "Item_3067_Name",
-          "slot": 4
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Espejo de Vitrobandle",
-          "itemID": 4642,
-          "price": 50,
-          "rawDescription": "GeneratedTip_Item_4642_Description",
-          "rawDisplayName": "Item_4642_Name",
-          "slot": 5
-        },
-        {
           "canUse": true,
           "consumable": false,
           "count": 1,
@@ -740,149 +437,14 @@
           "slot": 6
         }
       ],
-      "level": 9,
-      "position": "UTILITY",
-      "rawChampionName": "game_character_displayname_Sona",
-      "rawSkinName": "game_character_skin_displayname_Sona_0",
-      "respawnTimer": 0,
-      "riotId": "Sona#BOT",
-      "riotIdGameName": "Sona",
-      "riotIdTagLine": "BOT",
-      "runes": {
-        "keystone": {
-          "displayName": "Cometa Arcano",
-          "id": 8229,
-          "rawDescription": "perk_tooltip_ArcaneComet",
-          "rawDisplayName": "perk_displayname_ArcaneComet"
-        },
-        "primaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
-        },
-        "secondaryRuneTree": {
-          "displayName": "Dominación",
-          "id": 8100,
-          "rawDescription": "perkstyle_tooltip_7200",
-          "rawDisplayName": "perkstyle_displayname_7200"
-        }
-      },
-      "scores": {
-        "assists": 0,
-        "creepScore": 10,
-        "deaths": 8,
-        "kills": 5,
-        "wardScore": 30.432918548583984
-      },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Sona",
-      "summonerSpells": {
-        "summonerSpellOne": {
-          "displayName": "Destello",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Curación",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
-        }
-      },
-      "team": "ORDER"
-    },
-    {
-      "championName": "Akali",
-      "isBot": true,
-      "isDead": false,
-      "items": [
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Escudo de Doran",
-          "itemID": 1054,
-          "price": 450,
-          "rawDescription": "GeneratedTip_Item_1054_Description",
-          "rawDisplayName": "Item_1054_Name",
-          "slot": 0
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Mena Brillante",
-          "itemID": 2022,
-          "price": 250,
-          "rawDescription": "GeneratedTip_Item_2022_Description",
-          "rawDisplayName": "Item_2022_Name",
-          "slot": 1
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Descarga Tormentosa",
-          "itemID": 4646,
-          "price": 900,
-          "rawDescription": "GeneratedTip_Item_4646_Description",
-          "rawDisplayName": "Item_4646_Name",
-          "slot": 2
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Botas",
-          "itemID": 1001,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_1001_Description",
-          "rawDisplayName": "Item_1001_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Alternador Hextech",
-          "itemID": 3145,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_3145_Description",
-          "rawDisplayName": "Item_3145_Name",
-          "slot": 4
-        },
-        {
-          "canUse": true,
-          "consumable": true,
-          "count": 1,
-          "displayName": "Centinela de Control",
-          "itemID": 2055,
-          "price": 75,
-          "rawDescription": "GeneratedTip_Item_2055_Description",
-          "rawDisplayName": "Item_2055_Name",
-          "slot": 5
-        },
-        {
-          "canUse": true,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Centinela Invisible",
-          "itemID": 3340,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3340_Description",
-          "rawDisplayName": "Item_3340_Name",
-          "slot": 6
-        }
-      ],
-      "level": 9,
+      "level": 8,
       "position": "MIDDLE",
-      "rawChampionName": "game_character_displayname_Akali",
-      "rawSkinName": "game_character_skin_displayname_Akali_0",
+      "rawChampionName": "game_character_displayname_Zed",
+      "rawSkinName": "game_character_skin_displayname_Zed_36",
       "respawnTimer": 0,
-      "riotId": "Akali#BOT",
-      "riotIdGameName": "Akali",
-      "riotIdTagLine": "BOT",
+      "riotId": "LeBiche7#LAN",
+      "riotIdGameName": "LeBiche7",
+      "riotIdTagLine": "LAN",
       "runes": {
         "keystone": {
           "displayName": "Electrocutar",
@@ -904,32 +466,32 @@
         }
       },
       "scores": {
-        "assists": 2,
-        "creepScore": 40,
-        "deaths": 5,
-        "kills": 5,
-        "wardScore": 22.649961471557617
+        "assists": 0,
+        "creepScore": 50,
+        "deaths": 2,
+        "kills": 1,
+        "wardScore": 6.486597061157227
       },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Akali",
+      "skinID": 36,
+      "skinName": "Zed Gallardo",
+      "summonerName": "LeBiche7#LAN",
       "summonerSpells": {
         "summonerSpellOne": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+        },
+        "summonerSpellTwo": {
           "displayName": "Destello",
           "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
           "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Teleportación Desatada",
-          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
         }
       },
-      "team": "CHAOS"
+      "team": "ORDER"
     },
     {
-      "championName": "Kai'Sa",
-      "isBot": true,
+      "championName": "Miss Fortune",
+      "isBot": false,
       "isDead": false,
       "items": [
         {
@@ -944,139 +506,15 @@
           "slot": 0
         },
         {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Botas",
-          "itemID": 1001,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_1001_Description",
-          "rawDisplayName": "Item_1001_Name",
-          "slot": 1
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Honda del Explorador",
-          "itemID": 3144,
-          "price": 100,
-          "rawDescription": "GeneratedTip_Item_3144_Description",
-          "rawDisplayName": "Item_3144_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Matakrakens",
-          "itemID": 6672,
-          "price": 425,
-          "rawDescription": "GeneratedTip_Item_6672_Description",
-          "rawDisplayName": "Item_6672_Name",
-          "slot": 4
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Puñal Serrado",
-          "itemID": 3134,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_3134_Description",
-          "rawDisplayName": "Item_3134_Name",
-          "slot": 5
-        },
-        {
           "canUse": true,
-          "consumable": false,
+          "consumable": true,
           "count": 1,
-          "displayName": "Alteración de Visión Lejana",
-          "itemID": 3363,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3363_Description",
-          "rawDisplayName": "Item_3363_Name",
-          "slot": 6
-        }
-      ],
-      "level": 10,
-      "position": "BOTTOM",
-      "rawChampionName": "game_character_displayname_Kaisa",
-      "rawSkinName": "game_character_skin_displayname_Kaisa_0",
-      "respawnTimer": 0,
-      "riotId": "Kaisa#BOT",
-      "riotIdGameName": "Kaisa",
-      "riotIdTagLine": "BOT",
-      "runes": {
-        "keystone": {
-          "displayName": "Estrategia Ofensiva",
-          "id": 8005,
-          "rawDescription": "perk_tooltip_PressTheAttack",
-          "rawDisplayName": "perk_displayname_PressTheAttack"
-        },
-        "primaryRuneTree": {
-          "displayName": "Precisión",
-          "id": 8000,
-          "rawDescription": "perkstyle_tooltip_7201",
-          "rawDisplayName": "perkstyle_displayname_7201"
-        },
-        "secondaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
-        }
-      },
-      "scores": {
-        "assists": 2,
-        "creepScore": 80,
-        "deaths": 3,
-        "kills": 8,
-        "wardScore": 19.17548179626465
-      },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Kai'Sa",
-      "summonerSpells": {
-        "summonerSpellOne": {
-          "displayName": "Barrera",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerBarrier_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBarrier_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Destello",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        }
-      },
-      "team": "CHAOS"
-    },
-    {
-      "championName": "Maestro Yi",
-      "isBot": true,
-      "isDead": false,
-      "items": [
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Cría de Trotabrisas",
-          "itemID": 1102,
-          "price": 450,
-          "rawDescription": "GeneratedTip_Item_1102_Description",
-          "rawDisplayName": "Item_1102_Name",
-          "slot": 0
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Espada del Rey Arruinado",
-          "itemID": 3153,
-          "price": 725,
-          "rawDescription": "GeneratedTip_Item_3153_Description",
-          "rawDisplayName": "Item_3153_Name",
-          "slot": 1
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
+          "slot": 2
         },
         {
           "canUse": false,
@@ -1087,7 +525,18 @@
           "price": 425,
           "rawDescription": "GeneratedTip_Item_6690_Description",
           "rawDisplayName": "Item_6690_Name",
-          "slot": 2
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Puñal Serrado",
+          "itemID": 3134,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_3134_Description",
+          "rawDisplayName": "Item_3134_Name",
+          "slot": 4
         },
         {
           "canUse": false,
@@ -1098,28 +547,6 @@
           "price": 300,
           "rawDescription": "GeneratedTip_Item_1001_Description",
           "rawDisplayName": "Item_1001_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Libro Amplificador",
-          "itemID": 1052,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_1052_Description",
-          "rawDisplayName": "Item_1052_Name",
-          "slot": 4
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Arco Recurvado",
-          "itemID": 1043,
-          "price": 450,
-          "rawDescription": "GeneratedTip_Item_1043_Description",
-          "rawDisplayName": "Item_1043_Name",
           "slot": 5
         },
         {
@@ -1134,26 +561,26 @@
           "slot": 6
         }
       ],
-      "level": 9,
-      "position": "JUNGLE",
-      "rawChampionName": "game_character_displayname_MasterYi",
-      "rawSkinName": "game_character_skin_displayname_MasterYi_0",
+      "level": 6,
+      "position": "BOTTOM",
+      "rawChampionName": "game_character_displayname_MissFortune",
+      "rawSkinName": "game_character_skin_displayname_MissFortune_7",
       "respawnTimer": 0,
-      "riotId": "MasterYi#BOT",
-      "riotIdGameName": "MasterYi",
-      "riotIdTagLine": "BOT",
+      "riotId": "BukeleDicktador#503",
+      "riotIdGameName": "BukeleDicktador",
+      "riotIdTagLine": "503",
       "runes": {
         "keystone": {
-          "displayName": "Estrategia Ofensiva",
-          "id": 8005,
-          "rawDescription": "perk_tooltip_PressTheAttack",
-          "rawDisplayName": "perk_displayname_PressTheAttack"
+          "displayName": "Primer Golpe",
+          "id": 8369,
+          "rawDescription": "perk_tooltip_FirstStrike",
+          "rawDisplayName": "perk_displayname_FirstStrike"
         },
         "primaryRuneTree": {
-          "displayName": "Precisión",
-          "id": 8000,
-          "rawDescription": "perkstyle_tooltip_7201",
-          "rawDisplayName": "perkstyle_displayname_7201"
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
         },
         "secondaryRuneTree": {
           "displayName": "Brujería",
@@ -1163,167 +590,43 @@
         }
       },
       "scores": {
-        "assists": 4,
-        "creepScore": 60,
-        "deaths": 8,
-        "kills": 5,
-        "wardScore": 23.127117156982422
+        "assists": 2,
+        "creepScore": 40,
+        "deaths": 5,
+        "kills": 2,
+        "wardScore": 6.162787437438965
       },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Maestro Yi",
+      "skinID": 7,
+      "skinName": "Miss Fortune de Arcadia",
+      "summonerName": "BukeleDicktador#503",
       "summonerSpells": {
         "summonerSpellOne": {
+          "displayName": "Barrera",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerBarrier_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBarrier_DisplayName"
+        },
+        "summonerSpellTwo": {
           "displayName": "Destello",
           "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
           "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Castigo Desatado",
-          "rawDescription": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_DisplayName"
         }
       },
-      "team": "CHAOS"
+      "team": "ORDER"
     },
     {
-      "championName": "Cassiopeia",
-      "isBot": true,
-      "isDead": false,
-      "items": [
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Sortija de Doran",
-          "itemID": 1056,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_1056_Description",
-          "rawDisplayName": "Item_1056_Name",
-          "slot": 0
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Vara de las Edades",
-          "itemID": 6657,
-          "price": 450,
-          "rawDescription": "GeneratedTip_Item_6657_Description",
-          "rawDisplayName": "Item_6657_Name",
-          "slot": 1
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Lágrima de la Diosa",
-          "itemID": 3070,
-          "price": 400,
-          "rawDescription": "GeneratedTip_Item_3070_Description",
-          "rawDisplayName": "Item_3070_Name",
-          "slot": 2
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Cristal de Zafiro",
-          "itemID": 1027,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_1027_Description",
-          "rawDisplayName": "Item_1027_Name",
-          "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Códice Diabólico",
-          "itemID": 3108,
-          "price": 200,
-          "rawDescription": "GeneratedTip_Item_3108_Description",
-          "rawDisplayName": "Item_3108_Name",
-          "slot": 4
-        },
-        {
-          "canUse": true,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Alteración de Visión Lejana",
-          "itemID": 3363,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3363_Description",
-          "rawDisplayName": "Item_3363_Name",
-          "slot": 6
-        }
-      ],
-      "level": 11,
-      "position": "TOP",
-      "rawChampionName": "game_character_displayname_Cassiopeia",
-      "rawSkinName": "game_character_skin_displayname_Cassiopeia_0",
-      "respawnTimer": 0,
-      "riotId": "Cassiopeia#BOT",
-      "riotIdGameName": "Cassiopeia",
-      "riotIdTagLine": "BOT",
-      "runes": {
-        "keystone": {
-          "displayName": "Cometa Arcano",
-          "id": 8229,
-          "rawDescription": "perk_tooltip_ArcaneComet",
-          "rawDisplayName": "perk_displayname_ArcaneComet"
-        },
-        "primaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
-        },
-        "secondaryRuneTree": {
-          "displayName": "Dominación",
-          "id": 8100,
-          "rawDescription": "perkstyle_tooltip_7200",
-          "rawDisplayName": "perkstyle_displayname_7200"
-        }
-      },
-      "scores": {
-        "assists": 3,
-        "creepScore": 50,
-        "deaths": 6,
-        "kills": 7,
-        "wardScore": 25.522296905517578
-      },
-      "skinID": 0,
-      "skinName": "",
-      "summonerName": "Bot Cassiopeia",
-      "summonerSpells": {
-        "summonerSpellOne": {
-          "displayName": "Destello",
-          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
-        },
-        "summonerSpellTwo": {
-          "displayName": "Teleportación Desatada",
-          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
-          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
-        }
-      },
-      "team": "CHAOS"
-    },
-    {
-      "championName": "Annie",
-      "isBot": true,
-      "isDead": false,
+      "championName": "Swain",
+      "isBot": false,
+      "isDead": true,
       "items": [
         {
           "canUse": true,
           "consumable": false,
           "count": 1,
-          "displayName": "Espina Dimensional de Zaz'Zak",
-          "itemID": 3871,
-          "price": 0,
-          "rawDescription": "GeneratedTip_Item_3871_Description",
-          "rawDisplayName": "Item_3871_Name",
+          "displayName": "Brújula Rúnica",
+          "itemID": 3866,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3866_Description",
+          "rawDisplayName": "Item_3866_Name",
           "slot": 0
         },
         {
@@ -1341,34 +644,23 @@
           "canUse": false,
           "consumable": false,
           "count": 1,
-          "displayName": "Botas",
-          "itemID": 1001,
-          "price": 300,
-          "rawDescription": "GeneratedTip_Item_1001_Description",
-          "rawDisplayName": "Item_1001_Name",
+          "displayName": "Libro Amplificador",
+          "itemID": 1052,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_1052_Description",
+          "rawDisplayName": "Item_1052_Name",
           "slot": 2
         },
         {
-          "canUse": false,
-          "consumable": false,
+          "canUse": true,
+          "consumable": true,
           "count": 1,
-          "displayName": "Amuleto de las Hadas",
-          "itemID": 1004,
-          "price": 200,
-          "rawDescription": "GeneratedTip_Item_1004_Description",
-          "rawDisplayName": "Item_1004_Name",
+          "displayName": "Centinela de Control",
+          "itemID": 2055,
+          "price": 75,
+          "rawDescription": "GeneratedTip_Item_2055_Description",
+          "rawDisplayName": "Item_2055_Name",
           "slot": 3
-        },
-        {
-          "canUse": false,
-          "consumable": false,
-          "count": 1,
-          "displayName": "Cinturón de Gigante",
-          "itemID": 1011,
-          "price": 500,
-          "rawDescription": "GeneratedTip_Item_1011_Description",
-          "rawDisplayName": "Item_1011_Name",
-          "slot": 5
         },
         {
           "canUse": true,
@@ -1382,44 +674,405 @@
           "slot": 6
         }
       ],
-      "level": 10,
+      "level": 6,
       "position": "UTILITY",
-      "rawChampionName": "game_character_displayname_Annie",
-      "rawSkinName": "game_character_skin_displayname_Annie_0",
-      "respawnTimer": 0,
-      "riotId": "Annie#BOT",
-      "riotIdGameName": "Annie",
-      "riotIdTagLine": "BOT",
+      "rawChampionName": "game_character_displayname_Swain",
+      "rawSkinName": "game_character_skin_displayname_Swain_33",
+      "respawnTimer": 9.85285472869873,
+      "riotId": "A Matter of Time#TIME",
+      "riotIdGameName": "A Matter of Time",
+      "riotIdTagLine": "TIME",
       "runes": {
         "keystone": {
-          "displayName": "Cometa Arcano",
-          "id": 8229,
-          "rawDescription": "perk_tooltip_ArcaneComet",
-          "rawDisplayName": "perk_displayname_ArcaneComet"
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
         },
         "primaryRuneTree": {
-          "displayName": "Brujería",
-          "id": 8200,
-          "rawDescription": "perkstyle_tooltip_7202",
-          "rawDisplayName": "perkstyle_displayname_7202"
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
         },
         "secondaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        }
+      },
+      "scores": {
+        "assists": 1,
+        "creepScore": 10,
+        "deaths": 4,
+        "kills": 4,
+        "wardScore": 8.870732307434082
+      },
+      "skinID": 33,
+      "skinName": "Swain Elegido del Lobo Prestigioso",
+      "summonerName": "A Matter of Time#TIME",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Aurora",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas del Hechicero",
+          "itemID": 3020,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_3020_Description",
+          "rawDisplayName": "Item_3020_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "El Sello de la Oscuridad",
+          "itemID": 1082,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1082_Description",
+          "rawDisplayName": "Item_1082_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sortija de Doran",
+          "itemID": 1056,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_1056_Description",
+          "rawDisplayName": "Item_1056_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Capítulo Perdido",
+          "itemID": 3802,
+          "price": 250,
+          "rawDescription": "GeneratedTip_Item_3802_Description",
+          "rawDisplayName": "Item_3802_Name",
+          "slot": 3
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 9,
+      "position": "TOP",
+      "rawChampionName": "game_character_displayname_Aurora",
+      "rawSkinName": "game_character_skin_displayname_Aurora_0",
+      "respawnTimer": 0,
+      "riotId": "Daniel#Diaz",
+      "riotIdGameName": "Daniel",
+      "riotIdTagLine": "Diaz",
+      "runes": {
+        "keystone": {
+          "displayName": "Electrocutar",
+          "id": 8112,
+          "rawDescription": "perk_tooltip_Electrocute",
+          "rawDisplayName": "perk_displayname_Electrocute"
+        },
+        "primaryRuneTree": {
           "displayName": "Dominación",
           "id": 8100,
           "rawDescription": "perkstyle_tooltip_7200",
           "rawDisplayName": "perkstyle_displayname_7200"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
         }
       },
       "scores": {
-        "assists": 6,
-        "creepScore": 30,
-        "deaths": 3,
-        "kills": 4,
-        "wardScore": 17.758909225463867
+        "assists": 1,
+        "creepScore": 70,
+        "deaths": 1,
+        "kills": 3,
+        "wardScore": 2.1452152729034424
       },
       "skinID": 0,
       "skinName": "",
-      "summonerName": "Bot Annie",
+      "summonerName": "Daniel#Diaz",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Teleportación Desatada",
+          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Ekko",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cría de Trotabrisas",
+          "itemID": 1102,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1102_Description",
+          "rawDisplayName": "Item_1102_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cinturón Cohete Hextech",
+          "itemID": 3152,
+          "price": 700,
+          "rawDescription": "GeneratedTip_Item_3152_Description",
+          "rawDisplayName": "Item_3152_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Libro Amplificador",
+          "itemID": 1052,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_1052_Description",
+          "rawDisplayName": "Item_1052_Name",
+          "slot": 3
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 7,
+      "position": "JUNGLE",
+      "rawChampionName": "game_character_displayname_Ekko",
+      "rawSkinName": "game_character_skin_displayname_Ekko_3",
+      "respawnTimer": 0,
+      "riotId": "NO GANKEO0 TOP#LAN",
+      "riotIdGameName": "NO GANKEO0 TOP",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Cosecha Oscura",
+          "id": 8128,
+          "rawDescription": "perk_tooltip_DarkHarvest",
+          "rawDisplayName": "perk_displayname_DarkHarvest"
+        },
+        "primaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        }
+      },
+      "scores": {
+        "assists": 4,
+        "creepScore": 10,
+        "deaths": 0,
+        "kills": 2,
+        "wardScore": 6.025735855102539
+      },
+      "skinID": 3,
+      "skinName": "PROYECTO: Ekko",
+      "summonerName": "NO GANKEO0 TOP#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Castigo Desatado",
+          "rawDescription": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S5_SummonerSmitePlayerGanker_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Qiyana",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Puñal Serrado",
+          "itemID": 3134,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_3134_Description",
+          "rawDisplayName": "Item_3134_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Poción Reutilizable",
+          "itemID": 2031,
+          "price": 150,
+          "rawDescription": "GeneratedTip_Item_2031_Description",
+          "rawDisplayName": "Item_2031_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Mena Brillante",
+          "itemID": 2022,
+          "price": 250,
+          "rawDescription": "GeneratedTip_Item_2022_Description",
+          "rawDisplayName": "Item_2022_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada de Doran",
+          "itemID": 1055,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1055_Description",
+          "rawDisplayName": "Item_1055_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada Larga",
+          "itemID": 1036,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1036_Description",
+          "rawDisplayName": "Item_1036_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 8,
+      "position": "MIDDLE",
+      "rawChampionName": "game_character_displayname_Qiyana",
+      "rawSkinName": "game_character_skin_displayname_Qiyana_0",
+      "respawnTimer": 0,
+      "riotId": "Hatsune Miku#69sxo",
+      "riotIdGameName": "Hatsune Miku",
+      "riotIdTagLine": "69sxo",
+      "runes": {
+        "keystone": {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        }
+      },
+      "scores": {
+        "assists": 1,
+        "creepScore": 60,
+        "deaths": 1,
+        "kills": 1,
+        "wardScore": 6.710738182067871
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "Hatsune Miku#69sxo",
       "summonerSpells": {
         "summonerSpellOne": {
           "displayName": "Destello",
@@ -1433,6 +1086,221 @@
         }
       },
       "team": "CHAOS"
+    },
+    {
+      "championName": "Draven",
+      "isBot": false,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada de Doran",
+          "itemID": 1055,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1055_Description",
+          "rawDisplayName": "Item_1055_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "El Coleccionista",
+          "itemID": 6676,
+          "price": 525,
+          "rawDescription": "GeneratedTip_Item_6676_Description",
+          "rawDisplayName": "Item_6676_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas",
+          "itemID": 1001,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_1001_Description",
+          "rawDisplayName": "Item_1001_Name",
+          "slot": 2
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 6,
+      "position": "BOTTOM",
+      "rawChampionName": "game_character_displayname_Draven",
+      "rawSkinName": "game_character_skin_displayname_Draven_2",
+      "respawnTimer": 14.137779235839844,
+      "riotId": "Kasane Teto#void",
+      "riotIdGameName": "Kasane Teto",
+      "riotIdTagLine": "void",
+      "runes": {
+        "keystone": {
+          "displayName": "Cadencia Letal",
+          "id": 8008,
+          "rawDescription": "perk_tooltip_LethalTempo",
+          "rawDisplayName": "perk_displayname_LethalTempo"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 6,
+        "creepScore": 30,
+        "deaths": 5,
+        "kills": 6,
+        "wardScore": 4.42963981628418
+      },
+      "skinID": 2,
+      "skinName": "Draven Gladiador",
+      "summonerName": "Kasane Teto#void",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Barrera",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerBarrier_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBarrier_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Pyke",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Brújula Rúnica",
+          "itemID": 3866,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3866_Description",
+          "rawDisplayName": "Item_3866_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Martillo de Guerra de Caulfield",
+          "itemID": 3133,
+          "price": 100,
+          "rawDescription": "GeneratedTip_Item_3133_Description",
+          "rawDisplayName": "Item_3133_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas Simbióticas",
+          "itemID": 3010,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_3010_Description",
+          "rawDisplayName": "Item_3010_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Puñal Serrado",
+          "itemID": 3134,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_3134_Description",
+          "rawDisplayName": "Item_3134_Name",
+          "slot": 3
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 7,
+      "position": "UTILITY",
+      "rawChampionName": "game_character_displayname_Pyke",
+      "rawSkinName": "game_character_skin_displayname_Pyke_45",
+      "respawnTimer": 0,
+      "riotId": "Demo 么 OneTap#247",
+      "riotIdGameName": "Demo 么 OneTap",
+      "riotIdTagLine": "247",
+      "runes": {
+        "keystone": {
+          "displayName": "Cosecha Oscura",
+          "id": 8128,
+          "rawDescription": "perk_tooltip_DarkHarvest",
+          "rawDisplayName": "perk_displayname_DarkHarvest"
+        },
+        "primaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        }
+      },
+      "scores": {
+        "assists": 4,
+        "creepScore": 10,
+        "deaths": 1,
+        "kills": 4,
+        "wardScore": 8.958256721496582
+      },
+      "skinID": 45,
+      "skinName": "Pyke Empíreo",
+      "summonerName": "Demo 么 OneTap#247",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Teleportación Desatada",
+          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+        }
+      },
+      "team": "CHAOS"
     }
   ],
   "events": {
@@ -1440,617 +1308,288 @@
       {
         "EventID": 0,
         "EventName": "GameStart",
-        "EventTime": 0.04669500142335892
+        "EventTime": 0.04791640117764473
       },
       {
         "EventID": 1,
         "EventName": "MinionsSpawning",
-        "EventTime": 65.08610534667969
+        "EventTime": 65.07974243164062
       },
       {
         "Assisters": [
-          "Bot Maestro Yi"
+          "NO GANKEO0 TOP",
+          "Kasane Teto"
         ],
         "EventID": 2,
         "EventName": "ChampionKill",
-        "EventTime": 261.28564453125,
-        "KillerName": "Bot Akali",
-        "VictimName": "Bot Wukong"
+        "EventTime": 84.33077239990234,
+        "KillerName": "Daniel",
+        "VictimName": "iLiVen"
       },
       {
         "EventID": 3,
         "EventName": "FirstBlood",
-        "EventTime": 261.28564453125,
-        "Recipient": "Bot Akali"
+        "EventTime": 84.33077239990234,
+        "Recipient": "Daniel"
       },
       {
         "Assisters": [
-          "Bot Irelia"
+          "Daniel",
+          "Kasane Teto"
         ],
         "EventID": 4,
         "EventName": "ChampionKill",
-        "EventTime": 268.6702575683594,
-        "KillerName": "Bot Sona",
-        "VictimName": "Bot Annie"
-      },
-      {
-        "Assisters": [],
-        "EventID": 5,
-        "EventName": "ChampionKill",
-        "EventTime": 294.0443115234375,
-        "KillerName": "Bot Rumble",
-        "VictimName": "Bot Akali"
+        "EventTime": 88.75022888183594,
+        "KillerName": "NO GANKEO0 TOP",
+        "VictimName": "A Matter of Time"
       },
       {
         "Assisters": [
-          "Bot Annie"
+          "Demo 么 OneTap"
         ],
-        "EventID": 6,
+        "EventID": 5,
         "EventName": "ChampionKill",
-        "EventTime": 331.7537536621094,
-        "KillerName": "Bot Maestro Yi",
-        "VictimName": "Bot Sona"
+        "EventTime": 147.6276397705078,
+        "KillerName": "Kasane Teto",
+        "VictimName": "BukeleDicktador"
       },
       {
         "Assisters": [],
+        "EventID": 6,
+        "EventName": "ChampionKill",
+        "EventTime": 175.67430114746094,
+        "KillerName": "A Matter of Time",
+        "VictimName": "Kasane Teto"
+      },
+      {
+        "Assisters": [
+          "Kasane Teto"
+        ],
         "EventID": 7,
         "EventName": "ChampionKill",
-        "EventTime": 332.7977294921875,
-        "KillerName": "Bot Cassiopeia",
+        "EventTime": 181.50270080566406,
+        "KillerName": "Demo 么 OneTap",
+        "VictimName": "A Matter of Time"
+      },
+      {
+        "Assisters": [],
+        "EventID": 8,
+        "EventName": "ChampionKill",
+        "EventTime": 208.6077880859375,
+        "KillerName": "LeBiche7",
+        "VictimName": "Hatsune Miku"
+      },
+      {
+        "Assisters": [
+          "iLiVen"
+        ],
+        "EventID": 9,
+        "EventName": "ChampionKill",
+        "EventTime": 255.16665649414062,
+        "KillerName": "T1 Xiorena",
+        "VictimName": "Daniel"
+      },
+      {
+        "Assisters": [
+          "Demo 么 OneTap"
+        ],
+        "EventID": 10,
+        "EventName": "ChampionKill",
+        "EventTime": 280.448486328125,
+        "KillerName": "Kasane Teto",
         "VictimName": "BukeleDicktador"
       },
       {
         "Assisters": [
-          "Bot Irelia"
-        ],
-        "EventID": 8,
-        "EventName": "ChampionKill",
-        "EventTime": 342.28497314453125,
-        "KillerName": "Bot Wukong",
-        "VictimName": "Bot Kai'Sa"
-      },
-      {
-        "Assisters": [
-          "Bot Irelia"
-        ],
-        "EventID": 9,
-        "EventName": "ChampionKill",
-        "EventTime": 348.6989440917969,
-        "KillerName": "Bot Wukong",
-        "VictimName": "Bot Maestro Yi"
-      },
-      {
-        "EventID": 10,
-        "EventName": "Multikill",
-        "EventTime": 348.6989440917969,
-        "KillStreak": 2,
-        "KillerName": "Bot Wukong"
-      },
-      {
-        "Assisters": [
-          "Bot Akali"
+          "BukeleDicktador"
         ],
         "EventID": 11,
-        "EventName": "HordeKill",
-        "EventTime": 404.0955810546875,
-        "KillerName": "Bot Maestro Yi",
-        "Stolen": "False"
+        "EventName": "ChampionKill",
+        "EventTime": 281.43621826171875,
+        "KillerName": "A Matter of Time",
+        "VictimName": "Kasane Teto"
+      },
+      {
+        "Assisters": [
+          "Kasane Teto"
+        ],
+        "EventID": 12,
+        "EventName": "ChampionKill",
+        "EventTime": 292.16766357421875,
+        "KillerName": "Demo 么 OneTap",
+        "VictimName": "A Matter of Time"
       },
       {
         "Assisters": [],
-        "EventID": 12,
-        "EventName": "ChampionKill",
-        "EventTime": 424.746337890625,
-        "KillerName": "Bot Akali",
-        "VictimName": "Bot Wukong"
-      },
-      {
-        "Assisters": [
-          "Bot Cassiopeia"
-        ],
         "EventID": 13,
         "EventName": "ChampionKill",
-        "EventTime": 463.033935546875,
-        "KillerName": "Bot Maestro Yi",
-        "VictimName": "Bot Irelia"
+        "EventTime": 351.78143310546875,
+        "KillerName": "Hatsune Miku",
+        "VictimName": "LeBiche7"
       },
       {
         "Assisters": [
-          "Bot Irelia",
-          "Bot Rumble",
-          "Bot Maestro Yi"
+          "NO GANKEO0 TOP"
         ],
         "EventID": 14,
-        "EventName": "HordeKill",
-        "EventTime": 463.8118591308594,
-        "KillerName": "Bot Cassiopeia",
-        "Stolen": "False"
+        "EventName": "ChampionKill",
+        "EventTime": 362.7085876464844,
+        "KillerName": "Demo 么 OneTap",
+        "VictimName": "T1 Xiorena"
       },
       {
-        "Assisters": [
-          "Bot Wukong"
-        ],
+        "Assisters": [],
         "EventID": 15,
         "EventName": "ChampionKill",
-        "EventTime": 475.1954345703125,
-        "KillerName": "Bot Rumble",
-        "VictimName": "Bot Cassiopeia"
+        "EventTime": 363.1940612792969,
+        "KillerName": "Kasane Teto",
+        "VictimName": "BukeleDicktador"
       },
       {
         "Assisters": [],
         "EventID": 16,
-        "EventName": "ChampionKill",
-        "EventTime": 502.9039001464844,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Akali"
+        "EventName": "HordeKill",
+        "EventTime": 440.0139465332031,
+        "KillerName": "T1 Xiorena",
+        "Stolen": "False"
       },
       {
         "Assisters": [
-          "Bot Wukong"
+          "T1 Xiorena"
         ],
         "EventID": 17,
-        "EventName": "ChampionKill",
-        "EventTime": 525.3743286132812,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Cassiopeia"
+        "EventName": "HordeKill",
+        "EventTime": 450.3710021972656,
+        "KillerName": "iLiVen",
+        "Stolen": "False"
       },
       {
-        "Assisters": [],
+        "Assisters": [
+          "iLiVen"
+        ],
         "EventID": 18,
-        "EventName": "ChampionKill",
-        "EventTime": 525.3743286132812,
-        "KillerName": "Bot Cassiopeia",
-        "VictimName": "Bot Wukong"
+        "EventName": "HordeKill",
+        "EventTime": 457.268798828125,
+        "KillerName": "T1 Xiorena",
+        "Stolen": "False"
       },
       {
         "Assisters": [],
         "EventID": 19,
         "EventName": "ChampionKill",
-        "EventTime": 532.7739868164062,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Sona"
+        "EventTime": 480.73193359375,
+        "KillerName": "Daniel",
+        "VictimName": "iLiVen"
       },
       {
         "Assisters": [
-          "Bot Cassiopeia"
+          "Hatsune Miku",
+          "Kasane Teto",
+          "Demo 么 OneTap"
         ],
         "EventID": 20,
         "EventName": "ChampionKill",
-        "EventTime": 532.9371337890625,
-        "KillerName": "Bot Maestro Yi",
-        "VictimName": "Bot Irelia"
+        "EventTime": 512.10693359375,
+        "KillerName": "NO GANKEO0 TOP",
+        "VictimName": "LeBiche7"
       },
       {
         "Assisters": [
-          "Bot Cassiopeia"
+          "NO GANKEO0 TOP",
+          "Demo 么 OneTap"
         ],
         "EventID": 21,
         "EventName": "ChampionKill",
-        "EventTime": 575.6962890625,
-        "KillerName": "Bot Maestro Yi",
-        "VictimName": "Bot Rumble"
-      },
-      {
-        "Assisters": [],
-        "EventID": 22,
-        "EventName": "ChampionKill",
-        "EventTime": 576.2972412109375,
-        "KillerName": "Bot Rumble",
-        "VictimName": "Bot Maestro Yi"
+        "EventTime": 522.7113037109375,
+        "KillerName": "Kasane Teto",
+        "VictimName": "BukeleDicktador"
       },
       {
         "Assisters": [
-          "Bot Irelia"
+          "T1 Xiorena",
+          "BukeleDicktador"
+        ],
+        "EventID": 22,
+        "EventName": "ChampionKill",
+        "EventTime": 525.8574829101562,
+        "KillerName": "A Matter of Time",
+        "VictimName": "Kasane Teto"
+      },
+      {
+        "Assisters": [
+          "NO GANKEO0 TOP",
+          "Kasane Teto"
         ],
         "EventID": 23,
         "EventName": "ChampionKill",
-        "EventTime": 611.0260620117188,
-        "KillerName": "Bot Wukong",
-        "VictimName": "Bot Cassiopeia"
+        "EventTime": 533.6820068359375,
+        "KillerName": "Demo 么 OneTap",
+        "VictimName": "T1 Xiorena"
       },
       {
         "Assisters": [
-          "Bot Wukong"
+          "T1 Xiorena"
         ],
         "EventID": 24,
         "EventName": "ChampionKill",
-        "EventTime": 629.6527709960938,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Maestro Yi"
+        "EventTime": 535.4115600585938,
+        "KillerName": "A Matter of Time",
+        "VictimName": "Demo 么 OneTap"
       },
       {
-        "Assisters": [
-          "Bot Irelia"
-        ],
         "EventID": 25,
-        "EventName": "HordeKill",
-        "EventTime": 632.689453125,
-        "KillerName": "Bot Wukong",
-        "Stolen": "False"
+        "EventName": "Multikill",
+        "EventTime": 535.4115600585938,
+        "KillStreak": 2,
+        "KillerName": "A Matter of Time"
       },
       {
-        "Assisters": [
-          "Bot Maestro Yi"
-        ],
+        "Assisters": [],
         "EventID": 26,
         "EventName": "ChampionKill",
-        "EventTime": 641.2010498046875,
-        "KillerName": "Bot Cassiopeia",
-        "VictimName": "Bot Irelia"
+        "EventTime": 578.0393676757812,
+        "KillerName": "Kasane Teto",
+        "VictimName": "BukeleDicktador"
       },
       {
         "Assisters": [],
         "EventID": 27,
         "EventName": "ChampionKill",
-        "EventTime": 644.5211181640625,
-        "KillerName": "Bot Rumble",
-        "VictimName": "Bot Annie"
+        "EventTime": 578.0393676757812,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "Kasane Teto"
       },
       {
-        "Assisters": [
-          "Bot Akali",
-          "Bot Annie"
-        ],
+        "Assisters": [],
         "EventID": 28,
         "EventName": "ChampionKill",
-        "EventTime": 650.7694702148438,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Rumble"
+        "EventTime": 597.6580200195312,
+        "KillerName": "Daniel",
+        "VictimName": "iLiVen"
       },
       {
         "Assisters": [],
         "EventID": 29,
         "EventName": "ChampionKill",
-        "EventTime": 683.9436645507812,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Cassiopeia"
+        "EventTime": 625.3262329101562,
+        "KillerName": "Kasane Teto",
+        "VictimName": "A Matter of Time"
       },
       {
         "Assisters": [
-          "Bot Wukong"
+          "A Matter of Time"
         ],
         "EventID": 30,
         "EventName": "ChampionKill",
-        "EventTime": 732.005126953125,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Kai'Sa"
-      },
-      {
-        "Assisters": [],
-        "EventID": 31,
-        "EventName": "ChampionKill",
-        "EventTime": 744.5943603515625,
-        "KillerName": "Bot Wukong",
-        "VictimName": "Bot Maestro Yi"
-      },
-      {
-        "Assisters": [],
-        "EventID": 32,
-        "EventName": "ChampionKill",
-        "EventTime": 763.4669189453125,
-        "KillerName": "sru_dragon_water.18.1",
-        "VictimName": "Bot Wukong"
-      },
-      {
-        "Assisters": [],
-        "EventID": 33,
-        "EventName": "ChampionKill",
-        "EventTime": 772.1094360351562,
-        "KillerName": "Bot Annie",
-        "VictimName": "Bot Irelia"
-      },
-      {
-        "Assisters": [],
-        "EventID": 34,
-        "EventName": "ChampionKill",
-        "EventTime": 795.558837890625,
-        "KillerName": "Bot Cassiopeia",
-        "VictimName": "Bot Rumble"
-      },
-      {
-        "Assisters": [],
-        "EventID": 35,
-        "EventName": "ChampionKill",
-        "EventTime": 801.9189453125,
-        "KillerName": "Bot Sona",
-        "VictimName": "Bot Akali"
-      },
-      {
-        "Assisters": [
-          "Bot Maestro Yi"
-        ],
-        "EventID": 36,
-        "EventName": "ChampionKill",
-        "EventTime": 816.4161987304688,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Sona"
-      },
-      {
-        "Assisters": [
-          "Bot Maestro Yi"
-        ],
-        "EventID": 37,
-        "EventName": "ChampionKill",
-        "EventTime": 824.352294921875,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Wukong"
-      },
-      {
-        "EventID": 38,
-        "EventName": "Multikill",
-        "EventTime": 824.352294921875,
-        "KillStreak": 2,
-        "KillerName": "Bot Kai'Sa"
-      },
-      {
-        "Assisters": [
-          "Bot Wukong"
-        ],
-        "EventID": 39,
-        "EventName": "ChampionKill",
-        "EventTime": 833.6322631835938,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Maestro Yi"
-      },
-      {
-        "Assisters": [],
-        "EventID": 40,
-        "EventName": "ChampionKill",
-        "EventTime": 846.1578369140625,
-        "KillerName": "Bot Cassiopeia",
-        "VictimName": "Bot Rumble"
-      },
-      {
-        "Assisters": [],
-        "EventID": 41,
-        "EventName": "ChampionKill",
-        "EventTime": 860.5534057617188,
-        "KillerName": "Turret_T100_L2_P3_1509986696",
-        "VictimName": "Bot Cassiopeia"
-      },
-      {
-        "Assisters": [
-          "Bot Annie"
-        ],
-        "EventID": 42,
-        "EventName": "ChampionKill",
-        "EventTime": 861.2568359375,
-        "KillerName": "Bot Akali",
-        "VictimName": "BukeleDicktador"
-      },
-      {
-        "Assisters": [
-          "Bot Akali"
-        ],
-        "EventID": 43,
-        "EventName": "ChampionKill",
-        "EventTime": 878.4967041015625,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Irelia"
-      },
-      {
-        "Assisters": [],
-        "EventID": 44,
-        "EventName": "ChampionKill",
-        "EventTime": 894.2304077148438,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Sona"
-      },
-      {
-        "Assisters": [],
-        "EventID": 45,
-        "EventName": "ChampionKill",
-        "EventTime": 934.0445556640625,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Maestro Yi"
-      },
-      {
-        "Assisters": [],
-        "EventID": 46,
-        "EventName": "ChampionKill",
-        "EventTime": 938.00244140625,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Akali"
-      },
-      {
-        "EventID": 47,
-        "EventName": "Multikill",
-        "EventTime": 938.00244140625,
-        "KillStreak": 2,
-        "KillerName": "Bot Irelia"
-      },
-      {
-        "Assisters": [
-          "Bot Kai'Sa"
-        ],
-        "EventID": 48,
-        "EventName": "ChampionKill",
-        "EventTime": 971.5958862304688,
-        "KillerName": "Bot Annie",
-        "VictimName": "Bot Sona"
-      },
-      {
-        "Assisters": [
-          "Bot Akali"
-        ],
-        "DragonType": "Water",
-        "EventID": 49,
-        "EventName": "DragonKill",
-        "EventTime": 1005.0728759765625,
-        "KillerName": "Bot Maestro Yi",
-        "Stolen": "False"
-      },
-      {
-        "Assisters": [],
-        "EventID": 50,
-        "EventName": "ChampionKill",
-        "EventTime": 1029.6611328125,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Maestro Yi"
-      },
-      {
-        "Assisters": [],
-        "EventID": 51,
-        "EventName": "ChampionKill",
-        "EventTime": 1048.2913818359375,
-        "KillerName": "Bot Akali",
-        "VictimName": "Bot Irelia"
-      },
-      {
-        "Assisters": [],
-        "EventID": 52,
-        "EventName": "ChampionKill",
-        "EventTime": 1059.489501953125,
-        "KillerName": "Bot Sona",
-        "VictimName": "Bot Kai'Sa"
-      },
-      {
-        "Assisters": [],
-        "EventID": 53,
-        "EventName": "ChampionKill",
-        "EventTime": 1062.0372314453125,
-        "KillerName": "Bot Sona",
-        "VictimName": "Bot Annie"
-      },
-      {
-        "EventID": 54,
-        "EventName": "Multikill",
-        "EventTime": 1062.0372314453125,
-        "KillStreak": 2,
-        "KillerName": "Bot Sona"
-      },
-      {
-        "Assisters": [],
-        "EventID": 55,
-        "EventName": "ChampionKill",
-        "EventTime": 1062.591552734375,
-        "KillerName": "Bot Annie",
-        "VictimName": "Bot Sona"
-      },
-      {
-        "Assisters": [],
-        "EventID": 56,
-        "EventName": "ChampionKill",
-        "EventTime": 1087.9100341796875,
-        "KillerName": "Bot Cassiopeia",
-        "VictimName": "Bot Wukong"
-      },
-      {
-        "Assisters": [
-          "Bot Annie"
-        ],
-        "EventID": 57,
-        "EventName": "ChampionKill",
-        "EventTime": 1123.306640625,
-        "KillerName": "Bot Akali",
-        "VictimName": "Bot Irelia"
-      },
-      {
-        "Assisters": [],
-        "EventID": 58,
-        "EventName": "ChampionKill",
-        "EventTime": 1158.21240234375,
-        "KillerName": "Bot Maestro Yi",
-        "VictimName": "Bot Sona"
-      },
-      {
-        "Assisters": [],
-        "EventID": 59,
-        "EventName": "ChampionKill",
-        "EventTime": 1160.5419921875,
-        "KillerName": "Bot Sona",
-        "VictimName": "Bot Maestro Yi"
-      },
-      {
-        "Assisters": [],
-        "EventID": 60,
-        "EventName": "TurretKilled",
-        "EventTime": 1164.14501953125,
-        "KillerName": "Bot Kai'Sa",
-        "TurretKilled": "Turret_T100_L0_P3_3795288474"
-      },
-      {
-        "EventID": 61,
-        "EventName": "FirstBrick",
-        "EventTime": 1164.14501953125,
-        "KillerName": "Bot Kai'Sa"
-      },
-      {
-        "Assisters": [
-          "Bot Wukong"
-        ],
-        "EventID": 62,
-        "EventName": "ChampionKill",
-        "EventTime": 1184.41845703125,
-        "KillerName": "Bot Irelia",
-        "VictimName": "Bot Akali"
-      },
-      {
-        "Assisters": [],
-        "EventID": 63,
-        "EventName": "ChampionKill",
-        "EventTime": 1194.5748291015625,
-        "KillerName": "Bot Cassiopeia",
-        "VictimName": "BukeleDicktador"
-      },
-      {
-        "Assisters": [],
-        "EventID": 64,
-        "EventName": "ChampionKill",
-        "EventTime": 1204.9525146484375,
-        "KillerName": "Bot Rumble",
-        "VictimName": "Bot Cassiopeia"
-      },
-      {
-        "Assisters": [
-          "Bot Annie"
-        ],
-        "EventID": 65,
-        "EventName": "ChampionKill",
-        "EventTime": 1211.206298828125,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Wukong"
-      },
-      {
-        "Assisters": [
-          "Bot Annie"
-        ],
-        "EventID": 66,
-        "EventName": "ChampionKill",
-        "EventTime": 1215.9599609375,
-        "KillerName": "Bot Kai'Sa",
-        "VictimName": "Bot Sona"
-      },
-      {
-        "EventID": 67,
-        "EventName": "Multikill",
-        "EventTime": 1215.9599609375,
-        "KillStreak": 2,
-        "KillerName": "Bot Kai'Sa"
-      },
-      {
-        "Assisters": [
-          "Bot Kai'Sa"
-        ],
-        "EventID": 68,
-        "EventName": "ChampionKill",
-        "EventTime": 1220.1920166015625,
-        "KillerName": "Bot Annie",
-        "VictimName": "Bot Irelia"
-      },
-      {
-        "Assisters": [],
-        "EventID": 69,
-        "EventName": "TurretKilled",
-        "EventTime": 1239.3990478515625,
-        "KillerName": "Bot Annie",
-        "TurretKilled": "Turret_T100_L0_P2_3812066093"
+        "EventTime": 629.6112060546875,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "Kasane Teto"
       }
     ]
   },
   "gameData": {
     "gameMode": "CLASSIC",
-    "gameTime": 1258.5567626953125,
+    "gameTime": 631.473388671875,
     "mapName": "Map11",
     "mapNumber": 11,
     "mapTerrain": "Default"

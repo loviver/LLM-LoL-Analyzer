@@ -38,16 +38,15 @@ console.log(`✅ WebSocket Server running on ws://localhost:${PORT}`);
 
 const clients = new Set<WebSocket>();
 
-/*
 setInterval(() => {
+
+  const readImprovedData = fs.readFileSync('./data/current/improvedData.json', 'utf8');
+
   broadcast({
-    type: 'couch-response',
-    data: {
-      final_recommendation: "¡Hola! Soy CouchBot. ¿En qué puedo ayudarte hoy?"
-    }
+    type: 'game-data',
+    data: readImprovedData
   });
 }, 5000);
-*/
 
 wss.on('connection', (ws) => {
   console.log("🔌 Nuevo cliente conectado");
@@ -91,7 +90,7 @@ listener.on('championSelect', async (data: any) => {
 
   const isYourTurn = data.teams.myTeam.some((player: any) => player.isInProgress === true);
 
-  if(changed/* && leftPlayers.length == 0*/) {
+  if(changed && (isYourTurn || leftPlayers.length == 0)) {
     championSelectData = data;
     
     const jsonStructure = fs.readFileSync('data/static/modelChampionSelect.json', 'utf8');

@@ -58,7 +58,11 @@ export default function Home() {
         
         const updatedGameData = {
           ...gameData,
-          champion: responseData.current.championName
+          champion: responseData.current.championName,
+          gameTime: responseData.currentTime,
+          lane: responseData.current.position,
+          opponent: responseData.current.directOponent,
+          phase: responseData.phase
         };
         setGameData(updatedGameData);
       }

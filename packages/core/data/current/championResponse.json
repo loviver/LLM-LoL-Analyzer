@@ -1,45 +1,44 @@
 {
-  "final_recommendation": "Tu equipo tiene una buena mezcla de daño, control y aguante, pero le falta un carry de daño físico puro. Considera elegir un ADC tradicional como Jinx o Caitlyn, o un luchador de daño como Tryndamere si quieres algo más agresivo.",
+  "final_recommendation": "La composición de tu equipo tiene buen daño y potencial de asesinato, pero carece de un tanque puro y control de masas fiable. El equipo enemigo tiene mucho daño explosivo y movilidad. Para mejorar, considera runas defensivas para los carries y un objeto de resistencia mágica temprano.  Contra la composición enemiga, un campeón con control de masas como Sejuani, Amumu o Leona sería ideal. Priorizar objetivos y no iniciar peleas desfavorables será crucial.",
   "summary": [
     {
-      "title": "Análisis de Composición de Equipo",
-      "team": "Elise, Wukong, Irelia, Rumble, Sona",
+      "title": "Análisis de Composición de Equipo (Tu Equipo)",
+      "team": "Miss Fortune, Swain, Nocturne, Zed, Teemo",
       "strengths": [
-        "Diversidad de daño: Tienes daño mágico con Elise, Rumble y Sona, y daño físico con Wukong e Irelia.",
-        "Potencial de Engage: Wukong e Irelia pueden iniciar peleas, mientras que Elise y Rumble pueden seguir con daño explosivo.",
-        "Sustain y Peel: Sona provee curación y control de masas para proteger a tus carries."
+        "Alto potencial de daño: Miss Fortune y Zed aportan daño explosivo, mientras que Swain y Teemo ofrecen daño sostenido y control de zonas.",
+        "Capacidad de asesinato: Nocturne y Zed pueden eliminar rápidamente objetivos clave.",
+        "Versatilidad: La variedad de campeones permite adaptarse a diferentes situaciones."
       ],
       "weaknesses": [
-        "Falta de un ADC tradicional: No tienes un hipercarry de daño sostenido, lo que puede dificultar las peleas prolongadas y la toma de objetivos.",
-        "Vulnerabilidad a composiciones de poke: Rumble es vulnerable al poke debido a su rango corto, y Sona puede ser fácilmente asesinada si la atrapan.",
-        "Dependencia del Maná: La mayoría de tus campeones dependen del maná, lo que puede ser problemático en las fases iniciales del juego."
+        "Falta de tanque: El equipo carece de un tanque puro, lo que lo hace vulnerable a composiciones centradas en daño explosivo.",
+        "Control de masas limitado: No hay campeones con control de masas fiable para proteger a los carries o iniciar peleas.",
+        "Vulnerabilidad a la movilidad: Campeones con alta movilidad como los del equipo enemigo (Qiyana, Ekko) pueden esquivar habilidades y flanquear fácilmente."
       ],
       "currentSituation": [
-        "Fase de Selección: Tienes una composición decente, pero podrías beneficiarte de un ADC tradicional para tener una fuente de daño más fiable en las últimas etapas del juego.",
-        "Riesgo sin información del equipo enemigo: La falta de información sobre el equipo enemigo dificulta la optimización de tu composición. Considera elegir un campeón versátil que pueda adaptarse a diferentes situaciones.",
-        "Prioridades en la partida:",
-        [
-          "Control de la jungla: Elise debe enfocarse en controlar la jungla y gankear las líneas para dar ventaja a tu equipo.",
-          "Protección de Sona: El resto del equipo debe proteger a Sona de los asesinos enemigos.",
-          "Coordinación de la iniciación: Wukong e Irelia deben coordinar sus iniciaciones con el daño de Elise y Rumble para maximizar el impacto de las peleas en equipo.",
-          "Adaptación: Estar preparado para adaptar tu estrategia según la composición y el estilo de juego del equipo enemigo."
-        ]
+        "Necesitas compensar la falta de tanque con buen posicionamiento y coordinación.",
+        "Dado que el equipo enemigo tiene mucha movilidad, controlar la visión es crucial para evitar emboscadas.",
+        "Considera buildear objetos defensivos en Miss Fortune y Teemo para aumentar su supervivencia."
       ],
-      "summary": "Tu equipo tiene una buena mezcla de daño, control y aguante, pero le falta un carry de daño físico puro. Considera elegir un ADC tradicional o un luchador de daño."
+      "summary": "Tu equipo tiene mucho daño y potencial de asesinato, pero necesita compensar la falta de tanque y control de masas."
     },
     {
-      "title": "Análisis del Equipo Enemigo",
-      "team": "Equipo Enemigo: Desconocido",
+      "title": "Análisis de Composición de Equipo (Equipo Enemigo)",
+      "team": "Pyke, Aurora, Qiyana, Ekko, Draven",
       "strengths": [
-        "Desconocido: No se pueden determinar fortalezas sin información sobre los campeones."
+        "Alto daño explosivo: Qiyana, Ekko y Draven pueden eliminar rápidamente objetivos.",
+        "Movilidad: Qiyana y Ekko tienen mucha movilidad, lo que les permite entrar y salir de las peleas fácilmente.",
+        "Potencial de asesinato: Pyke puede eliminar enemigos con poca vida."
       ],
       "weaknesses": [
-        "Desconocido: No se pueden determinar debilidades sin información sobre los campeones."
+        "Falta de control de masas: No tienen mucho control de masas fiable.",
+        "Vulnerabilidad al poke: Son vulnerables a composiciones que infligen daño a distancia constante."
       ],
       "currentSituation": [
-        "Desconocido: No se puede determinar la situación actual sin información sobre los campeones."
+        "Su equipo intentará eliminar rápidamente tus carries.",
+        "Su movilidad les permitirá flanquear y sorprender a tu equipo.",
+        "Controlar la visión es crucial para anticipar sus movimientos."
       ],
-      "summary": "No se puede realizar un análisis del equipo enemigo sin información sobre sus campeones."
+      "summary": "El equipo enemigo tiene mucho daño explosivo y movilidad, lo que les permite eliminar rápidamente objetivos clave.  Son vulnerables a poke y falta de control de masas."
     }
   ]
 }

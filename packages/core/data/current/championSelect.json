@@ -2,103 +2,206 @@
   "actions": [
     [
       {
+        "actorCellId": 0,
+        "championId": 360,
+        "completed": true,
+        "id": 0,
+        "isAllyAction": true,
+        "isInProgress": false,
+        "type": "ban"
+      },
+      {
         "actorCellId": 1,
-        "championId": 62,
+        "championId": 222,
         "completed": true,
         "id": 1,
         "isAllyAction": true,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 2,
-        "championId": 39,
+        "championId": 11,
         "completed": true,
         "id": 2,
         "isAllyAction": true,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 3,
-        "championId": 68,
+        "championId": 90,
         "completed": true,
         "id": 3,
         "isAllyAction": true,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 4,
-        "championId": 37,
+        "championId": 31,
         "completed": true,
         "id": 4,
         "isAllyAction": true,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 5,
-        "championId": 0,
+        "championId": 53,
         "completed": true,
         "id": 5,
         "isAllyAction": false,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 6,
-        "championId": 0,
+        "championId": 86,
         "completed": true,
         "id": 6,
         "isAllyAction": false,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 7,
-        "championId": 0,
+        "championId": 90,
         "completed": true,
         "id": 7,
         "isAllyAction": false,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 8,
-        "championId": 0,
+        "championId": 143,
         "completed": true,
         "id": 8,
         "isAllyAction": false,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
+        "type": "ban"
       },
       {
         "actorCellId": 9,
-        "championId": 0,
+        "championId": 131,
         "completed": true,
         "id": 9,
         "isAllyAction": false,
         "isInProgress": false,
-        "pickTurn": 1,
-        "type": "pick"
-      },
+        "type": "ban"
+      }
+    ],
+    [
+      {
+        "actorCellId": -1,
+        "championId": 0,
+        "completed": true,
+        "id": 107,
+        "isAllyAction": false,
+        "isInProgress": false,
+        "type": "ten_bans_reveal"
+      }
+    ],
+    [
       {
         "actorCellId": 0,
-        "championId": 60,
+        "championId": 21,
         "completed": true,
         "id": 10,
         "isAllyAction": true,
         "isInProgress": false,
-        "pickTurn": 1,
+        "type": "pick"
+      }
+    ],
+    [
+      {
+        "actorCellId": 5,
+        "championId": 555,
+        "completed": true,
+        "id": 11,
+        "isAllyAction": false,
+        "isInProgress": false,
+        "type": "pick"
+      },
+      {
+        "actorCellId": 6,
+        "championId": 893,
+        "completed": true,
+        "id": 12,
+        "isAllyAction": false,
+        "isInProgress": false,
+        "type": "pick"
+      }
+    ],
+    [
+      {
+        "actorCellId": 1,
+        "championId": 50,
+        "completed": true,
+        "id": 13,
+        "isAllyAction": true,
+        "isInProgress": false,
+        "type": "pick"
+      },
+      {
+        "actorCellId": 2,
+        "championId": 56,
+        "completed": true,
+        "id": 14,
+        "isAllyAction": true,
+        "isInProgress": false,
+        "type": "pick"
+      }
+    ],
+    [
+      {
+        "actorCellId": 7,
+        "championId": 246,
+        "completed": true,
+        "id": 15,
+        "isAllyAction": false,
+        "isInProgress": false,
+        "type": "pick"
+      },
+      {
+        "actorCellId": 8,
+        "championId": 245,
+        "completed": true,
+        "id": 16,
+        "isAllyAction": false,
+        "isInProgress": false,
+        "type": "pick"
+      }
+    ],
+    [
+      {
+        "actorCellId": 3,
+        "championId": 238,
+        "completed": true,
+        "id": 17,
+        "isAllyAction": true,
+        "isInProgress": false,
+        "type": "pick"
+      },
+      {
+        "actorCellId": 4,
+        "championId": 17,
+        "completed": true,
+        "id": 18,
+        "isAllyAction": true,
+        "isInProgress": false,
+        "type": "pick"
+      }
+    ],
+    [
+      {
+        "actorCellId": 9,
+        "championId": 119,
+        "completed": true,
+        "id": 19,
+        "isAllyAction": false,
+        "isInProgress": false,
         "type": "pick"
       }
     ]
@@ -115,102 +218,102 @@
   },
   "benchChampions": [],
   "benchEnabled": false,
-  "boostableSkinCount": 1,
+  "boostableSkinCount": 0,
   "chatDetails": {
     "mucJwtDto": {
-      "channelClaim": "1602585973-team1",
+      "channelClaim": "21cb96e1-39f2-48f9-9c8c-2d7a1590fc86",
       "domain": "lol-champ-select",
-      "jwt": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJpc3MiOiJsb2wtcGxhdGZvcm0iLCJjaG4iOiIxNjAyNTg1OTczLXRlYW0xIiwidHlwIjoibG9sLWNoYW1wLXNlbGVjdCIsImV4cCI6MTc0MDgzOTk2NywiaWF0IjoxNzQwODM5MzY3LCJqdGkiOiIwM2ZkOTAzMi1iYTNiLTQ2NzUtOTQ3Zi03ODRjMGYyZjA0YTIiLCJjcm0iOiIxNjAyNTg1OTczLXRlYW0xQGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.XeyyTh1uVZCjD03wpT3pfUiRM-M0pTnWRRW-SqGocVnsesrC8HmQ9Q0tFWAulZ3zJYzOBFQt5nMXLx1DXWbW9_8YwzwNs_NzQfYJbh5_EZqF9cl951josfpFR7tnBiAPVmw-PQDezmJgZybjpIllPxUzd0gZkDdgzj3TDlV_XjWTjgeqQ4OjBxghvAFURQ0l6oga-On6kQ0yEidZYCb2AsYDQRv1raYZZJZ-O5Gp3vwEov9y6-k0Tp9vESg8e0mYxEePB1hdyR6_MTjHeZiHWnSueAT5Ytz2626QgqGeoo4dUDBj8nJBlpWTiQGGWuf_7jc63UFLFqt6J4to_Dc0qw",
+      "jwt": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJtZXRhZGF0YSI6eyJnYW1lSWQiOiIxNjAyODM1Mjc3IiwicmVnaW9uIjoiTEExIiwibG9iYnlUeXBlIjoicHJlLWdhbWUiLCJwcm9kdWN0IjoibG9sIn0sImlzcyI6ImxvbC10ZWFtYnVpbGRlciIsImNobiI6IjIxY2I5NmUxLTM5ZjItNDhmOS05YzhjLTJkN2ExNTkwZmM4NiIsInR5cCI6ImxvbC1jaGFtcC1zZWxlY3QiLCJleHAiOjE3NDA5MTE4NzMsImlhdCI6MTc0MDkxMTI3MywianRpIjoiZjUwZGQzODAtZDI2MC00NzhjLTk2ZDktNDRmNjFkOWM4OGU5IiwiY3JtIjoiMjFjYjk2ZTEtMzlmMi00OGY5LTljOGMtMmQ3YTE1OTBmYzg2QGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.AsO6B-JiJHH09EBvI8wWom172TLImtFhjhtizekjJs-Kh32TsvbqOO0HaCkyyuBFNs0QfdjD_mpNobaXiMzh8wG4cuAiUbpOVjzhZi3teOJMtvzZJt_s3JGDEJiLJpEgbon-Sg1q2_bkmaeiO_jT_Jmr9PF9DIReCEsWZlnwuvuznBG2jrLuzMykH4Ds_7zxIWl-SHsVmv9DBwblJQZiLCSokub1WhPmXZ1dm5ADCeBM-mJunK5Q5qW_gJG2xs-CgkxXtWex8mSOh8ULb_MEEpK7Uh9l8chirn_LCa-L2s-MrEXj6ZFfUN2S1c6U7C_vK6OFPkf3w34RdlIJesH1Fw",
       "targetRegion": "la1"
     },
-    "multiUserChatId": "1602585973-team1",
-    "multiUserChatPassword": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJpc3MiOiJsb2wtcGxhdGZvcm0iLCJjaG4iOiIxNjAyNTg1OTczLXRlYW0xIiwidHlwIjoibG9sLWNoYW1wLXNlbGVjdCIsImV4cCI6MTc0MDgzOTk2NywiaWF0IjoxNzQwODM5MzY3LCJqdGkiOiIwM2ZkOTAzMi1iYTNiLTQ2NzUtOTQ3Zi03ODRjMGYyZjA0YTIiLCJjcm0iOiIxNjAyNTg1OTczLXRlYW0xQGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.XeyyTh1uVZCjD03wpT3pfUiRM-M0pTnWRRW-SqGocVnsesrC8HmQ9Q0tFWAulZ3zJYzOBFQt5nMXLx1DXWbW9_8YwzwNs_NzQfYJbh5_EZqF9cl951josfpFR7tnBiAPVmw-PQDezmJgZybjpIllPxUzd0gZkDdgzj3TDlV_XjWTjgeqQ4OjBxghvAFURQ0l6oga-On6kQ0yEidZYCb2AsYDQRv1raYZZJZ-O5Gp3vwEov9y6-k0Tp9vESg8e0mYxEePB1hdyR6_MTjHeZiHWnSueAT5Ytz2626QgqGeoo4dUDBj8nJBlpWTiQGGWuf_7jc63UFLFqt6J4to_Dc0qw"
+    "multiUserChatId": "21cb96e1-39f2-48f9-9c8c-2d7a1590fc86",
+    "multiUserChatPassword": "eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTEiLCJzdWIiOiJhN2E0YWE1Ni03MTcxLTU1N2MtOWFhYS1jMTBiNzJmMDIzMjUiLCJtZXRhZGF0YSI6eyJnYW1lSWQiOiIxNjAyODM1Mjc3IiwicmVnaW9uIjoiTEExIiwibG9iYnlUeXBlIjoicHJlLWdhbWUiLCJwcm9kdWN0IjoibG9sIn0sImlzcyI6ImxvbC10ZWFtYnVpbGRlciIsImNobiI6IjIxY2I5NmUxLTM5ZjItNDhmOS05YzhjLTJkN2ExNTkwZmM4NiIsInR5cCI6ImxvbC1jaGFtcC1zZWxlY3QiLCJleHAiOjE3NDA5MTE4NzMsImlhdCI6MTc0MDkxMTI3MywianRpIjoiZjUwZGQzODAtZDI2MC00NzhjLTk2ZDktNDRmNjFkOWM4OGU5IiwiY3JtIjoiMjFjYjk2ZTEtMzlmMi00OGY5LTljOGMtMmQ3YTE1OTBmYzg2QGxvbC1jaGFtcC1zZWxlY3QucHZwLm5ldCJ9.AsO6B-JiJHH09EBvI8wWom172TLImtFhjhtizekjJs-Kh32TsvbqOO0HaCkyyuBFNs0QfdjD_mpNobaXiMzh8wG4cuAiUbpOVjzhZi3teOJMtvzZJt_s3JGDEJiLJpEgbon-Sg1q2_bkmaeiO_jT_Jmr9PF9DIReCEsWZlnwuvuznBG2jrLuzMykH4Ds_7zxIWl-SHsVmv9DBwblJQZiLCSokub1WhPmXZ1dm5ADCeBM-mJunK5Q5qW_gJG2xs-CgkxXtWex8mSOh8ULb_MEEpK7Uh9l8chirn_LCa-L2s-MrEXj6ZFfUN2S1c6U7C_vK6OFPkf3w34RdlIJesH1Fw"
   },
-  "counter": -1,
-  "gameId": 0,
-  "hasSimultaneousBans": false,
-  "hasSimultaneousPicks": true,
-  "isCustomGame": true,
+  "counter": 51,
+  "gameId": 1602835277,
+  "hasSimultaneousBans": true,
+  "hasSimultaneousPicks": false,
+  "isCustomGame": false,
   "isSpectating": false,
   "localPlayerCellId": 0,
   "lockedEventIndex": -1,
   "myTeam": [
     {
-      "assignedPosition": "",
+      "assignedPosition": "bottom",
       "cellId": 0,
-      "championId": 60,
+      "championId": 21,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
+      "nameVisibilityType": "UNHIDDEN",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "a7a4aa56-7171-557c-9aaa-c10b72f02325",
-      "selectedSkinId": 60000,
-      "spell1Id": 6,
+      "selectedSkinId": 21007,
+      "spell1Id": 21,
       "spell2Id": 4,
       "summonerId": 24525000,
       "team": 1,
-      "wardSkinId": -1
+      "wardSkinId": 1
     },
     {
-      "assignedPosition": "",
+      "assignedPosition": "utility",
       "cellId": 1,
-      "championId": 62,
+      "championId": 50,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
-      "obfuscatedPuuid": "",
-      "obfuscatedSummonerId": 0,
+      "nameVisibilityType": "HIDDEN",
+      "obfuscatedPuuid": "58491498-8106-05d9-3135-ee9c19e4c6d2",
+      "obfuscatedSummonerId": 6756333062958,
       "puuid": "",
-      "selectedSkinId": 62000,
-      "spell1Id": 18446744073709552000,
-      "spell2Id": 18446744073709552000,
+      "selectedSkinId": 50033,
+      "spell1Id": 4,
+      "spell2Id": 14,
       "summonerId": 0,
       "team": 1,
       "wardSkinId": -1
     },
     {
-      "assignedPosition": "",
+      "assignedPosition": "jungle",
       "cellId": 2,
-      "championId": 39,
+      "championId": 56,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
-      "obfuscatedPuuid": "",
-      "obfuscatedSummonerId": 0,
+      "nameVisibilityType": "HIDDEN",
+      "obfuscatedPuuid": "59afdeb3-4a53-04b2-37c9-90dd69b2eb13",
+      "obfuscatedSummonerId": 6756347433465,
       "puuid": "",
-      "selectedSkinId": 39000,
-      "spell1Id": 18446744073709552000,
-      "spell2Id": 18446744073709552000,
+      "selectedSkinId": 56000,
+      "spell1Id": 11,
+      "spell2Id": 4,
       "summonerId": 0,
       "team": 1,
       "wardSkinId": -1
     },
     {
-      "assignedPosition": "",
+      "assignedPosition": "middle",
       "cellId": 3,
-      "championId": 68,
+      "championId": 238,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
-      "obfuscatedPuuid": "",
-      "obfuscatedSummonerId": 0,
+      "nameVisibilityType": "HIDDEN",
+      "obfuscatedPuuid": "903e8293-6c58-009f-2776-7507df295db8",
+      "obfuscatedSummonerId": 6756323931299,
       "puuid": "",
-      "selectedSkinId": 68000,
-      "spell1Id": 18446744073709552000,
-      "spell2Id": 18446744073709552000,
+      "selectedSkinId": 238036,
+      "spell1Id": 14,
+      "spell2Id": 4,
       "summonerId": 0,
       "team": 1,
       "wardSkinId": -1
     },
     {
-      "assignedPosition": "",
+      "assignedPosition": "top",
       "cellId": 4,
-      "championId": 37,
+      "championId": 17,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
-      "obfuscatedPuuid": "",
-      "obfuscatedSummonerId": 0,
+      "nameVisibilityType": "HIDDEN",
+      "obfuscatedPuuid": "af983d1a-af87-0127-082b-6c481fb42279",
+      "obfuscatedSummonerId": 6756328705815,
       "puuid": "",
-      "selectedSkinId": 37000,
-      "spell1Id": 18446744073709552000,
-      "spell2Id": 18446744073709552000,
+      "selectedSkinId": 17004,
+      "spell1Id": 4,
+      "spell2Id": 14,
       "summonerId": 0,
       "team": 1,
       "wardSkinId": -1
@@ -224,13 +327,13 @@
     {
       "assignedPosition": "",
       "cellId": 5,
-      "championId": 0,
+      "championId": 555,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
+      "nameVisibilityType": "HIDDEN",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 0,
+      "selectedSkinId": 555000,
       "spell1Id": 0,
       "spell2Id": 0,
       "summonerId": 0,
@@ -240,13 +343,13 @@
     {
       "assignedPosition": "",
       "cellId": 6,
-      "championId": 0,
+      "championId": 893,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
+      "nameVisibilityType": "HIDDEN",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 0,
+      "selectedSkinId": 893000,
       "spell1Id": 0,
       "spell2Id": 0,
       "summonerId": 0,
@@ -256,13 +359,13 @@
     {
       "assignedPosition": "",
       "cellId": 7,
-      "championId": 0,
+      "championId": 246,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
+      "nameVisibilityType": "HIDDEN",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 0,
+      "selectedSkinId": 246000,
       "spell1Id": 0,
       "spell2Id": 0,
       "summonerId": 0,
@@ -272,13 +375,13 @@
     {
       "assignedPosition": "",
       "cellId": 8,
-      "championId": 0,
+      "championId": 245,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
+      "nameVisibilityType": "HIDDEN",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 0,
+      "selectedSkinId": 245000,
       "spell1Id": 0,
       "spell2Id": 0,
       "summonerId": 0,
@@ -288,13 +391,13 @@
     {
       "assignedPosition": "",
       "cellId": 9,
-      "championId": 0,
+      "championId": 119,
       "championPickIntent": 0,
-      "nameVisibilityType": "",
+      "nameVisibilityType": "HIDDEN",
       "obfuscatedPuuid": "",
       "obfuscatedSummonerId": 0,
       "puuid": "",
-      "selectedSkinId": 0,
+      "selectedSkinId": 119000,
       "spell1Id": 0,
       "spell2Id": 0,
       "summonerId": 0,
@@ -303,32 +406,32 @@
     }
   ],
   "timer": {
-    "adjustedTimeLeftInPhase": 0,
-    "internalNowInEpochMs": 1740839427629,
+    "adjustedTimeLeftInPhase": 3414,
+    "internalNowInEpochMs": 1740911467453,
     "isInfinite": false,
-    "phase": "GAME_STARTING",
-    "totalTimeInPhase": 0
+    "phase": "FINALIZATION",
+    "totalTimeInPhase": 30000
   },
   "trades": [
     {
       "cellId": 1,
-      "id": 101,
+      "id": 16,
       "state": "INVALID"
     },
     {
       "cellId": 2,
-      "id": 102,
-      "state": "INVALID"
-    },
-    {
-      "cellId": 3,
-      "id": 103,
-      "state": "INVALID"
+      "id": 17,
+      "state": "AVAILABLE"
     },
     {
       "cellId": 4,
-      "id": 104,
-      "state": "INVALID"
+      "id": 18,
+      "state": "AVAILABLE"
+    },
+    {
+      "cellId": 3,
+      "id": 19,
+      "state": "AVAILABLE"
     }
   ]
 }

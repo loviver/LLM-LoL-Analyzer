@@ -10,6 +10,25 @@ type GameEvents = {
   error: (error: Error) => void;
 };
 
+export interface IEvent {
+  Assisters: string[];
+  EventID: number;
+  EventName: string;
+  EventTime: number;
+}
+
+export interface IEventWithTurret extends IEvent {
+  KillerName?: string;
+  TurretKilled: string;
+}
+
+export interface IEventWithDragon extends IEvent {
+  KillerName?: string;
+  killer?: string;
+  Stolen: string;
+  DragonType: string;
+}
+
 class LCUListener {
   private lockfilePath: string;
   private currentGamePath: string;
@@ -228,6 +247,9 @@ class LCUListener {
             assists: player.scores.assists,
             wardScore: player.scores.wardScore,
             team: player.team,
+            directOponent: this.lastLiveData.allPlayers.find((p: any) => p.position === player.position && p.team !== player.team)?.championName,
+            //goldSpent: player.items.reduce((acc: number, item: any) => acc + item.price, 0),
+            goldSpent: player.items.reduce((acc: number, item: any) => acc + item.price, 0),
             items: player.items.map((item: any) => {
 
               const itemData = DataDragon.findItemByKey(item.itemID);
@@ -235,10 +257,10 @@ class LCUListener {
               return {
                 id: item.itemID,
                 count: item.count,
-                displayName: item.displayName,
+                displayName: itemData.name,
                 description: itemData.description,
                 stats: itemData.stats,
-                price: item.price,
+                price: itemData.gold.total,
                 slot: item.slot,
               }
             }),
@@ -268,14 +290,66 @@ class LCUListener {
           )
           .map(formatPlayerData); 
 
+        const getTeamByRiotId = (playerName: string) => {
+          return this.lastLiveData.allPlayers.find((player: any) => player.playerNameGameName === playerName)?.team;
+        };
+
         // Filtrar y formatear jugadores del equipo enemigo
         const enemyTeamPlayers = this.lastLiveData.allPlayers
           .filter((player: any) => player.team !== currentPlayer.team)
           .map(formatPlayerData);
 
+        const getTurrets = (events: IEventWithTurret[], currentPlayerTeam: any, filterByEnemy: any) => {
+          return events
+            .filter(event => event.EventName === 'TurretKilled' || event.EventName === 'InhibKilled')
+            .map(event => {
+              const turretName = event.TurretKilled ? event.TurretKilled.split('_').slice(0, -1).join('_') : null;
+              const turretData = turretName ? DataDragon.getTurretById(turretName) : null;
+              
+              return {
+                time: event.EventTime,
+                asisters: event.Assisters,
+                killer: event.KillerName,
+                lane: turretData?.lane,
+                position: turretData?.position,
+                team: turretData?.team,
+              };
+            })
+            .filter(turret => (filterByEnemy ? turret.team !== currentPlayerTeam : turret.team === currentPlayerTeam));
+        };
+
+        const getDragon = (events: IEventWithDragon[], currentPlayerTeam: any, filterByEnemy: any) => {
+
+          return events
+            .filter(event => event.EventName === 'DragonKill' || event.EventName === 'HeraldKill' || event.EventName === 'BaronKill')
+            .map(event => {
+              return {
+                time: event.EventTime,
+                asisters: event.Assisters,
+                killer: event.KillerName,
+                type: event.DragonType ?? event.EventName,
+                team: getTeamByRiotId(event.killer ?? event.KillerName ?? "") == currentPlayerTeam ? "ally" : "enemy",
+                stolen: event.Stolen == "true" ? true : false,
+              };
+            })
+            .filter(turret => (filterByEnemy ? turret.team !== currentPlayerTeam : turret.team === currentPlayerTeam));
+        };
+
+        let firstBlood = this.lastLiveData.events.Events.find((event: any) => event.EventName === 'FirstBlood');
+        
+        if(firstBlood) {
+          firstBlood = {
+            time: firstBlood.firstBloodTime,
+            killer: firstBlood.Recipient,
+            team: getTeamByRiotId(firstBlood.Recipient) == currentPlayer.team ? "ally" : "enemy",
+          };
+        }
+
         // Crear el objeto final con la información requerida
         const improveJson = {
           currentTime: this.lastLiveData.gameData.gameTime,
+          phase: "early",
+          avgPlayersLevel: 1,
           mySkills: Object.entries(this.lastLiveData.activePlayer.abilities)
             .map((ability: any) => ({
               abilityKey: ability[0],
@@ -284,49 +358,54 @@ class LCUListener {
             }))
             .filter((ability: any) => ability.abilityLevel >= 0),
           currentGold: this.lastLiveData.activePlayer.currentGold,
+          currentSpentGoldByPlayer: 0,
           currentLevel: this.lastLiveData.activePlayer.level,
           current: formatPlayerData(currentPlayer),
+          firstBlood: firstBlood,
           team: {
-            turrets: this.lastLiveData.events.Events
-              .filter((event: any) => event.EventName === 'TurretKilled').map((event: any) => {
-
-                const turretName = event.TurretKilled.split('_').slice(0, -1).join('_');
-
-                const turretData = DataDragon.getTurretById(turretName);
-                
-                return {
-                  time: event.EventTime,
-                  asisters: event.Assisters,
-                  killer: event.KillerName,
-                  lane: turretData?.lane,
-                  position: turretData?.position,
-                  team: turretData?.team,
-                }
-              })
-              .filter((turret: any) => turret.team !== currentPlayer.team),
+            spentGold: 0,
+            turrets: getTurrets(this.lastLiveData.events.Events, currentPlayer.team, true),
+            dragons: getDragon(this.lastLiveData.events.Events, currentPlayer.team, true),
             players: teamPlayers
           },
           enemyTeam: {
-            turrets: this.lastLiveData.events.Events
-              .filter((event: any) => event.EventName === 'TurretKilled').map((event: any) => {
-
-                const turretName = event.TurretKilled.split('_').slice(0, -1).join('_');
-
-                const turretData = DataDragon.getTurretById(turretName);
-
-                return {
-                  time: event.EventTime,
-                  asisters: event.Assisters,
-                  killer: event.KillerName,
-                  lane: turretData?.lane,
-                  position: turretData?.position,
-                  team: turretData?.team,
-                }
-              })
-              .filter((turret: any) => turret.team === currentPlayer.team),
+            spentGold: 0,
+            turrets: getTurrets(this.lastLiveData.events.Events, currentPlayer.team, false),
+            dragons: getDragon(this.lastLiveData.events.Events, currentPlayer.team, false),
             players: enemyTeamPlayers
           },
         };
+
+        const gameTime = improveJson.currentTime; // tiempo de juego en segundos
+        const minutes = gameTime / 60;
+      
+        // Niveles de los jugadores
+        const currentLevel = improveJson.current.level;
+        const teamLevels = improveJson.team.players.map((p: any) => p.level);
+        const enemyLevels = improveJson.enemyTeam.players.map((p: any) => p.level);
+        const allLevels = [currentLevel, ...teamLevels, ...enemyLevels];
+        const avgLevel = allLevels.reduce((sum: number, lvl: number) => sum + lvl, 0) / allLevels.length;
+      
+        const currentItemsCosts = improveJson.current.items.reduce((total: number, item: any) => total + item.price, 0);
+        const teamItemsCosts = improveJson.team.players.map((p: any) => p.items.reduce((total: number, item: any) => total + item.price, 0));
+        const enemyItemsCosts = improveJson.enemyTeam.players.map((p: any) => p.items.reduce((total: number, item: any) => total + item.price, 0));
+        const allBuildsCosts = [currentItemsCosts, ...teamItemsCosts, ...enemyItemsCosts];
+        const avgItemCosts = allLevels.reduce((sum: number, lvl: number) => sum + lvl, 0) / allBuildsCosts.length;
+
+        // Se definen umbrales aproximados para early, mid y late
+        if (minutes < 10 || avgLevel < 6 || avgItemCosts < 2000) {
+          improveJson.phase = 'early';
+        } else if (minutes >= 20 || avgLevel < 12 || avgItemCosts < 5000) {
+          improveJson.phase = 'mid';
+        } else {
+          improveJson.phase = 'late';
+        }
+        
+        improveJson.avgPlayersLevel = avgLevel;
+
+        improveJson.currentSpentGoldByPlayer = currentItemsCosts;
+        improveJson.team.spentGold = teamItemsCosts.reduce((acc: number, item: number) => acc + item, 0); 
+        improveJson.enemyTeam.spentGold = enemyItemsCosts.reduce((acc: number, item: number) => acc + item, 0); 
 
         fs.writeFileSync(path.join(this.currentGamePath, 'liveDataImproved.json'), JSON.stringify(improveJson, null, 2));
 
