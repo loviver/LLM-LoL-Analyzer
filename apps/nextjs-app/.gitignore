@@ -20,3 +20,5 @@ out/
 coverage/
 data/builds/
 data/current/
+
+public/data/static/*
