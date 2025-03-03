@@ -9,6 +9,7 @@ import TimeAgo from 'javascript-time-ago'
 
 import en from 'javascript-time-ago/locale/en'
 import es from 'javascript-time-ago/locale/es'
+import MatchCard from '../components/MatchCard';
 
 TimeAgo.addDefaultLocale(en)
 TimeAgo.addLocale(es)
@@ -27,15 +28,7 @@ export default function Home() {
   const [connected, setConnected] = useState(false);
   const [gameActive, setGameActive] = useState(false);
   const [selectedChampion, setSelectedChampion] = useState('');
-  const [gameData, setGameData] = useState<GameData>({
-    champion: "",
-    gameTime: 0,
-    phase: 'early',
-    lane: 'mid',
-    opponent: 'Zed',
-    teamScore: 0,
-    enemyScore: 0
-  });
+  const [gameData, setGameData] = useState<any>(null);
 
   const [advices, setAdvices] = useState<any[]>([]);
 
@@ -58,11 +51,7 @@ export default function Home() {
         
         const updatedGameData = {
           ...gameData,
-          champion: responseData.current.championName,
-          gameTime: responseData.currentTime,
-          lane: responseData.current.position,
-          opponent: responseData.current.directOponent,
-          phase: responseData.phase
+          ...responseData
         };
         setGameData(updatedGameData);
       }
@@ -110,13 +99,18 @@ export default function Home() {
           </div>
         </div>
         
-        {connected && (
+        {connected && gameData && (
           <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
             <div className="lg:col-span-2">
-              <GameAdvice gameData={gameData} advices={advices} />
+              <MatchCard match={gameData} />
             </div>
-            <div>
+            <div style={{
+              gap: '1rem',
+              display: 'flex',
+              flexDirection: 'column',
+            }}>
               <GameStatus gameData={gameData} />
+              <GameAdvice gameData={gameData} advices={advices} />
             </div>
           </div>
         )}

@@ -249,7 +249,12 @@ class LCUListener {
             team: player.team,
             directOponent: this.lastLiveData.allPlayers.find((p: any) => p.position === player.position && p.team !== player.team)?.championName,
             //goldSpent: player.items.reduce((acc: number, item: any) => acc + item.price, 0),
-            goldSpent: player.items.reduce((acc: number, item: any) => acc + item.price, 0),
+            goldSpent: player.items.reduce((acc: number, item: any) => {
+
+              const itemData = DataDragon.findItemByKey(item.itemID);
+
+              return acc + itemData.gold.total;
+            }, 0),
             items: player.items.map((item: any) => {
 
               const itemData = DataDragon.findItemByKey(item.itemID);
@@ -272,9 +277,17 @@ class LCUListener {
               };
             }),
             spells: Object.entries(player.summonerSpells).map((spell: any) => {
+
+              const getSummonerId = (spellName: string) => {
+
+                const spliter = spellName.split('_');
+
+                return spliter[spliter.length - 2] ? spliter[spliter.length - 2].replace('Upgrade', '') : null;
+              };
+
               return {
                 spellOrder: spell[0],
-                id: spell[1].id,
+                id: getSummonerId(spell[1].rawDisplayName),
                 displayName: spell[1].displayName,
               }
             }),
@@ -306,12 +319,20 @@ class LCUListener {
               const turretName = event.TurretKilled ? event.TurretKilled.split('_').slice(0, -1).join('_') : null;
               const turretData = turretName ? DataDragon.getTurretById(turretName) : null;
               
+              const positionTranslate: any = {
+                "TOP": "TOP",
+                "JUNGLE": "JUNGLE",
+                "MID": "MID",
+                "BOT": "ADC",
+                "UTILITY": "SUPPORT",
+              };
+              
               return {
                 time: event.EventTime,
                 asisters: event.Assisters,
                 killer: event.KillerName,
                 lane: turretData?.lane,
-                position: turretData?.position,
+                position: turretData?.position ? positionTranslate[turretData.position] : null,
                 team: turretData?.team,
               };
             })
@@ -348,6 +369,7 @@ class LCUListener {
         // Crear el objeto final con la información requerida
         const improveJson = {
           currentTime: this.lastLiveData.gameData.gameTime,
+          gameCreation: new Date(),
           phase: "early",
           avgPlayersLevel: 1,
           mySkills: Object.entries(this.lastLiveData.activePlayer.abilities)

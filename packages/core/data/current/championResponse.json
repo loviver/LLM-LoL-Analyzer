@@ -1,44 +1,62 @@
 {
-  "final_recommendation": "La composición de tu equipo tiene buen daño y potencial de asesinato, pero carece de un tanque puro y control de masas fiable. El equipo enemigo tiene mucho daño explosivo y movilidad. Para mejorar, considera runas defensivas para los carries y un objeto de resistencia mágica temprano.  Contra la composición enemiga, un campeón con control de masas como Sejuani, Amumu o Leona sería ideal. Priorizar objetivos y no iniciar peleas desfavorables será crucial.",
+  "final_recommendation": "Viendo la composición de ambos equipos, os vendría bien algo de daño mágico extra y un poco más de aguante en el frente. El equipo enemigo tiene mucho daño explosivo con Lux, Ekko y Smolder, así que es crucial proteger a tus carries (Jhin, Xerath, Teemo) y evitar que los deleteen. Viego es un buen campeón para la jungla, pero necesita apoyo para no caer en desventaja. Consideraría un campeón de utilidad para suplir la falta de engage y control de masas, ya que el equipo enemigo tiene mucha movilidad. También podríamos ir por un tanque más puro para proteger a los carries.",
   "summary": [
     {
-      "title": "Análisis de Composición de Equipo (Tu Equipo)",
-      "team": "Miss Fortune, Swain, Nocturne, Zed, Teemo",
+      "title": "Análisis de Composición de Equipo (Mi Equipo)",
+      "team": "Veigar, Jhin, Xerath, Viego, Teemo",
       "strengths": [
-        "Alto potencial de daño: Miss Fortune y Zed aportan daño explosivo, mientras que Swain y Teemo ofrecen daño sostenido y control de zonas.",
-        "Capacidad de asesinato: Nocturne y Zed pueden eliminar rápidamente objetivos clave.",
-        "Versatilidad: La variedad de campeones permite adaptarse a diferentes situaciones."
+        "Alto daño a distancia: Jhin, Xerath y Veigar pueden infligir mucho daño desde lejos, desgastando al enemigo antes de las peleas.",
+        "Potencial de burst: Veigar y Xerath tienen habilidades que pueden eliminar rápidamente a objetivos blandos.",
+        "Versatilidad: Tienes daño mágico y físico, lo que dificulta al enemigo armarse contra un solo tipo de daño.",
+        "Viego puede robar la identidad de los enemigos lo que permite adaptarse a la situación."
       ],
       "weaknesses": [
-        "Falta de tanque: El equipo carece de un tanque puro, lo que lo hace vulnerable a composiciones centradas en daño explosivo.",
-        "Control de masas limitado: No hay campeones con control de masas fiable para proteger a los carries o iniciar peleas.",
-        "Vulnerabilidad a la movilidad: Campeones con alta movilidad como los del equipo enemigo (Qiyana, Ekko) pueden esquivar habilidades y flanquear fácilmente."
+        "Falta de tanque real: Viego es un luchador, pero no un tanque puro. El equipo carece de alguien que pueda absorber mucho daño.",
+        "Vulnerable al diveo: Campeones como Ekko y Gwen pueden saltar a la línea trasera y eliminar a tus carries.",
+        "Dependencia del posicionamiento: Jhin, Xerath y Veigar necesitan estar bien posicionados para infligir daño de forma segura.",
+        "Falta de control de masas fiable: No hay mucho CC para proteger a los carries o iniciar peleas."
       ],
       "currentSituation": [
-        "Necesitas compensar la falta de tanque con buen posicionamiento y coordinación.",
-        "Dado que el equipo enemigo tiene mucha movilidad, controlar la visión es crucial para evitar emboscadas.",
-        "Considera buildear objetos defensivos en Miss Fortune y Teemo para aumentar su supervivencia."
+        "Necesitas proteger a Jhin, Xerath y Veigar a toda costa. Posiciona a Teemo para dar visión y molestar al enemigo.",
+        "Viego debe buscar flanquear y eliminar a los carries enemigos.",
+        "Si el enemigo se centra en divear, considera runas y objetos defensivos en tus carries.",
+        "Prioridades en la partida:",
+        [
+          "Visión: Controla la visión para evitar emboscadas y proteger a tus carries.",
+          "Posicionamiento: Mantén a tus carries a salvo y permite que infligan daño desde la distancia.",
+          "Peeling: Protege a tus carries del diveo enemigo.",
+          "Adaptación: Observa la build del enemigo y adapta tus objetos para contrarrestarlos."
+        ]
       ],
-      "summary": "Tu equipo tiene mucho daño y potencial de asesinato, pero necesita compensar la falta de tanque y control de masas."
+      "summary": "El equipo tiene un gran potencial de daño a distancia, pero carece de tanque y es vulnerable al diveo. Necesitas priorizar la protección de tus carries y buscar oportunidades para flanquear al enemigo."
     },
     {
       "title": "Análisis de Composición de Equipo (Equipo Enemigo)",
-      "team": "Pyke, Aurora, Qiyana, Ekko, Draven",
+      "team": "Lux, Smolder, Ekko, Gwen, Mordekaiser",
       "strengths": [
-        "Alto daño explosivo: Qiyana, Ekko y Draven pueden eliminar rápidamente objetivos.",
-        "Movilidad: Qiyana y Ekko tienen mucha movilidad, lo que les permite entrar y salir de las peleas fácilmente.",
-        "Potencial de asesinato: Pyke puede eliminar enemigos con poca vida."
+        "Alto daño explosivo: Lux, Smolder y Ekko pueden eliminar rápidamente a objetivos.",
+        "Buena capacidad de diveo: Ekko y Gwen pueden saltar a la línea trasera y eliminar a tus carries.",
+        "Mordekaiser puede aislar objetivos clave y eliminarlos de la pelea.",
+        "Control de masas decente: Lux tiene un snare y un slow que pueden ayudar a controlar las peleas."
       ],
       "weaknesses": [
-        "Falta de control de masas: No tienen mucho control de masas fiable.",
-        "Vulnerabilidad al poke: Son vulnerables a composiciones que infligen daño a distancia constante."
+        "Falta de daño sostenido: Si no pueden eliminar objetivos rápidamente, pueden tener problemas en peleas prolongadas.",
+        "Vulnerabilidad al poke: Pueden ser desgastados por el daño a distancia antes de que puedan iniciar una pelea.",
+        "Dependencia de skillshots: Lux y Ekko dependen de acertar sus habilidades para infligir daño."
       ],
       "currentSituation": [
-        "Su equipo intentará eliminar rápidamente tus carries.",
-        "Su movilidad les permitirá flanquear y sorprender a tu equipo.",
-        "Controlar la visión es crucial para anticipar sus movimientos."
+        "Buscarán divear a tus carries y eliminarlos rápidamente.",
+        "Mordekaiser intentará aislar a tus carries más importantes.",
+        "Tienen un buen balance de daño mágico y físico.",
+        "Prioridades en la partida:",
+        [
+          "Iniciación: Evita que inicien peleas a su favor.",
+          "Control de masas: Utiliza el control de masas para interrumpir sus combos y proteger a tus carries.",
+          "Daño sostenido: Si puedes sobrevivir a su burst, puedes superarles en peleas prolongadas.",
+          "Anticipación: Presta atención a la posición del enemigo y anticipa sus movimientos."
+        ]
       ],
-      "summary": "El equipo enemigo tiene mucho daño explosivo y movilidad, lo que les permite eliminar rápidamente objetivos clave.  Son vulnerables a poke y falta de control de masas."
+      "summary": "El equipo enemigo tiene un gran potencial de daño explosivo y diveo, pero es vulnerable al poke y carece de daño sostenido. Necesitas proteger a tus carries y buscar oportunidades para desgastar al enemigo antes de las peleas."
     }
   ]
 }

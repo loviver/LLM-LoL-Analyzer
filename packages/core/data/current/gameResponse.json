@@ -1,208 +1,275 @@
 {
   "responseStructured": {
-    "champion": "Miss Fortune",
+    "champion": "Viego",
     "matchVs": {
-      "enemy": "Draven"
+      "enemy": "Gwen"
     },
-    "final_recommendation": "Draven ha completado El Coleccionista. Te recomiendo comprar una Malla del Guardián para mitigar su daño, seguida de Ángel Guardián. Además, wardea más seguido el río para evitar ganks de Ekko y mantente lejos de Pyke debido a su alta letalidad.",
+    "final_recommendation": " ",
     "role_tips": [
-      "Considera comprar un Espada de Doran adicional para aumentar tu daño y robo de vida, lo cual te ayudará a sobrevivir en línea contra Draven.",
-      "Prioriza el farmeo para alcanzar rápidamente tus objetos clave, como el Filo de la Tormenta o el Recuerdo de Lord Dominik, que te proporcionarán el daño necesario para enfrentarte a Draven.",
-      "Dada la agresividad de Draven, enfócate en farmear de forma segura bajo la torre si es necesario, y espera oportunidades para castigarlo cuando se exponga para recoger sus hachas.",
-      "Considera invertir en unas Botas de Velocidad para mejorar tu capacidad de kiteo contra Draven y Pyke.",
-      "Utiliza tu E (Lluvia de Plomo) para zonear a Draven y dificultarle el farmeo, especialmente cuando intente acercarse para atrapar sus hachas."
+      "Prioriza farmear al inicio para escalar. Busca oportunidades de gankeo después de nivel 6, especialmente si tienes ventaja de nivel o un aliado con buen CC.",
+      "Considera gankear la línea de Jhin si Lux está pusheando mucho, para ayudar a tu ADC y obtener una ventaja en bot.",
+      "Dado que Jhin está fedeado (4/3/2) y Smolder va 1/1/2, prioriza gankear bot lane para ayudar a tu ADC y obtener una ventaja. Si la Lux enemiga está pusheando mucho, considera un gankeo temprano.",
+      "Sigue farmeando para mantenerte al día en experiencia y oro. Prioriza objetivos como el Dragón y el Heraldo, asegurando la visión alrededor de ellos.",
+      "Enfócate en asegurar el Dragón, dado que el equipo enemigo aún no ha reclamado ninguno.",
+      "Dado que el Coleccionista de Jhin le está dando una ventaja temprana en oro por asesinatos, considera priorizarlo como objetivo en ganks para negar su efecto bola de nieve.",
+      "Coordina con tu equipo para invadir la jungla enemiga y obstaculizar el farmeo de Gwen.",
+      "Considera obtener el control de visión alrededor de los objetivos neutrales con la Lente del Oráculo para evitar emboscadas y asegurar los objetivos.",
+      "Prioriza gankear la línea de Xerath, ya que Lux lo está dominando (5/4/2).",
+      "Vigila a Ekko, quien tiene una alta probabilidad de rotar desde MID. Considera colocar un centinela en su jungla para rastrear sus movimientos.",
+      "Prioriza gankear la línea de medio (Veigar vs Ekko) para intentar obtener una ventaja temprana. Ekko va 0/3/0 y podría necesitar ayuda.",
+      "Continúa asegurando visión en la jungla enemiga para predecir los movimientos de Gwen y proteger tus líneas.",
+      "Prioriza gankear la línea de medio (Veigar vs Ekko) para intentar obtener una ventaja temprana.",
+      "Asegura el siguiente dragon ya que es fundamental para obtener ventaja en la partida.",
+      "Controla el rio para evitar rotaciones de Ekko y Lux, podrían poner en peligro a tus aliados.",
+      "Considera un gankeo a Mordekaiser para aliviar la presión sobre Teemo.",
+      "Gwen lleva ventaja en farm y nivel. Busca oportunidades para contrarrestarla o asistirla a tus compañeros cuando invada tu jungla.",
+      "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica (Botas de Mercurio en Mordekaiser y Gwen), y Smolder ya tiene Saqueador de Esencias considera armar objetos de penetración de armadura.",
+      "Aprovecha tu pasiva para poseer campeones enemigos después de asesinarlos, lo cual te permite cambiar el curso de las peleas y aplicar presión adicional en el mapa.",
+      "Coordina con Veigar para realizar emboscadas en MID debido a su capacidad de zonificación y CC. La combinación de sus habilidades puede asegurar asesinatos rápidos.",
+      "Con Gwen comprando Agrietador, esperala en escaramuzas y peleas prolongadas. Mantente atento a su ubicación en la jungla para evitar encuentros desfavorables.",
+      "Ekko es un objetivo prioritario dado que va muy atrás en oro y experiencia. Emboscarlo en la jungla enemiga puede negar su recuperación.",
+      "Controla el río para evitar rotaciones de Ekko y Lux, podrían poner en peligro a tus aliados.",
+      "Prioriza objetivos como el Dragón y el Heraldo, asegurando la visión alrededor de ellos.",
+      "Dado que Gwen lleva ventaja en farm y nivel, intenta emboscarla en su jungla para retrasar su build.",
+      "Prioriza contrarrestar a Gwen, quien tiene ventaja en nivel y oro. Intenta emboscarla en su jungla para retrasar su build.",
+      "Con Ekko rezagado, emboscarlo en la jungla enemiga podría negar su recuperación y darle ventaja a Veigar.",
+      "Dado que el equipo enemigo está acumulando Resistencia Mágica, prioriza un objeto de penetración de armadura como Lord Dominik's Regards para infligir daño efectivo a Mordekaiser y Gwen.",
+      "Prioriza gankear la línea de medio (Veigar vs Ekko) para intentar obtener una ventaja, ya que Ekko está teniendo dificultades. Además, coordina con Veigar para emboscadas debido a su capacidad de zonificación y CC.",
+      "Coordina con Veigar para realizar emboscadas en MID debido a su capacidad de zonificación y CC.",
+      "Continúa invadiendo la jungla de Gwen para retrasar su build, ya que lleva ventaja en nivel y oro. Asegura control de visión en su jungla para predecir sus movimientos y proteger tus líneas.",
+      "Dado que Jhin está fedeado (8/5/7) y está construyendo daño crítico (Coleccionista, Cañón de Fuego Rápido y Recuerdos de Lord Dominik), priorízalo como objetivo en ganks para reducir su impacto en la partida.",
+      "Veigar va relativamente bien (4/2/3), coordina emboscadas en MID para aprovechar su capacidad de zonificación y CC, lo cual puede asegurar asesinatos rápidos.",
+      "Smolder está empezando a armar daño con Lanza de Shojin y Saqueador de Esencias, coordina ganks para evitar que se feedee.",
+      "Dado que Ekko y Lux están construyendo daño AP, coordina ganks para evitar que snowball y asegurar objetivos.",
+      "Dado que Jhin está muy adelante, considera invadir la jungla enemiga para retrasar el escalado de Gwen y Ekko. Esto podría aliviar la presión sobre tus líneas.",
+      "Prioriza gankear a Jhin para protegerlo de Smolder y Lux. Su ventaja en oro y daño critico lo convierte en un objetivo principal para el equipo enemigo.",
+      "Dada la cantidad de daño mágico que está armando el equipo enemigo (Ekko, Lux, Gwen y Mordekaiser) considera armar un item defensivo de Resistencia Mágica después del Lord Dominik's Regards.",
+      "Si el equipo enemigo sigue comprando resistencia mágica, considera comprar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux.",
+      "Dado que Gwen ya tiene Agrietador y Botas de Mercurio, es crucial controlarla. Continúa invadiendo su jungla para retrasar su build y negar su farmeo.",
+      "Dado que Jhin está fedeado (8/6/7) y es tu principal objetivo, coordina con tu equipo para emboscarlo y reducir su impacto. Aprovecha la capacidad de zonificación y CC de Veigar para asegurar asesinatos rápidos.",
+      "Veigar va relativamente bien (4/3/3), coordina emboscadas en MID para aprovechar su capacidad de zonificación y CC, lo cual puede asegurar asesinatos rápidos.",
+      "Dado que el equipo enemigo ha comenzado a acumular Resistencia Mágica, prioriza Lord Dominik's Regards para infligir daño efectivo.",
+      "Recuerda contrarrestar la curación de Mordekaiser y Smolder con Recordatorio Mortal.",
+      "Si Ekko te está causando problemas con su daño explosivo, considera comprar Fauces de Malmortius.",
+      "Asegura visión en la jungla enemiga para predecir los movimientos de Gwen, especialmente dado que lleva ventaja en nivel y oro.",
+      "Continúa contrarrestando a Gwen, invadiendo su jungla para retrasar su build y controlar la visión.",
+      "Dado que Jhin es un objetivo prioritario, coordina con Veigar para emboscadas en MID, aprovechando su capacidad de zonificación y CC.",
+      "Recuerda priorizar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+      "Dado que Gwen ya tiene Agrietador, esperala en escaramuzas y peleas prolongadas. Mantente atento a su ubicación en la jungla para evitar encuentros desfavorables.",
+      "Concéntrate en proteger a Jhin, quien es el carry principal del equipo, de Smolder y Lux. Asegúrate de que tenga la visión adecuada y el apoyo necesario para mantener su ventaja.",
+      "Continúa contrarrestando la curación de Mordekaiser y Smolder con Recordatorio Mortal.",
+      "Dado que el equipo enemigo está acumulando Resistencia Mágica, prioriza Lord Dominik's Regards para infligir daño efectivo.",
+      "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica (Botas de Mercurio en Mordekaiser, Gwen y Smolder), considera armar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux.",
+      "Considera gankear la línea de Teemo, ya que Mordekaiser ha comprado armadura (Vesta Espinosa y Cota de Malla).",
+      "Dado que Jhin ha completado Filo del Infinito aumentando su daño crítico, priorízalo como objetivo en ganks para reducir su impacto en la partida.",
+      "Considera armar un item defensivo de Resistencia Mágica (como Fauces de Malmortius) para protegerte del daño explosivo de Ekko y Lux, después de completar Lord Dominik's Regards.",
+      "Dado que Jhin está fedeado (17/10/9) y tiene items de daño crítico (El Coleccionista, Cañón de Fuego Rápido, Recuerdos de Lord Dominik y Filo del Infinito) priorízalo como objetivo en ganks para reducir su impacto en la partida.",
+      "Veigar va relativamente bien (8/4/9), coordina emboscadas en MID para aprovechar su capacidad de zonificación y CC. La combinación de sus habilidades puede asegurar asesinatos rápidos.",
+      "Mordekaiser completó Tormento de Liandry y Cetro de Cristal de Rylai lo cual significa que tienes que tener cuidado al iniciar peleas ya que te quemará y ralentizará."
     ],
     "feedback_mybuild": [
-      "Considera comprar un objeto de robo de vida como el Cetro Vampírico para mitigar el daño de Draven, seguido de un Filo de la Tormenta para aumentar tu daño.",
-      "El Primer Golpe te da una ventaja inicial de oro, intenta aprovecharla al máximo golpeando a Draven antes de que él te golpee a ti.",
-      "Con 916 de oro disponible, prioriza completar el Cetro Vampírico para obtener sustain en línea contra Draven.",
-      "Aunque tienes Primer Golpe, evita arriesgarte demasiado por el oro adicional si eso implica recibir mucho daño de Draven. Céntrate en farmear de forma segura.",
-      "Considera comprar unas Botas Jonias para obtener Aceleración de Habilidad y así usar más tu Q y E para farmear y pokear, dada la desventaja inicial contra Draven.",
-      "Con el oro que tienes, considera comprar un Cetro Vampírico para obtener robo de vida y mitigar el daño de Draven en la línea.",
-      "Evita tradear golpes innecesarios con Draven. Juega de forma defensiva y espera a que tu jungla gankee.",
-      "Prioriza farmear súbditos bajo la torre si es necesario, ya que mantener un buen CS es crucial para recuperarte de la desventaja temprana.",
-      "Con 324 de oro, continua farmeando para completar el Cetro Vampírico y obtener robo de vida lo antes posible.",
-      "Con 500 de oro, prioriza completar el Cetro Vampírico para obtener sustain en línea contra Draven y mitigar su daño.",
-      "Con casi 600 de oro, sigue farmeando para completar el Cetro Vampírico. Te dará sustain contra el daño de Draven.",
-      "Con 624 de oro, prioriza Cetro Vampírico para mitigar el daño de Draven y obtener sustain en línea.",
-      "Con 690 de oro, prioriza completar el Cetro Vampírico para obtener sustain en línea y contrarrestar el daño de Draven.",
-      "Con 762 de oro, intenta completar el Cetro Vampírico para tener sustain contra Draven.",
-      "Prioriza farmear para obtener Cetro Vampírico y luego Filo de la Tormenta para aumentar tu daño y robo de vida contra Draven.",
-      "Dada la diferencia en oro y kills con Draven, enfócate en farmear de forma segura y evitar enfrentamientos innecesarios. Prioriza completar Cetro Vampírico para tener sustain en línea.",
-      "Considera comprar unas Botas de Velocidad pronto para mejorar tu capacidad de kiteo contra Draven y Pyke.",
-      "No olvides seguir utilizando tu E (Lluvia de Plomo) para zonear a Draven y dificultarle el farmeo cuando intente acercarse para atrapar sus hachas.",
-      "Con 362 de oro, sigue farmeando para completar Cetro Vampírico y obtener robo de vida, mitigando el daño de Draven en línea.",
-      "Dado que Draven completó El Coleccionista, considera comprar una Malla del Guardián como primer objeto defensivo para reducir su daño de ataque. Luego, completa Ángel Guardián."
+      "Estás construyendo Brillo, lo cual es bueno para el daño explosivo después de usar habilidades. Continúa con la Trinidad o el Cortasendas para aprovechar el Brillo.",
+      "Con el Brillo y el Hacha Hogareña, estás en buen camino para maximizar el daño. Intenta armar Trinidad o Cortasendas para mejorar tu capacidad de duelo y supervivencia.",
+      "Considera completar tus botas. Las opciones son Tabi de Ninja (si el AD es problemático) o Botas de Mercurio (si el AP/CC es problemático).",
+      "Completa la Fuerza de la Trinidad para tener un buen balance entre daño, vida y velocidad de ataque.",
+      "Considera comprar un objeto defensivo como Ángel Guardián o Fauces de Malmortius para sobrevivir al daño en las peleas de equipo.",
+      "Finaliza Fuerza de la Trinidad para obtener un buen balance entre daño, vida y velocidad de ataque.",
+      "Completa Recuerdos de Lord Dominik para infligir daño efectivo a Mordekaiser, Gwen y Jhin, quienes han comprado resistencia mágica y armadura.",
+      "Dado que Jhin está fedeado y es un objetivo prioritario, considera armar Fauces de Malmortius para protegerte de su daño explosivo.",
+      "Debido a la cantidad de daño mágico en el equipo enemigo (Ekko, Lux, Gwen, Mordekaiser), considera comprar un item defensivo de Resistencia Mágica después del Lord Dominik's Regards o antes si la necesitas para sobrevivir.",
+      "Considera completar el Llamado del Verdugo en Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+      "Considerando el daño mágico del equipo enemigo, completa Fauces de Malmortius como siguiente objeto para tener mayor supervivencia.",
+      "Completa el Llamado del Verdugo en Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+      "Dado que el equipo enemigo está armando mucho daño mágico, prioriza finalizar Fauces de Malmortius para asegurar tu supervivencia en las peleas de equipo.",
+      "Prioriza completar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+      "Completa Fuerza de la Trinidad para tener un buen balance entre daño, vida y velocidad de ataque.",
+      "Con Fuerza de la Trinidad y Espada del Rey Arruinado finalizados, y teniendo en cuenta que el equipo enemigo posee una considerable cantidad de daño mágico (Ekko, Lux, Gwen y Mordekaiser), considera completar Fauces de Malmortius como siguiente item para asegurar tu supervivencia en las peleas de equipo.",
+      "Prioriza completar Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+      "Debido a la cantidad de daño mágico en el equipo enemigo (Ekko, Lux, Gwen, Mordekaiser), considera comprar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux.",
+      "Recuerda, finalizar Fuerza de la Trinidad te da un buen balance entre daño, vida y velocidad de ataque.",
+      "Completa Recordatorio Mortal para contrarrestar la curación de Mordekaiser y Smolder.",
+      "Dado que has cambiado El Llamado del Verdugo por Recordatorio Mortal, estás contrarrestando la curación de Mordekaiser y Smolder.",
+      "Considera comprar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux."
     ],
     "feedback_update_builds_notify": [
-      "Swain está construyendo un objeto de maná inicial, posiblemente enfocado en hostigar constantemente. Considera comprar un objeto de curación temprana si te encuentras recibiendo mucho daño.",
-      "Draven ha comprado múltiples Espadas Largas. Esto significa que está invirtiendo fuertemente en daño de ataque temprano, lo que puede hacer que sus ataques sean muy peligrosos. Mantente a distancia segura.",
-      "Qiyana está construyendo daño temprano. Ten cuidado con sus gankeos a bot.",
-      "Ekko está usando Cría de Trotabrisas, lo que significa que se enfocará en velocidad de movimiento al entrar en la maleza para emboscar. Coloca más wards en la jungla enemiga.",
-      "El Capítulo Perdido de Swain indica que está priorizando AP y maná para hostigar en línea. Mantente atento a su posicionamiento y posible all-in.",
-      "Pyke está construyendo un objeto de soporte inicial, por lo que es probable que se centre en la visión y el roaming. Mantén un ojo en el río y en los posibles gankeos desde la jungla enemiga.",
-      "Draven ha completado una Capa de Agilidad. Está invirtiendo en probabilidad de crítico, por lo que debes priorizar armadura en tu build para reducir su daño.",
-      "Ekko está usando Cría de Trotabrisas, espera gankeos con velocidad de movimiento adicional desde la maleza.",
-      "Qiyana ya tiene un Puñal Serrado, ten cuidado con su letalidad y daño explosivo en gankeos.",
-      "Aurora ha completado Capítulo Perdido y Sello de la Oscuridad, cuidado con su burst mágico.",
-      "Ekko ha añadido Cristal de Rubí y Mena Brillante. Está invirtiendo en vida y Aceleración de Habilidad.",
-      "Pyke ya tiene Botas Simbióticas, estará roameando y colocando visión. Mantente atento al mapa.",
-      "Aurora ha comprado Capítulo Perdido y Sello de la Oscuridad, cuidado con su burst mágico.",
-      "Nocturne ha comprado Honda del Explorador y Espadón, indicando un enfoque en daño temprano y velocidad de ataque en la jungla. Considera wardear más profundo en tu lado de la jungla.",
-      "Zed ha comprado Picacha, priorizando daño de ataque. Ten cuidado con sus posibles roams a tu línea.",
-      "Ekko está comprando Alternador Hextech, priorizando daño mágico para sus gankeos.",
-      "Ekko compró Alternador Hextech. Prioriza daño mágico para sus gankeos.",
-      "Nocturne ha comprado Espadón, indicando que buscará daño temprano. Wardea más profundo en tu lado de la jungla.",
-      "Draven ha completado El Coleccionista, prioriza comprar armadura y vida para sobrevivir a sus ataques y burst.",
-      "Pyke ha comprado un segundo Puñal Serrado, aumentando su letalidad y potencial de burst. Mantente fuera de su alcance y wardea la línea.",
-      "Ekko completó Cinturón Cohete Hextech, lo que le da movilidad adicional para gankear. Wardea con mayor frecuencia el río y la jungla para prever sus emboscadas.",
-      "Pyke compró otro Puñal Serrado. Su letalidad aumenta, por lo que debes jugar más defensivo y evitar ser atrapado fuera de posición.",
-      "Aurora construyó Botas del Hechicero, Capítulo Perdido y Sello de la Oscuridad. Su potencial de burst mágico ha aumentado significativamente. Evita ser golpeado por sus habilidades."
+      "Mordekaiser completó Botas de Mercurio, lo que reduce el CC y aumenta su resistencia mágica. Considera comprar un item de penetración de armadura mas adelante.",
+      "Lux completó Acompañante de Luden. Ten cuidado con su daño explosivo.",
+      "Jhin completó El Coleccionista, lo que aumenta su daño de ataque y probabilidad de crítico. Ten cuidado con su potencial de burst.",
+      "Ekko completó Cinturón Cohete Hextech. Está priorizando daño explosivo y movilidad.",
+      "Ekko ha comprado Botas del Hechicero, lo que aumenta su penetración mágica. Considera armar Resistencia Mágica si te está causando problemas.",
+      "Smolder completó Saqueador de Esencias. Vigila su maná y capacidad de burst.",
+      "Ekko completó Descarga Tormentosa. Ten cuidado con su daño explosivo.",
+      "Jhin completó Recuerdos de Lord Dominik, lo que aumenta su penetración de armadura y daño contra objetivos con mucha armadura. Ten cuidado con su potencial de daño sostenido.",
+      "Smolder completó Fervor y Honda del Explorador.",
+      "Smolder ha cambiado Lanza de Shojin por un Centinela de Control y Fervor por Cañón de Fuego Rápido. Está priorizando daño crítico.",
+      "Mordekaiser ha cambiado Armadura de Tela por Vesta Espinosa y Cota de Malla. Prioriza comprar Lord Dominik's Regards para contrarrestar el armor.",
+      "Ekko ha cambiado Guardabrazo del Buscador por Guardabrazo Fragmentado.",
+      "Lux ha cambiado Mena Brillante por Códice Diabólico."
     ],
-    "item_build_core": [
-      "Malla del Guardián",
-      "Ángel Guardián"
-    ],
+    "item_build_core": [],
     "item_build_counter_tips": [
-      "Si Draven se vuelve demasiado peligroso, considera comprar un Ángel Guardián para tener una segunda oportunidad en las peleas.",
-      "Fajín de Mercurio",
-      "Si Qiyana se vuelve un problema, considera comprar un Malla del Guardián para reducir su daño explosivo.",
-      "Si Pyke se vuelve un problema, considera comprar un Malla del Guardián para reducir su daño explosivo inicial y aumentar tu supervivencia en los all-ins.",
-      "Fajín de Mercurio (si el CC de Pyke te impide escapar)",
-      "Ángel Guardián",
-      "Si Draven se vuelve demasiado peligroso, considera comprar una Malla del Guardián para reducir el daño de sus ataques básicos críticos. Luego, puedes completar una Cimitarra Mercurial si necesitas quitarte el CC de Pyke.",
-      "Si Draven se vuelve demasiado peligroso, considera comprar una Malla del Guardián para reducir el daño de sus ataques básicos críticos.",
-      "Si sigues teniendo problemas contra Draven y su daño es muy alto, considera una Malla del Guardián seguido de Ángel Guardián para tener una segunda oportunidad.",
-      "Malla del Guardián (para reducir el daño de Draven)",
-      "Ángel Guardián (si Draven te deletea)"
+      "Ángel Guardián: Te da una segunda oportunidad en peleas de equipo, útil si eres el objetivo principal.",
+      "Fauces de Malmortius: Te da una segunda oportunidad en peleas de equipo, útil si eres el objetivo principal.",
+      "Considera comprar Cimitarra Mercurial más adelante si Lux o Mordekaiser se vuelven un problema por su CC.",
+      "Si Ekko se vuelve una amenaza por su daño AP, considera comprar un item de Resistencia Magica.",
+      "Si Ekko se vuelve un problema, considera comprar un item de Resistencia Magica como Fauces de Malmortius para protegerte de su daño explosivo.",
+      "Considera finalizar las Botas de Mercurio para reducir la duración de los efectos de control de masas de Lux y Mordekaiser.",
+      "Recordatorio Mortal: Reduce la curación de Mordekaiser, Gwen y Smolder.",
+      "Considera comprar Armadura de Warmog o Corazón de Hielo para contrarrestar a Jhin y Smolder.",
+      "Dado que Gwen y Mordekaiser han comprado Botas de Mercurio, un objeto de penetración de armadura como el Lord Dominik's Regards será útil si necesitas infligir daño a estos campeones más adelante en la partida.",
+      "Si Ekko te está causando problemas, considera comprar Fauces de Malmortius para protegerte de su daño explosivo.",
+      "Considera comprar un objeto de penetración de armadura como el Lord Dominik's Regards si necesitas infligir daño a campeones como Mordekaiser y Gwen que han comprado Resistencia Mágica.",
+      "Dado que Gwen ha completado Agrietador y ya tiene Botas de Mercurio, considera comprar un objeto de penetración de armadura como el Lord Dominik's Regards será útil si necesitas infligir daño a estos campeones más adelante en la partida.",
+      "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica (Botas de Mercurio en Mordekaiser, Gwen y Smolder), el objeto de penetración de armadura Lord Dominik's Regards será crucial para infligir daño efectivo.",
+      "El Recordatorio Mortal es crucial para contrarrestar la curación de Mordekaiser y Smolder.",
+      "Ángel Guardián o Fauces de Malmortius: Te dan una segunda oportunidad en peleas de equipo, útil si eres el objetivo principal.",
+      "Fauces de Malmortius: Te da una segunda oportunidad en peleas de equipo, útil contra Ekko y Lux.",
+      "Considera comprar Cimitarra Mercurial más adelante si Lux se vuelve un problema por su CC.",
+      "Considera comprar Fauces de Malmortius si Ekko te está causando problemas con su daño explosivo.",
+      "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica, es crucial completar Lord Dominik's Regards para infligir daño efectivo.",
+      "Prioriza completar Lord Dominik's Regards para infligir daño efectivo a Mordekaiser, Gwen y Jhin, quienes han comprado resistencia mágica y armadura.",
+      "Considera comprar Ángel Guardián o Fauces de Malmortius para sobrevivir al daño explosivo de Ekko y Lux.",
+      "Considera Cimitarra Mercurial si Lux o Mordekaiser se vuelven un problema por su CC.",
+      "Recuerda priorizar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+      "Dado que Gwen ya tiene Agrietador, esperala en escaramuzas y peleas prolongadas. Mantente atento a su ubicación en la jungla para evitar encuentros desfavorables.",
+      "Continúa contrarrestando la curación de Mordekaiser y Smolder con Recordatorio Mortal.",
+      "Prioriza completar Lord Dominik's Regards para infligir daño efectivo a Mordekaiser y Gwen, quienes han comprado armadura y resistencia mágica.",
+      "Prioriza completar Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder."
     ]
   },
   "respuesta": {
     "champion": {
-      "name": "Miss Fortune"
+      "name": "Viego"
     },
     "matchVs": {
-      "enemy": "Draven"
+      "enemy": "Gwen"
     },
     "role_tips": [],
-    "feedback_mybuild": [
-      "Dado que Draven completó El Coleccionista, considera comprar una Malla del Guardián como primer objeto defensivo para reducir su daño de ataque. Luego, completa Ángel Guardián."
-    ],
-    "feedback_update_builds_notify": [
-      "Ekko completó Cinturón Cohete Hextech, lo que le da movilidad adicional para gankear. Wardea con mayor frecuencia el río y la jungla para prever sus emboscadas.",
-      "Pyke compró otro Puñal Serrado. Su letalidad aumenta, por lo que debes jugar más defensivo y evitar ser atrapado fuera de posición.",
-      "Aurora construyó Botas del Hechicero, Capítulo Perdido y Sello de la Oscuridad. Su potencial de burst mágico ha aumentado significativamente. Evita ser golpeado por sus habilidades."
-    ],
-    "final_recommendation": "Draven ha completado El Coleccionista. Te recomiendo comprar una Malla del Guardián para mitigar su daño, seguida de Ángel Guardián. Además, wardea más seguido el río para evitar ganks de Ekko y mantente lejos de Pyke debido a su alta letalidad.",
-    "item_build_core": [
-      "Malla del Guardián",
-      "Ángel Guardián"
-    ],
-    "item_build_counter_tips": [
-      "Malla del Guardián (para reducir el daño de Draven)",
-      "Ángel Guardián (si Draven te deletea)"
-    ]
+    "feedback_mybuild": [],
+    "feedback_update_builds_notify": [],
+    "final_recommendation": " ",
+    "item_build_core": [],
+    "item_build_counter_tips": []
   },
   "prompt": {
     "structure": "{\r\n  \"champion\": {\r\n    \"name\": \"\"\r\n  },\r\n  \"matchVs\": {\r\n    \"enemy\": \"\"\r\n  },\r\n  \"role_tips\": [],\r\n  \"feedback_mybuild\": [],\r\n  \"feedback_update_builds_notify\": [],\r\n  \"final_recommendation\": \"plain_text\",\r\n  \"item_build_core\": [],\r\n  \"item_build_counter_tips\": []\r\n}",
     "currentGame": {
-      "currentTime": 631.473388671875,
+      "currentTime": 2670.25634765625,
+      "gameCreation": "2025-03-03T06:48:46.106Z",
       "phase": "early",
-      "avgPlayersLevel": 7.1,
+      "avgPlayersLevel": 17.9,
       "mySkills": [
         {
           "abilityKey": "E",
-          "displayName": "Lluvia de Plomo",
-          "abilityLevel": 1
+          "displayName": "Sendero Arruinado",
+          "abilityLevel": 5
         },
         {
           "abilityKey": "Q",
-          "displayName": "Doble Bala",
-          "abilityLevel": 2
+          "displayName": "Espada del Rey Arruinado",
+          "abilityLevel": 5
         },
         {
           "abilityKey": "R",
-          "displayName": "Balacera",
-          "abilityLevel": 1
+          "displayName": "Rompecorazones",
+          "abilityLevel": 3
         },
         {
           "abilityKey": "W",
-          "displayName": "Alarde",
-          "abilityLevel": 2
+          "displayName": "Fauces Espectrales",
+          "abilityLevel": 5
         }
       ],
-      "currentGold": 690.2269287109375,
-      "currentSpentGoldByPlayer": 2600,
-      "currentLevel": 6,
+      "currentGold": 1548.2454833984375,
+      "currentSpentGoldByPlayer": 15383,
+      "currentLevel": 18,
       "current": {
-        "championName": "Miss Fortune",
+        "championName": "Viego",
         "riotId": "BukeleDicktador#503",
         "summonerName": "BukeleDicktador#503",
-        "level": 6,
-        "position": "BOTTOM",
-        "kills": 2,
-        "creepScore": 40,
-        "deaths": 5,
-        "assists": 2,
-        "wardScore": 6.162787437438965,
+        "level": 18,
+        "position": "JUNGLE",
+        "kills": 11,
+        "creepScore": 250,
+        "deaths": 9,
+        "assists": 11,
+        "wardScore": 43.254024505615234,
         "team": "ORDER",
-        "directOponent": "Draven",
-        "goldSpent": 1550,
+        "directOponent": "Gwen",
+        "goldSpent": 15383,
         "items": [
           {
-            "id": 1055,
+            "id": 3153,
             "count": 1,
-            "displayName": "Espada de Doran",
-            "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+            "displayName": "Espada del Rey Arruinado",
+            "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>25%</attention> de Velocidad de Ataque<br><attention>10%</attention> de Robo de Vida</stats><br><br><passive>Filo Neblina</passive><br>Los ataques infligen <physicalDamage>un porcentaje</physicalDamage> de la vida actual del enemigo como <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br><br><passive>Sombras Desgarradoras</passive><br>Atacar a un campeón tres veces lo <status>ralentiza</status> en un 30% durante 1 seg.</mainText>",
             "stats": {
-              "FlatHPPoolMod": 80,
-              "FlatPhysicalDamageMod": 10,
-              "PercentLifeStealMod": 0.03
+              "FlatPhysicalDamageMod": 40,
+              "PercentAttackSpeedMod": 0.25,
+              "PercentLifeStealMod": 0.1
             },
-            "price": 450,
+            "price": 3200,
             "slot": 0
           },
           {
-            "id": 2055,
+            "id": 3033,
             "count": 1,
-            "displayName": "Centinela de Control",
-            "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos <keywordStealth>camuflados</keywordStealth>.</mainText>",
-            "stats": {},
-            "price": 75,
+            "displayName": "Recordatorio Mortal",
+            "description": "<mainText><stats><attention>35</attention> de Daño de Ataque<br><attention>35%</attention> de Penetración de Armadura<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br><passive>Heridas Graves</passive><br>Infligir daño físico aplica un <keyword>40% de Heridas</keyword> a los campeones enemigos durante 3 seg.</mainText>",
+            "stats": {
+              "FlatCritChanceMod": 0.25,
+              "FlatPhysicalDamageMod": 35
+            },
+            "price": 3300,
+            "slot": 1
+          },
+          {
+            "id": 3111,
+            "count": 1,
+            "displayName": "Botas de Mercurio",
+            "description": "<mainText><stats><attention>20</attention> de Resistencia Mágica<br><attention>45</attention> de Velocidad de Movimiento<br><attention>30%</attention> de Tenacidad</stats><br><br></mainText>",
+            "stats": {
+              "FlatSpellBlockMod": 20,
+              "FlatMovementSpeedMod": 45
+            },
+            "price": 1250,
             "slot": 2
           },
           {
-            "id": 6690,
+            "id": 3156,
             "count": 1,
-            "displayName": "Rectriz",
-            "description": "<mainText><stats><attention>15</attention> de Daño de Ataque<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+            "displayName": "Fauces de Malmortius",
+            "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>15</attention> de Aceleración de Habilidad<br><attention>40</attention> de Resistencia Mágica</stats><br><br><passive>Salvavidas</passive><br>Tras recibir daño mágico que reduciría tu Vida por debajo de un 30%, obtienes un <shield>escudo contra daño mágico</shield> durante 3 seg y un <lifeSteal>10% de Omnivampirismo</lifeSteal> hasta el final del combate.</mainText>",
             "stats": {
-              "FlatPhysicalDamageMod": 15,
-              "PercentMovementSpeedMod": 0.04
+              "FlatSpellBlockMod": 40,
+              "FlatPhysicalDamageMod": 60
             },
-            "price": 775,
+            "price": 3100,
             "slot": 3
           },
           {
-            "id": 3134,
+            "id": 3078,
             "count": 1,
-            "displayName": "Puñal Serrado",
-            "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad</stats><br><br></mainText>",
+            "displayName": "Fuerza de la Trinidad",
+            "description": "<mainText><stats><attention>36</attention> de Daño de Ataque<br><attention>30%</attention> de Velocidad de Ataque<br><attention>333</attention> de Vida<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Espada Encantada</passive><br>Después de usar una habilidad, tu siguiente ataque inflige <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br> <br><passive>Apresurar</passive><br>Atacar te otorga <speed>20 de Velocidad de Movimiento</speed> durante 2 seg.</mainText>",
             "stats": {
-              "FlatPhysicalDamageMod": 20
+              "FlatHPPoolMod": 333,
+              "FlatPhysicalDamageMod": 36,
+              "PercentAttackSpeedMod": 0.3
             },
-            "price": 1000,
+            "price": 3333,
             "slot": 4
           },
           {
-            "id": 1001,
+            "id": 3051,
             "count": 1,
-            "displayName": "Botas",
-            "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+            "displayName": "Hacha Hogareña",
+            "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>20%</attention> de Velocidad de Ataque</stats><br><br></mainText>",
             "stats": {
-              "FlatMovementSpeedMod": 25
+              "FlatPhysicalDamageMod": 20,
+              "PercentAttackSpeedMod": 0.2
             },
-            "price": 300,
+            "price": 1200,
             "slot": 5
           },
           {
@@ -218,98 +285,688 @@
         "runes": [
           {
             "type": "keystone",
-            "displayName": "Primer Golpe",
-            "id": 8369
+            "displayName": "Conquistador",
+            "id": 8010
           },
           {
             "type": "primaryRuneTree",
-            "displayName": "Inspiración",
-            "id": 8300
+            "displayName": "Precisión",
+            "id": 8000
           },
           {
             "type": "secondaryRuneTree",
-            "displayName": "Brujería",
-            "id": 8200
+            "displayName": "Inspiración",
+            "id": 8300
           }
         ],
         "spells": [
           {
             "spellOrder": "summonerSpellOne",
-            "displayName": "Barrera"
+            "id": "SummonerSmiteAvatarUtility",
+            "displayName": "Castigo Primitivo"
           },
           {
             "spellOrder": "summonerSpellTwo",
+            "id": "SummonerFlash",
             "displayName": "Destello"
           }
         ]
       },
       "firstBlood": {
-        "killer": "Daniel",
+        "killer": "ConeExe",
         "team": "enemy"
       },
       "team": {
-        "spentGold": 10850,
-        "turrets": [],
-        "dragons": [],
+        "spentGold": 58850,
+        "turrets": [
+          {
+            "time": 1077.441162109375,
+            "asisters": [],
+            "killer": "RagnartLordbrok",
+            "lane": "mid",
+            "team": "CHAOS"
+          },
+          {
+            "time": 1203.0697021484375,
+            "asisters": [
+              "DONCH1MBO13"
+            ],
+            "killer": "BukeleDicktador",
+            "position": null
+          },
+          {
+            "time": 1228.2666015625,
+            "asisters": [
+              "DONCH1MBO13"
+            ],
+            "killer": "BukeleDicktador",
+            "position": null
+          },
+          {
+            "time": 1503.4232177734375,
+            "asisters": [
+              "DONCH1MBO13"
+            ],
+            "killer": "valemia10",
+            "lane": "top",
+            "team": "CHAOS"
+          },
+          {
+            "time": 1519.7288818359375,
+            "asisters": [
+              "DONCH1MBO13",
+              "valemia10"
+            ],
+            "killer": "T6 El primero",
+            "lane": "top",
+            "team": "CHAOS"
+          },
+          {
+            "time": 1667.2559814453125,
+            "asisters": [
+              "T6 El primero"
+            ],
+            "killer": "DONCH1MBO13",
+            "lane": "top",
+            "team": "CHAOS"
+          },
+          {
+            "time": 1675.14453125,
+            "asisters": [
+              "DONCH1MBO13"
+            ],
+            "killer": "T6 El primero",
+            "position": null
+          },
+          {
+            "time": 1683.820068359375,
+            "asisters": [
+              "DONCH1MBO13"
+            ],
+            "killer": "T6 El primero",
+            "lane": "top",
+            "team": "CHAOS"
+          },
+          {
+            "time": 1964.5662841796875,
+            "asisters": [
+              "T6 El primero",
+              "valemia10"
+            ],
+            "killer": "RagnartLordbrok",
+            "lane": "mid",
+            "team": "CHAOS"
+          },
+          {
+            "time": 2034.8873291015625,
+            "asisters": [],
+            "killer": "ConeExe",
+            "position": null
+          },
+          {
+            "time": 2530.73486328125,
+            "asisters": [
+              "BukeleDicktador"
+            ],
+            "killer": "T6 El primero",
+            "position": null
+          },
+          {
+            "time": 2662.551513671875,
+            "asisters": [],
+            "killer": "DONCH1MBO13",
+            "lane": "top",
+            "team": "CHAOS"
+          },
+          {
+            "time": 2666.0615234375,
+            "asisters": [],
+            "killer": "T6 El primero",
+            "position": null
+          },
+          {
+            "time": 2666.5615234375,
+            "asisters": [
+              "RagnartLordbrok",
+              "valemia10"
+            ],
+            "killer": "DONCH1MBO13",
+            "lane": "top",
+            "team": "CHAOS"
+          }
+        ],
+        "dragons": [
+          {
+            "time": 536.2540283203125,
+            "asisters": [
+              "T6 El primero"
+            ],
+            "killer": "BukeleDicktador",
+            "type": "Water",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 996.5956420898438,
+            "asisters": [],
+            "killer": "BukeleDicktador",
+            "type": "Fire",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 1054.763427734375,
+            "asisters": [
+              "T6 El primero"
+            ],
+            "killer": "BukeleDicktador",
+            "type": "HeraldKill",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 1346.2010498046875,
+            "asisters": [
+              "RagnartLordbrok",
+              "DONCH1MBO13",
+              "Tilin Insano",
+              "AteneaEterna"
+            ],
+            "killer": "Niño de oro",
+            "type": "Earth",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 1741.70703125,
+            "asisters": [
+              "ConeExe",
+              "AteneaEterna"
+            ],
+            "killer": "Tilin Insano",
+            "type": "Earth",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 2076.037841796875,
+            "asisters": [],
+            "killer": "BukeleDicktador",
+            "type": "Earth",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 2417.76123046875,
+            "asisters": [
+              "RagnartLordbrok",
+              "valemia10"
+            ],
+            "killer": "BukeleDicktador",
+            "type": "Earth",
+            "team": "enemy",
+            "stolen": false
+          },
+          {
+            "time": 2572.17919921875,
+            "asisters": [
+              "BukeleDicktador",
+              "T6 El primero",
+              "DONCH1MBO13"
+            ],
+            "killer": "RagnartLordbrok",
+            "type": "BaronKill",
+            "team": "enemy",
+            "stolen": false
+          }
+        ],
         "players": [
           {
             "championName": "Teemo",
-            "riotId": "iLiVen#LAN",
-            "summonerName": "iLiVen#LAN",
-            "level": 7,
+            "riotId": "RagnartLordbrok#LAN",
+            "summonerName": "RagnartLordbrok#LAN",
+            "level": 18,
             "position": "TOP",
-            "kills": 0,
-            "creepScore": 40,
-            "deaths": 3,
-            "assists": 1,
-            "wardScore": 5.0734944343566895,
+            "kills": 5,
+            "creepScore": 200,
+            "deaths": 7,
+            "assists": 13,
+            "wardScore": 33.7967529296875,
             "team": "ORDER",
-            "directOponent": "Aurora",
-            "goldSpent": 1250,
+            "directOponent": "Mordekaiser",
+            "goldSpent": 13300,
             "items": [
               {
-                "id": 1056,
+                "id": 3089,
                 "count": 1,
-                "displayName": "Sortija de Doran",
-                "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+                "displayName": "Sombrero Mortífero de Rabadon",
+                "description": "<mainText><stats><attention>130</attention> de Poder de Habilidad</stats><br><br><passive>Obra Mágica</passive><br>Aumenta tu <scaleAP>Poder de Habilidad total en un 30%</scaleAP>.</mainText>",
                 "stats": {
-                  "FlatHPPoolMod": 90,
-                  "FlatMagicDamageMod": 18
+                  "FlatMagicDamageMod": 130
                 },
-                "price": 400,
-                "slot": 0
-              },
-              {
-                "id": 2003,
-                "count": 2,
-                "displayName": "Poción de Vida",
-                "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
-                "stats": {},
-                "price": 50,
+                "price": 3600,
                 "slot": 1
               },
               {
-                "id": 1001,
+                "id": 6653,
                 "count": 1,
-                "displayName": "Botas",
-                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "displayName": "El Tormento de Liandry",
+                "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>300</attention> de Vida</stats><br><br><passive>Tormento</passive><br>Infligir daño con habilidades quema a los enemigos por un <magicDamage>2% de su Vida Máxima como daño mágico</magicDamage> por seg durante 3 seg.<br><br><passive>Sufrimiento</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.</mainText>",
                 "stats": {
-                  "FlatMovementSpeedMod": 25
+                  "FlatHPPoolMod": 300,
+                  "FlatMagicDamageMod": 70
                 },
-                "price": 300,
+                "price": 3000,
                 "slot": 2
               },
               {
-                "id": 3147,
+                "id": 3009,
                 "count": 1,
-                "displayName": "Antifaz Embrujado",
-                "description": "<mainText><stats><attention>30</attention> de Poder de Habilidad<br><attention>200</attention> de Vida</stats><br><br><passive>Locura</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un máximo del 6%. </mainText>",
+                "displayName": "Botas de Rapidez",
+                "description": "<mainText><stats><attention>60</attention> de Velocidad de Movimiento</stats><br><br><passive>Pies ligeros</passive><br>Reduce la eficacia de los efectos de <keyword>ralentización</keyword> en un 25%.</mainText>",
                 "stats": {
-                  "FlatHPPoolMod": 200,
-                  "FlatMagicDamageMod": 30
+                  "FlatMovementSpeedMod": 60
                 },
-                "price": 1300,
+                "price": 1000,
                 "slot": 3
+              },
+              {
+                "id": 3118,
+                "count": 1,
+                "displayName": "Maldad",
+                "description": "<mainText><stats><attention>85</attention> de Poder de Habilidad<br><attention>600</attention> de Maná<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Desdén</passive><br>Obtienes 20 de Aceleración de Habilidad de la definitiva.<br><br><passive>Campo Tóxico</passive><br>Infligir daño a un campeón con tu definitiva quema el suelo donde esté parado durante 3 seg, lo que le inflige <magicDamage>daño mágico</magicDamage> por seg y reduce su <scaleMR>resistencia mágica</scaleMR>. <br></mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 600,
+                  "FlatMagicDamageMod": 85
+                },
+                "price": 2700,
+                "slot": 4
+              },
+              {
+                "id": 3115,
+                "count": 1,
+                "displayName": "Diente de Nashor",
+                "description": "<mainText><stats><attention>80</attention> de Poder de Habilidad<br><attention>50%</attention> de Velocidad de Ataque<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Mordida de Icathia</passive><br>Los ataques infligen <magicDamage>daño mágico adicional</magicDamage> <OnHit>al impacto</OnHit>.</mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 80,
+                  "PercentAttackSpeedMod": 0.5
+                },
+                "price": 3000,
+                "slot": 5
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Agarre del Perpetuo",
+                "id": 8437
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Valor",
+                "id": 8400
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "id": "SummonerDot",
+                "displayName": "Ignición"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "id": "SummonerFlash",
+                "displayName": "Destello"
+              }
+            ]
+          },
+          {
+            "championName": "Veigar",
+            "riotId": "T6 El primero#666",
+            "summonerName": "T6 El primero#666",
+            "level": 18,
+            "position": "MIDDLE",
+            "kills": 10,
+            "creepScore": 310,
+            "deaths": 4,
+            "assists": 10,
+            "wardScore": 36.39960479736328,
+            "team": "ORDER",
+            "directOponent": "Ekko",
+            "goldSpent": 16400,
+            "items": [
+              {
+                "id": 3089,
+                "count": 1,
+                "displayName": "Sombrero Mortífero de Rabadon",
+                "description": "<mainText><stats><attention>130</attention> de Poder de Habilidad</stats><br><br><passive>Obra Mágica</passive><br>Aumenta tu <scaleAP>Poder de Habilidad total en un 30%</scaleAP>.</mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 130
+                },
+                "price": 3600,
+                "slot": 0
+              },
+              {
+                "id": 3135,
+                "count": 1,
+                "displayName": "Báculo del Vacío",
+                "description": "<mainText><stats><attention>95</attention> de Poder de Habilidad<br><attention>40%</attention> Penetración de Magia</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 95
+                },
+                "price": 3000,
+                "slot": 1
+              },
+              {
+                "id": 3040,
+                "count": 1,
+                "displayName": "Abrazo del Serafín",
+                "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>1000</attention> de Maná<br><attention>25</attention> de Aceleración de Habilidad</stats><br><br><passive>Asombro</passive><br>Obtienes Poder de Habilidad igual a un <scaleMana>2% de tu Maná adicional</scaleMana>.<br><br><passive>Salvavidas</passive> (0 seg)<br>Recibir daño que reduciría tu Vida por debajo de un 30% te otorgará un escudo equivalente a <shield>200 + 20% del Maná actual</shield> durante 3 seg.</mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 1000,
+                  "FlatMagicDamageMod": 70
+                },
+                "price": 2900,
+                "slot": 2
+              },
+              {
+                "id": 6657,
+                "count": 1,
+                "displayName": "Vara de las Edades",
+                "description": "<mainText><stats><attention>50</attention> de Poder de Habilidad<br><attention>400</attention> de Vida<br><attention>400</attention> de Maná</stats><br><br><passive>Atemporal</passive><br>Este objeto obtiene <scaleHealth>10 de Vida</scaleHealth>, <scaleMana>20 de Maná</scaleMana> y <scaleAP>3 de Poder de Habilidad</scaleAP> cada 60 seg hasta 10 veces. Al alcanzar el máximo de acumulaciones, subes un nivel.<br><br><passive>Eternidad</passive><br>Recibir daño de campeones restaura un <scaleMana>7%</scaleMana> del daño como <scaleMana>Maná</scaleMana>. <br>Lanzar una habilidad <healing>cura por un 25%</healing> del Maná gastado.</mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 400,
+                  "FlatHPPoolMod": 400,
+                  "FlatMagicDamageMod": 50
+                },
+                "price": 2600,
+                "slot": 3
+              },
+              {
+                "id": 4645,
+                "count": 1,
+                "displayName": "Lumbría",
+                "description": "<mainText><stats><attention>110</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia</stats><br><br><passive>Flor de Ceniza</passive><br>El <magicDamage>daño mágico</magicDamage> y el <trueDamage>daño verdadero</trueDamage> infligen <attention>golpes críticos</attention> a los enemigos que tengan menos de un 40% de Vida, lo que inflige un 20% de daño aumentado. </mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 110
+                },
+                "price": 3200,
+                "slot": 4
+              },
+              {
+                "id": 3020,
+                "count": 1,
+                "displayName": "Botas del Hechicero",
+                "description": "<mainText><stats><attention>12</attention> de Penetración de Magia<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 45
+                },
+                "price": 1100,
+                "slot": 5
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Primer Golpe",
+                "id": 8369
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Inspiración",
+                "id": 8300
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "id": "S12_SummonerTeleportUpgrade",
+                "displayName": "Teleportación Desatada"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "id": "SummonerFlash",
+                "displayName": "Destello"
+              }
+            ]
+          },
+          {
+            "championName": "Jhin",
+            "riotId": "DONCH1MBO13#LAN",
+            "summonerName": "DONCH1MBO13#LAN",
+            "level": 18,
+            "position": "BOTTOM",
+            "kills": 18,
+            "creepScore": 180,
+            "deaths": 11,
+            "assists": 9,
+            "wardScore": 31.47073745727539,
+            "team": "ORDER",
+            "directOponent": "Smolder",
+            "goldSpent": 16000,
+            "items": [
+              {
+                "id": 6676,
+                "count": 1,
+                "displayName": "El Coleccionista",
+                "description": "<mainText><stats><attention>50</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br><passive>Muerte</passive><br>Tu daño ejecuta a los campeones que están por debajo de un 5% de Vida. <br><br><passive>Impuestos</passive><br>Los asesinatos de campeones otorgan <gold>25 de oro adicional</gold>.</mainText>",
+                "stats": {
+                  "FlatCritChanceMod": 0.25,
+                  "FlatPhysicalDamageMod": 50
+                },
+                "price": 3000,
+                "slot": 0
+              },
+              {
+                "id": 3142,
+                "count": 1,
+                "displayName": "Espada Fantasma de Youmuu",
+                "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Persecución</passive> <br>Obtienes <speed>0 de Velocidad de Movimiento</speed> al estar fuera de combate.<br><br><active>Paso Espectral</active><br>Obtienes <speed>velocidad de movimiento</speed> y te vuelves <keyword>Fantasma</keyword> durante 0 seg.</mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 55,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 2800,
+                "slot": 1
+              },
+              {
+                "id": 3094,
+                "count": 1,
+                "displayName": "Cañón de Fuego Rápido",
+                "description": "<mainText><stats><attention>35%</attention> de Velocidad de Ataque<br><attention>25%</attention> de Probabilidad de Golpe Crítico<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Francotirador</passive><br>Tu <keyword>ataque energizado</keyword> inflige <magicDamage>40 daño mágico adicional</magicDamage> y obtiene un 35% de alcance de Ataque adicional.</mainText>",
+                "stats": {
+                  "FlatCritChanceMod": 0.25,
+                  "PercentAttackSpeedMod": 0.35,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 2650,
+                "slot": 2
+              },
+              {
+                "id": 3009,
+                "count": 1,
+                "displayName": "Botas de Rapidez",
+                "description": "<mainText><stats><attention>60</attention> de Velocidad de Movimiento</stats><br><br><passive>Pies ligeros</passive><br>Reduce la eficacia de los efectos de <keyword>ralentización</keyword> en un 25%.</mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 60
+                },
+                "price": 1000,
+                "slot": 3
+              },
+              {
+                "id": 3036,
+                "count": 1,
+                "displayName": "Recuerdos de Lord Dominik",
+                "description": "<mainText><stats><attention>35</attention> de Daño de Ataque<br><attention>40%</attention> de Penetración de Armadura<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br></mainText>",
+                "stats": {
+                  "FlatCritChanceMod": 0.25,
+                  "FlatPhysicalDamageMod": 35
+                },
+                "price": 3100,
+                "slot": 4
+              },
+              {
+                "id": 3031,
+                "count": 1,
+                "displayName": "Filo del Infinito",
+                "description": "<mainText><stats><attention>65</attention> de Daño de Ataque<br><attention>25%</attention> de Probabilidad de Golpe Crítico<br><attention>40%</attention> de Daño de Golpe Crítico</stats><br><br></mainText>",
+                "stats": {
+                  "FlatCritChanceMod": 0.25,
+                  "FlatPhysicalDamageMod": 65
+                },
+                "price": 3450,
+                "slot": 5
+              },
+              {
+                "id": 3340,
+                "count": 1,
+                "displayName": "Centinela Invisible",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Sobre la Marcha",
+                "id": 8021
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Precisión",
+                "id": 8000
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Inspiración",
+                "id": 8300
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "id": "SummonerBarrier",
+                "displayName": "Barrera"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "id": "SummonerFlash",
+                "displayName": "Destello"
+              }
+            ]
+          },
+          {
+            "championName": "Xerath",
+            "riotId": "valemia10#LAN",
+            "summonerName": "valemia10#LAN",
+            "level": 18,
+            "position": "UTILITY",
+            "kills": 6,
+            "creepScore": 100,
+            "deaths": 13,
+            "assists": 15,
+            "wardScore": 99.30894470214844,
+            "team": "ORDER",
+            "directOponent": "Lux",
+            "goldSpent": 13150,
+            "items": [
+              {
+                "id": 4645,
+                "count": 1,
+                "displayName": "Lumbría",
+                "description": "<mainText><stats><attention>110</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia</stats><br><br><passive>Flor de Ceniza</passive><br>El <magicDamage>daño mágico</magicDamage> y el <trueDamage>daño verdadero</trueDamage> infligen <attention>golpes críticos</attention> a los enemigos que tengan menos de un 40% de Vida, lo que inflige un 20% de daño aumentado. </mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 110
+                },
+                "price": 3200,
+                "slot": 0
+              },
+              {
+                "id": 3871,
+                "count": 1,
+                "displayName": "Espina Dimensional de Zaz'Zak",
+                "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>75%</attention> de Regen. de Vida Básica<br><attention>75%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Explosión del Vacío</passive><br>Infligir daño a un campeón con una habilidad provoca una explosión que inflige <magicDamage>daño mágico</magicDamage>.<br><br><active>Activa</active> (4 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 200
+                },
+                "price": 400,
+                "slot": 1
+              },
+              {
+                "id": 3040,
+                "count": 1,
+                "displayName": "Abrazo del Serafín",
+                "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>1000</attention> de Maná<br><attention>25</attention> de Aceleración de Habilidad</stats><br><br><passive>Asombro</passive><br>Obtienes Poder de Habilidad igual a un <scaleMana>2% de tu Maná adicional</scaleMana>.<br><br><passive>Salvavidas</passive> (0 seg)<br>Recibir daño que reduciría tu Vida por debajo de un 30% te otorgará un escudo equivalente a <shield>200 + 20% del Maná actual</shield> durante 3 seg.</mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 1000,
+                  "FlatMagicDamageMod": 70
+                },
+                "price": 2900,
+                "slot": 2
+              },
+              {
+                "id": 3020,
+                "count": 1,
+                "displayName": "Botas del Hechicero",
+                "description": "<mainText><stats><attention>12</attention> de Penetración de Magia<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMovementSpeedMod": 45
+                },
+                "price": 1100,
+                "slot": 3
+              },
+              {
+                "id": 4628,
+                "count": 1,
+                "displayName": "Enfoque al Horizonte",
+                "description": "<mainText><stats><attention>75</attention> de Poder de Habilidad<br><attention>25</attention> de Aceleración de Habilidad</stats><br><br><passive>Hiperdisparo</passive><br>Infligir daño a campeones con una habilidad a 600 de distancia o mayor los <keywordStealth>revela</keywordStealth> durante 6 seg. <br>Infliges un 10% de daño aumentado a los enemigos <keywordStealth>revelados</keywordStealth> con este objeto.<br><br><passive>Enfoque</passive><br>Cuando se activa <passive>Hiperdisparo</passive>, <keywordStealth>se revelan</keywordStealth> los demás campeones enemigos en un radio de 1400 de distancia durante 3 seg.</mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 75
+                },
+                "price": 2700,
+                "slot": 4
+              },
+              {
+                "id": 6655,
+                "count": 1,
+                "displayName": "Acompañante de Luden",
+                "description": "<mainText><stats><attention>100</attention> de Poder de Habilidad<br><attention>600</attention> de Maná<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Disparar</passive><br>Las habilidades que infligen daño disparan 6 proyectiles que infligen <magicDamage>daño mágico adicional</magicDamage> al objetivo y a los enemigos cercanos. Los proyectiles restantes se dirigen al objetivo principal e infligen un 20% del daño.<br></mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 600,
+                  "FlatMagicDamageMod": 100
+                },
+                "price": 2850,
+                "slot": 5
               },
               {
                 "id": 3364,
@@ -324,13 +981,13 @@
             "runes": [
               {
                 "type": "keystone",
-                "displayName": "Estrategia Ofensiva",
-                "id": 8005
+                "displayName": "Primer Golpe",
+                "id": 8369
               },
               {
                 "type": "primaryRuneTree",
-                "displayName": "Precisión",
-                "id": 8000
+                "displayName": "Inspiración",
+                "id": 8300
               },
               {
                 "type": "secondaryRuneTree",
@@ -341,80 +998,131 @@
             "spells": [
               {
                 "spellOrder": "summonerSpellOne",
+                "id": "SummonerFlash",
                 "displayName": "Destello"
               },
               {
                 "spellOrder": "summonerSpellTwo",
-                "displayName": "Ignición"
+                "id": "SummonerExhaust",
+                "displayName": "Extenuación"
               }
             ]
+          }
+        ]
+      },
+      "enemyTeam": {
+        "spentGold": 69250,
+        "turrets": [
+          {
+            "time": 1046.1064453125,
+            "asisters": [],
+            "killer": "ConeExe",
+            "lane": "mid",
+            "team": "ORDER"
           },
           {
-            "championName": "Nocturne",
-            "riotId": "T1 Xiorena#SKT",
-            "summonerName": "T1 Xiorena#SKT",
-            "level": 7,
-            "position": "JUNGLE",
-            "kills": 1,
-            "creepScore": 60,
-            "deaths": 2,
-            "assists": 2,
-            "wardScore": 7.184588432312012,
-            "team": "ORDER",
-            "directOponent": "Ekko",
-            "goldSpent": 2500,
+            "time": 2092.07861328125,
+            "asisters": [],
+            "killer": "Minion_T200L1S67N0438",
+            "lane": "top",
+            "team": "ORDER"
+          },
+          {
+            "time": 2172.37255859375,
+            "asisters": [
+              "AteneaEterna"
+            ],
+            "killer": "Tilin Insano",
+            "lane": "top",
+            "team": "ORDER"
+          }
+        ],
+        "dragons": [],
+        "players": [
+          {
+            "championName": "Mordekaiser",
+            "riotId": "ConeExe#REACH",
+            "summonerName": "ConeExe#REACH",
+            "level": 18,
+            "position": "TOP",
+            "kills": 8,
+            "creepScore": 230,
+            "deaths": 12,
+            "assists": 4,
+            "wardScore": 31.307003021240234,
+            "team": "CHAOS",
+            "directOponent": "Teemo",
+            "goldSpent": 13450,
             "items": [
               {
-                "id": 1103,
+                "id": 6653,
                 "count": 1,
-                "displayName": "Retoño de Pisamusgo",
-                "description": "<mainText><stats></stats><br><br><passive>Compañeros de la Jungla</passive><br>Invocas un <font color='#1CA935'>Pisamusgo</font> que te ayuda a pelear contra monstruos.<br><br><passive>Valor de Pisamusgo</passive><br>El compañero crece conforme cazas monstruos, lo que potencia tu <spellName>Castigo</spellName>. Al alcanzar su tamaño máximo, te otorga un <shield>escudo</shield> que se regenera tras matar monstruos grandes o al estar fuera del combate.</mainText>",
-                "stats": {},
-                "price": 450,
+                "displayName": "El Tormento de Liandry",
+                "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>300</attention> de Vida</stats><br><br><passive>Tormento</passive><br>Infligir daño con habilidades quema a los enemigos por un <magicDamage>2% de su Vida Máxima como daño mágico</magicDamage> por seg durante 3 seg.<br><br><passive>Sufrimiento</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 300,
+                  "FlatMagicDamageMod": 70
+                },
+                "price": 3000,
                 "slot": 0
               },
               {
-                "id": 1036,
+                "id": 3075,
                 "count": 1,
-                "displayName": "Espada Larga",
-                "description": "<mainText><stats><attention>10</attention> de Daño de Ataque</stats><br><br></mainText>",
+                "displayName": "Cota de Espinas",
+                "description": "<mainText><stats><attention>150</attention> de Vida<br><attention>75</attention> de Armadura</stats><br><br><passive>Espinas</passive><br>Al recibir un ataque, inflige <magicDamage>daño mágico</magicDamage> al atacante. Si el atacante es un campeón, le aplica un 40% de <keyword>Heridas</keyword> durante 3 seg.</mainText>",
                 "stats": {
-                  "FlatPhysicalDamageMod": 10
+                  "FlatHPPoolMod": 150,
+                  "FlatArmorMod": 75
                 },
-                "price": 350,
+                "price": 2450,
+                "slot": 1
+              },
+              {
+                "id": 3116,
+                "count": 1,
+                "displayName": "Cetro de Cristal de Rylai",
+                "description": "<mainText><stats><attention>65</attention> de Poder de Habilidad<br><attention>400</attention> de Vida</stats><br><br><passive>Hielo Escarchado</passive><br>Las habilidades de daño <keyword>ralentizan</keyword> a los enemigos un 30% durante 1 seg.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 400,
+                  "FlatMagicDamageMod": 65
+                },
+                "price": 2600,
                 "slot": 2
               },
               {
-                "id": 3144,
+                "id": 3173,
                 "count": 1,
-                "displayName": "Honda del Explorador",
-                "description": "<mainText><stats><attention>20%</attention> de Velocidad de Ataque</stats><br><br><passive>Tiro Certero</passive><br>Infligir daño a un campeón le inflige <magicDamage>daño mágico adicional</magicDamage>. <br>Los ataques reducen este enfriamiento en 1 seg.</mainText>",
+                "displayName": "Trituradoras Aceradas",
+                "description": "<mainText><stats><attention>35</attention> de Resistencia Mágica<br><attention>50</attention> de Velocidad de Movimiento<br><attention>30%</attention> de Tenacidad</stats><br><br><passive>Persistencia Noxiana</passive> (0 seg)<br>Tras recibir daño mágico de un campeón, obtienes un <shield>escudo</shield> que protege contra <shield>0</shield> de <magicDamage>daño mágico</magicDamage> durante 4 seg.</mainText>",
                 "stats": {
-                  "PercentAttackSpeedMod": 0.2
+                  "FlatSpellBlockMod": 35,
+                  "FlatMovementSpeedMod": 50
                 },
-                "price": 600,
+                "price": 2000,
                 "slot": 3
               },
               {
-                "id": 1038,
+                "id": 3065,
                 "count": 1,
-                "displayName": "Espadón",
-                "description": "<mainText><stats><attention>40</attention> de Daño de Ataque</stats><br><br></mainText>",
+                "displayName": "Apariencia Espiritual",
+                "description": "<mainText><stats><attention>400</attention> de Vida<br><attention>50</attention> de Resistencia Mágica<br><attention>10</attention> de Aceleración de Habilidad<br><attention>100%</attention> de Regen. de Vida Básica</stats><br><br><passive>Vitalidad Ilimitada</passive><br>Las curaciones y los escudos que tengas aumentarán en un 25%.</mainText>",
                 "stats": {
-                  "FlatPhysicalDamageMod": 40
+                  "FlatSpellBlockMod": 50,
+                  "FlatHPPoolMod": 400
                 },
-                "price": 1300,
+                "price": 2700,
                 "slot": 4
               },
               {
-                "id": 1001,
+                "id": 1043,
                 "count": 1,
-                "displayName": "Botas",
-                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "displayName": "Arco Recurvado",
+                "description": "<mainText><stats><attention>15%</attention> de Velocidad de Ataque</stats><br><br><passive>Aguijón</passive><br>Los ataques infligen <physicalDamage>15 de daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.</mainText>",
                 "stats": {
-                  "FlatMovementSpeedMod": 25
+                  "PercentAttackSpeedMod": 0.15
                 },
-                "price": 300,
+                "price": 700,
                 "slot": 5
               },
               {
@@ -440,164 +1148,108 @@
               },
               {
                 "type": "secondaryRuneTree",
-                "displayName": "Dominación",
-                "id": 8100
+                "displayName": "Valor",
+                "id": 8400
               }
             ],
             "spells": [
               {
                 "spellOrder": "summonerSpellOne",
-                "displayName": "Castigo Desatado"
+                "id": "SummonerFlash",
+                "displayName": "Destello"
               },
               {
                 "spellOrder": "summonerSpellTwo",
-                "displayName": "Destello"
+                "id": "S12_SummonerTeleportUpgrade",
+                "displayName": "Teleportación Desatada"
               }
             ]
           },
           {
-            "championName": "Zed",
-            "riotId": "LeBiche7#LAN",
-            "summonerName": "LeBiche7#LAN",
-            "level": 8,
-            "position": "MIDDLE",
-            "kills": 1,
-            "creepScore": 50,
-            "deaths": 2,
-            "assists": 0,
-            "wardScore": 6.486597061157227,
-            "team": "ORDER",
-            "directOponent": "Qiyana",
-            "goldSpent": 1275,
+            "championName": "Gwen",
+            "riotId": "Tilin Insano#GOD",
+            "summonerName": "Tilin Insano#GOD",
+            "level": 18,
+            "position": "JUNGLE",
+            "kills": 8,
+            "creepScore": 110,
+            "deaths": 8,
+            "assists": 6,
+            "wardScore": 18.983333587646484,
+            "team": "CHAOS",
+            "directOponent": "Viego",
+            "goldSpent": 15400,
             "items": [
               {
-                "id": 3133,
+                "id": 4633,
                 "count": 1,
-                "displayName": "Martillo de Guerra de Caulfield",
-                "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "displayName": "Agrietador",
+                "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>350</attention> de Vida<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Corrupción del Vacío</passive><br>Por cada seg en combate contra campeones enemigos, infliges un 2% de daño adicional (hasta un 8%). Al tener el máximo de fuerza, obtienes <omnivamp>Omnivampirismo</omnivamp>.<br><br><passive>Infusión del Vacío</passive><br>Obtienes un 2% de tu <scaleHealth>Vida adicional</scaleHealth> como <scaleAP>Poder de Habilidad</scaleAP>.</mainText>",
                 "stats": {
-                  "FlatPhysicalDamageMod": 20
+                  "FlatHPPoolMod": 350,
+                  "FlatMagicDamageMod": 70
                 },
-                "price": 1050,
+                "price": 3100,
                 "slot": 0
               },
               {
-                "id": 1037,
+                "id": 3157,
                 "count": 1,
-                "displayName": "Picacha",
-                "description": "<mainText><stats><attention>25</attention> de Daño de Ataque</stats><br><br></mainText>",
+                "displayName": "Reloj de Arena de Zhonya",
+                "description": "<mainText><stats><attention>105</attention> de Poder de Habilidad<br><attention>50</attention> de Armadura</stats><br><br><active>Detener el Tiempo</active><br>Entras en <keyword>Estasis</keyword> durante 2.5 seg.</mainText>",
                 "stats": {
-                  "FlatPhysicalDamageMod": 25
+                  "FlatMagicDamageMod": 105,
+                  "FlatArmorMod": 50
                 },
-                "price": 875,
+                "price": 3250,
                 "slot": 1
               },
               {
-                "id": 1001,
+                "id": 3111,
                 "count": 1,
-                "displayName": "Botas",
-                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "displayName": "Botas de Mercurio",
+                "description": "<mainText><stats><attention>20</attention> de Resistencia Mágica<br><attention>45</attention> de Velocidad de Movimiento<br><attention>30%</attention> de Tenacidad</stats><br><br></mainText>",
                 "stats": {
-                  "FlatMovementSpeedMod": 25
+                  "FlatSpellBlockMod": 20,
+                  "FlatMovementSpeedMod": 45
                 },
-                "price": 300,
+                "price": 1250,
                 "slot": 2
               },
               {
-                "id": 3340,
+                "id": 3115,
                 "count": 1,
-                "displayName": "Centinela Invisible",
-                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-                "stats": {},
-                "price": 0,
-                "slot": 6
-              }
-            ],
-            "runes": [
-              {
-                "type": "keystone",
-                "displayName": "Electrocutar",
-                "id": 8112
-              },
-              {
-                "type": "primaryRuneTree",
-                "displayName": "Dominación",
-                "id": 8100
-              },
-              {
-                "type": "secondaryRuneTree",
-                "displayName": "Precisión",
-                "id": 8000
-              }
-            ],
-            "spells": [
-              {
-                "spellOrder": "summonerSpellOne",
-                "displayName": "Ignición"
-              },
-              {
-                "spellOrder": "summonerSpellTwo",
-                "displayName": "Destello"
-              }
-            ]
-          },
-          {
-            "championName": "Swain",
-            "riotId": "A Matter of Time#TIME",
-            "summonerName": "A Matter of Time#TIME",
-            "level": 6,
-            "position": "UTILITY",
-            "kills": 4,
-            "creepScore": 10,
-            "deaths": 4,
-            "assists": 1,
-            "wardScore": 8.870732307434082,
-            "team": "ORDER",
-            "directOponent": "Pyke",
-            "goldSpent": 1525,
-            "items": [
-              {
-                "id": 3866,
-                "count": 1,
-                "displayName": "Brújula Rúnica",
-                "description": "<mainText><stats><attention>100</attention> de Vida<br><attention>50%</attention> de Regen. de Vida Básica<br><attention>50%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Misión de Soporte</passive><br>Obtienes <keywordMajor>0</keywordMajor> de oro de este objeto para transformarlo en <rarityGeneric>Recompensa Mundial</rarityGeneric>. <br><br><passive>Riquezas Compartidas</passive> (0 seg, máx. 0 cargas)<br>Al estar cerca de un campeón aliado, infligir daño a campeones enemigos o matar súbditos te otorga oro.<active>Activa</active> (3 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+                "displayName": "Diente de Nashor",
+                "description": "<mainText><stats><attention>80</attention> de Poder de Habilidad<br><attention>50%</attention> de Velocidad de Ataque<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Mordida de Icathia</passive><br>Los ataques infligen <magicDamage>daño mágico adicional</magicDamage> <OnHit>al impacto</OnHit>.</mainText>",
                 "stats": {
-                  "FlatHPPoolMod": 100
+                  "FlatMagicDamageMod": 80,
+                  "PercentAttackSpeedMod": 0.5
                 },
-                "price": 400,
-                "slot": 0
-              },
-              {
-                "id": 3118,
-                "count": 1,
-                "displayName": "Maldad",
-                "description": "<mainText><stats><attention>85</attention> de Poder de Habilidad<br><attention>600</attention> de Maná<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Desdén</passive><br>Obtienes 20 de Aceleración de Habilidad de la definitiva.<br><br><passive>Campo Tóxico</passive><br>Infligir daño a un campeón con tu definitiva quema el suelo donde esté parado durante 3 seg, lo que le inflige <magicDamage>daño mágico</magicDamage> por seg y reduce su <scaleMR>resistencia mágica</scaleMR>. <br></mainText>",
-                "stats": {
-                  "FlatMPPoolMod": 600,
-                  "FlatMagicDamageMod": 85
-                },
-                "price": 2700,
-                "slot": 1
-              },
-              {
-                "id": 1052,
-                "count": 1,
-                "displayName": "Libro Amplificador",
-                "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad</stats><br><br></mainText>",
-                "stats": {
-                  "FlatMagicDamageMod": 20
-                },
-                "price": 400,
-                "slot": 2
-              },
-              {
-                "id": 2055,
-                "count": 1,
-                "displayName": "Centinela de Control",
-                "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos <keywordStealth>camuflados</keywordStealth>.</mainText>",
-                "stats": {},
-                "price": 75,
+                "price": 3000,
                 "slot": 3
+              },
+              {
+                "id": 4645,
+                "count": 1,
+                "displayName": "Lumbría",
+                "description": "<mainText><stats><attention>110</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia</stats><br><br><passive>Flor de Ceniza</passive><br>El <magicDamage>daño mágico</magicDamage> y el <trueDamage>daño verdadero</trueDamage> infligen <attention>golpes críticos</attention> a los enemigos que tengan menos de un 40% de Vida, lo que inflige un 20% de daño aumentado. </mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 110
+                },
+                "price": 3200,
+                "slot": 4
+              },
+              {
+                "id": 4632,
+                "count": 1,
+                "displayName": "Barrera Esmeralda",
+                "description": "<mainText><stats><attention>40</attention> de Poder de Habilidad<br><attention>25</attention> de Resistencia Mágica</stats><br><br><passive>Anulación</passive><br>Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.</mainText>",
+                "stats": {
+                  "FlatSpellBlockMod": 25,
+                  "FlatMagicDamageMod": 40
+                },
+                "price": 1600,
+                "slot": 5
               },
               {
                 "id": 3364,
@@ -622,150 +1274,47 @@
               },
               {
                 "type": "secondaryRuneTree",
-                "displayName": "Valor",
-                "id": 8400
+                "displayName": "Inspiración",
+                "id": 8300
               }
             ],
             "spells": [
               {
                 "spellOrder": "summonerSpellOne",
-                "displayName": "Destello"
+                "id": "SummonerSmiteAvatarUtility",
+                "displayName": "Castigo Primitivo"
               },
               {
                 "spellOrder": "summonerSpellTwo",
-                "displayName": "Ignición"
-              }
-            ]
-          }
-        ]
-      },
-      "enemyTeam": {
-        "spentGold": 16400,
-        "turrets": [],
-        "dragons": [],
-        "players": [
-          {
-            "championName": "Aurora",
-            "riotId": "Daniel#Diaz",
-            "summonerName": "Daniel#Diaz",
-            "level": 9,
-            "position": "TOP",
-            "kills": 3,
-            "creepScore": 70,
-            "deaths": 1,
-            "assists": 1,
-            "wardScore": 2.1452152729034424,
-            "team": "CHAOS",
-            "directOponent": "Teemo",
-            "goldSpent": 1800,
-            "items": [
-              {
-                "id": 3020,
-                "count": 1,
-                "displayName": "Botas del Hechicero",
-                "description": "<mainText><stats><attention>12</attention> de Penetración de Magia<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
-                "stats": {
-                  "FlatMovementSpeedMod": 45
-                },
-                "price": 1100,
-                "slot": 0
-              },
-              {
-                "id": 1082,
-                "count": 1,
-                "displayName": "El Sello de la Oscuridad",
-                "description": "<mainText><stats><attention>15</attention> de Poder de Habilidad<br><attention>50</attention> de Vida</stats><br><br><passive>Gloria</passive><br><keyword>Los derribos</keyword> otorgan <passive>Gloria</passive> (hasta 10). Pierdes 5 de <passive>Gloria</passive> al morir.<br>Obtienes <scaleAP>4 de Poder de Habilidad</scaleAP> por cada acumulación de <passive>Gloria</passive>.</mainText>",
-                "stats": {
-                  "FlatHPPoolMod": 50,
-                  "FlatMagicDamageMod": 15
-                },
-                "price": 350,
-                "slot": 1
-              },
-              {
-                "id": 1056,
-                "count": 1,
-                "displayName": "Sortija de Doran",
-                "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
-                "stats": {
-                  "FlatHPPoolMod": 90,
-                  "FlatMagicDamageMod": 18
-                },
-                "price": 400,
-                "slot": 2
-              },
-              {
-                "id": 3802,
-                "count": 1,
-                "displayName": "Capítulo Perdido",
-                "description": "<mainText><stats><attention>40</attention> de Poder de Habilidad<br><attention>300</attention> de Maná<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Iluminación</passive><br>Al subir de nivel, restaura un <scaleMana>20% del Maná Máximo</scaleMana> a lo largo de 3 seg.</mainText>",
-                "stats": {
-                  "FlatMPPoolMod": 300,
-                  "FlatMagicDamageMod": 40
-                },
-                "price": 1200,
-                "slot": 3
-              },
-              {
-                "id": 3340,
-                "count": 1,
-                "displayName": "Centinela Invisible",
-                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-                "stats": {},
-                "price": 0,
-                "slot": 6
-              }
-            ],
-            "runes": [
-              {
-                "type": "keystone",
-                "displayName": "Electrocutar",
-                "id": 8112
-              },
-              {
-                "type": "primaryRuneTree",
-                "displayName": "Dominación",
-                "id": 8100
-              },
-              {
-                "type": "secondaryRuneTree",
-                "displayName": "Brujería",
-                "id": 8200
-              }
-            ],
-            "spells": [
-              {
-                "spellOrder": "summonerSpellOne",
-                "displayName": "Teleportación Desatada"
-              },
-              {
-                "spellOrder": "summonerSpellTwo",
-                "displayName": "Destello"
+                "id": "SummonerHaste",
+                "displayName": "Fantasma"
               }
             ]
           },
           {
             "championName": "Ekko",
-            "riotId": "NO GANKEO0 TOP#LAN",
-            "summonerName": "NO GANKEO0 TOP#LAN",
-            "level": 7,
-            "position": "JUNGLE",
-            "kills": 2,
-            "creepScore": 10,
-            "deaths": 0,
-            "assists": 4,
-            "wardScore": 6.025735855102539,
+            "riotId": "ImJeviz#2020",
+            "summonerName": "ImJeviz#2020",
+            "level": 18,
+            "position": "MIDDLE",
+            "kills": 8,
+            "creepScore": 210,
+            "deaths": 10,
+            "assists": 8,
+            "wardScore": 29.110410690307617,
             "team": "CHAOS",
-            "directOponent": "Nocturne",
-            "goldSpent": 1850,
+            "directOponent": "Veigar",
+            "goldSpent": 14200,
             "items": [
               {
-                "id": 1102,
+                "id": 1052,
                 "count": 1,
-                "displayName": "Cría de Trotabrisas",
-                "description": "<mainText><stats></stats><br><br><passive>Compañeros de la Jungla</passive><br>Invocas un <font color='#38A8E8'>Trotabrisas</font> que te ayudará a pelear contra monstruos.<br><br><passive>Paso de Trotabrisas</passive><br>El compañero crece conforme cazas monstruos, lo que potencia tu <spellName>Castigo</spellName>. Al alcanzar su tamaño máximo, te otorgará <speed>velocidad de movimiento</speed> al entrar a la maleza, lo cual aumentará al asesinar a monstruos grandes.</mainText>",
-                "stats": {},
-                "price": 450,
+                "displayName": "Libro Amplificador",
+                "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 20
+                },
+                "price": 400,
                 "slot": 0
               },
               {
@@ -781,329 +1330,50 @@
                 "slot": 1
               },
               {
-                "id": 1001,
+                "id": 3157,
                 "count": 1,
-                "displayName": "Botas",
-                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+                "displayName": "Reloj de Arena de Zhonya",
+                "description": "<mainText><stats><attention>105</attention> de Poder de Habilidad<br><attention>50</attention> de Armadura</stats><br><br><active>Detener el Tiempo</active><br>Entras en <keyword>Estasis</keyword> durante 2.5 seg.</mainText>",
                 "stats": {
-                  "FlatMovementSpeedMod": 25
+                  "FlatMagicDamageMod": 105,
+                  "FlatArmorMod": 50
                 },
-                "price": 300,
+                "price": 3250,
                 "slot": 2
               },
               {
-                "id": 1052,
+                "id": 3175,
                 "count": 1,
-                "displayName": "Libro Amplificador",
-                "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad</stats><br><br></mainText>",
+                "displayName": "Zapatos de Lanzahechizos",
+                "description": "<mainText><stats><attention>18</attention> de Penetración de Magia<br><attention>8%</attention> Penetración de Magia<br><attention>50</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
                 "stats": {
-                  "FlatMagicDamageMod": 20
+                  "FlatMovementSpeedMod": 50
                 },
-                "price": 400,
+                "price": 1850,
                 "slot": 3
               },
               {
-                "id": 3340,
+                "id": 4645,
                 "count": 1,
-                "displayName": "Centinela Invisible",
-                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-                "stats": {},
-                "price": 0,
-                "slot": 6
-              }
-            ],
-            "runes": [
-              {
-                "type": "keystone",
-                "displayName": "Cosecha Oscura",
-                "id": 8128
-              },
-              {
-                "type": "primaryRuneTree",
-                "displayName": "Dominación",
-                "id": 8100
-              },
-              {
-                "type": "secondaryRuneTree",
-                "displayName": "Precisión",
-                "id": 8000
-              }
-            ],
-            "spells": [
-              {
-                "spellOrder": "summonerSpellOne",
-                "displayName": "Destello"
-              },
-              {
-                "spellOrder": "summonerSpellTwo",
-                "displayName": "Castigo Desatado"
-              }
-            ]
-          },
-          {
-            "championName": "Qiyana",
-            "riotId": "Hatsune Miku#69sxo",
-            "summonerName": "Hatsune Miku#69sxo",
-            "level": 8,
-            "position": "MIDDLE",
-            "kills": 1,
-            "creepScore": 60,
-            "deaths": 1,
-            "assists": 1,
-            "wardScore": 6.710738182067871,
-            "team": "CHAOS",
-            "directOponent": "Zed",
-            "goldSpent": 1800,
-            "items": [
-              {
-                "id": 3134,
-                "count": 1,
-                "displayName": "Puñal Serrado",
-                "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad</stats><br><br></mainText>",
+                "displayName": "Lumbría",
+                "description": "<mainText><stats><attention>110</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia</stats><br><br><passive>Flor de Ceniza</passive><br>El <magicDamage>daño mágico</magicDamage> y el <trueDamage>daño verdadero</trueDamage> infligen <attention>golpes críticos</attention> a los enemigos que tengan menos de un 40% de Vida, lo que inflige un 20% de daño aumentado. </mainText>",
                 "stats": {
-                  "FlatPhysicalDamageMod": 20
+                  "FlatMagicDamageMod": 110
                 },
-                "price": 1000,
-                "slot": 0
-              },
-              {
-                "id": 2031,
-                "count": 1,
-                "displayName": "Poción Reutilizable",
-                "description": "<mainText><stats></stats><br><br><active>Activa</active> (2 cargas)<br>Restaura <healing>100 de Vida</healing> a lo largo de 12 seg. <br>Se rellena al visitar la tienda.</mainText>",
-                "stats": {},
-                "price": 150,
-                "slot": 1
-              },
-              {
-                "id": 2022,
-                "count": 1,
-                "displayName": "Mena Brillante",
-                "description": "<mainText><stats><attention>5</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
-                "stats": {},
-                "price": 250,
-                "slot": 2
-              },
-              {
-                "id": 1055,
-                "count": 1,
-                "displayName": "Espada de Doran",
-                "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
-                "stats": {
-                  "FlatHPPoolMod": 80,
-                  "FlatPhysicalDamageMod": 10,
-                  "PercentLifeStealMod": 0.03
-                },
-                "price": 450,
-                "slot": 3
-              },
-              {
-                "id": 1001,
-                "count": 1,
-                "displayName": "Botas",
-                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
-                "stats": {
-                  "FlatMovementSpeedMod": 25
-                },
-                "price": 300,
+                "price": 3200,
                 "slot": 4
               },
               {
-                "id": 1036,
+                "id": 4646,
                 "count": 1,
-                "displayName": "Espada Larga",
-                "description": "<mainText><stats><attention>10</attention> de Daño de Ataque</stats><br><br></mainText>",
+                "displayName": "Descarga Tormentosa",
+                "description": "<mainText><stats><attention>90</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Jinete de la Tormenta</passive><br>Infligir un 25% de la Vida Máxima de un campeón como daño en un lapso de 2.5 seg le aplica <passive>Aguacero</passive> y otorga un <speed>25% de Velocidad de Movimiento</speed> durante 1.5 seg.<br><br><passive>Aguacero</passive><br>Tras 2 seg, inflige <magicDamage>daño mágico</magicDamage>. Si el objetivo muere antes de que se active <passive>Aguacero</passive>, infliges daño a los enemigos cercanos y recibes <gold>30 de oro</gold>.</mainText>",
                 "stats": {
-                  "FlatPhysicalDamageMod": 10
+                  "FlatMagicDamageMod": 90,
+                  "PercentMovementSpeedMod": 0.04
                 },
-                "price": 350,
+                "price": 2900,
                 "slot": 5
-              },
-              {
-                "id": 3340,
-                "count": 1,
-                "displayName": "Centinela Invisible",
-                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-                "stats": {},
-                "price": 0,
-                "slot": 6
-              }
-            ],
-            "runes": [
-              {
-                "type": "keystone",
-                "displayName": "Conquistador",
-                "id": 8010
-              },
-              {
-                "type": "primaryRuneTree",
-                "displayName": "Precisión",
-                "id": 8000
-              },
-              {
-                "type": "secondaryRuneTree",
-                "displayName": "Valor",
-                "id": 8400
-              }
-            ],
-            "spells": [
-              {
-                "spellOrder": "summonerSpellOne",
-                "displayName": "Destello"
-              },
-              {
-                "spellOrder": "summonerSpellTwo",
-                "displayName": "Ignición"
-              }
-            ]
-          },
-          {
-            "championName": "Draven",
-            "riotId": "Kasane Teto#void",
-            "summonerName": "Kasane Teto#void",
-            "level": 6,
-            "position": "BOTTOM",
-            "kills": 6,
-            "creepScore": 30,
-            "deaths": 5,
-            "assists": 6,
-            "wardScore": 4.42963981628418,
-            "team": "CHAOS",
-            "directOponent": "Miss Fortune",
-            "goldSpent": 1275,
-            "items": [
-              {
-                "id": 1055,
-                "count": 1,
-                "displayName": "Espada de Doran",
-                "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
-                "stats": {
-                  "FlatHPPoolMod": 80,
-                  "FlatPhysicalDamageMod": 10,
-                  "PercentLifeStealMod": 0.03
-                },
-                "price": 450,
-                "slot": 0
-              },
-              {
-                "id": 6676,
-                "count": 1,
-                "displayName": "El Coleccionista",
-                "description": "<mainText><stats><attention>50</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br><passive>Muerte</passive><br>Tu daño ejecuta a los campeones que están por debajo de un 5% de Vida. <br><br><passive>Impuestos</passive><br>Los asesinatos de campeones otorgan <gold>25 de oro adicional</gold>.</mainText>",
-                "stats": {
-                  "FlatCritChanceMod": 0.25,
-                  "FlatPhysicalDamageMod": 50
-                },
-                "price": 3000,
-                "slot": 1
-              },
-              {
-                "id": 1001,
-                "count": 1,
-                "displayName": "Botas",
-                "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
-                "stats": {
-                  "FlatMovementSpeedMod": 25
-                },
-                "price": 300,
-                "slot": 2
-              },
-              {
-                "id": 3340,
-                "count": 1,
-                "displayName": "Centinela Invisible",
-                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
-                "stats": {},
-                "price": 0,
-                "slot": 6
-              }
-            ],
-            "runes": [
-              {
-                "type": "keystone",
-                "displayName": "Cadencia Letal",
-                "id": 8008
-              },
-              {
-                "type": "primaryRuneTree",
-                "displayName": "Precisión",
-                "id": 8000
-              },
-              {
-                "type": "secondaryRuneTree",
-                "displayName": "Brujería",
-                "id": 8200
-              }
-            ],
-            "spells": [
-              {
-                "spellOrder": "summonerSpellOne",
-                "displayName": "Barrera"
-              },
-              {
-                "spellOrder": "summonerSpellTwo",
-                "displayName": "Destello"
-              }
-            ]
-          },
-          {
-            "championName": "Pyke",
-            "riotId": "Demo 么 OneTap#247",
-            "summonerName": "Demo 么 OneTap#247",
-            "level": 7,
-            "position": "UTILITY",
-            "kills": 4,
-            "creepScore": 10,
-            "deaths": 1,
-            "assists": 4,
-            "wardScore": 8.958256721496582,
-            "team": "CHAOS",
-            "directOponent": "Swain",
-            "goldSpent": 1400,
-            "items": [
-              {
-                "id": 3866,
-                "count": 1,
-                "displayName": "Brújula Rúnica",
-                "description": "<mainText><stats><attention>100</attention> de Vida<br><attention>50%</attention> de Regen. de Vida Básica<br><attention>50%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Misión de Soporte</passive><br>Obtienes <keywordMajor>0</keywordMajor> de oro de este objeto para transformarlo en <rarityGeneric>Recompensa Mundial</rarityGeneric>. <br><br><passive>Riquezas Compartidas</passive> (0 seg, máx. 0 cargas)<br>Al estar cerca de un campeón aliado, infligir daño a campeones enemigos o matar súbditos te otorga oro.<active>Activa</active> (3 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
-                "stats": {
-                  "FlatHPPoolMod": 100
-                },
-                "price": 400,
-                "slot": 0
-              },
-              {
-                "id": 3133,
-                "count": 1,
-                "displayName": "Martillo de Guerra de Caulfield",
-                "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
-                "stats": {
-                  "FlatPhysicalDamageMod": 20
-                },
-                "price": 1050,
-                "slot": 1
-              },
-              {
-                "id": 3010,
-                "count": 1,
-                "displayName": "Botas Simbióticas",
-                "description": "<mainText><stats><attention>40</attention> de Velocidad de Movimiento</stats><br><br><passive>Vacuonato</passive><br>Obtienes Retirada Potenciada. <br><br><passive>Simbiosis</passive><br>Después de recorrer 150000 unidades de distancia, se transforma en <rarityLegendary>Almas Sincronizadas</rarityLegendary>.</mainText>",
-                "stats": {
-                  "FlatMovementSpeedMod": 40
-                },
-                "price": 900,
-                "slot": 2
-              },
-              {
-                "id": 3134,
-                "count": 1,
-                "displayName": "Puñal Serrado",
-                "description": "<mainText><stats><attention>20</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad</stats><br><br></mainText>",
-                "stats": {
-                  "FlatPhysicalDamageMod": 20
-                },
-                "price": 1000,
-                "slot": 3
               },
               {
                 "id": 3364,
@@ -1118,8 +1388,8 @@
             "runes": [
               {
                 "type": "keystone",
-                "displayName": "Cosecha Oscura",
-                "id": 8128
+                "displayName": "Lluvia de Espadas",
+                "id": 9923
               },
               {
                 "type": "primaryRuneTree",
@@ -1128,18 +1398,270 @@
               },
               {
                 "type": "secondaryRuneTree",
-                "displayName": "Precisión",
-                "id": 8000
+                "displayName": "Brujería",
+                "id": 8200
               }
             ],
             "spells": [
               {
                 "spellOrder": "summonerSpellOne",
+                "id": "SummonerDot",
                 "displayName": "Ignición"
               },
               {
                 "spellOrder": "summonerSpellTwo",
-                "displayName": "Teleportación Desatada"
+                "id": "SummonerFlash",
+                "displayName": "Destello"
+              }
+            ]
+          },
+          {
+            "championName": "Smolder",
+            "riotId": "Niño de oro#Venas",
+            "summonerName": "Niño de oro#Venas",
+            "level": 18,
+            "position": "BOTTOM",
+            "kills": 10,
+            "creepScore": 260,
+            "deaths": 6,
+            "assists": 12,
+            "wardScore": 25.60819435119629,
+            "team": "CHAOS",
+            "directOponent": "Jhin",
+            "goldSpent": 15150,
+            "items": [
+              {
+                "id": 3026,
+                "count": 1,
+                "displayName": "Ángel Guardián",
+                "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>45</attention> de Armadura</stats><br><br><passive>Renacimiento</passive><br>Tras recibir daño letal, restaura un <healing>50% de Vida básica</healing> y un <scaleMana>100% del Maná Máximo</scaleMana> luego de 4 seg de <keyword>Estasis</keyword>.</mainText>",
+                "stats": {
+                  "FlatArmorMod": 45,
+                  "FlatPhysicalDamageMod": 55
+                },
+                "price": 3200,
+                "slot": 0
+              },
+              {
+                "id": 3173,
+                "count": 1,
+                "displayName": "Trituradoras Aceradas",
+                "description": "<mainText><stats><attention>35</attention> de Resistencia Mágica<br><attention>50</attention> de Velocidad de Movimiento<br><attention>30%</attention> de Tenacidad</stats><br><br><passive>Persistencia Noxiana</passive> (0 seg)<br>Tras recibir daño mágico de un campeón, obtienes un <shield>escudo</shield> que protege contra <shield>0</shield> de <magicDamage>daño mágico</magicDamage> durante 4 seg.</mainText>",
+                "stats": {
+                  "FlatSpellBlockMod": 35,
+                  "FlatMovementSpeedMod": 50
+                },
+                "price": 2000,
+                "slot": 1
+              },
+              {
+                "id": 3508,
+                "count": 1,
+                "displayName": "Saqueador de Esencias",
+                "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>15</attention> de Aceleración de Habilidad<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br><passive>Absorción de Esencia</passive><br>Los ataques otorgan <scaleMana>maná</scaleMana> <OnHit>al impacto</OnHit>.</mainText>",
+                "stats": {
+                  "FlatCritChanceMod": 0.25,
+                  "FlatPhysicalDamageMod": 60
+                },
+                "price": 2900,
+                "slot": 2
+              },
+              {
+                "id": 1038,
+                "count": 1,
+                "displayName": "Espadón",
+                "description": "<mainText><stats><attention>40</attention> de Daño de Ataque</stats><br><br></mainText>",
+                "stats": {
+                  "FlatPhysicalDamageMod": 40
+                },
+                "price": 1300,
+                "slot": 3
+              },
+              {
+                "id": 3094,
+                "count": 1,
+                "displayName": "Cañón de Fuego Rápido",
+                "description": "<mainText><stats><attention>35%</attention> de Velocidad de Ataque<br><attention>25%</attention> de Probabilidad de Golpe Crítico<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Francotirador</passive><br>Tu <keyword>ataque energizado</keyword> inflige <magicDamage>40 daño mágico adicional</magicDamage> y obtiene un 35% de alcance de Ataque adicional.</mainText>",
+                "stats": {
+                  "FlatCritChanceMod": 0.25,
+                  "PercentAttackSpeedMod": 0.35,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 2650,
+                "slot": 4
+              },
+              {
+                "id": 3161,
+                "count": 1,
+                "displayName": "Lanza de Shojin",
+                "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>450</attention> de Vida</stats><br><br><passive>Fuerza del Dragón</passive> <br>Obtienes 25 de Aceleración de Habilidad para habilidades básicas.<br><br><passive>Voluntad Enfocada</passive> <br>Al infligir daño con habilidades, el daño de las habilidades y de la pasiva de tu campeón aumenta en un 3% durante 6 seg. (Se acumula 4 veces).</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 450,
+                  "FlatPhysicalDamageMod": 45
+                },
+                "price": 3100,
+                "slot": 5
+              },
+              {
+                "id": 3363,
+                "count": 1,
+                "displayName": "Alteración de Visión Lejana",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>198 a 99</scaleLevel> seg)<br>Revela un área distante durante 2 seg y deja un Centinela que expira al detectar a un campeón enemigo.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Sobre la Marcha",
+                "id": 8021
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Precisión",
+                "id": 8000
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Inspiración",
+                "id": 8300
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "id": "SummonerBarrier",
+                "displayName": "Barrera"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "id": "SummonerFlash",
+                "displayName": "Destello"
+              }
+            ]
+          },
+          {
+            "championName": "Lux",
+            "riotId": "AteneaEterna#LAN",
+            "summonerName": "AteneaEterna#LAN",
+            "level": 17,
+            "position": "UTILITY",
+            "kills": 10,
+            "creepScore": 80,
+            "deaths": 14,
+            "assists": 13,
+            "wardScore": 96.17227935791016,
+            "team": "CHAOS",
+            "directOponent": "Xerath",
+            "goldSpent": 11050,
+            "items": [
+              {
+                "id": 3876,
+                "count": 1,
+                "displayName": "Trineo del Solsticio",
+                "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>75%</attention> de Regen. de Vida Básica<br><attention>75%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Paseo en Trineo</passive><br><keyword>Ralentizar</keyword> o <keyword>inmovilizar</keyword> a un campeón enemigo cerca de tus aliados restaura <healing>vida</healing>. Además, te otorga a ti y a un aliado cercano un <speed>20% de Velocidad de Movimiento</speed> que decae a lo largo de 2.5 seg. <active>Activa</active> (4 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+                "stats": {
+                  "FlatHPPoolMod": 200
+                },
+                "price": 400,
+                "slot": 0
+              },
+              {
+                "id": 6655,
+                "count": 1,
+                "displayName": "Acompañante de Luden",
+                "description": "<mainText><stats><attention>100</attention> de Poder de Habilidad<br><attention>600</attention> de Maná<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Disparar</passive><br>Las habilidades que infligen daño disparan 6 proyectiles que infligen <magicDamage>daño mágico adicional</magicDamage> al objetivo y a los enemigos cercanos. Los proyectiles restantes se dirigen al objetivo principal e infligen un 20% del daño.<br></mainText>",
+                "stats": {
+                  "FlatMPPoolMod": 600,
+                  "FlatMagicDamageMod": 100
+                },
+                "price": 2850,
+                "slot": 1
+              },
+              {
+                "id": 4646,
+                "count": 1,
+                "displayName": "Descarga Tormentosa",
+                "description": "<mainText><stats><attention>90</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Jinete de la Tormenta</passive><br>Infligir un 25% de la Vida Máxima de un campeón como daño en un lapso de 2.5 seg le aplica <passive>Aguacero</passive> y otorga un <speed>25% de Velocidad de Movimiento</speed> durante 1.5 seg.<br><br><passive>Aguacero</passive><br>Tras 2 seg, inflige <magicDamage>daño mágico</magicDamage>. Si el objetivo muere antes de que se active <passive>Aguacero</passive>, infliges daño a los enemigos cercanos y recibes <gold>30 de oro</gold>.</mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 90,
+                  "PercentMovementSpeedMod": 0.04
+                },
+                "price": 2900,
+                "slot": 2
+              },
+              {
+                "id": 4645,
+                "count": 1,
+                "displayName": "Lumbría",
+                "description": "<mainText><stats><attention>110</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia</stats><br><br><passive>Flor de Ceniza</passive><br>El <magicDamage>daño mágico</magicDamage> y el <trueDamage>daño verdadero</trueDamage> infligen <attention>golpes críticos</attention> a los enemigos que tengan menos de un 40% de Vida, lo que inflige un 20% de daño aumentado. </mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 110
+                },
+                "price": 3200,
+                "slot": 3
+              },
+              {
+                "id": 3108,
+                "count": 1,
+                "displayName": "Códice Diabólico",
+                "description": "<mainText><stats><attention>25</attention> de Poder de Habilidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 25
+                },
+                "price": 850,
+                "slot": 4
+              },
+              {
+                "id": 3108,
+                "count": 1,
+                "displayName": "Códice Diabólico",
+                "description": "<mainText><stats><attention>25</attention> de Poder de Habilidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br></mainText>",
+                "stats": {
+                  "FlatMagicDamageMod": 25
+                },
+                "price": 850,
+                "slot": 5
+              },
+              {
+                "id": 3364,
+                "count": 1,
+                "displayName": "Lente del Oráculo",
+                "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>160 a 100</scaleLevel> seg, máx. 2 cargas)<br>Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 6 seg.</mainText>",
+                "stats": {},
+                "price": 0,
+                "slot": 6
+              }
+            ],
+            "runes": [
+              {
+                "type": "keystone",
+                "displayName": "Cometa Arcano",
+                "id": 8229
+              },
+              {
+                "type": "primaryRuneTree",
+                "displayName": "Brujería",
+                "id": 8200
+              },
+              {
+                "type": "secondaryRuneTree",
+                "displayName": "Dominación",
+                "id": 8100
+              }
+            ],
+            "spells": [
+              {
+                "spellOrder": "summonerSpellOne",
+                "id": "SummonerFlash",
+                "displayName": "Destello"
+              },
+              {
+                "spellOrder": "summonerSpellTwo",
+                "id": "SummonerDot",
+                "displayName": "Ignición"
               }
             ]
           }
@@ -1151,95 +1673,153 @@
         "player": "Ekko",
         "team": "enemy",
         "diff": {
-          "added": [],
-          "removed": [
+          "added": [
             {
-              "slot": "4",
-              "displayName": "Mena Brillante"
+              "slot": "0",
+              "displayName": "Libro Amplificador"
             }
           ],
-          "updated": [
-            {
-              "slot": "1",
-              "oldValue": "Alternador Hextech",
-              "newValue": "Cinturón Cohete Hextech"
-            },
-            {
-              "slot": "3",
-              "oldValue": "Cristal de Rubí",
-              "newValue": "Libro Amplificador"
-            }
-          ]
+          "removed": [],
+          "updated": []
         }
       }
     ],
     "history_couch": {
-      "champion": "Miss Fortune",
+      "champion": "Viego",
       "matchVs": {
-        "enemy": "Draven"
+        "enemy": "Gwen"
       },
-      "final_recommendation": "Draven ha completado El Coleccionista. Prioriza armadura y vida para reducir su daño y sobrevivir a su burst. Considera finalizar tu Filo de la Tormenta para aumentar tu daño y robo de vida. Enfócate en farmear y colaborar con tu equipo en objetivos para recuperarte de la desventaja inicial.",
+      "final_recommendation": "Prioriza completar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
       "role_tips": [
-        "Considera comprar un Espada de Doran adicional para aumentar tu daño y robo de vida, lo cual te ayudará a sobrevivir en línea contra Draven.",
-        "Prioriza el farmeo para alcanzar rápidamente tus objetos clave, como el Filo de la Tormenta o el Recuerdo de Lord Dominik, que te proporcionarán el daño necesario para enfrentarte a Draven.",
-        "Dada la agresividad de Draven, enfócate en farmear de forma segura bajo la torre si es necesario, y espera oportunidades para castigarlo cuando se exponga para recoger sus hachas.",
-        "Considera invertir en unas Botas de Velocidad para mejorar tu capacidad de kiteo contra Draven y Pyke.",
-        "Utiliza tu E (Lluvia de Plomo) para zonear a Draven y dificultarle el farmeo, especialmente cuando intente acercarse para atrapar sus hachas."
+        "Prioriza farmear al inicio para escalar. Busca oportunidades de gankeo después de nivel 6, especialmente si tienes ventaja de nivel o un aliado con buen CC.",
+        "Considera gankear la línea de Jhin si Lux está pusheando mucho, para ayudar a tu ADC y obtener una ventaja en bot.",
+        "Dado que Jhin está fedeado (4/3/2) y Smolder va 1/1/2, prioriza gankear bot lane para ayudar a tu ADC y obtener una ventaja. Si la Lux enemiga está pusheando mucho, considera un gankeo temprano.",
+        "Sigue farmeando para mantenerte al día en experiencia y oro. Prioriza objetivos como el Dragón y el Heraldo, asegurando la visión alrededor de ellos.",
+        "Enfócate en asegurar el Dragón, dado que el equipo enemigo aún no ha reclamado ninguno.",
+        "Dado que el Coleccionista de Jhin le está dando una ventaja temprana en oro por asesinatos, considera priorizarlo como objetivo en ganks para negar su efecto bola de nieve.",
+        "Coordina con tu equipo para invadir la jungla enemiga y obstaculizar el farmeo de Gwen.",
+        "Considera obtener el control de visión alrededor de los objetivos neutrales con la Lente del Oráculo para evitar emboscadas y asegurar los objetivos.",
+        "Prioriza gankear la línea de Xerath, ya que Lux lo está dominando (5/4/2).",
+        "Vigila a Ekko, quien tiene una alta probabilidad de rotar desde MID. Considera colocar un centinela en su jungla para rastrear sus movimientos.",
+        "Prioriza gankear la línea de medio (Veigar vs Ekko) para intentar obtener una ventaja temprana. Ekko va 0/3/0 y podría necesitar ayuda.",
+        "Continúa asegurando visión en la jungla enemiga para predecir los movimientos de Gwen y proteger tus líneas.",
+        "Prioriza gankear la línea de medio (Veigar vs Ekko) para intentar obtener una ventaja temprana.",
+        "Asegura el siguiente dragon ya que es fundamental para obtener ventaja en la partida.",
+        "Controla el rio para evitar rotaciones de Ekko y Lux, podrían poner en peligro a tus aliados.",
+        "Considera un gankeo a Mordekaiser para aliviar la presión sobre Teemo.",
+        "Gwen lleva ventaja en farm y nivel. Busca oportunidades para contrarrestarla o asistirla a tus compañeros cuando invada tu jungla.",
+        "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica (Botas de Mercurio en Mordekaiser y Gwen), y Smolder ya tiene Saqueador de Esencias considera armar objetos de penetración de armadura.",
+        "Aprovecha tu pasiva para poseer campeones enemigos después de asesinarlos, lo cual te permite cambiar el curso de las peleas y aplicar presión adicional en el mapa.",
+        "Coordina con Veigar para realizar emboscadas en MID debido a su capacidad de zonificación y CC. La combinación de sus habilidades puede asegurar asesinatos rápidos.",
+        "Con Gwen comprando Agrietador, esperala en escaramuzas y peleas prolongadas. Mantente atento a su ubicación en la jungla para evitar encuentros desfavorables.",
+        "Ekko es un objetivo prioritario dado que va muy atrás en oro y experiencia. Emboscarlo en la jungla enemiga puede negar su recuperación.",
+        "Controla el río para evitar rotaciones de Ekko y Lux, podrían poner en peligro a tus aliados.",
+        "Prioriza objetivos como el Dragón y el Heraldo, asegurando la visión alrededor de ellos.",
+        "Dado que Gwen lleva ventaja en farm y nivel, intenta emboscarla en su jungla para retrasar su build.",
+        "Prioriza contrarrestar a Gwen, quien tiene ventaja en nivel y oro. Intenta emboscarla en su jungla para retrasar su build.",
+        "Con Ekko rezagado, emboscarlo en la jungla enemiga podría negar su recuperación y darle ventaja a Veigar.",
+        "Dado que el equipo enemigo está acumulando Resistencia Mágica, prioriza un objeto de penetración de armadura como Lord Dominik's Regards para infligir daño efectivo a Mordekaiser y Gwen.",
+        "Prioriza gankear la línea de medio (Veigar vs Ekko) para intentar obtener una ventaja, ya que Ekko está teniendo dificultades. Además, coordina con Veigar para emboscadas debido a su capacidad de zonificación y CC.",
+        "Coordina con Veigar para realizar emboscadas en MID debido a su capacidad de zonificación y CC.",
+        "Continúa invadiendo la jungla de Gwen para retrasar su build, ya que lleva ventaja en nivel y oro. Asegura control de visión en su jungla para predecir sus movimientos y proteger tus líneas.",
+        "Dado que Jhin está fedeado (8/5/7) y está construyendo daño crítico (Coleccionista, Cañón de Fuego Rápido y Recuerdos de Lord Dominik), priorízalo como objetivo en ganks para reducir su impacto en la partida.",
+        "Veigar va relativamente bien (4/2/3), coordina emboscadas en MID para aprovechar su capacidad de zonificación y CC, lo cual puede asegurar asesinatos rápidos.",
+        "Smolder está empezando a armar daño con Lanza de Shojin y Saqueador de Esencias, coordina ganks para evitar que se feedee.",
+        "Dado que Ekko y Lux están construyendo daño AP, coordina ganks para evitar que snowball y asegurar objetivos.",
+        "Dado que Jhin está muy adelante, considera invadir la jungla enemiga para retrasar el escalado de Gwen y Ekko. Esto podría aliviar la presión sobre tus líneas.",
+        "Prioriza gankear a Jhin para protegerlo de Smolder y Lux. Su ventaja en oro y daño critico lo convierte en un objetivo principal para el equipo enemigo.",
+        "Dada la cantidad de daño mágico que está armando el equipo enemigo (Ekko, Lux, Gwen y Mordekaiser) considera armar un item defensivo de Resistencia Mágica después del Lord Dominik's Regards.",
+        "Si el equipo enemigo sigue comprando resistencia mágica, considera comprar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux.",
+        "Dado que Gwen ya tiene Agrietador y Botas de Mercurio, es crucial controlarla. Continúa invadiendo su jungla para retrasar su build y negar su farmeo.",
+        "Dado que Jhin está fedeado (8/6/7) y es tu principal objetivo, coordina con tu equipo para emboscarlo y reducir su impacto. Aprovecha la capacidad de zonificación y CC de Veigar para asegurar asesinatos rápidos.",
+        "Veigar va relativamente bien (4/3/3), coordina emboscadas en MID para aprovechar su capacidad de zonificación y CC, lo cual puede asegurar asesinatos rápidos.",
+        "Dado que el equipo enemigo ha comenzado a acumular Resistencia Mágica, prioriza Lord Dominik's Regards para infligir daño efectivo.",
+        "Recuerda contrarrestar la curación de Mordekaiser y Smolder con Recordatorio Mortal.",
+        "Si Ekko te está causando problemas con su daño explosivo, considera comprar Fauces de Malmortius.",
+        "Asegura visión en la jungla enemiga para predecir los movimientos de Gwen, especialmente dado que lleva ventaja en nivel y oro.",
+        "Continúa contrarrestando a Gwen, invadiendo su jungla para retrasar su build y controlar la visión.",
+        "Dado que Jhin es un objetivo prioritario, coordina con Veigar para emboscadas en MID, aprovechando su capacidad de zonificación y CC.",
+        "Recuerda priorizar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+        "Dado que Gwen ya tiene Agrietador, esperala en escaramuzas y peleas prolongadas. Mantente atento a su ubicación en la jungla para evitar encuentros desfavorables.",
+        "Concéntrate en proteger a Jhin, quien es el carry principal del equipo, de Smolder y Lux. Asegúrate de que tenga la visión adecuada y el apoyo necesario para mantener su ventaja.",
+        "Continúa contrarrestando la curación de Mordekaiser y Smolder con Recordatorio Mortal.",
+        "Dado que el equipo enemigo está acumulando Resistencia Mágica, prioriza Lord Dominik's Regards para infligir daño efectivo.",
+        "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica (Botas de Mercurio en Mordekaiser, Gwen y Smolder), considera armar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux.",
+        "Considera gankear la línea de Teemo, ya que Mordekaiser ha comprado armadura (Vesta Espinosa y Cota de Malla).",
+        "Dado que Jhin ha completado Filo del Infinito aumentando su daño crítico, priorízalo como objetivo en ganks para reducir su impacto en la partida.",
+        "Considera armar un item defensivo de Resistencia Mágica (como Fauces de Malmortius) para protegerte del daño explosivo de Ekko y Lux, después de completar Lord Dominik's Regards.",
+        "Dado que Jhin está fedeado (17/10/9) y tiene items de daño crítico (El Coleccionista, Cañón de Fuego Rápido, Recuerdos de Lord Dominik y Filo del Infinito) priorízalo como objetivo en ganks para reducir su impacto en la partida.",
+        "Veigar va relativamente bien (8/4/9), coordina emboscadas en MID para aprovechar su capacidad de zonificación y CC. La combinación de sus habilidades puede asegurar asesinatos rápidos.",
+        "Mordekaiser completó Tormento de Liandry y Cetro de Cristal de Rylai lo cual significa que tienes que tener cuidado al iniciar peleas ya que te quemará y ralentizará."
       ],
       "feedback_mybuild": [
-        "Considera comprar un objeto de robo de vida como el Cetro Vampírico para mitigar el daño de Draven, seguido de un Filo de la Tormenta para aumentar tu daño.",
-        "El Primer Golpe te da una ventaja inicial de oro, intenta aprovecharla al máximo golpeando a Draven antes de que él te golpee a ti.",
-        "Con 916 de oro disponible, prioriza completar el Cetro Vampírico para obtener sustain en línea contra Draven.",
-        "Aunque tienes Primer Golpe, evita arriesgarte demasiado por el oro adicional si eso implica recibir mucho daño de Draven. Céntrate en farmear de forma segura.",
-        "Considera comprar unas Botas Jonias para obtener Aceleración de Habilidad y así usar más tu Q y E para farmear y pokear, dada la desventaja inicial contra Draven.",
-        "Con el oro que tienes, considera comprar un Cetro Vampírico para obtener robo de vida y mitigar el daño de Draven en la línea.",
-        "Evita tradear golpes innecesarios con Draven. Juega de forma defensiva y espera a que tu jungla gankee.",
-        "Prioriza farmear súbditos bajo la torre si es necesario, ya que mantener un buen CS es crucial para recuperarte de la desventaja temprana.",
-        "Con 324 de oro, continua farmeando para completar el Cetro Vampírico y obtener robo de vida lo antes posible.",
-        "Con 500 de oro, prioriza completar el Cetro Vampírico para obtener sustain en línea contra Draven y mitigar su daño.",
-        "Con casi 600 de oro, sigue farmeando para completar el Cetro Vampírico. Te dará sustain contra el daño de Draven.",
-        "Con 624 de oro, prioriza Cetro Vampírico para mitigar el daño de Draven y obtener sustain en línea.",
-        "Con 690 de oro, prioriza completar el Cetro Vampírico para obtener sustain en línea y contrarrestar el daño de Draven.",
-        "Con 762 de oro, intenta completar el Cetro Vampírico para tener sustain contra Draven.",
-        "Prioriza farmear para obtener Cetro Vampírico y luego Filo de la Tormenta para aumentar tu daño y robo de vida contra Draven.",
-        "Dada la diferencia en oro y kills con Draven, enfócate en farmear de forma segura y evitar enfrentamientos innecesarios. Prioriza completar Cetro Vampírico para tener sustain en línea.",
-        "Considera comprar unas Botas de Velocidad pronto para mejorar tu capacidad de kiteo contra Draven y Pyke.",
-        "No olvides seguir utilizando tu E (Lluvia de Plomo) para zonear a Draven y dificultarle el farmeo cuando intente acercarse para atrapar sus hachas.",
-        "Con 362 de oro, sigue farmeando para completar Cetro Vampírico y obtener robo de vida, mitigando el daño de Draven en línea."
+        "Estás construyendo Brillo, lo cual es bueno para el daño explosivo después de usar habilidades. Continúa con la Trinidad o el Cortasendas para aprovechar el Brillo.",
+        "Con el Brillo y el Hacha Hogareña, estás en buen camino para maximizar el daño. Intenta armar Trinidad o Cortasendas para mejorar tu capacidad de duelo y supervivencia.",
+        "Considera completar tus botas. Las opciones son Tabi de Ninja (si el AD es problemático) o Botas de Mercurio (si el AP/CC es problemático).",
+        "Completa la Fuerza de la Trinidad para tener un buen balance entre daño, vida y velocidad de ataque.",
+        "Considera comprar un objeto defensivo como Ángel Guardián o Fauces de Malmortius para sobrevivir al daño en las peleas de equipo.",
+        "Finaliza Fuerza de la Trinidad para obtener un buen balance entre daño, vida y velocidad de ataque.",
+        "Completa Recuerdos de Lord Dominik para infligir daño efectivo a Mordekaiser, Gwen y Jhin, quienes han comprado resistencia mágica y armadura.",
+        "Dado que Jhin está fedeado y es un objetivo prioritario, considera armar Fauces de Malmortius para protegerte de su daño explosivo.",
+        "Debido a la cantidad de daño mágico en el equipo enemigo (Ekko, Lux, Gwen, Mordekaiser), considera comprar un item defensivo de Resistencia Mágica después del Lord Dominik's Regards o antes si la necesitas para sobrevivir.",
+        "Considera completar el Llamado del Verdugo en Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+        "Considerando el daño mágico del equipo enemigo, completa Fauces de Malmortius como siguiente objeto para tener mayor supervivencia.",
+        "Completa el Llamado del Verdugo en Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+        "Dado que el equipo enemigo está armando mucho daño mágico, prioriza finalizar Fauces de Malmortius para asegurar tu supervivencia en las peleas de equipo.",
+        "Prioriza completar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+        "Completa Fuerza de la Trinidad para tener un buen balance entre daño, vida y velocidad de ataque.",
+        "Con Fuerza de la Trinidad y Espada del Rey Arruinado finalizados, y teniendo en cuenta que el equipo enemigo posee una considerable cantidad de daño mágico (Ekko, Lux, Gwen y Mordekaiser), considera completar Fauces de Malmortius como siguiente item para asegurar tu supervivencia en las peleas de equipo.",
+        "Prioriza completar Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+        "Debido a la cantidad de daño mágico en el equipo enemigo (Ekko, Lux, Gwen, Mordekaiser), considera comprar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux.",
+        "Recuerda, finalizar Fuerza de la Trinidad te da un buen balance entre daño, vida y velocidad de ataque.",
+        "Completa Recordatorio Mortal para contrarrestar la curación de Mordekaiser y Smolder.",
+        "Dado que has cambiado El Llamado del Verdugo por Recordatorio Mortal, estás contrarrestando la curación de Mordekaiser y Smolder.",
+        "Considera comprar Fauces de Malmortius para protegerte del daño explosivo de Ekko y Lux."
       ],
       "feedback_update_builds_notify": [
-        "Swain está construyendo un objeto de maná inicial, posiblemente enfocado en hostigar constantemente. Considera comprar un objeto de curación temprana si te encuentras recibiendo mucho daño.",
-        "Draven ha comprado múltiples Espadas Largas. Esto significa que está invirtiendo fuertemente en daño de ataque temprano, lo que puede hacer que sus ataques sean muy peligrosos. Mantente a distancia segura.",
-        "Qiyana está construyendo daño temprano. Ten cuidado con sus gankeos a bot.",
-        "Ekko está usando Cría de Trotabrisas, lo que significa que se enfocará en velocidad de movimiento al entrar en la maleza para emboscar. Coloca más wards en la jungla enemiga.",
-        "El Capítulo Perdido de Swain indica que está priorizando AP y maná para hostigar en línea. Mantente atento a su posicionamiento y posible all-in.",
-        "Pyke está construyendo un objeto de soporte inicial, por lo que es probable que se centre en la visión y el roaming. Mantén un ojo en el río y en los posibles gankeos desde la jungla enemiga.",
-        "Draven ha completado una Capa de Agilidad. Está invirtiendo en probabilidad de crítico, por lo que debes priorizar armadura en tu build para reducir su daño.",
-        "Ekko está usando Cría de Trotabrisas, espera gankeos con velocidad de movimiento adicional desde la maleza.",
-        "Qiyana ya tiene un Puñal Serrado, ten cuidado con su letalidad y daño explosivo en gankeos.",
-        "Aurora ha completado Capítulo Perdido y Sello de la Oscuridad, cuidado con su burst mágico.",
-        "Ekko ha añadido Cristal de Rubí y Mena Brillante. Está invirtiendo en vida y Aceleración de Habilidad.",
-        "Pyke ya tiene Botas Simbióticas, estará roameando y colocando visión. Mantente atento al mapa.",
-        "Aurora ha comprado Capítulo Perdido y Sello de la Oscuridad, cuidado con su burst mágico.",
-        "Nocturne ha comprado Honda del Explorador y Espadón, indicando un enfoque en daño temprano y velocidad de ataque en la jungla. Considera wardear más profundo en tu lado de la jungla.",
-        "Zed ha comprado Picacha, priorizando daño de ataque. Ten cuidado con sus posibles roams a tu línea.",
-        "Ekko está comprando Alternador Hextech, priorizando daño mágico para sus gankeos.",
-        "Ekko compró Alternador Hextech. Prioriza daño mágico para sus gankeos.",
-        "Nocturne ha comprado Espadón, indicando que buscará daño temprano. Wardea más profundo en tu lado de la jungla.",
-        "Draven ha completado El Coleccionista, prioriza comprar armadura y vida para sobrevivir a sus ataques y burst.",
-        "Pyke ha comprado un segundo Puñal Serrado, aumentando su letalidad y potencial de burst. Mantente fuera de su alcance y wardea la línea."
+        "Mordekaiser completó Botas de Mercurio, lo que reduce el CC y aumenta su resistencia mágica. Considera comprar un item de penetración de armadura mas adelante.",
+        "Lux completó Acompañante de Luden. Ten cuidado con su daño explosivo.",
+        "Jhin completó El Coleccionista, lo que aumenta su daño de ataque y probabilidad de crítico. Ten cuidado con su potencial de burst.",
+        "Ekko completó Cinturón Cohete Hextech. Está priorizando daño explosivo y movilidad.",
+        "Ekko ha comprado Botas del Hechicero, lo que aumenta su penetración mágica. Considera armar Resistencia Mágica si te está causando problemas.",
+        "Smolder completó Saqueador de Esencias. Vigila su maná y capacidad de burst.",
+        "Ekko completó Descarga Tormentosa. Ten cuidado con su daño explosivo.",
+        "Jhin completó Recuerdos de Lord Dominik, lo que aumenta su penetración de armadura y daño contra objetivos con mucha armadura. Ten cuidado con su potencial de daño sostenido.",
+        "Smolder completó Fervor y Honda del Explorador.",
+        "Smolder ha cambiado Lanza de Shojin por un Centinela de Control y Fervor por Cañón de Fuego Rápido. Está priorizando daño crítico.",
+        "Mordekaiser ha cambiado Armadura de Tela por Vesta Espinosa y Cota de Malla. Prioriza comprar Lord Dominik's Regards para contrarrestar el armor.",
+        "Ekko ha cambiado Guardabrazo del Buscador por Guardabrazo Fragmentado.",
+        "Lux ha cambiado Mena Brillante por Códice Diabólico."
       ],
       "item_build_core": [],
       "item_build_counter_tips": [
-        "Si Draven se vuelve demasiado peligroso, considera comprar un Ángel Guardián para tener una segunda oportunidad en las peleas.",
-        "Fajín de Mercurio",
-        "Si Qiyana se vuelve un problema, considera comprar un Malla del Guardián para reducir su daño explosivo.",
-        "Si Pyke se vuelve un problema, considera comprar un Malla del Guardián para reducir su daño explosivo inicial y aumentar tu supervivencia en los all-ins.",
-        "Fajín de Mercurio (si el CC de Pyke te impide escapar)",
-        "Ángel Guardián",
-        "Si Draven se vuelve demasiado peligroso, considera comprar una Malla del Guardián para reducir el daño de sus ataques básicos críticos. Luego, puedes completar una Cimitarra Mercurial si necesitas quitarte el CC de Pyke.",
-        "Si Draven se vuelve demasiado peligroso, considera comprar una Malla del Guardián para reducir el daño de sus ataques básicos críticos.",
-        "Si sigues teniendo problemas contra Draven y su daño es muy alto, considera una Malla del Guardián seguido de Ángel Guardián para tener una segunda oportunidad."
+        "Ángel Guardián: Te da una segunda oportunidad en peleas de equipo, útil si eres el objetivo principal.",
+        "Fauces de Malmortius: Te da una segunda oportunidad en peleas de equipo, útil si eres el objetivo principal.",
+        "Considera comprar Cimitarra Mercurial más adelante si Lux o Mordekaiser se vuelven un problema por su CC.",
+        "Si Ekko se vuelve una amenaza por su daño AP, considera comprar un item de Resistencia Magica.",
+        "Si Ekko se vuelve un problema, considera comprar un item de Resistencia Magica como Fauces de Malmortius para protegerte de su daño explosivo.",
+        "Considera finalizar las Botas de Mercurio para reducir la duración de los efectos de control de masas de Lux y Mordekaiser.",
+        "Recordatorio Mortal: Reduce la curación de Mordekaiser, Gwen y Smolder.",
+        "Considera comprar Armadura de Warmog o Corazón de Hielo para contrarrestar a Jhin y Smolder.",
+        "Dado que Gwen y Mordekaiser han comprado Botas de Mercurio, un objeto de penetración de armadura como el Lord Dominik's Regards será útil si necesitas infligir daño a estos campeones más adelante en la partida.",
+        "Si Ekko te está causando problemas, considera comprar Fauces de Malmortius para protegerte de su daño explosivo.",
+        "Considera comprar un objeto de penetración de armadura como el Lord Dominik's Regards si necesitas infligir daño a campeones como Mordekaiser y Gwen que han comprado Resistencia Mágica.",
+        "Dado que Gwen ha completado Agrietador y ya tiene Botas de Mercurio, considera comprar un objeto de penetración de armadura como el Lord Dominik's Regards será útil si necesitas infligir daño a estos campeones más adelante en la partida.",
+        "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica (Botas de Mercurio en Mordekaiser, Gwen y Smolder), el objeto de penetración de armadura Lord Dominik's Regards será crucial para infligir daño efectivo.",
+        "El Recordatorio Mortal es crucial para contrarrestar la curación de Mordekaiser y Smolder.",
+        "Ángel Guardián o Fauces de Malmortius: Te dan una segunda oportunidad en peleas de equipo, útil si eres el objetivo principal.",
+        "Fauces de Malmortius: Te da una segunda oportunidad en peleas de equipo, útil contra Ekko y Lux.",
+        "Considera comprar Cimitarra Mercurial más adelante si Lux se vuelve un problema por su CC.",
+        "Considera comprar Fauces de Malmortius si Ekko te está causando problemas con su daño explosivo.",
+        "Dado que el equipo enemigo ha comenzado a comprar Resistencia Mágica, es crucial completar Lord Dominik's Regards para infligir daño efectivo.",
+        "Prioriza completar Lord Dominik's Regards para infligir daño efectivo a Mordekaiser, Gwen y Jhin, quienes han comprado resistencia mágica y armadura.",
+        "Considera comprar Ángel Guardián o Fauces de Malmortius para sobrevivir al daño explosivo de Ekko y Lux.",
+        "Considera Cimitarra Mercurial si Lux o Mordekaiser se vuelven un problema por su CC.",
+        "Recuerda priorizar el Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder.",
+        "Dado que Gwen ya tiene Agrietador, esperala en escaramuzas y peleas prolongadas. Mantente atento a su ubicación en la jungla para evitar encuentros desfavorables.",
+        "Continúa contrarrestando la curación de Mordekaiser y Smolder con Recordatorio Mortal.",
+        "Prioriza completar Lord Dominik's Regards para infligir daño efectivo a Mordekaiser y Gwen, quienes han comprado armadura y resistencia mágica.",
+        "Prioriza completar Recordatorio Mortal para reducir la curación de Mordekaiser y Smolder."
       ]
     }
   }

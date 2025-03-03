@@ -3,19 +3,11 @@
 import { Shield, Sword, Clock, Trophy } from 'lucide-react';
 
 import styles from './index.module.css'
-
-interface GameData {
-  champion: string;
-  gameTime: number;
-  phase: string;
-  lane: string;
-  opponent: string;
-  teamScore: number;
-  enemyScore: number;
-}
+import ProgressBar from '../ProgressBar';
+import { getChampionImage } from '../../utils/get-champion-image';
 
 interface GameStatusProps {
-  gameData: GameData | null;
+  gameData: any;
 }
 
 export function GameStatus({ gameData }: GameStatusProps) {
@@ -33,16 +25,18 @@ export function GameStatus({ gameData }: GameStatusProps) {
   }
   
   // Format game time
-  const minutes = Math.floor(gameData.gameTime / 60);
-  const seconds = gameData.gameTime % 60;
+  const minutes = Math.floor(gameData.currentTime / 60);
+  const seconds = Math.round(gameData.currentTime % 60);
   const formattedTime = `${minutes}:${seconds.toString().padStart(2, '0')}`;
   
-  // Determine game phase color
-  const phaseColor = {
+  const phasesStyles: any = {
     early: 'text-green-400',
     mid: 'text-yellow-400',
     late: 'text-red-400'
-  }[gameData.phase];
+  };
+
+  // Determine game phase color
+  const phaseColor = gameData.phase ? phasesStyles[gameData.phase] : '';
   
   // Calculate win probability (simplified example)
   const scoreDiff = gameData.teamScore - gameData.enemyScore;
@@ -74,47 +68,35 @@ export function GameStatus({ gameData }: GameStatusProps) {
               {gameData.phase}
             </span>
           </div>
-          <input 
-            value={gameData.phase === 'early' ? 33 : gameData.phase === 'mid' ? 66 : 100} 
-            className="h-2"
+          <ProgressBar
+            value={gameData.phase === 'early' ? 33 : gameData.phase === 'mid' ? 66 : 100}
+            max={100}
           />
         </div>
         
-        <div>
+        <div style={{ margin: '1.2rem 0' }}>
           <h3 className="mb-2 text-lg font-medium">Enfrentamiento</h3>
           <div className="rounded-lg bg-gray-900 p-3">
             <div className="mb-2 flex items-center justify-between">
               <div>
                 <span className="text-sm text-gray-400">Tú</span>
+                <div>
+                  <img src={getChampionImage(gameData.current.championName)} alt="" />
+                </div>
                 <p className="font-medium">{gameData.champion}</p>
               </div>
               <span className="text-lg">vs</span>
               <div className="text-right">
                 <span className="text-sm text-gray-400">Oponente</span>
+                <div>
+                  <img src={getChampionImage(gameData.current.directOponent)} alt="" />
+                </div>
                 <p className="font-medium">{gameData.opponent}</p>
               </div>
             </div>
             <div className="text-sm text-gray-400">
-              Carril: <span className="capitalize">{gameData.lane}</span>
+              Carril: <span className="capitalize">{gameData.current.position}</span>
             </div>
-          </div>
-        </div>
-        
-        <div>
-          <h3 className="mb-2 text-lg font-medium">Puntuación</h3>
-          <div className="flex items-center justify-between">
-            <div className="flex items-center">
-              <Sword className="mr-1 h-4 w-4 text-blue-400" />
-              <span>Tu equipo</span>
-            </div>
-            <span className="text-xl font-bold">{gameData.teamScore}</span>
-          </div>
-          <div className="flex items-center justify-between">
-            <div className="flex items-center">
-              <Shield className="mr-1 h-4 w-4 text-red-400" />
-              <span>Enemigos</span>
-            </div>
-            <span className="text-xl font-bold">{gameData.enemyScore}</span>
           </div>
         </div>
         
@@ -126,9 +108,9 @@ export function GameStatus({ gameData }: GameStatusProps) {
             </div>
             <span className="font-medium">{winProbability}%</span>
           </div>
-          <input 
+          <ProgressBar 
             value={winProbability} 
-            className="h-2"
+            max={100}
           />
           
           {/*

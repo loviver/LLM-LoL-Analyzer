@@ -40,7 +40,7 @@ const clients = new Set<WebSocket>();
 
 setInterval(() => {
 
-  const readImprovedData = fs.readFileSync('./data/current/improvedData.json', 'utf8');
+  const readImprovedData = JSON.parse(fs.readFileSync('./data/current/liveDataImproved.json', 'utf8'));
 
   broadcast({
     type: 'game-data',
