@@ -7,7 +7,7 @@ const PlayerRow: React.FC<{ player: any }> = ({ player }) => {
     <div className="flex items-center p-2 border-b border-gray-200">
       <div className="flex-shrink-0 relative">
         <img 
-          src={getChampionImage(player.championName)}
+          src={getChampionImage(player.champion.championImage)}
           alt={player.championName} 
           className="w-12 h-12 rounded-full object-cover"
         />

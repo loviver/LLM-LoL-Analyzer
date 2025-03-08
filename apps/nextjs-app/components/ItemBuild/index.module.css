@@ -1,0 +1,144 @@
+.builds-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background: linear-gradient(135deg, #0a1428 0%, #1e2328 100%);
+  border-radius: 12px;
+  color: #ffffff;
+  
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.build-row {
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid #785a28;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.build-stats {
+  display: flex;
+  gap: 10px;
+  min-width: 200px;
+}
+
+.stat {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.items-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.item-container {
+  position: relative;
+}
+
+.item-image {
+  width: 48px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #785a28;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.item-container:hover .item-image {
+  transform: scale(1.1);
+  border-color: #c8aa6e;
+}
+
+.item-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 9, 19, 0.95);
+  border: 1px solid #785a28;
+  border-radius: 6px;
+  padding: 12px;
+  width: 300px;
+  z-index: 99999;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  margin-bottom: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.item-container:hover .item-tooltip {
+  opacity: 1;
+}
+
+.tooltip-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #785a28;
+}
+
+.tooltip-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #c8aa6e;
+}
+
+.tooltip-stats {
+  color: #a09b8c;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.tooltip-gold {
+  margin-top: 8px;
+  color: #c8aa6e;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.attention {
+  color: #ffd700;
+  font-weight: bold;
+}
+
+.shield {
+  color: #7eb5ff;
+}
+
+.physicalDamage {
+  color: #ff4444;
+}
+
+.speed {
+  color: #44ff44;
+}
+
+.arrow {
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid #785a28;
+}

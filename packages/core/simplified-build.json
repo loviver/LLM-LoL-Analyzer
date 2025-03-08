@@ -1,0 +1,4787 @@
+{
+  "matchups": [
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Pantheon",
+        "key": "80",
+        "name": "Pantheon",
+        "title": "la Lanza Inquebrantable",
+        "blurb": "Antaño un reticente huésped del Aspecto de la guerra, Atreus sobrevivió cuando el poder celestial en su interior fue asesinado, negándose a sucumbir ante un golpe que, de un desgarro, borró estrellas de los cielos. Con el tiempo, aprendió a aceptar el...",
+        "info": {
+          "attack": 9,
+          "defense": 4,
+          "magic": 3,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Pantheon.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 109,
+          "mp": 317,
+          "mpperlevel": 31,
+          "movespeed": 345,
+          "armor": 40,
+          "armorperlevel": 4.95,
+          "spellblock": 28,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 6,
+          "hpregenperlevel": 0.65,
+          "mpregen": 7.35,
+          "mpregenperlevel": 0.45,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 3.3,
+          "attackspeedperlevel": 2.95,
+          "attackspeed": 0.658
+        },
+        "urlImage": "/data/static/champion/Pantheon.png"
+      },
+      "winrate": 0.5596590909090909,
+      "csDiffAt15": -0.2755681818181818,
+      "goldDiffAt15": -279.17045454545456,
+      "xpDiffAt15": -197.125,
+      "firstToHitLevel2": 29.52840909090909,
+      "count": 352
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Gragas",
+        "key": "79",
+        "name": "Gragas",
+        "title": "el Revoltoso",
+        "blurb": "Gragas, tan alegre como imponente, es un masivo y ruidoso maestro cervecero en su propia misión por encontrar el perfecto tarro de cerveza. Procedente de un lugar desconocido, ahora busca ingredientes poco comunes entre los inmaculados páramos de...",
+        "info": {
+          "attack": 4,
+          "defense": 7,
+          "magic": 6,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Gragas.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Mage"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 640,
+          "hpperlevel": 115,
+          "mp": 400,
+          "mpperlevel": 47,
+          "movespeed": 330,
+          "armor": 38,
+          "armorperlevel": 5,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 5.5,
+          "hpregenperlevel": 0.5,
+          "mpregen": 6,
+          "mpregenperlevel": 0.8,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 3.5,
+          "attackspeedperlevel": 2.05,
+          "attackspeed": 0.675
+        },
+        "urlImage": "/data/static/champion/Gragas.png"
+      },
+      "winrate": 0.5539033457249071,
+      "csDiffAt15": 1.7806691449814127,
+      "goldDiffAt15": -47.3271375464684,
+      "xpDiffAt15": -307.9479553903346,
+      "firstToHitLevel2": 14.628252788104088,
+      "count": 269
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Yasuo",
+        "key": "157",
+        "name": "Yasuo",
+        "title": "el Imperdonable",
+        "blurb": "Yasuo, un jonio de gran determinación, es un ágil espadachín entrenado para empuñar al mismo viento contra sus enemigos. Cuando era joven y orgulloso, lo acusaron de asesinar a su maestro, algo que no era verdad. Al no poder demostrar su inocencia, se...",
+        "info": {
+          "attack": 8,
+          "defense": 4,
+          "magic": 4,
+          "difficulty": 10
+        },
+        "image": {
+          "full": "Yasuo.png",
+          "sprite": "champion5.png",
+          "group": "champion",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Flujo",
+        "stats": {
+          "hp": 590,
+          "hpperlevel": 110,
+          "mp": 100,
+          "mpperlevel": 0,
+          "movespeed": 345,
+          "armor": 32,
+          "armorperlevel": 4.6,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 6.5,
+          "hpregenperlevel": 0.9,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 3.5,
+          "attackspeed": 0.697
+        },
+        "urlImage": "/data/static/champion/Yasuo.png"
+      },
+      "winrate": 0.5422077922077922,
+      "csDiffAt15": -6.4318181818181825,
+      "goldDiffAt15": -12.409090909090908,
+      "xpDiffAt15": 62.07142857142857,
+      "firstToHitLevel2": 34.06818181818182,
+      "count": 308
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Shen",
+        "key": "98",
+        "name": "Shen",
+        "title": "el Ojo del Crepúsculo",
+        "blurb": "Entre los secretos guerreros jonios conocidos como los Kinkou, Shen sirve como su líder, el Ojo del Crepúsculo. Desea mantenerse libre de las confusiones que provocan la emoción, los prejuicios y el ego, y camina por la senda oculta del juicio imparcial...",
+        "info": {
+          "attack": 3,
+          "defense": 9,
+          "magic": 3,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Shen.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 0,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Tank"
+        ],
+        "partype": "Energía",
+        "stats": {
+          "hp": 610,
+          "hpperlevel": 99,
+          "mp": 400,
+          "mpperlevel": 0,
+          "movespeed": 340,
+          "armor": 34,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.75,
+          "mpregen": 50,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 3,
+          "attackspeed": 0.751
+        },
+        "urlImage": "/data/static/champion/Shen.png"
+      },
+      "winrate": 0.5380228136882129,
+      "csDiffAt15": 17.8384030418251,
+      "goldDiffAt15": 535.7509505703422,
+      "xpDiffAt15": 216.7281368821293,
+      "firstToHitLevel2": 18.625475285171103,
+      "count": 526
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Olaf",
+        "key": "2",
+        "name": "Olaf",
+        "title": "el Berserker",
+        "blurb": "Como una fuerza imparable de destrucción, el portador de hachas Olaf no quiere nada más que morir en glorioso combate. Proveniente de la brutal península freljordiana de Lokfar, alguna vez recibió una profecía que predecía su muerte pacífica, que es el...",
+        "info": {
+          "attack": 9,
+          "defense": 5,
+          "magic": 3,
+          "difficulty": 3
+        },
+        "image": {
+          "full": "Olaf.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 288,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 645,
+          "hpperlevel": 119,
+          "mp": 316,
+          "mpperlevel": 50,
+          "movespeed": 350,
+          "armor": 35,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 6.5,
+          "hpregenperlevel": 0.6,
+          "mpregen": 7.5,
+          "mpregenperlevel": 0.6,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 4.7,
+          "attackspeedperlevel": 2.7,
+          "attackspeed": 0.694
+        },
+        "urlImage": "/data/static/champion/Olaf.png"
+      },
+      "winrate": 0.5336134453781513,
+      "csDiffAt15": 2.819327731092437,
+      "goldDiffAt15": 76.21848739495799,
+      "xpDiffAt15": 224.88655462184875,
+      "firstToHitLevel2": 30.542016806722685,
+      "count": 238
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Camille",
+        "key": "164",
+        "name": "Camille",
+        "title": "la Sombra de Acero",
+        "blurb": "Armada para operar fuera de los límites de la ley, Camille es la principal inteligencia del Clan Ferros: una elegante agente de élite que se asegura de que la máquina de Piltóver y el submundo zaunita funcione sin problemas. Al ser adaptable y precisa...",
+        "info": {
+          "attack": 8,
+          "defense": 6,
+          "magic": 3,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Camille.png",
+          "sprite": "champion0.png",
+          "group": "champion",
+          "x": 48,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 99,
+          "mp": 339,
+          "mpperlevel": 52,
+          "movespeed": 340,
+          "armor": 35,
+          "armorperlevel": 5,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.8,
+          "mpregen": 8.15,
+          "mpregenperlevel": 0.75,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 3.8,
+          "attackspeedperlevel": 2.5,
+          "attackspeed": 0.644
+        },
+        "urlImage": "/data/static/champion/Camille.png"
+      },
+      "winrate": 0.5316455696202531,
+      "csDiffAt15": 6.015822784810126,
+      "goldDiffAt15": 260.7088607594937,
+      "xpDiffAt15": 58.71835443037976,
+      "firstToHitLevel2": 18.84493670886076,
+      "count": 316
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Vladimir",
+        "key": "8",
+        "name": "Vladimir",
+        "title": "el Segador Carmesí",
+        "blurb": "Vladimir, un demonio con sed de sangre mortal, ha influenciado la política de Noxus desde los primeros días del imperio. Además de extender su vida de manera sobrenatural, su maestría de la hemomancia le permite controlar las mentes y cuerpos de otros...",
+        "info": {
+          "attack": 2,
+          "defense": 6,
+          "magic": 8,
+          "difficulty": 7
+        },
+        "image": {
+          "full": "Vladimir.png",
+          "sprite": "champion5.png",
+          "group": "champion",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Mage",
+          "Fighter"
+        ],
+        "partype": "Impulso Carmesí",
+        "stats": {
+          "hp": 607,
+          "hpperlevel": 110,
+          "mp": 2,
+          "mpperlevel": 0,
+          "movespeed": 330,
+          "armor": 27,
+          "armorperlevel": 4.5,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 450,
+          "hpregen": 7,
+          "hpregenperlevel": 0.6,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 55,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 2,
+          "attackspeed": 0.658
+        },
+        "urlImage": "/data/static/champion/Vladimir.png"
+      },
+      "winrate": 0.5311475409836065,
+      "csDiffAt15": -4.00983606557377,
+      "goldDiffAt15": 9.186885245901639,
+      "xpDiffAt15": -220.4655737704918,
+      "firstToHitLevel2": 24.504918032786886,
+      "count": 305
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Fiora",
+        "key": "114",
+        "name": "Fiora",
+        "title": "la Gran Duelista",
+        "blurb": "Fiora, la duelista más temida de Valoran, se hizo famosa por sus modales bruscos y su astucia, además de la rapidez y destreza con la que maneja su florete. Nacida en el seno de la Casa Laurent de Demacia, tomó el control de la familia de su padre en...",
+        "info": {
+          "attack": 10,
+          "defense": 4,
+          "magic": 2,
+          "difficulty": 3
+        },
+        "image": {
+          "full": "Fiora.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 192,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 620,
+          "hpperlevel": 99,
+          "mp": 300,
+          "mpperlevel": 60,
+          "movespeed": 345,
+          "armor": 33,
+          "armorperlevel": 4.7,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 150,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.55,
+          "mpregen": 8,
+          "mpregenperlevel": 0.7,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 66,
+          "attackdamageperlevel": 3.3,
+          "attackspeedperlevel": 3.2,
+          "attackspeed": 0.69
+        },
+        "urlImage": "/data/static/champion/Fiora.png"
+      },
+      "winrate": 0.5251989389920424,
+      "csDiffAt15": -0.19363395225464192,
+      "goldDiffAt15": -22.371352785145888,
+      "xpDiffAt15": 9.750663129973475,
+      "firstToHitLevel2": 27.3289124668435,
+      "count": 377
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Tryndamere",
+        "key": "23",
+        "name": "Tryndamere",
+        "title": "el Rey Bárbaro",
+        "blurb": "Impulsado por la ira, Tryndamere alguna vez emprendió su camino por Fréljord y desafió abiertamente a los más grandes guerreros del norte preparándose para los días más oscuros que se avecinaban. Por mucho tiempo, el iracundo bárbaro ha buscado la...",
+        "info": {
+          "attack": 10,
+          "defense": 5,
+          "magic": 2,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Tryndamere.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 0,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Furia",
+        "stats": {
+          "hp": 696,
+          "hpperlevel": 108,
+          "mp": 100,
+          "mpperlevel": 0,
+          "movespeed": 345,
+          "armor": 33,
+          "armorperlevel": 4.8,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.9,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 66,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 3.4,
+          "attackspeed": 0.67
+        },
+        "urlImage": "/data/static/champion/Tryndamere.png"
+      },
+      "winrate": 0.5219364599092284,
+      "csDiffAt15": -4.711043872919818,
+      "goldDiffAt15": -333.13615733736765,
+      "xpDiffAt15": -47.48714069591528,
+      "firstToHitLevel2": 32.41452344931921,
+      "count": 661
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Darius",
+        "key": "122",
+        "name": "Darius",
+        "title": "la mano de Noxus",
+        "blurb": "No hay símbolo más grande del poder noxiano que Darius, el líder más temido y con más experiencia en la guerra. Desde sus orígenes humildes hasta convertirse en la Mano de Noxus, Darius acaba con los enemigos del imperio, de los cuales, muchos también...",
+        "info": {
+          "attack": 9,
+          "defense": 5,
+          "magic": 1,
+          "difficulty": 2
+        },
+        "image": {
+          "full": "Darius.png",
+          "sprite": "champion0.png",
+          "group": "champion",
+          "x": 240,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 652,
+          "hpperlevel": 114,
+          "mp": 263,
+          "mpperlevel": 58,
+          "movespeed": 340,
+          "armor": 39,
+          "armorperlevel": 5.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 10,
+          "hpregenperlevel": 0.95,
+          "mpregen": 6.6,
+          "mpregenperlevel": 0.35,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 5,
+          "attackspeedperlevel": 1,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Darius.png"
+      },
+      "winrate": 0.5215827338129496,
+      "csDiffAt15": -6.8375299760191846,
+      "goldDiffAt15": -285.28057553956836,
+      "xpDiffAt15": -120.32074340527578,
+      "firstToHitLevel2": 31.247002398081534,
+      "count": 1668
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Irelia",
+        "key": "39",
+        "name": "Irelia",
+        "title": "la Cuchilla Danzante",
+        "blurb": "La invasión de Jonia a manos de Noxus produjo muchos héroes, pero ninguno fue tan improbable como la joven Irelia de Navori. Entrenada en las ancestrales danzas de su región, adaptó su arte para la guerra y ahora usa sus movimientos refinados y llenos...",
+        "info": {
+          "attack": 7,
+          "defense": 4,
+          "magic": 5,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Irelia.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 336,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 630,
+          "hpperlevel": 115,
+          "mp": 350,
+          "mpperlevel": 50,
+          "movespeed": 335,
+          "armor": 36,
+          "armorperlevel": 4.7,
+          "spellblock": 30,
+          "spellblockperlevel": 2.05,
+          "attackrange": 200,
+          "hpregen": 6,
+          "hpregenperlevel": 0.85,
+          "mpregen": 8,
+          "mpregenperlevel": 0.8,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 65,
+          "attackdamageperlevel": 3.5,
+          "attackspeedperlevel": 2.5,
+          "attackspeed": 0.656
+        },
+        "urlImage": "/data/static/champion/Irelia.png"
+      },
+      "winrate": 0.5200845665961945,
+      "csDiffAt15": -18.09090909090909,
+      "goldDiffAt15": -534.5877378435518,
+      "xpDiffAt15": -177.44820295983087,
+      "firstToHitLevel2": 30.503171247357294,
+      "count": 473
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Gnar",
+        "key": "150",
+        "name": "Gnar",
+        "title": "el Eslabón Perdido",
+        "blurb": "Gnar es un yordle primitivo cuyos jugueteos bobos pueden transformarse en un berrinche de infante en un instante, transformándolo así en una bestia masiva que disfruta la destrucción. Congelado en Hielo Puro por miles de años, la curiosa criatura se...",
+        "info": {
+          "attack": 6,
+          "defense": 5,
+          "magic": 5,
+          "difficulty": 8
+        },
+        "image": {
+          "full": "Gnar.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Rabia",
+        "stats": {
+          "hp": 540,
+          "hpperlevel": 79,
+          "mp": 100,
+          "mpperlevel": 0,
+          "movespeed": 335,
+          "armor": 32,
+          "armorperlevel": 3.7,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 175,
+          "hpregen": 4.5,
+          "hpregenperlevel": 1.25,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 3.2,
+          "attackspeedperlevel": 6,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Gnar.png"
+      },
+      "winrate": 0.5197628458498024,
+      "csDiffAt15": -3.8260869565217392,
+      "goldDiffAt15": -75.49604743083005,
+      "xpDiffAt15": -183.1581027667984,
+      "firstToHitLevel2": 24.18379446640316,
+      "count": 506
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Ambessa",
+        "key": "799",
+        "name": "Ambessa",
+        "title": "La Matriarca de la Guerra",
+        "blurb": "Todos los que conocen el apellido Medarda le tienen un enorme respeto y un temor más grande a la matriarca de la familia: Ambessa. Esta general noxiana es una combinación letal de fuerza implacable y determinación audaz en el combate. Su labor como...",
+        "info": {
+          "attack": 9,
+          "defense": 2,
+          "magic": 0,
+          "difficulty": 10
+        },
+        "image": {
+          "full": "Ambessa.png",
+          "sprite": "champion0.png",
+          "group": "champion",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Energía",
+        "stats": {
+          "hp": 630,
+          "hpperlevel": 110,
+          "mp": 200,
+          "mpperlevel": 0,
+          "movespeed": 335,
+          "armor": 35,
+          "armorperlevel": 4.9,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.75,
+          "mpregen": 50,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 63,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 2.5,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Ambessa.png"
+      },
+      "winrate": 0.5192743764172335,
+      "csDiffAt15": 4.6439909297052155,
+      "goldDiffAt15": 286.4172335600907,
+      "xpDiffAt15": -3.0952380952380953,
+      "firstToHitLevel2": 22.873015873015873,
+      "count": 441
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Gangplank",
+        "key": "41",
+        "name": "Gangplank",
+        "title": "el Azote de los Mares",
+        "blurb": "Tan impredecible como brutal, el saqueador y rey destronado Gangplank es temido por todo el mundo. Alguna vez gobernó la ciudad portuaria de Aguasturbias y aunque su reino terminó, hay quienes creen que esto solo lo hizo más peligroso. Gangplank...",
+        "info": {
+          "attack": 7,
+          "defense": 6,
+          "magic": 4,
+          "difficulty": 9
+        },
+        "image": {
+          "full": "Gangplank.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 336,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 630,
+          "hpperlevel": 114,
+          "mp": 280,
+          "mpperlevel": 60,
+          "movespeed": 345,
+          "armor": 31,
+          "armorperlevel": 4.7,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 6,
+          "hpregenperlevel": 0.6,
+          "mpregen": 8,
+          "mpregenperlevel": 0.7,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 4.2,
+          "attackspeedperlevel": 3.2,
+          "attackspeed": 0.658
+        },
+        "urlImage": "/data/static/champion/Gangplank.png"
+      },
+      "winrate": 0.5182481751824818,
+      "csDiffAt15": -3.2798053527980535,
+      "goldDiffAt15": -327.8759124087591,
+      "xpDiffAt15": -113.31143552311435,
+      "firstToHitLevel2": 21.14111922141119,
+      "count": 411
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Mordekaiser",
+        "key": "82",
+        "name": "Mordekaiser",
+        "title": "el Renacido de Hierro",
+        "blurb": "Asesinado dos veces y renacido tres, Mordekaiser es un señor de la guerra brutal de una época olvidada, quien usa su brujería nigromántica para atar almas a una esclavitud eterna. Quedan muy pocos que recuerden sus conquistas precedentes o que conozcan...",
+        "info": {
+          "attack": 4,
+          "defense": 6,
+          "magic": 7,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Mordekaiser.png",
+          "sprite": "champion2.png",
+          "group": "champion",
+          "x": 240,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Mage"
+        ],
+        "partype": "Escudo",
+        "stats": {
+          "hp": 645,
+          "hpperlevel": 104,
+          "mp": 100,
+          "mpperlevel": 0,
+          "movespeed": 335,
+          "armor": 37,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 5,
+          "hpregenperlevel": 0.75,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 61,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 1,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Mordekaiser.png"
+      },
+      "winrate": 0.5176895306859206,
+      "csDiffAt15": -4.116967509025271,
+      "goldDiffAt15": -185.19783393501805,
+      "xpDiffAt15": -373.2642599277978,
+      "firstToHitLevel2": 27.072202166064976,
+      "count": 1385
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Illaoi",
+        "key": "420",
+        "name": "Illaoi",
+        "title": "la Sacerdotisa del Kraken",
+        "blurb": "El poderoso físico de Illaoi solo se ve disminuido por su indomable fe. Como profeta del Gran Kraken, ella usa un enorme ídolo dorado para arrebatarles el espíritu a sus enemigos y destrozar su percepción de la realidad. Todo aquel que desafíe a la...",
+        "info": {
+          "attack": 8,
+          "defense": 6,
+          "magic": 3,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Illaoi.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 288,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 656,
+          "hpperlevel": 115,
+          "mp": 350,
+          "mpperlevel": 50,
+          "movespeed": 350,
+          "armor": 35,
+          "armorperlevel": 5,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 9.5,
+          "hpregenperlevel": 0.8,
+          "mpregen": 7.5,
+          "mpregenperlevel": 0.75,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 65,
+          "attackdamageperlevel": 5,
+          "attackspeedperlevel": 2.5,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Illaoi.png"
+      },
+      "winrate": 0.5176470588235295,
+      "csDiffAt15": -12.652100840336134,
+      "goldDiffAt15": -361.2470588235294,
+      "xpDiffAt15": -393.109243697479,
+      "firstToHitLevel2": 18.15126050420168,
+      "count": 595
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Jayce",
+        "key": "126",
+        "name": "Jayce",
+        "title": "el Defensor del Mañana",
+        "blurb": "Jayce Talis es un brillante inventor que, junto con su amigo Viktor, hizo los primeros grandes descubrimientos en el campo de la tecnología Hextech. Admirado por toda la ciudad, Jayce intenta vivir a la altura de su reputación, pero no siempre es...",
+        "info": {
+          "attack": 8,
+          "defense": 4,
+          "magic": 3,
+          "difficulty": 7
+        },
+        "image": {
+          "full": "Jayce.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 96,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Marksman",
+          "Fighter"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 590,
+          "hpperlevel": 109,
+          "mp": 375,
+          "mpperlevel": 45,
+          "movespeed": 335,
+          "armor": 22,
+          "armorperlevel": 5,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 125,
+          "hpregen": 6,
+          "hpregenperlevel": 0.6,
+          "mpregen": 6,
+          "mpregenperlevel": 0.8,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 59,
+          "attackdamageperlevel": 4.25,
+          "attackspeedperlevel": 3,
+          "attackspeed": 0.658
+        },
+        "urlImage": "/data/static/champion/Jayce.png"
+      },
+      "winrate": 0.5161290322580645,
+      "csDiffAt15": -6.996415770609319,
+      "goldDiffAt15": -71.38709677419355,
+      "xpDiffAt15": -109.38709677419355,
+      "firstToHitLevel2": 35.39068100358423,
+      "count": 279
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Sion",
+        "key": "14",
+        "name": "Sion",
+        "title": "el Coloso no Muerto",
+        "blurb": "Como héroe de guerra de una época antigua, Sion era venerado en Noxus por quitarle la vida al rey demaciano con sus propias manos. Sin embargo, se le negó el descanso eterno y lo resucitaron para servir a su imperio incluso en la muerte. Su matanza...",
+        "info": {
+          "attack": 5,
+          "defense": 9,
+          "magic": 3,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Sion.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Tank",
+          "Fighter"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 655,
+          "hpperlevel": 87,
+          "mp": 400,
+          "mpperlevel": 52,
+          "movespeed": 345,
+          "armor": 36,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 9,
+          "hpregenperlevel": 0.8,
+          "mpregen": 8,
+          "mpregenperlevel": 0.6,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 1.3,
+          "attackspeed": 0.679
+        },
+        "urlImage": "/data/static/champion/Sion.png"
+      },
+      "winrate": 0.5122282608695652,
+      "csDiffAt15": -7.203804347826087,
+      "goldDiffAt15": -215.8763586956522,
+      "xpDiffAt15": -1.173913043478261,
+      "firstToHitLevel2": 20.744565217391305,
+      "count": 736
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Volibear",
+        "key": "106",
+        "name": "Volibear",
+        "title": "la Tormenta Implacable",
+        "blurb": "Para quienes aún lo veneran, Volibear es la encarnación de la tormenta. Destructivo, salvaje y con una determinación obstinada, existió antes de que los mortales caminaran sobre la tundra del Fréljord. Protege salvajemente las tierras que él y los demás...",
+        "info": {
+          "attack": 7,
+          "defense": 7,
+          "magic": 4,
+          "difficulty": 3
+        },
+        "image": {
+          "full": "Volibear.png",
+          "sprite": "champion5.png",
+          "group": "champion",
+          "x": 192,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 104,
+          "mp": 350,
+          "mpperlevel": 70,
+          "movespeed": 340,
+          "armor": 31,
+          "armorperlevel": 5.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 150,
+          "hpregen": 9,
+          "hpregenperlevel": 0.75,
+          "mpregen": 6.25,
+          "mpregenperlevel": 0.5,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 3.5,
+          "attackspeedperlevel": 2,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Volibear.png"
+      },
+      "winrate": 0.5065710872162486,
+      "csDiffAt15": -3.5651135005973718,
+      "goldDiffAt15": -169.48506571087216,
+      "xpDiffAt15": -145.81959378733572,
+      "firstToHitLevel2": 37.971326164874554,
+      "count": 837
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Warwick",
+        "key": "19",
+        "name": "Warwick",
+        "title": "la Furia Desatada de Zaun",
+        "blurb": "Warwick es un monstruo que caza en los grises callejones de Zaun. Su cuerpo, transformado por una serie de horribles experimentos, está fusionado a un complejo sistema de válvulas y bombas, una terrible maquinaria que llena sus venas con ira alquímica...",
+        "info": {
+          "attack": 9,
+          "defense": 5,
+          "magic": 3,
+          "difficulty": 3
+        },
+        "image": {
+          "full": "Warwick.png",
+          "sprite": "champion5.png",
+          "group": "champion",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 620,
+          "hpperlevel": 99,
+          "mp": 280,
+          "mpperlevel": 35,
+          "movespeed": 335,
+          "armor": 33,
+          "armorperlevel": 4.4,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 4,
+          "hpregenperlevel": 0.75,
+          "mpregen": 7.45,
+          "mpregenperlevel": 0.6,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 2.75,
+          "attackspeedperlevel": 2.3,
+          "attackspeed": 0.638
+        },
+        "urlImage": "/data/static/champion/Warwick.png"
+      },
+      "winrate": 0.5052410901467506,
+      "csDiffAt15": -1.3270440251572326,
+      "goldDiffAt15": -195.8909853249476,
+      "xpDiffAt15": -142.75471698113208,
+      "firstToHitLevel2": 30.0251572327044,
+      "count": 477
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Renekton",
+        "key": "58",
+        "name": "Renekton",
+        "title": "el Carnicero de las Arenas",
+        "blurb": "Renekton es una terrorífica criatura Ascendida movida por la ira y procedente de los desiertos abrasadores de Shurima. Antaño fue el guerrero más admirado del imperio, un líder que condujo a los ejércitos shurimanos a incontables victorias. Sin embargo...",
+        "info": {
+          "attack": 8,
+          "defense": 5,
+          "magic": 2,
+          "difficulty": 3
+        },
+        "image": {
+          "full": "Renekton.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 432,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Furia",
+        "stats": {
+          "hp": 660,
+          "hpperlevel": 111,
+          "mp": 100,
+          "mpperlevel": 0,
+          "movespeed": 345,
+          "armor": 35,
+          "armorperlevel": 5.2,
+          "spellblock": 28,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 8,
+          "hpregenperlevel": 0.75,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 69,
+          "attackdamageperlevel": 4.15,
+          "attackspeedperlevel": 2.75,
+          "attackspeed": 0.665
+        },
+        "urlImage": "/data/static/champion/Renekton.png"
+      },
+      "winrate": 0.5043630017452007,
+      "csDiffAt15": -6.593368237347295,
+      "goldDiffAt15": -335.45200698080276,
+      "xpDiffAt15": -288.73821989528795,
+      "firstToHitLevel2": 25.7260034904014,
+      "count": 573
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Vayne",
+        "key": "67",
+        "name": "Vayne",
+        "title": "la Cazadora Nocturna",
+        "blurb": "Shauna Vayne es una mortal e implacable cazadora de monstruos demaciana que ha dedicado su vida a encontrar y destruir al demonio que asesinó a su familia. Armada con una ballesta que lleva montada en la muñeca y un corazón lleno de venganza, solo es...",
+        "info": {
+          "attack": 10,
+          "defense": 1,
+          "magic": 1,
+          "difficulty": 8
+        },
+        "image": {
+          "full": "Vayne.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 288,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Marksman",
+          "Assassin"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 550,
+          "hpperlevel": 103,
+          "mp": 232,
+          "mpperlevel": 35,
+          "movespeed": 330,
+          "armor": 23,
+          "armorperlevel": 4.6,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 550,
+          "hpregen": 3.5,
+          "hpregenperlevel": 0.55,
+          "mpregen": 7,
+          "mpregenperlevel": 0.4,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 2.35,
+          "attackspeedperlevel": 3.3,
+          "attackspeed": 0.658
+        },
+        "urlImage": "/data/static/champion/Vayne.png"
+      },
+      "winrate": 0.5033783783783784,
+      "csDiffAt15": -0.6452702702702703,
+      "goldDiffAt15": 107.73986486486487,
+      "xpDiffAt15": 112.92905405405405,
+      "firstToHitLevel2": 28.06756756756757,
+      "count": 296
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Aatrox",
+        "key": "266",
+        "name": "Aatrox",
+        "title": "la Espada Darkin",
+        "blurb": "Aatrox y sus hermanos, que alguna vez fueron respetados defensores de Shurima contra el Vacío, se convirtieron en una amenaza aún mayor para Runaterra y los derrotaron con hechicería mortal usada con astucia. Pero, después de siglos de encarcelamiento...",
+        "info": {
+          "attack": 8,
+          "defense": 4,
+          "magic": 3,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Aatrox.png",
+          "sprite": "champion0.png",
+          "group": "champion",
+          "x": 0,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter"
+        ],
+        "partype": "Pozo Sangriento",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 114,
+          "mp": 0,
+          "mpperlevel": 0,
+          "movespeed": 345,
+          "armor": 38,
+          "armorperlevel": 4.8,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 3,
+          "hpregenperlevel": 0.5,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 5,
+          "attackspeedperlevel": 2.5,
+          "attackspeed": 0.651
+        },
+        "urlImage": "/data/static/champion/Aatrox.png"
+      },
+      "winrate": 0.5018137847642079,
+      "csDiffAt15": -7.437726723095526,
+      "goldDiffAt15": -339.0471584038694,
+      "xpDiffAt15": -410.00967351874243,
+      "firstToHitLevel2": 22.70012091898428,
+      "count": 827
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Jax",
+        "key": "24",
+        "name": "Jax",
+        "title": "el Maestro de Armas",
+        "blurb": "Inigualable tanto en sus habilidades de armamentos únicos como en su mordaz sarcasmo, Jax es el último maestro de armas conocido de Icathia. Después de que su tierra natal fue destruida por su propia arrogancia al desencadenar el Vacío, Jax y su especie...",
+        "info": {
+          "attack": 7,
+          "defense": 5,
+          "magic": 7,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Jax.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 48,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 665,
+          "hpperlevel": 103,
+          "mp": 339,
+          "mpperlevel": 52,
+          "movespeed": 350,
+          "armor": 36,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.55,
+          "mpregen": 8.2,
+          "mpregenperlevel": 0.7,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 4.25,
+          "attackspeedperlevel": 3.4,
+          "attackspeed": 0.638
+        },
+        "urlImage": "/data/static/champion/Jax.png"
+      },
+      "winrate": 0.5,
+      "csDiffAt15": 4.641439205955335,
+      "goldDiffAt15": 59.648883374689824,
+      "xpDiffAt15": 30.47394540942928,
+      "firstToHitLevel2": 27.02233250620347,
+      "count": 806
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Yone",
+        "key": "777",
+        "name": "Yone",
+        "title": "el Imborrable",
+        "blurb": "En vida era Yone, medio hermano de Yasuo y estudiante destacado de la escuela de espadachines de su aldea. Tras morir a manos de su hermano, fue acechado por una entidad malévola del reino espiritual y forzado a asesinarla con su propia espada. Ahora...",
+        "info": {
+          "attack": 8,
+          "defense": 4,
+          "magic": 4,
+          "difficulty": 8
+        },
+        "image": {
+          "full": "Yone.png",
+          "sprite": "champion5.png",
+          "group": "champion",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Flujo",
+        "stats": {
+          "hp": 620,
+          "hpperlevel": 105,
+          "mp": 500,
+          "mpperlevel": 0,
+          "movespeed": 345,
+          "armor": 33,
+          "armorperlevel": 4.6,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 7.5,
+          "hpregenperlevel": 0.75,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 2,
+          "attackspeedperlevel": 3.5,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Yone.png"
+      },
+      "winrate": 0.5,
+      "csDiffAt15": -4.39058524173028,
+      "goldDiffAt15": -2.1552162849872776,
+      "xpDiffAt15": -79.31806615776081,
+      "firstToHitLevel2": 30.942748091603054,
+      "count": 786
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Sett",
+        "key": "875",
+        "name": "Sett",
+        "title": "El Jefe",
+        "blurb": "Sett, uno de los líderes del creciente inframundo criminal de Jonia, ascendió a la fama tras la guerra con Noxus. Se inició como un humilde púgil en las arenas de pelea de Navori, pero pronto ganó notoriedad por su fuerza salvaje y su habilidad para...",
+        "info": {
+          "attack": 8,
+          "defense": 5,
+          "magic": 1,
+          "difficulty": 2
+        },
+        "image": {
+          "full": "Sett.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 384,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Determinación",
+        "stats": {
+          "hp": 670,
+          "hpperlevel": 114,
+          "mp": 0,
+          "mpperlevel": 0,
+          "movespeed": 340,
+          "armor": 33,
+          "armorperlevel": 5.2,
+          "spellblock": 28,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 7,
+          "hpregenperlevel": 0.5,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 60,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 1.75,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Sett.png"
+      },
+      "winrate": 0.49595687331536387,
+      "csDiffAt15": -1.1718328840970351,
+      "goldDiffAt15": -233.0768194070081,
+      "xpDiffAt15": -109.99528301886792,
+      "firstToHitLevel2": 31.49865229110512,
+      "count": 1484
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Rumble",
+        "key": "68",
+        "name": "Rumble",
+        "title": "la Amenaza Mecánica",
+        "blurb": "Rumble es un joven inventor con un peculiar temperamento. Con nada más que sus dos manos y un montón de chatarra, el yordle construyó un colosal traje mecánico equipado con un arsenal de arpones electrificados y cohetes incendiarios. Aunque otros se...",
+        "info": {
+          "attack": 3,
+          "defense": 6,
+          "magic": 8,
+          "difficulty": 10
+        },
+        "image": {
+          "full": "Rumble.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 96,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Mage"
+        ],
+        "partype": "Calor",
+        "stats": {
+          "hp": 655,
+          "hpperlevel": 105,
+          "mp": 150,
+          "mpperlevel": 0,
+          "movespeed": 345,
+          "armor": 36,
+          "armorperlevel": 4.7,
+          "spellblock": 28,
+          "spellblockperlevel": 1.55,
+          "attackrange": 125,
+          "hpregen": 7,
+          "hpregenperlevel": 0.6,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 3.2,
+          "attackspeedperlevel": 1.85,
+          "attackspeed": 0.644
+        },
+        "urlImage": "/data/static/champion/Rumble.png"
+      },
+      "winrate": 0.49523809523809526,
+      "csDiffAt15": -1.2714285714285714,
+      "goldDiffAt15": 92.14285714285714,
+      "xpDiffAt15": -121.83333333333333,
+      "firstToHitLevel2": 13.466666666666667,
+      "count": 210
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Gwen",
+        "key": "887",
+        "name": "Gwen",
+        "title": "La Costurera Sagrada",
+        "blurb": "Gwen, una antigua muñeca que se transformó y cobró vida a través de la magia, usa las mismas herramientas que en su momento la crearon. Lleva el peso del amor de su creadora a cada paso, sin dar nada por sentado. Bajo su mando está la Niebla Sagrada...",
+        "info": {
+          "attack": 7,
+          "defense": 4,
+          "magic": 5,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Gwen.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 96,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 620,
+          "hpperlevel": 115,
+          "mp": 330,
+          "mpperlevel": 40,
+          "movespeed": 340,
+          "armor": 39,
+          "armorperlevel": 5.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 150,
+          "hpregen": 9,
+          "hpregenperlevel": 0.9,
+          "mpregen": 7.5,
+          "mpregenperlevel": 0.7,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 63,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 2.25,
+          "attackspeed": 0.69
+        },
+        "urlImage": "/data/static/champion/Gwen.png"
+      },
+      "winrate": 0.49326145552560646,
+      "csDiffAt15": -2.8679245283018866,
+      "goldDiffAt15": 42.339622641509436,
+      "xpDiffAt15": -2.2264150943396226,
+      "firstToHitLevel2": 26.964959568733153,
+      "count": 371
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Ornn",
+        "key": "516",
+        "name": "Ornn",
+        "title": "El Fuego Debajo de la Montaña",
+        "blurb": "Ornn es el espíritu freljordiano de las forjas y artesanías. Trabaja en solitario en una gigantesca forja hecha en las cavernas de lava bajo el volcán conocido como Hogar. Allí, aviva las calderas burbujeantes de piedra fundida para purificar los...",
+        "info": {
+          "attack": 5,
+          "defense": 9,
+          "magic": 3,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Ornn.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 384,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 660,
+          "hpperlevel": 109,
+          "mp": 341,
+          "mpperlevel": 65,
+          "movespeed": 335,
+          "armor": 33,
+          "armorperlevel": 5.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 9,
+          "hpregenperlevel": 0.9,
+          "mpregen": 8,
+          "mpregenperlevel": 0.6,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 69,
+          "attackdamageperlevel": 3.5,
+          "attackspeedperlevel": 2,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Ornn.png"
+      },
+      "winrate": 0.4928571428571429,
+      "csDiffAt15": 0.6523809523809524,
+      "goldDiffAt15": 63.45,
+      "xpDiffAt15": -177.1809523809524,
+      "firstToHitLevel2": 16.349999999999998,
+      "count": 420
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Yorick",
+        "key": "83",
+        "name": "Yorick",
+        "title": "Pastor de Almas",
+        "blurb": "Yorick, el último sobreviviente de una orden religiosa olvidada hace mucho tiempo, vive con la terrible bendición de controlar a los muertos. Atrapado en las Islas de la Sombra, su única compañía son cadáveres en descomposición y los atormentados...",
+        "info": {
+          "attack": 6,
+          "defense": 6,
+          "magic": 4,
+          "difficulty": 6
+        },
+        "image": {
+          "full": "Yorick.png",
+          "sprite": "champion5.png",
+          "group": "champion",
+          "x": 48,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 114,
+          "mp": 300,
+          "mpperlevel": 60,
+          "movespeed": 340,
+          "armor": 39,
+          "armorperlevel": 5.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 8,
+          "hpregenperlevel": 0.8,
+          "mpregen": 7.5,
+          "mpregenperlevel": 0.75,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 62,
+          "attackdamageperlevel": 5,
+          "attackspeedperlevel": 2,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Yorick.png"
+      },
+      "winrate": 0.49165120593692024,
+      "csDiffAt15": -7.1604823747680895,
+      "goldDiffAt15": -382.38682745825605,
+      "xpDiffAt15": -224.44712430426716,
+      "firstToHitLevel2": 15.90074211502783,
+      "count": 1078
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Teemo",
+        "key": "17",
+        "name": "Teemo",
+        "title": "el Explorador Veloz",
+        "blurb": "Teemo no se inmuta ante los obstáculos más peligrosos y amenazadores mientras explora el mundo con un entusiasmo infinito y un espíritu lleno de alegría. Es un yordle con una moralidad inquebrantable que se enorgullece de seguir el código de los...",
+        "info": {
+          "attack": 5,
+          "defense": 3,
+          "magic": 7,
+          "difficulty": 6
+        },
+        "image": {
+          "full": "Teemo.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 288,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Marksman",
+          "Mage"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 615,
+          "hpperlevel": 104,
+          "mp": 334,
+          "mpperlevel": 25,
+          "movespeed": 330,
+          "armor": 24,
+          "armorperlevel": 4.95,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 500,
+          "hpregen": 5.5,
+          "hpregenperlevel": 0.65,
+          "mpregen": 9.6,
+          "mpregenperlevel": 0.45,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 54,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 3.38,
+          "attackspeed": 0.69
+        },
+        "urlImage": "/data/static/champion/Teemo.png"
+      },
+      "winrate": 0.49032800672834315,
+      "csDiffAt15": -5.992430613961312,
+      "goldDiffAt15": -169.85113540790582,
+      "xpDiffAt15": -128.89402859545837,
+      "firstToHitLevel2": 32.333052985702274,
+      "count": 1189
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Malphite",
+        "key": "54",
+        "name": "Malphite",
+        "title": "el Fragmento del Monolito",
+        "blurb": "Como una criatura masiva de piedra viviente, Malphite lucha para imponer orden bendito en un mundo caótico. Nacido como un fragmento originario de un obelisco sobrenatural llamado Monolito, usó su tremendo poderío elemental para mantener y proteger a su...",
+        "info": {
+          "attack": 5,
+          "defense": 9,
+          "magic": 7,
+          "difficulty": 2
+        },
+        "image": {
+          "full": "Malphite.png",
+          "sprite": "champion2.png",
+          "group": "champion",
+          "x": 336,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Tank",
+          "Mage"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 665,
+          "hpperlevel": 104,
+          "mp": 280,
+          "mpperlevel": 60,
+          "movespeed": 335,
+          "armor": 37,
+          "armorperlevel": 4.95,
+          "spellblock": 28,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 7,
+          "hpregenperlevel": 0.55,
+          "mpregen": 7.3,
+          "mpregenperlevel": 0.55,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 62,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 3.4,
+          "attackspeed": 0.736
+        },
+        "urlImage": "/data/static/champion/Malphite.png"
+      },
+      "winrate": 0.4878048780487805,
+      "csDiffAt15": 5.4920466595970305,
+      "goldDiffAt15": 59.56309650053022,
+      "xpDiffAt15": -240.95546129374338,
+      "firstToHitLevel2": 13.38069989395546,
+      "count": 943
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Nasus",
+        "key": "75",
+        "name": "Nasus",
+        "title": "el Curador de las Arenas",
+        "blurb": "Nasus es una imponente criatura Ascendida con cabeza de chacal procedente de la antigua Shurima; una figura heroica a la que la gente del desierto encumbró al nivel de semidiós. Poseedor de una increíble inteligencia, fue un guardián del saber y...",
+        "info": {
+          "attack": 7,
+          "defense": 5,
+          "magic": 6,
+          "difficulty": 6
+        },
+        "image": {
+          "full": "Nasus.png",
+          "sprite": "champion2.png",
+          "group": "champion",
+          "x": 432,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 631,
+          "hpperlevel": 104,
+          "mp": 326,
+          "mpperlevel": 62,
+          "movespeed": 350,
+          "armor": 34,
+          "armorperlevel": 4.7,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 9,
+          "hpregenperlevel": 0.9,
+          "mpregen": 7.45,
+          "mpregenperlevel": 0.5,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 67,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 3.48,
+          "attackspeed": 0.638
+        },
+        "urlImage": "/data/static/champion/Nasus.png"
+      },
+      "winrate": 0.4804147465437788,
+      "csDiffAt15": 7.623271889400922,
+      "goldDiffAt15": 227.24308755760367,
+      "xpDiffAt15": -99.19124423963133,
+      "firstToHitLevel2": 8.381336405529954,
+      "count": 868
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Kennen",
+        "key": "85",
+        "name": "Kennen",
+        "title": "el Corazón de la Tempestad",
+        "blurb": "Además de ser un rápido ejecutor del balance Jonio, Kennen es el único miembro yordle del Kinkou. A pesar de su pequeña y peluda estatura, está ansioso por enfrentarse a cualquier amenaza con una tormenta de shuriken y desbordante entusiasmo. A lado de...",
+        "info": {
+          "attack": 6,
+          "defense": 4,
+          "magic": 7,
+          "difficulty": 4
+        },
+        "image": {
+          "full": "Kennen.png",
+          "sprite": "champion2.png",
+          "group": "champion",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Mage"
+        ],
+        "partype": "Energía",
+        "stats": {
+          "hp": 580,
+          "hpperlevel": 98,
+          "mp": 200,
+          "mpperlevel": 0,
+          "movespeed": 335,
+          "armor": 29,
+          "armorperlevel": 4.95,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 550,
+          "hpregen": 5.5,
+          "hpregenperlevel": 0.65,
+          "mpregen": 50,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 48,
+          "attackdamageperlevel": 3.75,
+          "attackspeedperlevel": 3.4,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Kennen.png"
+      },
+      "winrate": 0.47950819672131145,
+      "csDiffAt15": 2.1147540983606556,
+      "goldDiffAt15": -37.14344262295082,
+      "xpDiffAt15": -255.0327868852459,
+      "firstToHitLevel2": 21.93032786885246,
+      "count": 244
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Riven",
+        "key": "92",
+        "name": "Riven",
+        "title": "la Desterrada",
+        "blurb": "Riven, que anteriormente era una líder de los guerreros de Noxus, está exiliada en una tierra que alguna vez intentó conquistar. Ascendió por los rangos con la fuerza de su convicción y brutal eficiencia, lo cual la recompensó con su legendaria espada...",
+        "info": {
+          "attack": 8,
+          "defense": 5,
+          "magic": 1,
+          "difficulty": 8
+        },
+        "image": {
+          "full": "Riven.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 48,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "partype": "Ninguno",
+        "stats": {
+          "hp": 630,
+          "hpperlevel": 100,
+          "mp": 0,
+          "mpperlevel": 0,
+          "movespeed": 340,
+          "armor": 33,
+          "armorperlevel": 4.4,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 8.5,
+          "hpregenperlevel": 0.5,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 64,
+          "attackdamageperlevel": 3,
+          "attackspeedperlevel": 3.5,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Riven.png"
+      },
+      "winrate": 0.47836538461538464,
+      "csDiffAt15": 0.15625,
+      "goldDiffAt15": -65.61778846153847,
+      "xpDiffAt15": -66.78365384615384,
+      "firstToHitLevel2": 31.507211538461544,
+      "count": 416
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Trundle",
+        "key": "48",
+        "name": "Trundle",
+        "title": "el Rey de los Troles",
+        "blurb": "Trundle es un corpulento y retorcido trol con una voraz actitud, y no hay nada que no pueda aplastar hasta someterlo, ni siquiera el mismo Fréljord. Feroz y territorial, persigue a cualquiera que sea lo suficiente tonto como para entrar a su dominio...",
+        "info": {
+          "attack": 7,
+          "defense": 6,
+          "magic": 2,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Trundle.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 432,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 110,
+          "mp": 340,
+          "mpperlevel": 45,
+          "movespeed": 350,
+          "armor": 37,
+          "armorperlevel": 3.9,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 6,
+          "hpregenperlevel": 0.75,
+          "mpregen": 7.5,
+          "mpregenperlevel": 0.6,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 2.9,
+          "attackspeed": 0.67
+        },
+        "urlImage": "/data/static/champion/Trundle.png"
+      },
+      "winrate": 0.47735191637630664,
+      "csDiffAt15": 2.078397212543554,
+      "goldDiffAt15": 1.5749128919860627,
+      "xpDiffAt15": 259.4425087108014,
+      "firstToHitLevel2": 31.106271777003485,
+      "count": 574
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Quinn",
+        "key": "133",
+        "name": "Quinn",
+        "title": "las Alas de Demacia",
+        "blurb": "Quinn es una caballero y exploradora de Demacia que se embarca en misiones que la llevan al mismo núcleo del territorio enemigo. Comparte un vínculo inquebrantable con su legendaria águila, Valor, y sus enemigos a menudo quedan derrotados antes de darse...",
+        "info": {
+          "attack": 9,
+          "defense": 4,
+          "magic": 2,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Quinn.png",
+          "sprite": "champion3.png",
+          "group": "champion",
+          "x": 144,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Marksman",
+          "Assassin"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 565,
+          "hpperlevel": 107,
+          "mp": 269,
+          "mpperlevel": 35,
+          "movespeed": 330,
+          "armor": 28,
+          "armorperlevel": 4.7,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 525,
+          "hpregen": 5.5,
+          "hpregenperlevel": 0.55,
+          "mpregen": 7,
+          "mpregenperlevel": 0.4,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 59,
+          "attackdamageperlevel": 2.7,
+          "attackspeedperlevel": 3.1,
+          "attackspeed": 0.668
+        },
+        "urlImage": "/data/static/champion/Quinn.png"
+      },
+      "winrate": 0.47540983606557374,
+      "csDiffAt15": 6.134426229508197,
+      "goldDiffAt15": -23.373770491803278,
+      "xpDiffAt15": 178.50819672131146,
+      "firstToHitLevel2": 35.67868852459016,
+      "count": 305
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Heimerdinger",
+        "key": "74",
+        "name": "Heimerdinger",
+        "title": "el Venerable Inventor",
+        "blurb": "El excéntrico pero estimado profesor Cecil B. Heimerdinger es uno de los inventores más innovadores que el mundo haya conocido jamás. Como miembro veterano del Concejo de Piltóver, Heimerdinger ha sido testigo de los logros y los fracasos que conlleva...",
+        "info": {
+          "attack": 2,
+          "defense": 6,
+          "magic": 8,
+          "difficulty": 8
+        },
+        "image": {
+          "full": "Heimerdinger.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 192,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Mage",
+          "Support"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 558,
+          "hpperlevel": 101,
+          "mp": 385,
+          "mpperlevel": 20,
+          "movespeed": 340,
+          "armor": 19,
+          "armorperlevel": 4.2,
+          "spellblock": 30,
+          "spellblockperlevel": 1.3,
+          "attackrange": 550,
+          "hpregen": 7,
+          "hpregenperlevel": 0.55,
+          "mpregen": 8,
+          "mpregenperlevel": 0.8,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 56,
+          "attackdamageperlevel": 2.7,
+          "attackspeedperlevel": 1.36,
+          "attackspeed": 0.658
+        },
+        "urlImage": "/data/static/champion/Heimerdinger.png"
+      },
+      "winrate": 0.46647230320699706,
+      "csDiffAt15": -15.900874635568513,
+      "goldDiffAt15": -593.405247813411,
+      "xpDiffAt15": -621.3673469387755,
+      "firstToHitLevel2": 41.52769679300292,
+      "count": 343
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Garen",
+        "key": "86",
+        "name": "Garen",
+        "title": "el Poder de Demacia",
+        "blurb": "Como un orgulloso y noble guerrero, Garen forma parte de la Vanguardia Valerosa. Es popular entre sus compañeros y bastante respetado por sus enemigos. Es descendiente de la prestigiosa familia Guardia de la Corona y se le confió la tarea de defender a...",
+        "info": {
+          "attack": 7,
+          "defense": 7,
+          "magic": 1,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Garen.png",
+          "sprite": "champion1.png",
+          "group": "champion",
+          "x": 384,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Ninguno",
+        "stats": {
+          "hp": 690,
+          "hpperlevel": 98,
+          "mp": 0,
+          "mpperlevel": 0,
+          "movespeed": 340,
+          "armor": 38,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 1.55,
+          "attackrange": 175,
+          "hpregen": 8,
+          "hpregenperlevel": 0.5,
+          "mpregen": 0,
+          "mpregenperlevel": 0,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 69,
+          "attackdamageperlevel": 4.5,
+          "attackspeedperlevel": 3.65,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Garen.png"
+      },
+      "winrate": 0.4658283214871515,
+      "csDiffAt15": -1.4084199015855658,
+      "goldDiffAt15": -143.8239475123018,
+      "xpDiffAt15": -196.18753417167852,
+      "firstToHitLevel2": 19.95297977036632,
+      "count": 1829
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Singed",
+        "key": "27",
+        "name": "Singed",
+        "title": "el Químico Loco",
+        "blurb": "Singed es un gran alquimista de dudosa moral, cuyos experimentos le revolverían el estómago hasta al criminal más despiadado. Sus habilidades están a disponibilidad del mejor postor, pues poco le importa cómo o para qué han de usarse sus terribles...",
+        "info": {
+          "attack": 4,
+          "defense": 8,
+          "magic": 7,
+          "difficulty": 5
+        },
+        "image": {
+          "full": "Singed.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 96,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Tank",
+          "Mage"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 650,
+          "hpperlevel": 99,
+          "mp": 330,
+          "mpperlevel": 45,
+          "movespeed": 345,
+          "armor": 34,
+          "armorperlevel": 4.2,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 125,
+          "hpregen": 9.5,
+          "hpregenperlevel": 0.55,
+          "mpregen": 7.5,
+          "mpregenperlevel": 0.55,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 63,
+          "attackdamageperlevel": 3.4,
+          "attackspeedperlevel": 1.9,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Singed.png"
+      },
+      "winrate": 0.46122448979591835,
+      "csDiffAt15": 2.4081632653061225,
+      "goldDiffAt15": 361.73061224489794,
+      "xpDiffAt15": 314.0326530612245,
+      "firstToHitLevel2": 36.17551020408163,
+      "count": 245
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Urgot",
+        "key": "6",
+        "name": "Urgot",
+        "title": "el Temerario",
+        "blurb": "Urgot, quien fue alguna vez un poderoso verdugo noxiano, había sido traicionado por el imperio que lo hizo matar a tantos en su nombre. Atado con cadenas de hierro, lo forzaron a aprender el verdadero significado de la fuerza en el Dragado, una mina de...",
+        "info": {
+          "attack": 8,
+          "defense": 5,
+          "magic": 3,
+          "difficulty": 8
+        },
+        "image": {
+          "full": "Urgot.png",
+          "sprite": "champion4.png",
+          "group": "champion",
+          "x": 192,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 655,
+          "hpperlevel": 102,
+          "mp": 340,
+          "mpperlevel": 45,
+          "movespeed": 330,
+          "armor": 36,
+          "armorperlevel": 5,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 350,
+          "hpregen": 7.5,
+          "hpregenperlevel": 0.7,
+          "mpregen": 7.25,
+          "mpregenperlevel": 0.8,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 63,
+          "attackdamageperlevel": 4,
+          "attackspeedperlevel": 3.75,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Urgot.png"
+      },
+      "winrate": 0.4484536082474227,
+      "csDiffAt15": 3.395618556701031,
+      "goldDiffAt15": 84.35695876288659,
+      "xpDiffAt15": 42.09020618556701,
+      "firstToHitLevel2": 29.439432989690722,
+      "count": 776
+    },
+    {
+      "champion": {
+        "version": "15.4.1",
+        "id": "Kayle",
+        "key": "10",
+        "name": "Kayle",
+        "title": "la Justiciera",
+        "blurb": "Nacida de un Aspecto targoniano durante el punto culminante de las Guerras Rúnicas, Kayle honra el legado de su madre al pelear por la justicia con sus alas de fuego divino. Ella y su hermana gemela, Morgana, fueron las protectoras de Demacia durante...",
+        "info": {
+          "attack": 6,
+          "defense": 6,
+          "magic": 7,
+          "difficulty": 7
+        },
+        "image": {
+          "full": "Kayle.png",
+          "sprite": "champion2.png",
+          "group": "champion",
+          "x": 48,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        },
+        "tags": [
+          "Mage",
+          "Marksman"
+        ],
+        "partype": "Maná",
+        "stats": {
+          "hp": 670,
+          "hpperlevel": 92,
+          "mp": 330,
+          "mpperlevel": 50,
+          "movespeed": 335,
+          "armor": 26,
+          "armorperlevel": 4.2,
+          "spellblock": 22,
+          "spellblockperlevel": 1.3,
+          "attackrange": 175,
+          "hpregen": 5,
+          "hpregenperlevel": 0.5,
+          "mpregen": 8,
+          "mpregenperlevel": 0.8,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 50,
+          "attackdamageperlevel": 2.5,
+          "attackspeedperlevel": 1.5,
+          "attackspeed": 0.625
+        },
+        "urlImage": "/data/static/champion/Kayle.png"
+      },
+      "winrate": 0.4383561643835616,
+      "csDiffAt15": 5.480821917808219,
+      "goldDiffAt15": 498.22739726027396,
+      "xpDiffAt15": 213.3794520547945,
+      "firstToHitLevel2": 17.25890410958904,
+      "count": 730
+    }
+  ],
+  "jungleRouteTime": 201.34350301278343,
+  "coreBuild": [
+    {
+      "itemIds": [
+        {
+          "name": "Eclipse",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Luna Eterna</passive><br>Al impactar a un campeón con dos ataques o habilidades diferentes en un lapso de 2 seg, obtienes un <shield>escudo</shield> durante 2 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3133",
+            "1037",
+            "1036"
+          ],
+          "image": {
+            "full": "6692.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 192,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 625,
+            "purchasable": true,
+            "total": 2900,
+            "sell": 2030
+          },
+          "tags": [
+            "Damage",
+            "CooldownReduction",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6692.png"
+        },
+        {
+          "name": "Cuchilla Oscura",
+          "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>400</attention> de Vida<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Cortar</passive><br>Infligir <physicalDamage>daño físico</physicalDamage> a campeones reduce su <scaleArmor>Armadura en un 6%</scaleArmor> durante 6 seg. (Se acumula 5 veces).<br><br><passive>Fervor</passive><br>Infligir <physicalDamage>daño físico</physicalDamage> otorga <speed>20 de Velocidad de Movimiento</speed> durante 2 seg.</mainText>",
+          "colloq": ";bc;The Black Cleaver",
+          "plaintext": "Al causar daño físico a campeones enemigos, reduces su armadura.",
+          "from": [
+            "3044",
+            "3067",
+            "1037"
+          ],
+          "image": {
+            "full": "3071.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 240,
+            "y": 384,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 225,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "CooldownReduction",
+            "OnHit",
+            "NonbootsMovement",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 400,
+            "FlatPhysicalDamageMod": 40
+          },
+          "effect": {
+            "Effect1Amount": "0",
+            "Effect2Amount": "0.06",
+            "Effect3Amount": "6",
+            "Effect4Amount": "5",
+            "Effect5Amount": "0.3",
+            "Effect6Amount": "0",
+            "Effect7Amount": "0",
+            "Effect8Amount": "0",
+            "Effect9Amount": "0",
+            "Effect10Amount": "0.01"
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3071.png"
+        },
+        {
+          "name": "Lanza de Shojin",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>450</attention> de Vida</stats><br><br><passive>Fuerza del Dragón</passive> <br>Obtienes 25 de Aceleración de Habilidad para habilidades básicas.<br><br><passive>Voluntad Enfocada</passive> <br>Al infligir daño con habilidades, el daño de las habilidades y de la pasiva de tu campeón aumenta en un 3% durante 6 seg. (Se acumula 4 veces).</mainText>",
+          "colloq": ";spear of shojin",
+          "plaintext": "Reduce una cantidad fija del daño recibido de campeones. Atacar con varios campeones enemigos cercanos potencia este efecto durante un breve periodo.",
+          "from": [
+            "1037",
+            "2021",
+            "1028"
+          ],
+          "image": {
+            "full": "3161.png",
+            "sprite": "item3.png",
+            "group": "item",
+            "x": 96,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 675,
+            "purchasable": true,
+            "total": 3100,
+            "sell": 2170
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 450,
+            "FlatPhysicalDamageMod": 45
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3161.png"
+        },
+        {
+          "name": "Guantelete de Sterak",
+          "description": "<mainText><stats><attention>400</attention> de Vida<br><attention>20%</attention> de Tenacidad</stats><br><br><passive>Garras que Atrapan</passive><br>Obtienes <scaleAD>daño de ataque adicional</scaleAD>.<br><br><passive>Salvavidas</passive><br>Al recibir daño que reduciría tu Vida por debajo de un 30%, obtienes un <shield>escudo que decae</shield> durante 4.5 seg.</mainText>",
+          "colloq": ";coloso;primario;sterak's gage",
+          "plaintext": "Protege frente a grandes descargas de daño.",
+          "from": [
+            "1037",
+            "2021",
+            "1028"
+          ],
+          "image": {
+            "full": "3053.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 384,
+            "y": 336,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 775,
+            "purchasable": true,
+            "total": 3200,
+            "sell": 2240
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "Tenacity"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 400
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3053.png"
+        }
+      ],
+      "winrate": 85.71428571428571,
+      "pickrate": 0.46022353714661407
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Arrogancia",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Eminencia</passive><br>Cuando un campeón al que le infligiste daño muere en 3 seg, obtienes <physicalDamage>15 de Daño de Ataque más 2 por cada campeón asesinado</physicalDamage> durante 90 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3134",
+            "3133"
+          ],
+          "image": {
+            "full": "6697.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 432,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 950,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": false,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6697.png"
+        },
+        {
+          "name": "Colmillo de Serpiente",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>15</attention> de Letalidad</stats><br><br><passive>Rompeescudos</passive><br>Infligir daño a un campeón enemigo reduce el escudo que obtenga en un 0% durante 3 seg. <br>Si no está bajo los efectos de <passive>Rompeescudos</passive>, reduce los escudos que tenga en un 0%.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3134",
+            "1037"
+          ],
+          "image": {
+            "full": "6695.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 336,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 625,
+            "purchasable": true,
+            "total": 2500,
+            "sell": 1750
+          },
+          "tags": [
+            "Damage",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6695.png"
+        }
+      ],
+      "winrate": 78.26086956521739,
+      "pickrate": 0.7560815253122946
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Arrogancia",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Eminencia</passive><br>Cuando un campeón al que le infligiste daño muere en 3 seg, obtienes <physicalDamage>15 de Daño de Ataque más 2 por cada campeón asesinado</physicalDamage> durante 90 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3134",
+            "3133"
+          ],
+          "image": {
+            "full": "6697.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 432,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 950,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": false,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6697.png"
+        },
+        {
+          "name": "Cicloespada Voltaica",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Galvanizar</passive><br>Los desplazamientos y el sigilo acumulan <keyword>Energizado</keyword> un 75% más rápido.<br><br><passive>Firmamento</passive><br>Tu <keyword>ataque energizado</keyword> inflige <physicalDamage>daño físico adicional</physicalDamage> y <keyword>ralentiza</keyword> durante 0.75 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "2020",
+            "1036",
+            "1036"
+          ],
+          "image": {
+            "full": "6699.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 48,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 963,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6699.png"
+        }
+      ],
+      "winrate": 78.125,
+      "pickrate": 1.051939513477975
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Cicloespada Voltaica",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Galvanizar</passive><br>Los desplazamientos y el sigilo acumulan <keyword>Energizado</keyword> un 75% más rápido.<br><br><passive>Firmamento</passive><br>Tu <keyword>ataque energizado</keyword> inflige <physicalDamage>daño físico adicional</physicalDamage> y <keyword>ralentiza</keyword> durante 0.75 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "2020",
+            "1036",
+            "1036"
+          ],
+          "image": {
+            "full": "6699.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 48,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 963,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6699.png"
+        },
+        {
+          "name": "Espada Fantasma de Youmuu",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Persecución</passive> <br>Obtienes <speed>0 de Velocidad de Movimiento</speed> al estar fuera de combate.<br><br><active>Paso Espectral</active><br>Obtienes <speed>velocidad de movimiento</speed> y te vuelves <keyword>Fantasma</keyword> durante 0 seg.</mainText>",
+          "colloq": ";letalidad;lethality;Youmuu's;Ghostblade",
+          "plaintext": "Se activa para aumentar en gran cantidad la Velocidad de Movimiento.",
+          "from": [
+            "3134",
+            "6690",
+            "1036"
+          ],
+          "image": {
+            "full": "3142.png",
+            "sprite": "item3.png",
+            "group": "item",
+            "x": 0,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 675,
+            "purchasable": true,
+            "total": 2800,
+            "sell": 1960
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "NonbootsMovement",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55,
+            "PercentMovementSpeedMod": 0.04
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3142.png"
+        },
+        {
+          "name": "Rencor de Serylda",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>30%</attention> de Penetración de Armadura<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Frío Implacable</passive><br>Las habilidades de daño <status>ralentizan</status> a los enemigos con menos del 50% de Vida en un 30% durante 1 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3133",
+            "3035"
+          ],
+          "image": {
+            "full": "6694.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 288,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 500,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 45
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6694.png"
+        }
+      ],
+      "winrate": 75.86206896551724,
+      "pickrate": 0.9533201840894149
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Cicloespada Voltaica",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Galvanizar</passive><br>Los desplazamientos y el sigilo acumulan <keyword>Energizado</keyword> un 75% más rápido.<br><br><passive>Firmamento</passive><br>Tu <keyword>ataque energizado</keyword> inflige <physicalDamage>daño físico adicional</physicalDamage> y <keyword>ralentiza</keyword> durante 0.75 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "2020",
+            "1036",
+            "1036"
+          ],
+          "image": {
+            "full": "6699.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 48,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 963,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6699.png"
+        },
+        {
+          "name": "Guantelete de Sterak",
+          "description": "<mainText><stats><attention>400</attention> de Vida<br><attention>20%</attention> de Tenacidad</stats><br><br><passive>Garras que Atrapan</passive><br>Obtienes <scaleAD>daño de ataque adicional</scaleAD>.<br><br><passive>Salvavidas</passive><br>Al recibir daño que reduciría tu Vida por debajo de un 30%, obtienes un <shield>escudo que decae</shield> durante 4.5 seg.</mainText>",
+          "colloq": ";coloso;primario;sterak's gage",
+          "plaintext": "Protege frente a grandes descargas de daño.",
+          "from": [
+            "1037",
+            "2021",
+            "1028"
+          ],
+          "image": {
+            "full": "3053.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 384,
+            "y": 336,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 775,
+            "purchasable": true,
+            "total": 3200,
+            "sell": 2240
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "Tenacity"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 400
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3053.png"
+        },
+        {
+          "name": "Apariencia Espiritual",
+          "description": "<mainText><stats><attention>400</attention> de Vida<br><attention>50</attention> de Resistencia Mágica<br><attention>10</attention> de Aceleración de Habilidad<br><attention>100%</attention> de Regen. de Vida Básica</stats><br><br><passive>Vitalidad Ilimitada</passive><br>Las curaciones y los escudos que tengas aumentarán en un 25%.</mainText>",
+          "colloq": ";sv;Spirit Visage",
+          "plaintext": "Aumenta la vida y los efectos de curación.",
+          "from": [
+            "3211",
+            "3067"
+          ],
+          "image": {
+            "full": "3065.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 0,
+            "y": 384,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 650,
+            "purchasable": true,
+            "total": 2700,
+            "sell": 1890
+          },
+          "tags": [
+            "Health",
+            "SpellBlock",
+            "HealthRegen",
+            "CooldownReduction",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatSpellBlockMod": 50,
+            "FlatHPPoolMod": 400
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3065.png"
+        }
+      ],
+      "winrate": 73.68421052631578,
+      "pickrate": 0.6245890861275477
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Arrogancia",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Eminencia</passive><br>Cuando un campeón al que le infligiste daño muere en 3 seg, obtienes <physicalDamage>15 de Daño de Ataque más 2 por cada campeón asesinado</physicalDamage> durante 90 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3134",
+            "3133"
+          ],
+          "image": {
+            "full": "6697.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 432,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 950,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": false,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6697.png"
+        },
+        {
+          "name": "Espada Fantasma de Youmuu",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Persecución</passive> <br>Obtienes <speed>0 de Velocidad de Movimiento</speed> al estar fuera de combate.<br><br><active>Paso Espectral</active><br>Obtienes <speed>velocidad de movimiento</speed> y te vuelves <keyword>Fantasma</keyword> durante 0 seg.</mainText>",
+          "colloq": ";letalidad;lethality;Youmuu's;Ghostblade",
+          "plaintext": "Se activa para aumentar en gran cantidad la Velocidad de Movimiento.",
+          "from": [
+            "3134",
+            "6690",
+            "1036"
+          ],
+          "image": {
+            "full": "3142.png",
+            "sprite": "item3.png",
+            "group": "item",
+            "x": 0,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 675,
+            "purchasable": true,
+            "total": 2800,
+            "sell": 1960
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "NonbootsMovement",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55,
+            "PercentMovementSpeedMod": 0.04
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3142.png"
+        },
+        {
+          "name": "Filo de la Noche",
+          "description": "<mainText><stats><attention>50</attention> de Daño de Ataque<br><attention>15</attention> de Letalidad<br><attention>250</attention> de Vida</stats><br><br><passive>Anulación</passive><br>Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.</mainText>",
+          "colloq": ";letalidad;lethality;Edge of Night",
+          "plaintext": "Bloquea habilidades enemigas periódicamente.",
+          "stacks": 0,
+          "from": [
+            "3134",
+            "2021"
+          ],
+          "image": {
+            "full": "3814.png",
+            "sprite": "item4.png",
+            "group": "item",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 850,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 250,
+            "FlatPhysicalDamageMod": 50
+          },
+          "effect": {
+            "Effect1Amount": "0",
+            "Effect2Amount": "0",
+            "Effect3Amount": "0",
+            "Effect4Amount": "40"
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3814.png"
+        },
+        {
+          "name": "Oportunidades",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>15</attention> de Letalidad</stats><br><br><passive>Preparación</passive><br>Tras estar fuera de combate contra campeones durante 8 seg, obtienes <scaleLethality>Letalidad</scaleLethality>. Esta Letalidad dura 3 seg tras infligir daño a campeones.<br><br><passive>Extracción</passive><br>Si un campeón muere dentro de 3 seg después de haberle infligido daño, obtienes <speed>200 de Velocidad de Movimiento que decae</speed> durante 1.5 seg.<br></mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "1037",
+            "3134",
+            "1036"
+          ],
+          "image": {
+            "full": "6701.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 144,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 475,
+            "purchasable": true,
+            "total": 2700,
+            "sell": 1890
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "NonbootsMovement",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6701.png"
+        },
+        {
+          "name": "Arco Axiomático",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Flujo</passive><br>Cuando un campeón muere en un lapso de 3 seg después de haberle infligido daño, se restaura un porcentaje del enfriamiento total de tu habilidad definitiva.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "2020",
+            "3133"
+          ],
+          "image": {
+            "full": "6696.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 384,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 613,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6696.png"
+        }
+      ],
+      "winrate": 72.72727272727273,
+      "pickrate": 0.3616042077580539
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Arrogancia",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Eminencia</passive><br>Cuando un campeón al que le infligiste daño muere en 3 seg, obtienes <physicalDamage>15 de Daño de Ataque más 2 por cada campeón asesinado</physicalDamage> durante 90 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3134",
+            "3133"
+          ],
+          "image": {
+            "full": "6697.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 432,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 950,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": false,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6697.png"
+        },
+        {
+          "name": "Espada Fantasma de Youmuu",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Persecución</passive> <br>Obtienes <speed>0 de Velocidad de Movimiento</speed> al estar fuera de combate.<br><br><active>Paso Espectral</active><br>Obtienes <speed>velocidad de movimiento</speed> y te vuelves <keyword>Fantasma</keyword> durante 0 seg.</mainText>",
+          "colloq": ";letalidad;lethality;Youmuu's;Ghostblade",
+          "plaintext": "Se activa para aumentar en gran cantidad la Velocidad de Movimiento.",
+          "from": [
+            "3134",
+            "6690",
+            "1036"
+          ],
+          "image": {
+            "full": "3142.png",
+            "sprite": "item3.png",
+            "group": "item",
+            "x": 0,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 675,
+            "purchasable": true,
+            "total": 2800,
+            "sell": 1960
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "NonbootsMovement",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55,
+            "PercentMovementSpeedMod": 0.04
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3142.png"
+        },
+        {
+          "name": "Rencor de Serylda",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>30%</attention> de Penetración de Armadura<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Frío Implacable</passive><br>Las habilidades de daño <status>ralentizan</status> a los enemigos con menos del 50% de Vida en un 30% durante 1 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3133",
+            "3035"
+          ],
+          "image": {
+            "full": "6694.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 288,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 500,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 45
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6694.png"
+        },
+        {
+          "name": "Filo de la Noche",
+          "description": "<mainText><stats><attention>50</attention> de Daño de Ataque<br><attention>15</attention> de Letalidad<br><attention>250</attention> de Vida</stats><br><br><passive>Anulación</passive><br>Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.</mainText>",
+          "colloq": ";letalidad;lethality;Edge of Night",
+          "plaintext": "Bloquea habilidades enemigas periódicamente.",
+          "stacks": 0,
+          "from": [
+            "3134",
+            "2021"
+          ],
+          "image": {
+            "full": "3814.png",
+            "sprite": "item4.png",
+            "group": "item",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 850,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 250,
+            "FlatPhysicalDamageMod": 50
+          },
+          "effect": {
+            "Effect1Amount": "0",
+            "Effect2Amount": "0",
+            "Effect3Amount": "0",
+            "Effect4Amount": "40"
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3814.png"
+        },
+        {
+          "name": "Ángel Guardián",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>45</attention> de Armadura</stats><br><br><passive>Renacimiento</passive><br>Tras recibir daño letal, restaura un <healing>50% de Vida básica</healing> y un <scaleMana>100% del Maná Máximo</scaleMana> luego de 4 seg de <keyword>Estasis</keyword>.</mainText>",
+          "colloq": ";ga;Guardian Angel",
+          "plaintext": "Revive periódicamente al campeón tras la muerte.",
+          "from": [
+            "2019",
+            "1038"
+          ],
+          "image": {
+            "full": "3026.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 144,
+            "y": 288,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 800,
+            "purchasable": true,
+            "total": 3200,
+            "sell": 1280
+          },
+          "tags": [
+            "Armor",
+            "Damage"
+          ],
+          "maps": {
+            "11": true,
+            "12": false,
+            "21": false,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatArmorMod": 45,
+            "FlatPhysicalDamageMod": 55
+          },
+          "effect": {
+            "Effect1Amount": "0.5",
+            "Effect2Amount": "4",
+            "Effect3Amount": "300",
+            "Effect4Amount": "1"
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3026.png"
+        }
+      ],
+      "winrate": 72.72727272727273,
+      "pickrate": 0.3616042077580539
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Cicloespada Voltaica",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Galvanizar</passive><br>Los desplazamientos y el sigilo acumulan <keyword>Energizado</keyword> un 75% más rápido.<br><br><passive>Firmamento</passive><br>Tu <keyword>ataque energizado</keyword> inflige <physicalDamage>daño físico adicional</physicalDamage> y <keyword>ralentiza</keyword> durante 0.75 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "2020",
+            "1036",
+            "1036"
+          ],
+          "image": {
+            "full": "6699.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 48,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 963,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6699.png"
+        },
+        {
+          "name": "Rencor de Serylda",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>30%</attention> de Penetración de Armadura<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Frío Implacable</passive><br>Las habilidades de daño <status>ralentizan</status> a los enemigos con menos del 50% de Vida en un 30% durante 1 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3133",
+            "3035"
+          ],
+          "image": {
+            "full": "6694.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 288,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 500,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 45
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6694.png"
+        }
+      ],
+      "winrate": 72.22222222222221,
+      "pickrate": 0.591715976331361
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Eclipse",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Luna Eterna</passive><br>Al impactar a un campeón con dos ataques o habilidades diferentes en un lapso de 2 seg, obtienes un <shield>escudo</shield> durante 2 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3133",
+            "1037",
+            "1036"
+          ],
+          "image": {
+            "full": "6692.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 192,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 625,
+            "purchasable": true,
+            "total": 2900,
+            "sell": 2030
+          },
+          "tags": [
+            "Damage",
+            "CooldownReduction",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6692.png"
+        },
+        {
+          "name": "Cuchilla Oscura",
+          "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>400</attention> de Vida<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Cortar</passive><br>Infligir <physicalDamage>daño físico</physicalDamage> a campeones reduce su <scaleArmor>Armadura en un 6%</scaleArmor> durante 6 seg. (Se acumula 5 veces).<br><br><passive>Fervor</passive><br>Infligir <physicalDamage>daño físico</physicalDamage> otorga <speed>20 de Velocidad de Movimiento</speed> durante 2 seg.</mainText>",
+          "colloq": ";bc;The Black Cleaver",
+          "plaintext": "Al causar daño físico a campeones enemigos, reduces su armadura.",
+          "from": [
+            "3044",
+            "3067",
+            "1037"
+          ],
+          "image": {
+            "full": "3071.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 240,
+            "y": 384,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 225,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "CooldownReduction",
+            "OnHit",
+            "NonbootsMovement",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 400,
+            "FlatPhysicalDamageMod": 40
+          },
+          "effect": {
+            "Effect1Amount": "0",
+            "Effect2Amount": "0.06",
+            "Effect3Amount": "6",
+            "Effect4Amount": "5",
+            "Effect5Amount": "0.3",
+            "Effect6Amount": "0",
+            "Effect7Amount": "0",
+            "Effect8Amount": "0",
+            "Effect9Amount": "0",
+            "Effect10Amount": "0.01"
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3071.png"
+        },
+        {
+          "name": "Danza de la Muerte",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>15</attention> de Aceleración de Habilidad<br><attention>50</attention> de Armadura</stats><br><br><passive>Ignorar Dolor</passive><br>Un porcentaje del daño recibido se distribuye a lo largo de 3 seg.<br><br><passive>Desafiar</passive><br>Cuando un campeón muere en un lapso de 3 seg después de que le hayas infligido daño, se disipa el daño restante de <passive>Ignorar Dolor</passive> y recuperas <healing>vida</healing> a lo largo de 2 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "stacks": 0,
+          "from": [
+            "2019",
+            "3133",
+            "1037"
+          ],
+          "image": {
+            "full": "6333.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 275,
+            "purchasable": true,
+            "total": 3300,
+            "sell": 2310
+          },
+          "tags": [
+            "Armor",
+            "Damage",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatArmorMod": 50,
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6333.png"
+        },
+        {
+          "name": "Lanza de Shojin",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>450</attention> de Vida</stats><br><br><passive>Fuerza del Dragón</passive> <br>Obtienes 25 de Aceleración de Habilidad para habilidades básicas.<br><br><passive>Voluntad Enfocada</passive> <br>Al infligir daño con habilidades, el daño de las habilidades y de la pasiva de tu campeón aumenta en un 3% durante 6 seg. (Se acumula 4 veces).</mainText>",
+          "colloq": ";spear of shojin",
+          "plaintext": "Reduce una cantidad fija del daño recibido de campeones. Atacar con varios campeones enemigos cercanos potencia este efecto durante un breve periodo.",
+          "from": [
+            "1037",
+            "2021",
+            "1028"
+          ],
+          "image": {
+            "full": "3161.png",
+            "sprite": "item3.png",
+            "group": "item",
+            "x": 96,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 675,
+            "purchasable": true,
+            "total": 3100,
+            "sell": 2170
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 450,
+            "FlatPhysicalDamageMod": 45
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3161.png"
+        },
+        {
+          "name": "Apariencia Espiritual",
+          "description": "<mainText><stats><attention>400</attention> de Vida<br><attention>50</attention> de Resistencia Mágica<br><attention>10</attention> de Aceleración de Habilidad<br><attention>100%</attention> de Regen. de Vida Básica</stats><br><br><passive>Vitalidad Ilimitada</passive><br>Las curaciones y los escudos que tengas aumentarán en un 25%.</mainText>",
+          "colloq": ";sv;Spirit Visage",
+          "plaintext": "Aumenta la vida y los efectos de curación.",
+          "from": [
+            "3211",
+            "3067"
+          ],
+          "image": {
+            "full": "3065.png",
+            "sprite": "item2.png",
+            "group": "item",
+            "x": 0,
+            "y": 384,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 650,
+            "purchasable": true,
+            "total": 2700,
+            "sell": 1890
+          },
+          "tags": [
+            "Health",
+            "SpellBlock",
+            "HealthRegen",
+            "CooldownReduction",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatSpellBlockMod": 50,
+            "FlatHPPoolMod": 400
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3065.png"
+        }
+      ],
+      "winrate": 72.22222222222221,
+      "pickrate": 0.591715976331361
+    },
+    {
+      "itemIds": [
+        {
+          "name": "Arrogancia",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>10</attention> de Aceleración de Habilidad</stats><br><br><passive>Eminencia</passive><br>Cuando un campeón al que le infligiste daño muere en 3 seg, obtienes <physicalDamage>15 de Daño de Ataque más 2 por cada campeón asesinado</physicalDamage> durante 90 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3134",
+            "3133"
+          ],
+          "image": {
+            "full": "6697.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 432,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 950,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": false,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6697.png"
+        },
+        {
+          "name": "Oportunidades",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>15</attention> de Letalidad</stats><br><br><passive>Preparación</passive><br>Tras estar fuera de combate contra campeones durante 8 seg, obtienes <scaleLethality>Letalidad</scaleLethality>. Esta Letalidad dura 3 seg tras infligir daño a campeones.<br><br><passive>Extracción</passive><br>Si un campeón muere dentro de 3 seg después de haberle infligido daño, obtienes <speed>200 de Velocidad de Movimiento que decae</speed> durante 1.5 seg.<br></mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "1037",
+            "3134",
+            "1036"
+          ],
+          "image": {
+            "full": "6701.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 144,
+            "y": 192,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 475,
+            "purchasable": true,
+            "total": 2700,
+            "sell": 1890
+          },
+          "tags": [
+            "Damage",
+            "Active",
+            "NonbootsMovement",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6701.png"
+        },
+        {
+          "name": "Rencor de Serylda",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>30%</attention> de Penetración de Armadura<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Frío Implacable</passive><br>Las habilidades de daño <status>ralentizan</status> a los enemigos con menos del 50% de Vida en un 30% durante 1 seg.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "3133",
+            "3035"
+          ],
+          "image": {
+            "full": "6694.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 288,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 500,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "CooldownReduction",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 45
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6694.png"
+        },
+        {
+          "name": "Filo de la Noche",
+          "description": "<mainText><stats><attention>50</attention> de Daño de Ataque<br><attention>15</attention> de Letalidad<br><attention>250</attention> de Vida</stats><br><br><passive>Anulación</passive><br>Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.</mainText>",
+          "colloq": ";letalidad;lethality;Edge of Night",
+          "plaintext": "Bloquea habilidades enemigas periódicamente.",
+          "stacks": 0,
+          "from": [
+            "3134",
+            "2021"
+          ],
+          "image": {
+            "full": "3814.png",
+            "sprite": "item4.png",
+            "group": "item",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 850,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Health",
+            "Damage",
+            "ArmorPenetration"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatHPPoolMod": 250,
+            "FlatPhysicalDamageMod": 50
+          },
+          "effect": {
+            "Effect1Amount": "0",
+            "Effect2Amount": "0",
+            "Effect3Amount": "0",
+            "Effect4Amount": "40"
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/3814.png"
+        },
+        {
+          "name": "Arco Axiomático",
+          "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>18</attention> de Letalidad<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Flujo</passive><br>Cuando un campeón muere en un lapso de 3 seg después de haberle infligido daño, se restaura un porcentaje del enfriamiento total de tu habilidad definitiva.</mainText>",
+          "colloq": "",
+          "plaintext": "",
+          "from": [
+            "2020",
+            "3133"
+          ],
+          "image": {
+            "full": "6696.png",
+            "sprite": "item5.png",
+            "group": "item",
+            "x": 384,
+            "y": 144,
+            "w": 48,
+            "h": 48
+          },
+          "gold": {
+            "base": 613,
+            "purchasable": true,
+            "total": 3000,
+            "sell": 2100
+          },
+          "tags": [
+            "Damage",
+            "ArmorPenetration",
+            "AbilityHaste"
+          ],
+          "maps": {
+            "11": true,
+            "12": true,
+            "21": true,
+            "22": false,
+            "30": false,
+            "33": false
+          },
+          "stats": {
+            "FlatPhysicalDamageMod": 55
+          },
+          "depth": 3,
+          "urlImage": "/data/static/items/6696.png"
+        }
+      ],
+      "winrate": 72.22222222222221,
+      "pickrate": 0.591715976331361
+    }
+  ],
+  "skills": {
+    "skillLevelUp1": 1,
+    "skillLevelUp2": 2,
+    "skillLevelUp3": 3,
+    "winrate": 51.67049136069114,
+    "pickrate": 96.46461358161339
+  },
+  "runes": {
+    "primary": [
+      {
+        "Id": 8010,
+        "winrate": 51.37,
+        "pickrate": 64.95
+      },
+      {
+        "Id": 8128,
+        "winrate": 49.64,
+        "pickrate": 32.83
+      },
+      {
+        "Id": 8112,
+        "winrate": 37.55,
+        "pickrate": 0.87
+      },
+      {
+        "Id": 9923,
+        "winrate": 51.77,
+        "pickrate": 0.44
+      },
+      {
+        "Id": 8369,
+        "winrate": 45.67,
+        "pickrate": 0.4
+      },
+      {
+        "Id": 8008,
+        "winrate": 31.11,
+        "pickrate": 0.14
+      },
+      {
+        "Id": 8437,
+        "winrate": 30.77,
+        "pickrate": 0.08
+      },
+      {
+        "Id": 8005,
+        "winrate": 45.83,
+        "pickrate": 0.07
+      },
+      {
+        "Id": 8229,
+        "winrate": 44.44,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8021,
+        "winrate": 21.05,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8230,
+        "winrate": 62.5,
+        "pickrate": 0.05
+      },
+      {
+        "Id": 8439,
+        "winrate": 33.33,
+        "pickrate": 0.02
+      },
+      {
+        "Id": 8214,
+        "winrate": 62.5,
+        "pickrate": 0.02
+      },
+      {
+        "Id": 8465,
+        "winrate": 0,
+        "pickrate": 0
+      },
+      {
+        "Id": 8351,
+        "winrate": 0,
+        "pickrate": 0
+      },
+      {
+        "Id": 9111,
+        "winrate": 51.36,
+        "pickrate": 64.72
+      },
+      {
+        "Id": 8143,
+        "winrate": 49.51,
+        "pickrate": 33.49
+      },
+      {
+        "Id": 8139,
+        "winrate": 46.09,
+        "pickrate": 0.36
+      },
+      {
+        "Id": 8009,
+        "winrate": 41.58,
+        "pickrate": 0.32
+      },
+      {
+        "Id": 8304,
+        "winrate": 42.42,
+        "pickrate": 0.31
+      },
+      {
+        "Id": 8126,
+        "winrate": 35.87,
+        "pickrate": 0.29
+      },
+      {
+        "Id": 9101,
+        "winrate": 44.26,
+        "pickrate": 0.19
+      },
+      {
+        "Id": 8321,
+        "winrate": 55.17,
+        "pickrate": 0.09
+      },
+      {
+        "Id": 8446,
+        "winrate": 26.67,
+        "pickrate": 0.05
+      },
+      {
+        "Id": 8275,
+        "winrate": 62.5,
+        "pickrate": 0.05
+      },
+      {
+        "Id": 8226,
+        "winrate": 53.85,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8224,
+        "winrate": 46.15,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8401,
+        "winrate": 27.27,
+        "pickrate": 0.03
+      },
+      {
+        "Id": 8463,
+        "winrate": 42.86,
+        "pickrate": 0.02
+      },
+      {
+        "Id": 9105,
+        "winrate": 51.41,
+        "pickrate": 63.4
+      },
+      {
+        "Id": 8140,
+        "winrate": 49.46,
+        "pickrate": 31.75
+      },
+      {
+        "Id": 8137,
+        "winrate": 47.54,
+        "pickrate": 1.52
+      },
+      {
+        "Id": 9104,
+        "winrate": 47.77,
+        "pickrate": 1.05
+      },
+      {
+        "Id": 8141,
+        "winrate": 48.92,
+        "pickrate": 0.87
+      },
+      {
+        "Id": 9103,
+        "winrate": 46.75,
+        "pickrate": 0.77
+      },
+      {
+        "Id": 8313,
+        "winrate": 47.14,
+        "pickrate": 0.22
+      },
+      {
+        "Id": 8345,
+        "winrate": 47.22,
+        "pickrate": 0.11
+      },
+      {
+        "Id": 8352,
+        "winrate": 36.36,
+        "pickrate": 0.07
+      },
+      {
+        "Id": 8234,
+        "winrate": 68.42,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8210,
+        "winrate": 40,
+        "pickrate": 0.05
+      },
+      {
+        "Id": 8429,
+        "winrate": 33.33,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8444,
+        "winrate": 30,
+        "pickrate": 0.03
+      },
+      {
+        "Id": 8473,
+        "winrate": 27.27,
+        "pickrate": 0.03
+      },
+      {
+        "Id": 8233,
+        "winrate": 50,
+        "pickrate": 0.02
+      },
+      {
+        "Id": 8299,
+        "winrate": 51.37,
+        "pickrate": 62.29
+      },
+      {
+        "Id": 8135,
+        "winrate": 49.21,
+        "pickrate": 29.48
+      },
+      {
+        "Id": 8106,
+        "winrate": 50.76,
+        "pickrate": 3.48
+      },
+      {
+        "Id": 8014,
+        "winrate": 50.07,
+        "pickrate": 2.34
+      },
+      {
+        "Id": 8105,
+        "winrate": 49.07,
+        "pickrate": 1.17
+      },
+      {
+        "Id": 8017,
+        "winrate": 48.69,
+        "pickrate": 0.6
+      },
+      {
+        "Id": 8347,
+        "winrate": 45.87,
+        "pickrate": 0.34
+      },
+      {
+        "Id": 8451,
+        "winrate": 25,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8232,
+        "winrate": 60,
+        "pickrate": 0.05
+      },
+      {
+        "Id": 8237,
+        "winrate": 61.54,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8410,
+        "winrate": 57.14,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8236,
+        "winrate": 42.86,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8316,
+        "winrate": 0,
+        "pickrate": 0.02
+      },
+      {
+        "Id": 8453,
+        "winrate": 50,
+        "pickrate": 0.02
+      },
+      {
+        "Id": 8242,
+        "winrate": 28.57,
+        "pickrate": 0.02
+      }
+    ],
+    "secondary": [
+      {
+        "Id": 8224,
+        "winrate": 50.99,
+        "pickrate": 48.52
+      },
+      {
+        "Id": 8210,
+        "winrate": 51.02,
+        "pickrate": 47.04
+      },
+      {
+        "Id": 8304,
+        "winrate": 50.59,
+        "pickrate": 39.86
+      },
+      {
+        "Id": 8347,
+        "winrate": 50.6,
+        "pickrate": 39.81
+      },
+      {
+        "Id": 8014,
+        "winrate": 50.2,
+        "pickrate": 3.82
+      },
+      {
+        "Id": 9105,
+        "winrate": 49.85,
+        "pickrate": 3.12
+      },
+      {
+        "Id": 8143,
+        "winrate": 49.7,
+        "pickrate": 2.57
+      },
+      {
+        "Id": 8236,
+        "winrate": 47.66,
+        "pickrate": 1.87
+      },
+      {
+        "Id": 9111,
+        "winrate": 47.91,
+        "pickrate": 1.57
+      },
+      {
+        "Id": 8106,
+        "winrate": 45.02,
+        "pickrate": 1.57
+      },
+      {
+        "Id": 8234,
+        "winrate": 46.67,
+        "pickrate": 0.94
+      },
+      {
+        "Id": 8453,
+        "winrate": 50.36,
+        "pickrate": 0.86
+      },
+      {
+        "Id": 8135,
+        "winrate": 52.9,
+        "pickrate": 0.86
+      },
+      {
+        "Id": 8429,
+        "winrate": 55.98,
+        "pickrate": 0.65
+      },
+      {
+        "Id": 8233,
+        "winrate": 49.2,
+        "pickrate": 0.58
+      },
+      {
+        "Id": 9104,
+        "winrate": 51.09,
+        "pickrate": 0.57
+      },
+      {
+        "Id": 8473,
+        "winrate": 49.44,
+        "pickrate": 0.56
+      },
+      {
+        "Id": 8139,
+        "winrate": 47.13,
+        "pickrate": 0.54
+      },
+      {
+        "Id": 8232,
+        "winrate": 46.41,
+        "pickrate": 0.48
+      },
+      {
+        "Id": 8105,
+        "winrate": 48.55,
+        "pickrate": 0.43
+      },
+      {
+        "Id": 8140,
+        "winrate": 50.74,
+        "pickrate": 0.42
+      },
+      {
+        "Id": 8017,
+        "winrate": 44.62,
+        "pickrate": 0.41
+      },
+      {
+        "Id": 8451,
+        "winrate": 54.4,
+        "pickrate": 0.39
+      },
+      {
+        "Id": 8444,
+        "winrate": 48.89,
+        "pickrate": 0.28
+      },
+      {
+        "Id": 8237,
+        "winrate": 46.67,
+        "pickrate": 0.28
+      },
+      {
+        "Id": 8242,
+        "winrate": 51.76,
+        "pickrate": 0.27
+      },
+      {
+        "Id": 8321,
+        "winrate": 55.38,
+        "pickrate": 0.2
+      },
+      {
+        "Id": 8410,
+        "winrate": 51.67,
+        "pickrate": 0.19
+      },
+      {
+        "Id": 8299,
+        "winrate": 47.37,
+        "pickrate": 0.18
+      },
+      {
+        "Id": 8275,
+        "winrate": 42.22,
+        "pickrate": 0.14
+      },
+      {
+        "Id": 8126,
+        "winrate": 41.3,
+        "pickrate": 0.14
+      },
+      {
+        "Id": 9103,
+        "winrate": 48.72,
+        "pickrate": 0.12
+      },
+      {
+        "Id": 8226,
+        "winrate": 27.03,
+        "pickrate": 0.12
+      },
+      {
+        "Id": 8345,
+        "winrate": 40.63,
+        "pickrate": 0.1
+      },
+      {
+        "Id": 8316,
+        "winrate": 57.69,
+        "pickrate": 0.08
+      },
+      {
+        "Id": 8009,
+        "winrate": 37.04,
+        "pickrate": 0.08
+      },
+      {
+        "Id": 9101,
+        "winrate": 45,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8463,
+        "winrate": 52.63,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8446,
+        "winrate": 42.11,
+        "pickrate": 0.06
+      },
+      {
+        "Id": 8401,
+        "winrate": 53.85,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8313,
+        "winrate": 42.86,
+        "pickrate": 0.04
+      },
+      {
+        "Id": 8141,
+        "winrate": 36.36,
+        "pickrate": 0.03
+      },
+      {
+        "Id": 8137,
+        "winrate": 60,
+        "pickrate": 0.03
+      },
+      {
+        "Id": 8352,
+        "winrate": 50,
+        "pickrate": 0.01
+      },
+      {
+        "Id": 8306,
+        "winrate": 25,
+        "pickrate": 0.01
+      }
+    ],
+    "perks": [
+      {
+        "Id": 5008,
+        "winrate": 50.74,
+        "pickrate": 94.85
+      },
+      {
+        "Id": 5005,
+        "winrate": 46.49,
+        "pickrate": 3.7
+      },
+      {
+        "Id": 5007,
+        "winrate": 51.4,
+        "pickrate": 1.45
+      },
+      {
+        "Id": 5008,
+        "winrate": 50.67,
+        "pickrate": 98.48
+      },
+      {
+        "Id": 5010,
+        "winrate": 44,
+        "pickrate": 0.78
+      },
+      {
+        "Id": 5001,
+        "winrate": 47.23,
+        "pickrate": 0.73
+      },
+      {
+        "Id": 5001,
+        "winrate": 50.73,
+        "pickrate": 93.08
+      },
+      {
+        "Id": 5013,
+        "winrate": 48.44,
+        "pickrate": 3.99
+      },
+      {
+        "Id": 5011,
+        "winrate": 49.36,
+        "pickrate": 2.92
+      }
+    ]
+  }
+}

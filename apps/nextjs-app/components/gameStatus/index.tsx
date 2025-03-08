@@ -5,12 +5,14 @@ import { Shield, Sword, Clock, Trophy } from 'lucide-react';
 import styles from './index.module.css'
 import ProgressBar from '../ProgressBar';
 import { getChampionImage } from '../../utils/get-champion-image';
+import ItemBuild from '../ItemBuild';
 
 interface GameStatusProps {
   gameData: any;
+  buildRecomendation?: any;
 }
 
-export function GameStatus({ gameData }: GameStatusProps) {
+export function GameStatus({ gameData, buildRecomendation }: GameStatusProps) {
   if (!gameData) {
     return (
       <div className={styles.card}>
@@ -81,7 +83,7 @@ export function GameStatus({ gameData }: GameStatusProps) {
               <div>
                 <span className="text-sm text-gray-400">Tú</span>
                 <div>
-                  <img src={getChampionImage(gameData.current.championName)} alt="" />
+                  <img src={getChampionImage(gameData.current.champion.championImage)} alt="" />
                 </div>
                 <p className="font-medium">{gameData.champion}</p>
               </div>
@@ -89,7 +91,9 @@ export function GameStatus({ gameData }: GameStatusProps) {
               <div className="text-right">
                 <span className="text-sm text-gray-400">Oponente</span>
                 <div>
-                  <img src={getChampionImage(gameData.current.directOponent)} alt="" />
+                  <img src={getChampionImage(gameData.enemyTeam.players.find((player: any) => {
+                    return player.championName == gameData.current.directOponent;
+                  }).champion.championImage)} alt="" />
                 </div>
                 <p className="font-medium">{gameData.opponent}</p>
               </div>
@@ -112,7 +116,7 @@ export function GameStatus({ gameData }: GameStatusProps) {
             value={winProbability} 
             max={100}
           />
-          
+
           {/*
             indicatorClassName={winProbability > 50 ? "bg-green-500" : "bg-red-500"}*/}
 

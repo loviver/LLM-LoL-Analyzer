@@ -41,6 +41,8 @@ class GeminiAI {
 
     // console.log(`requestBody: ${JSON.stringify(requestBody)}`);
 
+    console.log(`geminirequest time: ${new Date().toISOString()}`);
+
     try {
       const response = await fetch(this.baseUrl, {
         method: 'POST',

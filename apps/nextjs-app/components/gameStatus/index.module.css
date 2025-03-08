@@ -22,7 +22,7 @@
 
 /* Contenido de la tarjeta */
 .card-content {
-  max-height: 500px;
+  max-height: 800px;
   overflow-y: auto; /* Permitir desplazamiento */
   padding-right: 16px;
 }

@@ -1,0 +1,1163 @@
+{
+  "endGame": true,
+  "hashGame": "a58eaf2450db5a058f8ce61ed2170f7899f1af6c",
+  "time": "2025-03-08T06:40:08.642Z",
+  "data": {
+    "currentTime": 184.00772094726562,
+    "gameCreation": "1969-12-31T23:56:55.993Z",
+    "phase": "early",
+    "avgPlayersLevel": 2.1,
+    "avgItemCosts": 1925,
+    "isDragonAlive": {
+      "isAlive": false,
+      "status": "NotSpawned",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": 115.99227905273438,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null
+    },
+    "isDragonSoulAlive": {
+      "isAlive": false,
+      "status": "NotSpawned",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": null,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null
+    },
+    "isHeraldAlive": {
+      "isAlive": false,
+      "status": "NotSpawned",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": 505.9922790527344,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null
+    },
+    "isBaronAlive": {
+      "isAlive": false,
+      "status": "NotSpawned",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": 1315.9922790527344,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null
+    },
+    "isLarvsAlive": {
+      "isAlive": false,
+      "status": "NotSpawned",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": 175.99227905273438,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null
+    },
+    "mySkills": [
+      {
+        "abilityKey": "E",
+        "displayName": "Paso Sombrío",
+        "abilityLevel": 0
+      },
+      {
+        "abilityKey": "Q",
+        "displayName": "Corte Segador",
+        "abilityLevel": 1
+      },
+      {
+        "abilityKey": "R",
+        "displayName": "Transgresión de Umbral",
+        "abilityLevel": 0
+      },
+      {
+        "abilityKey": "W",
+        "displayName": "Alcance de Cuchilla",
+        "abilityLevel": 1
+      }
+    ],
+    "current": {
+      "championName": "Kayn",
+      "riotId": "BukeleDicktador#503",
+      "summonerName": "BukeleDicktador#503",
+      "level": 2,
+      "position": "JUNGLE",
+      "kills": 0,
+      "creepScore": 10,
+      "deaths": 0,
+      "assists": 0,
+      "wardScore": 0,
+      "currentGold": 441.3591613769531,
+      "team": "ORDER",
+      "champion": {
+        "name": "Kayn",
+        "championImage": "Kayn.png",
+        "info": {
+          "attack": 10,
+          "defense": 6,
+          "magic": 1,
+          "difficulty": 8
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "energyType": "Maná",
+        "stats": {
+          "hp": 655,
+          "hpperlevel": 109,
+          "mp": 410,
+          "mpperlevel": 50,
+          "movespeed": 340,
+          "armor": 38,
+          "armorperlevel": 4.5,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 8,
+          "hpregenperlevel": 0.75,
+          "mpregen": 11.5,
+          "mpregenperlevel": 0.95,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 3.3,
+          "attackspeedperlevel": 2.7,
+          "attackspeed": 0.669
+        }
+      },
+      "directOponent": "Warwick",
+      "goldSpent": 450,
+      "items": [
+        {
+          "id": 1102,
+          "count": 1,
+          "displayName": "Cría de Trotabrisas",
+          "description": "<mainText><stats></stats><br><br><passive>Compañeros de la Jungla</passive><br>Invocas un <font color='#38A8E8'>Trotabrisas</font> que te ayudará a pelear contra monstruos.<br><br><passive>Paso de Trotabrisas</passive><br>El compañero crece conforme cazas monstruos, lo que potencia tu <spellName>Castigo</spellName>. Al alcanzar su tamaño máximo, te otorgará <speed>velocidad de movimiento</speed> al entrar a la maleza, lo cual aumentará al asesinar a monstruos grandes.</mainText>",
+          "stats": {},
+          "price": 450,
+          "slot": 0
+        },
+        {
+          "id": 3340,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+          "stats": {},
+          "price": 0,
+          "slot": 6
+        }
+      ],
+      "runes": [
+        {
+          "type": "keystone",
+          "displayName": "Conquistador",
+          "id": 8010
+        },
+        {
+          "type": "primaryRuneTree",
+          "displayName": "Precisión",
+          "id": 8000
+        },
+        {
+          "type": "secondaryRuneTree",
+          "displayName": "Inspiración",
+          "id": 8300
+        }
+      ],
+      "spells": [
+        {
+          "spellOrder": "summonerSpellOne",
+          "id": "SummonerSmite",
+          "displayName": "Castigo"
+        },
+        {
+          "spellOrder": "summonerSpellTwo",
+          "id": "SummonerFlash",
+          "displayName": "Destello"
+        }
+      ]
+    },
+    "team": {
+      "spentGold": 2400,
+      "turrets": [],
+      "dragons": [],
+      "players": [
+        {
+          "championName": "Renekton",
+          "riotId": "sinnuevochampoo#sin",
+          "summonerName": "sinnuevochampoo#sin",
+          "level": 3,
+          "position": "TOP",
+          "kills": 0,
+          "creepScore": 10,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Renekton",
+            "championImage": "Renekton.png",
+            "info": {
+              "attack": 8,
+              "defense": 5,
+              "magic": 2,
+              "difficulty": 3
+            },
+            "tags": [
+              "Fighter",
+              "Tank"
+            ],
+            "energyType": "Furia",
+            "stats": {
+              "hp": 660,
+              "hpperlevel": 111,
+              "mp": 100,
+              "mpperlevel": 0,
+              "movespeed": 345,
+              "armor": 35,
+              "armorperlevel": 5.2,
+              "spellblock": 28,
+              "spellblockperlevel": 2.05,
+              "attackrange": 125,
+              "hpregen": 8,
+              "hpregenperlevel": 0.75,
+              "mpregen": 0,
+              "mpregenperlevel": 0,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 69,
+              "attackdamageperlevel": 4.15,
+              "attackspeedperlevel": 2.75,
+              "attackspeed": 0.665
+            }
+          },
+          "directOponent": "Sett",
+          "goldSpent": 500,
+          "items": [
+            {
+              "id": 1054,
+              "count": 1,
+              "displayName": "Escudo de Doran",
+              "description": "<mainText><stats><attention>110</attention> de Vida</stats><br><br><passive>Concentración Tenaz</passive><br>Recuperas <healing>4 de Vida</healing> cada 5 seg. <br>Tras recibir daño de un campeón, restauras <healing>vida</healing> a lo largo de 8 seg.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 110,
+                "FlatHPRegenMod": 0.8
+              },
+              "price": 450,
+              "slot": 0
+            },
+            {
+              "id": 2003,
+              "count": 1,
+              "displayName": "Poción de Vida",
+              "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 1
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Estrategia Ofensiva",
+              "id": 8005
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Valor",
+              "id": 8400
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerDot",
+              "displayName": "Ignición"
+            }
+          ]
+        },
+        {
+          "championName": "Naafiri",
+          "riotId": "Kazuhito#LAN",
+          "summonerName": "Kazuhito#LAN",
+          "level": 3,
+          "position": "MIDDLE",
+          "kills": 0,
+          "creepScore": 0,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Naafiri",
+            "championImage": "Naafiri.png",
+            "info": {
+              "attack": 9,
+              "defense": 5,
+              "magic": 0,
+              "difficulty": 2
+            },
+            "tags": [
+              "Assassin",
+              "Fighter"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 635,
+              "hpperlevel": 120,
+              "mp": 400,
+              "mpperlevel": 55,
+              "movespeed": 340,
+              "armor": 30,
+              "armorperlevel": 4.7,
+              "spellblock": 32,
+              "spellblockperlevel": 2.05,
+              "attackrange": 125,
+              "hpregen": 9,
+              "hpregenperlevel": 0.9,
+              "mpregen": 7.5,
+              "mpregenperlevel": 1,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 55,
+              "attackdamageperlevel": 2.1,
+              "attackspeedperlevel": 2.1,
+              "attackspeed": 0.663
+            }
+          },
+          "directOponent": "Mel",
+          "goldSpent": 500,
+          "items": [
+            {
+              "id": 1055,
+              "count": 1,
+              "displayName": "Espada de Doran",
+              "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 80,
+                "FlatPhysicalDamageMod": 10,
+                "PercentLifeStealMod": 0.03
+              },
+              "price": 450,
+              "slot": 0
+            },
+            {
+              "id": 2010,
+              "count": 1,
+              "displayName": "Galleta Definitiva de la Voluntad Eterna",
+              "description": "<mainText><stats></stats><br><br><active>Activa, Consumir:</active> Cómete la galleta para restaurar un <healing>12% de tu Vida faltante</healing> a lo largo de 5 seg. Consumir o vender una galleta otorga <healing>30 de Vida Máxima de forma permanente</healing>. </mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 2
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Primer Golpe",
+              "id": 8369
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Inspiración",
+              "id": 8300
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Dominación",
+              "id": 8100
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerTeleport",
+              "displayName": "Teleportación"
+            }
+          ]
+        },
+        {
+          "championName": "Ezreal",
+          "riotId": "Zaun ęGirl#LAN",
+          "summonerName": "Zaun ęGirl#LAN",
+          "level": 2,
+          "position": "BOTTOM",
+          "kills": 0,
+          "creepScore": 10,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Ezreal",
+            "championImage": "Ezreal.png",
+            "info": {
+              "attack": 7,
+              "defense": 2,
+              "magic": 6,
+              "difficulty": 7
+            },
+            "tags": [
+              "Marksman",
+              "Mage"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 600,
+              "hpperlevel": 102,
+              "mp": 375,
+              "mpperlevel": 70,
+              "movespeed": 325,
+              "armor": 24,
+              "armorperlevel": 4.7,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 550,
+              "hpregen": 4,
+              "hpregenperlevel": 0.65,
+              "mpregen": 8.5,
+              "mpregenperlevel": 1,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 60,
+              "attackdamageperlevel": 2.75,
+              "attackspeedperlevel": 2.5,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Caitlyn",
+          "goldSpent": 500,
+          "items": [
+            {
+              "id": 1055,
+              "count": 1,
+              "displayName": "Espada de Doran",
+              "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 80,
+                "FlatPhysicalDamageMod": 10,
+                "PercentLifeStealMod": 0.03
+              },
+              "price": 450,
+              "slot": 0
+            },
+            {
+              "id": 2003,
+              "count": 1,
+              "displayName": "Poción de Vida",
+              "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 1
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Estrategia Ofensiva",
+              "id": 8005
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Inspiración",
+              "id": 8300
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerBarrier",
+              "displayName": "Barrera"
+            }
+          ]
+        },
+        {
+          "championName": "Senna",
+          "riotId": "Edrual#LAN",
+          "summonerName": "Edrual#LAN",
+          "level": 2,
+          "position": "UTILITY",
+          "kills": 0,
+          "creepScore": 0,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Senna",
+            "championImage": "Senna.png",
+            "info": {
+              "attack": 7,
+              "defense": 2,
+              "magic": 6,
+              "difficulty": 7
+            },
+            "tags": [
+              "Support",
+              "Marksman"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 530,
+              "hpperlevel": 89,
+              "mp": 350,
+              "mpperlevel": 45,
+              "movespeed": 330,
+              "armor": 25,
+              "armorperlevel": 4,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 600,
+              "hpregen": 3.5,
+              "hpregenperlevel": 0.55,
+              "mpregen": 11.5,
+              "mpregenperlevel": 0.7,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 50,
+              "attackdamageperlevel": 0,
+              "attackspeedperlevel": 2,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Lulu",
+          "goldSpent": 450,
+          "items": [
+            {
+              "id": 3865,
+              "count": 1,
+              "displayName": "Mapamundi",
+              "description": "",
+              "stats": {
+                "FlatHPPoolMod": 30
+              },
+              "price": 400,
+              "slot": 0
+            },
+            {
+              "id": 2003,
+              "count": 2,
+              "displayName": "Poción de Vida",
+              "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 1
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Agarre del Perpetuo",
+              "id": 8437
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Valor",
+              "id": 8400
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerExhaust",
+              "displayName": "Extenuación"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            }
+          ]
+        }
+      ]
+    },
+    "enemyTeam": {
+      "spentGold": 1450,
+      "turrets": [],
+      "dragons": [],
+      "players": [
+        {
+          "championName": "Sett",
+          "riotId": "Soul of cinder10#LAN",
+          "summonerName": "Soul of cinder10#LAN",
+          "level": 1,
+          "position": "TOP",
+          "kills": 0,
+          "creepScore": 0,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Sett",
+            "championImage": "Sett.png",
+            "info": {
+              "attack": 8,
+              "defense": 5,
+              "magic": 1,
+              "difficulty": 2
+            },
+            "tags": [
+              "Fighter",
+              "Tank"
+            ],
+            "energyType": "Determinación",
+            "stats": {
+              "hp": 670,
+              "hpperlevel": 114,
+              "mp": 0,
+              "mpperlevel": 0,
+              "movespeed": 340,
+              "armor": 33,
+              "armorperlevel": 5.2,
+              "spellblock": 28,
+              "spellblockperlevel": 2.05,
+              "attackrange": 125,
+              "hpregen": 7,
+              "hpregenperlevel": 0.5,
+              "mpregen": 0,
+              "mpregenperlevel": 0,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 60,
+              "attackdamageperlevel": 4,
+              "attackspeedperlevel": 1.75,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Renekton",
+          "goldSpent": 0,
+          "items": [],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cadencia Letal",
+              "id": 8008
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Valor",
+              "id": 8400
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerDot",
+              "displayName": "Ignición"
+            }
+          ]
+        },
+        {
+          "championName": "Warwick",
+          "riotId": "edi el loco#LAN",
+          "summonerName": "edi el loco#LAN",
+          "level": 1,
+          "position": "JUNGLE",
+          "kills": 0,
+          "creepScore": 0,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Warwick",
+            "championImage": "Warwick.png",
+            "info": {
+              "attack": 9,
+              "defense": 5,
+              "magic": 3,
+              "difficulty": 3
+            },
+            "tags": [
+              "Fighter",
+              "Tank"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 620,
+              "hpperlevel": 99,
+              "mp": 280,
+              "mpperlevel": 35,
+              "movespeed": 335,
+              "armor": 33,
+              "armorperlevel": 4.4,
+              "spellblock": 32,
+              "spellblockperlevel": 2.05,
+              "attackrange": 125,
+              "hpregen": 4,
+              "hpregenperlevel": 0.75,
+              "mpregen": 7.45,
+              "mpregenperlevel": 0.6,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 60,
+              "attackdamageperlevel": 2.75,
+              "attackspeedperlevel": 2.3,
+              "attackspeed": 0.638
+            }
+          },
+          "directOponent": "Kayn",
+          "goldSpent": 0,
+          "items": [],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cadencia Letal",
+              "id": 8008
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerSmite",
+              "displayName": "Castigo"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            }
+          ]
+        },
+        {
+          "championName": "Mel",
+          "riotId": "Estebanok97#LAN",
+          "summonerName": "Estebanok97#LAN",
+          "level": 3,
+          "position": "MIDDLE",
+          "kills": 0,
+          "creepScore": 10,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Mel",
+            "championImage": "Mel.png",
+            "info": {
+              "attack": 2,
+              "defense": 4,
+              "magic": 9,
+              "difficulty": 5
+            },
+            "tags": [
+              "Mage",
+              "Support"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 600,
+              "hpperlevel": 93,
+              "mp": 480,
+              "mpperlevel": 28,
+              "movespeed": 330,
+              "armor": 21,
+              "armorperlevel": 5.2,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 550,
+              "hpregen": 6,
+              "hpregenperlevel": 0.55,
+              "mpregen": 9,
+              "mpregenperlevel": 0.9,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 54,
+              "attackdamageperlevel": 3.3,
+              "attackspeedperlevel": 2.5,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Naafiri",
+          "goldSpent": 450,
+          "items": [
+            {
+              "id": 1056,
+              "count": 1,
+              "displayName": "Sortija de Doran",
+              "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 90,
+                "FlatMagicDamageMod": 18
+              },
+              "price": 400,
+              "slot": 0
+            },
+            {
+              "id": 2003,
+              "count": 2,
+              "displayName": "Poción de Vida",
+              "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 1
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cometa Arcano",
+              "id": 8229
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerTeleport",
+              "displayName": "Teleportación"
+            }
+          ]
+        },
+        {
+          "championName": "Caitlyn",
+          "riotId": "Renzo AB#LAN",
+          "summonerName": "Renzo AB#LAN",
+          "level": 2,
+          "position": "BOTTOM",
+          "kills": 0,
+          "creepScore": 10,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Caitlyn",
+            "championImage": "Caitlyn.png",
+            "info": {
+              "attack": 8,
+              "defense": 2,
+              "magic": 2,
+              "difficulty": 6
+            },
+            "tags": [
+              "Marksman"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 580,
+              "hpperlevel": 107,
+              "mp": 315,
+              "mpperlevel": 40,
+              "movespeed": 325,
+              "armor": 27,
+              "armorperlevel": 4.7,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 650,
+              "hpregen": 3.5,
+              "hpregenperlevel": 0.55,
+              "mpregen": 7.4,
+              "mpregenperlevel": 0.7,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 60,
+              "attackdamageperlevel": 3.8,
+              "attackspeedperlevel": 4,
+              "attackspeed": 0.681
+            }
+          },
+          "directOponent": "Ezreal",
+          "goldSpent": 500,
+          "items": [
+            {
+              "id": 1055,
+              "count": 1,
+              "displayName": "Espada de Doran",
+              "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 80,
+                "FlatPhysicalDamageMod": 10,
+                "PercentLifeStealMod": 0.03
+              },
+              "price": 450,
+              "slot": 0
+            },
+            {
+              "id": 2003,
+              "count": 1,
+              "displayName": "Poción de Vida",
+              "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 1
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Sobre la Marcha",
+              "id": 8021
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerBarrier",
+              "displayName": "Barrera"
+            }
+          ]
+        },
+        {
+          "championName": "Lulu",
+          "riotId": "Chanot#LAN",
+          "summonerName": "Chanot#LAN",
+          "level": 2,
+          "position": "UTILITY",
+          "kills": 0,
+          "creepScore": 0,
+          "deaths": 0,
+          "assists": 0,
+          "wardScore": 0,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Lulu",
+            "championImage": "Lulu.png",
+            "info": {
+              "attack": 4,
+              "defense": 5,
+              "magic": 7,
+              "difficulty": 5
+            },
+            "tags": [
+              "Support",
+              "Mage"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 595,
+              "hpperlevel": 92,
+              "mp": 350,
+              "mpperlevel": 55,
+              "movespeed": 330,
+              "armor": 26,
+              "armorperlevel": 4.9,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 550,
+              "hpregen": 6,
+              "hpregenperlevel": 0.6,
+              "mpregen": 11,
+              "mpregenperlevel": 0.6,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 47,
+              "attackdamageperlevel": 2.6,
+              "attackspeedperlevel": 2.25,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Senna",
+          "goldSpent": 500,
+          "items": [
+            {
+              "id": 2010,
+              "count": 1,
+              "displayName": "Galleta Definitiva de la Voluntad Eterna",
+              "description": "<mainText><stats></stats><br><br><active>Activa, Consumir:</active> Cómete la galleta para restaurar un <healing>12% de tu Vida faltante</healing> a lo largo de 5 seg. Consumir o vender una galleta otorga <healing>30 de Vida Máxima de forma permanente</healing>. </mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 0
+            },
+            {
+              "id": 2003,
+              "count": 1,
+              "displayName": "Poción de Vida",
+              "description": "<mainText><stats></stats><br><br><active>Voracidad</active><br>Restaura <healing>120 de Vida</healing> a lo largo de 15 seg.</mainText>",
+              "stats": {},
+              "price": 50,
+              "slot": 1
+            },
+            {
+              "id": 3865,
+              "count": 1,
+              "displayName": "Mapamundi",
+              "description": "",
+              "stats": {
+                "FlatHPPoolMod": 30
+              },
+              "price": 400,
+              "slot": 3
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Invocación: Aery",
+              "id": 8214
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Inspiración",
+              "id": 8300
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerHeal",
+              "displayName": "Curación"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

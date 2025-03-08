@@ -10,6 +10,7 @@ import TimeAgo from 'javascript-time-ago'
 import en from 'javascript-time-ago/locale/en'
 import es from 'javascript-time-ago/locale/es'
 import MatchCard from '../components/MatchCard';
+import ItemBuild from '../components/ItemBuild';
 
 TimeAgo.addDefaultLocale(en)
 TimeAgo.addLocale(es)
@@ -26,29 +27,27 @@ interface GameData {
 
 export default function Home() {
   const [connected, setConnected] = useState(false);
-  const [gameActive, setGameActive] = useState(false);
-  const [selectedChampion, setSelectedChampion] = useState('');
   const [gameData, setGameData] = useState<any>(null);
-
+  const [buldRecomedation, setBuldRecomedation] = useState<any>(null);
   const [advices, setAdvices] = useState<any[]>([]);
 
-  useEffect(() => {
-    const ws = new WebSocket('ws://localhost:8080');
+  const [ws, setWs] = useState<WebSocket | null>(null); // WebSocket en estado
 
-    ws.onopen = () => {
+  useEffect(() => {
+    const websocket = new WebSocket('ws://localhost:8080');
+    setWs(websocket);
+
+    websocket.onopen = () => {
       setConnected(true);
       toast("Conectado al servidor de consejos");
     };
 
-    ws.onmessage = (event) => {
+    websocket.onmessage = (event) => {
       const data = JSON.parse(event.data);
-
       console.log('ws-message', data);
 
-      if(data.type == 'game-data') {
-
+      if (data.type === 'game-data') {
         const responseData = data.data;
-        
         const updatedGameData = {
           ...gameData,
           ...responseData
@@ -56,13 +55,17 @@ export default function Home() {
         setGameData(updatedGameData);
       }
 
-      if(data.type == 'couch-response') {
-        const couchData = data.data;
-        if(couchData.final_recommendation) {
+      if (data.type === 'build-recomendation') {
+        setBuldRecomedation(data.data.coreBuild);
+      }
 
+      if (data.type === 'couch-response') {
+        const couchData = data.data;
+        if (couchData.final_recommendation) {
           setAdvices(prevAdvices => [
-            ...prevAdvices, // <-- Usa el estado más reciente
+            ...prevAdvices,
             {
+              author: "couch",
               id: prevAdvices.length + 1,
               type: 'phase',
               timestamp: new Date(),
@@ -73,19 +76,29 @@ export default function Home() {
       }
     };
 
-    ws.onerror = () => {
+    websocket.onerror = () => {
       toast.error("Error en la conexión WebSocket");
     };
 
-    ws.onclose = () => {
+    websocket.onclose = () => {
       setConnected(false);
       toast("Desconectado del servidor");
     };
 
+    // Limpiar la conexión WebSocket cuando el componente se desmonta
     return () => {
-      ws.close();
+      websocket.close();
     };
-  }, []);
+  }, []); // Solo se ejecuta una vez cuando el componente se monta
+
+  // Función para enviar el mensaje de consulta al servidor
+  const sendQuery = (message: string) => {
+    if (ws && ws.readyState === WebSocket.OPEN) {
+      ws.send(JSON.stringify({ type: 'query', message }));
+    } else {
+      toast.error("WebSocket no está conectado");
+    }
+  };
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-900 to-black text-white">
@@ -103,6 +116,10 @@ export default function Home() {
           <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
             <div className="lg:col-span-2">
               <MatchCard match={gameData} />
+
+              {buldRecomedation && (
+                <ItemBuild builds={buldRecomedation} />
+              )}
             </div>
             <div style={{
               gap: '1rem',
@@ -110,12 +127,12 @@ export default function Home() {
               flexDirection: 'column',
             }}>
               <GameStatus gameData={gameData} />
-              <GameAdvice gameData={gameData} advices={advices} />
+              <GameAdvice gameData={gameData} advices={advices} setAdvices={setAdvices} sendQuery={sendQuery} />
             </div>
           </div>
         )}
       </div>
-      <ToastContainer/>
+      <ToastContainer />
     </div>
   );
 }

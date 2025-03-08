@@ -1,0 +1,1783 @@
+{
+  "endGame": true,
+  "hashGame": "028b95c8285d436dcf88bb415e78536af03d8d00",
+  "time": "2025-03-08T06:52:20.696Z",
+  "data": {
+    "currentTime": 1585.8863525390625,
+    "gameCreation": "1969-12-31T23:33:34.114Z",
+    "phase": "late",
+    "avgPlayersLevel": 13.6,
+    "avgItemCosts": 43762.5,
+    "isDragonAlive": {
+      "isAlive": true,
+      "status": "Alive",
+      "timeSinceSpawn": 86.1859130859375,
+      "timeUntilSpawn": null,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null,
+      "spawnedAt": 1499.700439453125
+    },
+    "isDragonSoulAlive": {
+      "isAlive": false,
+      "status": "NotSpawned",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": null,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null
+    },
+    "isHeraldAlive": {
+      "isAlive": false,
+      "status": "Expired",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": null,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": 385.8863525390625
+    },
+    "isBaronAlive": {
+      "isAlive": true,
+      "status": "Alive",
+      "timeSinceSpawn": 85.8863525390625,
+      "timeUntilSpawn": null,
+      "timeSinceLastSpawn": null,
+      "timeSinceExpiry": null,
+      "spawnedAt": 1500
+    },
+    "isLarvsAlive": {
+      "isAlive": false,
+      "status": "MaxSpawnsReached",
+      "timeSinceSpawn": null,
+      "timeUntilSpawn": null,
+      "timeSinceLastSpawn": 872.8448486328125,
+      "timeSinceExpiry": null
+    },
+    "mySkills": [
+      {
+        "abilityKey": "E",
+        "displayName": "Paso Sombrío",
+        "abilityLevel": 4
+      },
+      {
+        "abilityKey": "Q",
+        "displayName": "Corte Segador",
+        "abilityLevel": 5
+      },
+      {
+        "abilityKey": "R",
+        "displayName": "Transgresión de Umbral",
+        "abilityLevel": 2
+      },
+      {
+        "abilityKey": "W",
+        "displayName": "Alcance de Cuchilla",
+        "abilityLevel": 5
+      }
+    ],
+    "current": {
+      "championName": "Kayn",
+      "riotId": "BukeleDicktador#503",
+      "summonerName": "BukeleDicktador#503",
+      "level": 15,
+      "position": "JUNGLE",
+      "kills": 9,
+      "creepScore": 150,
+      "deaths": 4,
+      "assists": 8,
+      "wardScore": 23.050474166870117,
+      "currentGold": 1340.3511962890625,
+      "team": "ORDER",
+      "champion": {
+        "name": "Kayn",
+        "championImage": "Kayn.png",
+        "info": {
+          "attack": 10,
+          "defense": 6,
+          "magic": 1,
+          "difficulty": 8
+        },
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "energyType": "Maná",
+        "stats": {
+          "hp": 655,
+          "hpperlevel": 109,
+          "mp": 410,
+          "mpperlevel": 50,
+          "movespeed": 340,
+          "armor": 38,
+          "armorperlevel": 4.5,
+          "spellblock": 32,
+          "spellblockperlevel": 2.05,
+          "attackrange": 175,
+          "hpregen": 8,
+          "hpregenperlevel": 0.75,
+          "mpregen": 11.5,
+          "mpregenperlevel": 0.95,
+          "crit": 0,
+          "critperlevel": 0,
+          "attackdamage": 68,
+          "attackdamageperlevel": 3.3,
+          "attackspeedperlevel": 2.7,
+          "attackspeed": 0.669
+        }
+      },
+      "directOponent": "Diana",
+      "goldSpent": 9075,
+      "items": [
+        {
+          "id": 6609,
+          "count": 1,
+          "displayName": "Sierraespada Quimpunk",
+          "description": "<mainText><stats><attention>45</attention> de Daño de Ataque<br><attention>450</attention> de Vida<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Corte Mutilador</passive><br>Infligir daño físico aplica un 40% de <keyword>Heridas</keyword> a los campeones enemigos durante 3 seg.</mainText>",
+          "stats": {
+            "FlatHPPoolMod": 450,
+            "FlatPhysicalDamageMod": 45
+          },
+          "price": 3100,
+          "slot": 0
+        },
+        {
+          "id": 2055,
+          "count": 1,
+          "displayName": "Centinela de Control",
+          "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos <keywordStealth>camuflados</keywordStealth>.</mainText>",
+          "stats": {},
+          "price": 75,
+          "slot": 2
+        },
+        {
+          "id": 2422,
+          "count": 1,
+          "displayName": "Calzado Ligeramente Mágico",
+          "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br>Otorga <speed>10 de Velocidad de Movimiento</speed> adicional. Las botas hechas a partir del Calzado Ligeramente Mágico retienen esta velocidad de movimiento adicional.</mainText>",
+          "stats": {
+            "FlatMovementSpeedMod": 25
+          },
+          "price": 300,
+          "slot": 3
+        },
+        {
+          "id": 3065,
+          "count": 1,
+          "displayName": "Apariencia Espiritual",
+          "description": "<mainText><stats><attention>400</attention> de Vida<br><attention>50</attention> de Resistencia Mágica<br><attention>10</attention> de Aceleración de Habilidad<br><attention>100%</attention> de Regen. de Vida Básica</stats><br><br><passive>Vitalidad Ilimitada</passive><br>Las curaciones y los escudos que tengas aumentarán en un 25%.</mainText>",
+          "stats": {
+            "FlatSpellBlockMod": 50,
+            "FlatHPPoolMod": 400
+          },
+          "price": 2700,
+          "slot": 4
+        },
+        {
+          "id": 6692,
+          "count": 1,
+          "displayName": "Eclipse",
+          "description": "<mainText><stats><attention>60</attention> de Daño de Ataque<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Luna Eterna</passive><br>Al impactar a un campeón con dos ataques o habilidades diferentes en un lapso de 2 seg, obtienes un <shield>escudo</shield> durante 2 seg.</mainText>",
+          "stats": {
+            "FlatPhysicalDamageMod": 60
+          },
+          "price": 2900,
+          "slot": 5
+        },
+        {
+          "id": 3364,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>160 a 100</scaleLevel> seg, máx. 2 cargas)<br>Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 6 seg.</mainText>",
+          "stats": {},
+          "price": 0,
+          "slot": 6
+        }
+      ],
+      "runes": [
+        {
+          "type": "keystone",
+          "displayName": "Conquistador",
+          "id": 8010
+        },
+        {
+          "type": "primaryRuneTree",
+          "displayName": "Precisión",
+          "id": 8000
+        },
+        {
+          "type": "secondaryRuneTree",
+          "displayName": "Inspiración",
+          "id": 8300
+        }
+      ],
+      "spells": [
+        {
+          "spellOrder": "summonerSpellOne",
+          "id": "SummonerSmiteAvatarUtility",
+          "displayName": "Castigo Primitivo"
+        },
+        {
+          "spellOrder": "summonerSpellTwo",
+          "id": "SummonerFlash",
+          "displayName": "Destello"
+        }
+      ]
+    },
+    "firstBlood": {
+      "killer": null,
+      "team": "enemy"
+    },
+    "team": {
+      "spentGold": 42375,
+      "turrets": [
+        {
+          "time": 1021.4209594726562,
+          "assisters": [],
+          "killer": "JoseM0821",
+          "position": null
+        },
+        {
+          "time": 1092.7208251953125,
+          "assisters": [],
+          "killer": "esahembraesmala",
+          "lane": "top",
+          "team": "CHAOS"
+        },
+        {
+          "time": 1435.0125732421875,
+          "assisters": [],
+          "killer": "BukeleDicktador",
+          "lane": "mid",
+          "team": "CHAOS"
+        }
+      ],
+      "dragons": [
+        {
+          "time": 378.7498474121094,
+          "assisters": [],
+          "killer": "BukeleDicktador",
+          "monster": "Dragon",
+          "type": "Air",
+          "team": "ally",
+          "stolen": false
+        },
+        {
+          "time": 402.31732177734375,
+          "assisters": [],
+          "killer": "Sid vicius ",
+          "monster": "Larvs",
+          "type": "Larvs",
+          "team": "enemy",
+          "stolen": false
+        },
+        {
+          "time": 413.7998962402344,
+          "assisters": [
+            "lextorres"
+          ],
+          "killer": "Sid vicius ",
+          "monster": "Larvs",
+          "type": "Larvs",
+          "team": "enemy",
+          "stolen": false
+        },
+        {
+          "time": 422.9320373535156,
+          "assisters": [
+            "lextorres"
+          ],
+          "killer": "Sid vicius ",
+          "monster": "Larvs",
+          "type": "Larvs",
+          "team": "enemy",
+          "stolen": false
+        },
+        {
+          "time": 688.830078125,
+          "assisters": [
+            "LoboGons"
+          ],
+          "killer": "Sid vicius ",
+          "monster": "Larvs",
+          "type": "Larvs",
+          "team": "enemy",
+          "stolen": false
+        },
+        {
+          "time": 697.7802124023438,
+          "assisters": [
+            "LoboGons",
+            "Sid vicius "
+          ],
+          "killer": "BukeleDicktador",
+          "monster": "Larvs",
+          "type": "Larvs",
+          "team": "ally",
+          "stolen": false
+        },
+        {
+          "time": 713.04150390625,
+          "assisters": [
+            "LoboGons",
+            "lextorres"
+          ],
+          "killer": "Sid vicius ",
+          "monster": "Larvs",
+          "type": "Larvs",
+          "team": "enemy",
+          "stolen": false
+        },
+        {
+          "time": 806.545166015625,
+          "assisters": [
+            "Chesam",
+            "chicagaymerUwU19",
+            "Sid vicius ",
+            "lextorres",
+            "Chesam",
+            "chicagaymerUwU19"
+          ],
+          "killer": "BukeleDicktador",
+          "monster": "Dragon",
+          "type": "Fire",
+          "team": "ally",
+          "stolen": false
+        },
+        {
+          "time": 1099.7313232421875,
+          "assisters": [
+            "Chesam",
+            "BukeleDicktador"
+          ],
+          "killer": "Sid vicius ",
+          "monster": "Herald",
+          "type": "HeraldKill",
+          "team": "enemy",
+          "stolen": false
+        },
+        {
+          "time": 1199.700439453125,
+          "assisters": [
+            "Chesam",
+            "BukeleDicktador",
+            "elmasch1ngonTx"
+          ],
+          "killer": "esahembraesmala",
+          "monster": "Dragon",
+          "type": "Earth",
+          "team": "ally",
+          "stolen": false
+        }
+      ],
+      "players": [
+        {
+          "championName": "Nocturne",
+          "riotId": "Chesam#LAN",
+          "summonerName": "Chesam#LAN",
+          "level": 14,
+          "position": "TOP",
+          "kills": 7,
+          "creepScore": 100,
+          "deaths": 6,
+          "assists": 9,
+          "wardScore": 18.57479476928711,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Nocturne",
+            "championImage": "Nocturne.png",
+            "info": {
+              "attack": 9,
+              "defense": 5,
+              "magic": 2,
+              "difficulty": 4
+            },
+            "tags": [
+              "Fighter",
+              "Assassin"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 655,
+              "hpperlevel": 109,
+              "mp": 275,
+              "mpperlevel": 35,
+              "movespeed": 345,
+              "armor": 38,
+              "armorperlevel": 4.7,
+              "spellblock": 32,
+              "spellblockperlevel": 1.55,
+              "attackrange": 125,
+              "hpregen": 7,
+              "hpregenperlevel": 0.75,
+              "mpregen": 7,
+              "mpregenperlevel": 0.45,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 62,
+              "attackdamageperlevel": 2.6,
+              "attackspeedperlevel": 2.7,
+              "attackspeed": 0.721
+            }
+          },
+          "directOponent": "Warwick",
+          "goldSpent": 9050,
+          "items": [
+            {
+              "id": 1055,
+              "count": 1,
+              "displayName": "Espada de Doran",
+              "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 80,
+                "FlatPhysicalDamageMod": 10,
+                "PercentLifeStealMod": 0.03
+              },
+              "price": 450,
+              "slot": 0
+            },
+            {
+              "id": 3153,
+              "count": 1,
+              "displayName": "Espada del Rey Arruinado",
+              "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>25%</attention> de Velocidad de Ataque<br><attention>10%</attention> de Robo de Vida</stats><br><br><passive>Filo Neblina</passive><br>Los ataques infligen <physicalDamage>un porcentaje</physicalDamage> de la vida actual del enemigo como <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br><br><passive>Sombras Desgarradoras</passive><br>Atacar a un campeón tres veces lo <status>ralentiza</status> en un 30% durante 1 seg.</mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 40,
+                "PercentAttackSpeedMod": 0.25,
+                "PercentLifeStealMod": 0.1
+              },
+              "price": 3200,
+              "slot": 1
+            },
+            {
+              "id": 3071,
+              "count": 1,
+              "displayName": "Cuchilla Oscura",
+              "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>400</attention> de Vida<br><attention>20</attention> de Aceleración de Habilidad</stats><br><br><passive>Cortar</passive><br>Infligir <physicalDamage>daño físico</physicalDamage> a campeones reduce su <scaleArmor>Armadura en un 6%</scaleArmor> durante 6 seg. (Se acumula 5 veces).<br><br><passive>Fervor</passive><br>Infligir <physicalDamage>daño físico</physicalDamage> otorga <speed>20 de Velocidad de Movimiento</speed> durante 2 seg.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 400,
+                "FlatPhysicalDamageMod": 40
+              },
+              "price": 3000,
+              "slot": 2
+            },
+            {
+              "id": 3111,
+              "count": 1,
+              "displayName": "Botas de Mercurio",
+              "description": "<mainText><stats><attention>20</attention> de Resistencia Mágica<br><attention>45</attention> de Velocidad de Movimiento<br><attention>30%</attention> de Tenacidad</stats><br><br></mainText>",
+              "stats": {
+                "FlatSpellBlockMod": 20,
+                "FlatMovementSpeedMod": 45
+              },
+              "price": 1250,
+              "slot": 3
+            },
+            {
+              "id": 3123,
+              "count": 1,
+              "displayName": "El Llamado del Verdugo",
+              "description": "<mainText><stats><attention>15</attention> de Daño de Ataque</stats><br><br><passive>Heridas Graves</passive><br>Infligir daño físico a campeones les aplica un <keyword>40% de Heridas Graves</keyword> durante 3 seg.</mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 15
+              },
+              "price": 800,
+              "slot": 4
+            },
+            {
+              "id": 1036,
+              "count": 1,
+              "displayName": "Espada Larga",
+              "description": "<mainText><stats><attention>10</attention> de Daño de Ataque</stats><br><br></mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 10
+              },
+              "price": 350,
+              "slot": 5
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cadencia Letal",
+              "id": 8008
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Dominación",
+              "id": 8100
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerTeleport",
+              "displayName": "Teleportación Desatada"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            }
+          ]
+        },
+        {
+          "championName": "Sylas",
+          "riotId": "esahembraesmala#2505",
+          "summonerName": "esahembraesmala#2505",
+          "level": 14,
+          "position": "MIDDLE",
+          "kills": 4,
+          "creepScore": 120,
+          "deaths": 5,
+          "assists": 8,
+          "wardScore": 12.591034889221191,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Sylas",
+            "championImage": "Sylas.png",
+            "info": {
+              "attack": 3,
+              "defense": 4,
+              "magic": 8,
+              "difficulty": 5
+            },
+            "tags": [
+              "Mage",
+              "Assassin"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 600,
+              "hpperlevel": 122,
+              "mp": 400,
+              "mpperlevel": 70,
+              "movespeed": 340,
+              "armor": 29,
+              "armorperlevel": 5.2,
+              "spellblock": 32,
+              "spellblockperlevel": 2.55,
+              "attackrange": 175,
+              "hpregen": 9,
+              "hpregenperlevel": 0.9,
+              "mpregen": 8,
+              "mpregenperlevel": 0.8,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 61,
+              "attackdamageperlevel": 3,
+              "attackspeedperlevel": 3.5,
+              "attackspeed": 0.645
+            }
+          },
+          "directOponent": "Malzahar",
+          "goldSpent": 7900,
+          "items": [
+            {
+              "id": 1056,
+              "count": 1,
+              "displayName": "Sortija de Doran",
+              "description": "<mainText><stats><attention>18</attention> de Poder de Habilidad<br><attention>90</attention> de Vida</stats><br><br><passive>Restauración</passive><br>Restaura <scaleMana>1.25 de Maná</scaleMana> cada seg. Si no puedes obtener maná, restaura <scaleHealth>0.55 de Vida</scaleHealth>.<br><br><passive>Una Ayudita</passive><br>Los ataques infligen <physicalDamage>5 de daño físico adicional</physicalDamage> a súbditos.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 90,
+                "FlatMagicDamageMod": 18
+              },
+              "price": 400,
+              "slot": 0
+            },
+            {
+              "id": 4646,
+              "count": 1,
+              "displayName": "Descarga Tormentosa",
+              "description": "<mainText><stats><attention>90</attention> de Poder de Habilidad<br><attention>15</attention> de Penetración de Magia<br><attention>4%</attention> de Velocidad de Movimiento</stats><br><br><passive>Jinete de la Tormenta</passive><br>Infligir un 25% de la Vida Máxima de un campeón como daño en un lapso de 2.5 seg le aplica <passive>Aguacero</passive> y otorga un <speed>25% de Velocidad de Movimiento</speed> durante 1.5 seg.<br><br><passive>Aguacero</passive><br>Tras 2 seg, inflige <magicDamage>daño mágico</magicDamage>. Si el objetivo muere antes de que se active <passive>Aguacero</passive>, infliges daño a los enemigos cercanos y recibes <gold>30 de oro</gold>.</mainText>",
+              "stats": {
+                "FlatMagicDamageMod": 90,
+                "PercentMovementSpeedMod": 0.04
+              },
+              "price": 2900,
+              "slot": 1
+            },
+            {
+              "id": 3165,
+              "count": 1,
+              "displayName": "Morellonomicón",
+              "description": "<mainText><stats><attention>75</attention> de Poder de Habilidad<br><attention>350</attention> de Vida<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Heridas Graves</passive><br>Infligir daño mágico a campeones les aplica un <keyword>40% de Heridas Graves</keyword> durante 3 seg.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 350,
+                "FlatMagicDamageMod": 75
+              },
+              "price": 2950,
+              "slot": 2
+            },
+            {
+              "id": 3111,
+              "count": 1,
+              "displayName": "Botas de Mercurio",
+              "description": "<mainText><stats><attention>20</attention> de Resistencia Mágica<br><attention>45</attention> de Velocidad de Movimiento<br><attention>30%</attention> de Tenacidad</stats><br><br></mainText>",
+              "stats": {
+                "FlatSpellBlockMod": 20,
+                "FlatMovementSpeedMod": 45
+              },
+              "price": 1250,
+              "slot": 3
+            },
+            {
+              "id": 1052,
+              "count": 1,
+              "displayName": "Libro Amplificador",
+              "description": "<mainText><stats><attention>20</attention> de Poder de Habilidad</stats><br><br></mainText>",
+              "stats": {
+                "FlatMagicDamageMod": 20
+              },
+              "price": 400,
+              "slot": 4
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Conquistador",
+              "id": 8010
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Valor",
+              "id": 8400
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerTeleport",
+              "displayName": "Teleportación Desatada"
+            }
+          ]
+        },
+        {
+          "championName": "Jinx",
+          "riotId": "elmasch1ngonTx#9626",
+          "summonerName": "elmasch1ngonTx#9626",
+          "level": 14,
+          "position": "BOTTOM",
+          "kills": 6,
+          "creepScore": 180,
+          "deaths": 5,
+          "assists": 12,
+          "wardScore": 15.75711441040039,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Jinx",
+            "championImage": "Jinx.png",
+            "info": {
+              "attack": 9,
+              "defense": 2,
+              "magic": 4,
+              "difficulty": 6
+            },
+            "tags": [
+              "Marksman"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 630,
+              "hpperlevel": 105,
+              "mp": 260,
+              "mpperlevel": 50,
+              "movespeed": 325,
+              "armor": 26,
+              "armorperlevel": 4.7,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 525,
+              "hpregen": 3.75,
+              "hpregenperlevel": 0.5,
+              "mpregen": 6.7,
+              "mpregenperlevel": 1,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 59,
+              "attackdamageperlevel": 3.25,
+              "attackspeedperlevel": 1.4,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Caitlyn",
+          "goldSpent": 10175,
+          "items": [
+            {
+              "id": 3033,
+              "count": 1,
+              "displayName": "Recordatorio Mortal",
+              "description": "<mainText><stats><attention>35</attention> de Daño de Ataque<br><attention>35%</attention> de Penetración de Armadura<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br><passive>Heridas Graves</passive><br>Infligir daño físico aplica un <keyword>40% de Heridas</keyword> a los campeones enemigos durante 3 seg.</mainText>",
+              "stats": {
+                "FlatCritChanceMod": 0.25,
+                "FlatPhysicalDamageMod": 35
+              },
+              "price": 3300,
+              "slot": 0
+            },
+            {
+              "id": 3032,
+              "count": 1,
+              "displayName": "Flechas Salvajes de Yun Tal",
+              "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>35%</attention> de Velocidad de Ataque</stats><br><br><passive>A Más Práctica, Más Letalidad</passive><br>Al atacar, obtienes un 0.2% de Probabilidad de Golpe Crítico de forma permanente, hasta alcanzar un máximo de un 25%.<br><br><passive>Ráfaga</passive><br>Al atacar a un campeón enemigo, obtienes un 30% de Velocidad de Ataque durante 6 seg (30 seg de enfriamiento). <br>Los ataques reducen este enfriamiento en 1 seg, que aumenta a 2 seg si asestas un golpe crítico.</mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 55,
+                "PercentAttackSpeedMod": 0.35
+              },
+              "price": 3000,
+              "slot": 1
+            },
+            {
+              "id": 3006,
+              "count": 1,
+              "displayName": "Grebas del Berserker",
+              "description": "<mainText><stats><attention>25%</attention> de Velocidad de Ataque<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 45,
+                "PercentAttackSpeedMod": 0.25
+              },
+              "price": 1100,
+              "slot": 2
+            },
+            {
+              "id": 1037,
+              "count": 1,
+              "displayName": "Picacha",
+              "description": "<mainText><stats><attention>25</attention> de Daño de Ataque</stats><br><br></mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 25
+              },
+              "price": 875,
+              "slot": 3
+            },
+            {
+              "id": 1018,
+              "count": 1,
+              "displayName": "Capa de Agilidad",
+              "description": "<mainText><stats><attention>15%</attention> de Probabilidad de Golpe Crítico</stats><br><br></mainText>",
+              "stats": {
+                "FlatCritChanceMod": 0.15
+              },
+              "price": 600,
+              "slot": 4
+            },
+            {
+              "id": 1038,
+              "count": 1,
+              "displayName": "Espadón",
+              "description": "<mainText><stats><attention>40</attention> de Daño de Ataque</stats><br><br></mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 40
+              },
+              "price": 1300,
+              "slot": 5
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cadencia Letal",
+              "id": 8008
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerBarrier",
+              "displayName": "Barrera"
+            }
+          ]
+        },
+        {
+          "championName": "Brand",
+          "riotId": "chicagaymerUwU19#7437",
+          "summonerName": "chicagaymerUwU19#7437",
+          "level": 12,
+          "position": "UTILITY",
+          "kills": 7,
+          "creepScore": 20,
+          "deaths": 7,
+          "assists": 13,
+          "wardScore": 79.41846466064453,
+          "currentGold": "unknown",
+          "team": "ORDER",
+          "champion": {
+            "name": "Brand",
+            "championImage": "Brand.png",
+            "info": {
+              "attack": 2,
+              "defense": 2,
+              "magic": 9,
+              "difficulty": 4
+            },
+            "tags": [
+              "Mage",
+              "Support"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 570,
+              "hpperlevel": 105,
+              "mp": 469,
+              "mpperlevel": 21,
+              "movespeed": 340,
+              "armor": 27,
+              "armorperlevel": 4.2,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 550,
+              "hpregen": 5.5,
+              "hpregenperlevel": 0.55,
+              "mpregen": 9,
+              "mpregenperlevel": 0.6,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 57,
+              "attackdamageperlevel": 3,
+              "attackspeedperlevel": 2,
+              "attackspeed": 0.681
+            }
+          },
+          "directOponent": "Malphite",
+          "goldSpent": 6175,
+          "items": [
+            {
+              "id": 3871,
+              "count": 1,
+              "displayName": "Espina Dimensional de Zaz'Zak",
+              "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>75%</attention> de Regen. de Vida Básica<br><attention>75%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Explosión del Vacío</passive><br>Infligir daño a un campeón con una habilidad provoca una explosión que inflige <magicDamage>daño mágico</magicDamage>.<br><br><active>Activa</active> (4 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 200
+              },
+              "price": 400,
+              "slot": 0
+            },
+            {
+              "id": 2420,
+              "count": 1,
+              "displayName": "Guardabrazo del Buscador",
+              "description": "<mainText><stats><attention>40</attention> de Poder de Habilidad<br><attention>25</attention> de Armadura</stats><br><br><active>Detener el Tiempo</active> (Un solo uso):<br>Entra en <keyword>Estasis</keyword> durante 2.5 seg.</mainText>",
+              "stats": {
+                "FlatMagicDamageMod": 40,
+                "FlatArmorMod": 25
+              },
+              "price": 1600,
+              "slot": 1
+            },
+            {
+              "id": 3020,
+              "count": 1,
+              "displayName": "Botas del Hechicero",
+              "description": "<mainText><stats><attention>12</attention> de Penetración de Magia<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 45
+              },
+              "price": 1100,
+              "slot": 2
+            },
+            {
+              "id": 6653,
+              "count": 1,
+              "displayName": "El Tormento de Liandry",
+              "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>300</attention> de Vida</stats><br><br><passive>Tormento</passive><br>Infligir daño con habilidades quema a los enemigos por un <magicDamage>2% de su Vida Máxima como daño mágico</magicDamage> por seg durante 3 seg.<br><br><passive>Sufrimiento</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 300,
+                "FlatMagicDamageMod": 70
+              },
+              "price": 3000,
+              "slot": 3
+            },
+            {
+              "id": 2055,
+              "count": 2,
+              "displayName": "Centinela de Control",
+              "description": "<mainText><stats></stats><br><br><active>Consumible</active><br>Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos <keywordStealth>camuflados</keywordStealth>.</mainText>",
+              "stats": {},
+              "price": 75,
+              "slot": 4
+            },
+            {
+              "id": 3364,
+              "count": 1,
+              "displayName": "Lente del Oráculo",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>160 a 100</scaleLevel> seg, máx. 2 cargas)<br>Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 6 seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cosecha Oscura",
+              "id": 8128
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Dominación",
+              "id": 8100
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerDot",
+              "displayName": "Ignición"
+            }
+          ]
+        }
+      ]
+    },
+    "enemyTeam": {
+      "spentGold": 45150,
+      "turrets": [
+        {
+          "time": 843.8517456054688,
+          "assisters": [],
+          "killer": "LoboGons",
+          "lane": "mid",
+          "team": "ORDER"
+        },
+        {
+          "time": 944.908203125,
+          "assisters": [],
+          "killer": "lextorres",
+          "lane": "top",
+          "team": "ORDER"
+        },
+        {
+          "time": 1198.8084716796875,
+          "assisters": [],
+          "killer": "Sid vicius ",
+          "lane": "mid",
+          "team": "ORDER"
+        }
+      ],
+      "dragons": [],
+      "players": [
+        {
+          "championName": "Warwick",
+          "riotId": "LoboGons#3283",
+          "summonerName": "LoboGons#3283",
+          "level": 14,
+          "position": "TOP",
+          "kills": 11,
+          "creepScore": 110,
+          "deaths": 5,
+          "assists": 6,
+          "wardScore": 8.758895874023438,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Warwick",
+            "championImage": "Warwick.png",
+            "info": {
+              "attack": 9,
+              "defense": 5,
+              "magic": 3,
+              "difficulty": 3
+            },
+            "tags": [
+              "Fighter",
+              "Tank"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 620,
+              "hpperlevel": 99,
+              "mp": 280,
+              "mpperlevel": 35,
+              "movespeed": 335,
+              "armor": 33,
+              "armorperlevel": 4.4,
+              "spellblock": 32,
+              "spellblockperlevel": 2.05,
+              "attackrange": 125,
+              "hpregen": 4,
+              "hpregenperlevel": 0.75,
+              "mpregen": 7.45,
+              "mpregenperlevel": 0.6,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 60,
+              "attackdamageperlevel": 2.75,
+              "attackspeedperlevel": 2.3,
+              "attackspeed": 0.638
+            }
+          },
+          "directOponent": "Nocturne",
+          "goldSpent": 9800,
+          "items": [
+            {
+              "id": 3153,
+              "count": 1,
+              "displayName": "Espada del Rey Arruinado",
+              "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>25%</attention> de Velocidad de Ataque<br><attention>10%</attention> de Robo de Vida</stats><br><br><passive>Filo Neblina</passive><br>Los ataques infligen <physicalDamage>un porcentaje</physicalDamage> de la vida actual del enemigo como <physicalDamage>daño físico adicional</physicalDamage> <OnHit>al impacto</OnHit>.<br><br><passive>Sombras Desgarradoras</passive><br>Atacar a un campeón tres veces lo <status>ralentiza</status> en un 30% durante 1 seg.</mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 40,
+                "PercentAttackSpeedMod": 0.25,
+                "PercentLifeStealMod": 0.1
+              },
+              "price": 3200,
+              "slot": 0
+            },
+            {
+              "id": 6631,
+              "count": 1,
+              "displayName": "Rompeavances",
+              "description": "<mainText><stats><attention>40</attention> de Daño de Ataque<br><attention>25%</attention> de Velocidad de Ataque<br><attention>450</attention> de Vida</stats><br><br><passive>Hender</passive><br>Los ataques infligen <physicalDamage>daño físico</physicalDamage> a los enemigos cercanos.<br><active>Onda Rompiente</active><br>Inflige <physicalDamage>daño físico</physicalDamage> y <status>ralentiza</status> a los enemigos cercanos en un 35%.<br>Por cada campeón impactado, obtienes un <speed>35% de Velocidad de Movimiento que decae</speed> durante 3 seg.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 450,
+                "FlatPhysicalDamageMod": 40,
+                "PercentAttackSpeedMod": 0.25
+              },
+              "price": 3300,
+              "slot": 1
+            },
+            {
+              "id": 3047,
+              "count": 1,
+              "displayName": "Punteras de Acero Revestidas",
+              "description": "<mainText><stats><attention>25</attention> de Armadura<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br><passive>Revestimiento</passive><br>Reduce el daño recibido de los ataques en un 10%.</mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 45,
+                "FlatArmorMod": 25
+              },
+              "price": 1200,
+              "slot": 2
+            },
+            {
+              "id": 3211,
+              "count": 1,
+              "displayName": "Hábito del Espectro",
+              "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>35</attention> de Resistencia Mágica<br><attention>100%</attention> de Regen. de Vida Básica</stats><br><br></mainText>",
+              "stats": {
+                "FlatSpellBlockMod": 35,
+                "FlatHPPoolMod": 200
+              },
+              "price": 1250,
+              "slot": 3
+            },
+            {
+              "id": 1028,
+              "count": 1,
+              "displayName": "Cristal de Rubí",
+              "description": "<mainText><stats><attention>150</attention> de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 150
+              },
+              "price": 400,
+              "slot": 4
+            },
+            {
+              "id": 1055,
+              "count": 1,
+              "displayName": "Espada de Doran",
+              "description": "<mainText><stats><attention>10</attention> de Daño de Ataque<br><attention>80</attention> de Vida<br><attention>3%</attention> de Robo de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 80,
+                "FlatPhysicalDamageMod": 10,
+                "PercentLifeStealMod": 0.03
+              },
+              "price": 450,
+              "slot": 5
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cadencia Letal",
+              "id": 8008
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Valor",
+              "id": 8400
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerBarrier",
+              "displayName": "Barrera"
+            }
+          ]
+        },
+        {
+          "championName": "Diana",
+          "riotId": "Sid vicius #LAN",
+          "summonerName": "Sid vicius #LAN",
+          "level": 14,
+          "position": "JUNGLE",
+          "kills": 2,
+          "creepScore": 70,
+          "deaths": 8,
+          "assists": 8,
+          "wardScore": 18.321916580200195,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Diana",
+            "championImage": "Diana.png",
+            "info": {
+              "attack": 7,
+              "defense": 6,
+              "magic": 8,
+              "difficulty": 4
+            },
+            "tags": [
+              "Fighter",
+              "Assassin"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 640,
+              "hpperlevel": 109,
+              "mp": 375,
+              "mpperlevel": 25,
+              "movespeed": 345,
+              "armor": 31,
+              "armorperlevel": 4.3,
+              "spellblock": 32,
+              "spellblockperlevel": 2.05,
+              "attackrange": 150,
+              "hpregen": 6.5,
+              "hpregenperlevel": 0.85,
+              "mpregen": 8,
+              "mpregenperlevel": 0.8,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 57,
+              "attackdamageperlevel": 3,
+              "attackspeedperlevel": 2,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Kayn",
+          "goldSpent": 8800,
+          "items": [
+            {
+              "id": 4633,
+              "count": 1,
+              "displayName": "Agrietador",
+              "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>350</attention> de Vida<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Corrupción del Vacío</passive><br>Por cada seg en combate contra campeones enemigos, infliges un 2% de daño adicional (hasta un 8%). Al tener el máximo de fuerza, obtienes <omnivamp>Omnivampirismo</omnivamp>.<br><br><passive>Infusión del Vacío</passive><br>Obtienes un 2% de tu <scaleHealth>Vida adicional</scaleHealth> como <scaleAP>Poder de Habilidad</scaleAP>.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 350,
+                "FlatMagicDamageMod": 70
+              },
+              "price": 3100,
+              "slot": 0
+            },
+            {
+              "id": 6653,
+              "count": 1,
+              "displayName": "El Tormento de Liandry",
+              "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>300</attention> de Vida</stats><br><br><passive>Tormento</passive><br>Infligir daño con habilidades quema a los enemigos por un <magicDamage>2% de su Vida Máxima como daño mágico</magicDamage> por seg durante 3 seg.<br><br><passive>Sufrimiento</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 300,
+                "FlatMagicDamageMod": 70
+              },
+              "price": 3000,
+              "slot": 1
+            },
+            {
+              "id": 3020,
+              "count": 1,
+              "displayName": "Botas del Hechicero",
+              "description": "<mainText><stats><attention>12</attention> de Penetración de Magia<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 45
+              },
+              "price": 1100,
+              "slot": 2
+            },
+            {
+              "id": 1011,
+              "count": 1,
+              "displayName": "Cinturón de Gigante",
+              "description": "<mainText><stats><attention>350</attention> de Vida</stats><br><br></mainText>",
+              "stats": {
+                "FlatHPPoolMod": 350
+              },
+              "price": 900,
+              "slot": 3
+            },
+            {
+              "id": 1033,
+              "count": 1,
+              "displayName": "Manto Anulamagia",
+              "description": "<mainText><stats><attention>20</attention> de Resistencia Mágica</stats><br><br></mainText>",
+              "stats": {
+                "FlatSpellBlockMod": 20
+              },
+              "price": 400,
+              "slot": 4
+            },
+            {
+              "id": 1029,
+              "count": 1,
+              "displayName": "Armadura de Tela",
+              "description": "<mainText><stats><attention>15</attention> de Armadura</stats><br><br></mainText>",
+              "stats": {
+                "FlatArmorMod": 15
+              },
+              "price": 300,
+              "slot": 5
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Electrocutar",
+              "id": 8112
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Dominación",
+              "id": 8100
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerSmiteAvatarUtility",
+              "displayName": "Castigo Primitivo"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            }
+          ]
+        },
+        {
+          "championName": "Malzahar",
+          "riotId": "lextorres#LAN",
+          "summonerName": "lextorres#LAN",
+          "level": 14,
+          "position": "MIDDLE",
+          "kills": 1,
+          "creepScore": 190,
+          "deaths": 7,
+          "assists": 7,
+          "wardScore": 13.32986068725586,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Malzahar",
+            "championImage": "Malzahar.png",
+            "info": {
+              "attack": 2,
+              "defense": 2,
+              "magic": 9,
+              "difficulty": 6
+            },
+            "tags": [
+              "Mage"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 580,
+              "hpperlevel": 101,
+              "mp": 375,
+              "mpperlevel": 28,
+              "movespeed": 335,
+              "armor": 18,
+              "armorperlevel": 4.7,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 500,
+              "hpregen": 6,
+              "hpregenperlevel": 0.6,
+              "mpregen": 8,
+              "mpregenperlevel": 0.8,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 55,
+              "attackdamageperlevel": 3,
+              "attackspeedperlevel": 1.5,
+              "attackspeed": 0.625
+            }
+          },
+          "directOponent": "Sylas",
+          "goldSpent": 8750,
+          "items": [
+            {
+              "id": 3118,
+              "count": 1,
+              "displayName": "Maldad",
+              "description": "<mainText><stats><attention>85</attention> de Poder de Habilidad<br><attention>600</attention> de Maná<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Desdén</passive><br>Obtienes 20 de Aceleración de Habilidad de la definitiva.<br><br><passive>Campo Tóxico</passive><br>Infligir daño a un campeón con tu definitiva quema el suelo donde esté parado durante 3 seg, lo que le inflige <magicDamage>daño mágico</magicDamage> por seg y reduce su <scaleMR>resistencia mágica</scaleMR>. <br></mainText>",
+              "stats": {
+                "FlatMPPoolMod": 600,
+                "FlatMagicDamageMod": 85
+              },
+              "price": 2700,
+              "slot": 0
+            },
+            {
+              "id": 2031,
+              "count": 1,
+              "displayName": "Poción Reutilizable",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (2 cargas)<br>Restaura <healing>100 de Vida</healing> a lo largo de 12 seg. <br>Se rellena al visitar la tienda.</mainText>",
+              "stats": {},
+              "price": 150,
+              "slot": 1
+            },
+            {
+              "id": 3116,
+              "count": 1,
+              "displayName": "Cetro de Cristal de Rylai",
+              "description": "<mainText><stats><attention>65</attention> de Poder de Habilidad<br><attention>400</attention> de Vida</stats><br><br><passive>Hielo Escarchado</passive><br>Las habilidades de daño <keyword>ralentizan</keyword> a los enemigos un 30% durante 1 seg.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 400,
+                "FlatMagicDamageMod": 65
+              },
+              "price": 2600,
+              "slot": 2
+            },
+            {
+              "id": 1001,
+              "count": 1,
+              "displayName": "Botas",
+              "description": "<mainText><stats><attention>25</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 25
+              },
+              "price": 300,
+              "slot": 3
+            },
+            {
+              "id": 6653,
+              "count": 1,
+              "displayName": "El Tormento de Liandry",
+              "description": "<mainText><stats><attention>70</attention> de Poder de Habilidad<br><attention>300</attention> de Vida</stats><br><br><passive>Tormento</passive><br>Infligir daño con habilidades quema a los enemigos por un <magicDamage>2% de su Vida Máxima como daño mágico</magicDamage> por seg durante 3 seg.<br><br><passive>Sufrimiento</passive><br>Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 300,
+                "FlatMagicDamageMod": 70
+              },
+              "price": 3000,
+              "slot": 4
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Cometa Arcano",
+              "id": 8229
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerTeleport",
+              "displayName": "Teleportación Desatada"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            }
+          ]
+        },
+        {
+          "championName": "Caitlyn",
+          "riotId": "JoseM0821#LAN",
+          "summonerName": "JoseM0821#LAN",
+          "level": 14,
+          "position": "BOTTOM",
+          "kills": 10,
+          "creepScore": 180,
+          "deaths": 5,
+          "assists": 5,
+          "wardScore": 15.16092586517334,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Caitlyn",
+            "championImage": "Caitlyn.png",
+            "info": {
+              "attack": 8,
+              "defense": 2,
+              "magic": 2,
+              "difficulty": 6
+            },
+            "tags": [
+              "Marksman"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 580,
+              "hpperlevel": 107,
+              "mp": 315,
+              "mpperlevel": 40,
+              "movespeed": 325,
+              "armor": 27,
+              "armorperlevel": 4.7,
+              "spellblock": 30,
+              "spellblockperlevel": 1.3,
+              "attackrange": 650,
+              "hpregen": 3.5,
+              "hpregenperlevel": 0.55,
+              "mpregen": 7.4,
+              "mpregenperlevel": 0.7,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 60,
+              "attackdamageperlevel": 3.8,
+              "attackspeedperlevel": 4,
+              "attackspeed": 0.681
+            }
+          },
+          "directOponent": "Jinx",
+          "goldSpent": 10550,
+          "items": [
+            {
+              "id": 6676,
+              "count": 1,
+              "displayName": "El Coleccionista",
+              "description": "<mainText><stats><attention>50</attention> de Daño de Ataque<br><attention>10</attention> de Letalidad<br><attention>25%</attention> de Probabilidad de Golpe Crítico</stats><br><br><passive>Muerte</passive><br>Tu daño ejecuta a los campeones que están por debajo de un 5% de Vida. <br><br><passive>Impuestos</passive><br>Los asesinatos de campeones otorgan <gold>25 de oro adicional</gold>.</mainText>",
+              "stats": {
+                "FlatCritChanceMod": 0.25,
+                "FlatPhysicalDamageMod": 50
+              },
+              "price": 3000,
+              "slot": 0
+            },
+            {
+              "id": 3006,
+              "count": 1,
+              "displayName": "Grebas del Berserker",
+              "description": "<mainText><stats><attention>25%</attention> de Velocidad de Ataque<br><attention>45</attention> de Velocidad de Movimiento</stats><br><br></mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 45,
+                "PercentAttackSpeedMod": 0.25
+              },
+              "price": 1100,
+              "slot": 1
+            },
+            {
+              "id": 3032,
+              "count": 1,
+              "displayName": "Flechas Salvajes de Yun Tal",
+              "description": "<mainText><stats><attention>55</attention> de Daño de Ataque<br><attention>35%</attention> de Velocidad de Ataque</stats><br><br><passive>A Más Práctica, Más Letalidad</passive><br>Al atacar, obtienes un 0.2% de Probabilidad de Golpe Crítico de forma permanente, hasta alcanzar un máximo de un 25%.<br><br><passive>Ráfaga</passive><br>Al atacar a un campeón enemigo, obtienes un 30% de Velocidad de Ataque durante 6 seg (30 seg de enfriamiento). <br>Los ataques reducen este enfriamiento en 1 seg, que aumenta a 2 seg si asestas un golpe crítico.</mainText>",
+              "stats": {
+                "FlatPhysicalDamageMod": 55,
+                "PercentAttackSpeedMod": 0.35
+              },
+              "price": 3000,
+              "slot": 2
+            },
+            {
+              "id": 3031,
+              "count": 1,
+              "displayName": "Filo del Infinito",
+              "description": "<mainText><stats><attention>65</attention> de Daño de Ataque<br><attention>25%</attention> de Probabilidad de Golpe Crítico<br><attention>40%</attention> de Daño de Golpe Crítico</stats><br><br></mainText>",
+              "stats": {
+                "FlatCritChanceMod": 0.25,
+                "FlatPhysicalDamageMod": 65
+              },
+              "price": 3450,
+              "slot": 3
+            },
+            {
+              "id": 3340,
+              "count": 1,
+              "displayName": "Centinela Invisible",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>210 a 120</scaleLevel> seg, máx. 2 cargas)<br>Colocas un centinela <keyword>invisible</keyword> que otorga visión durante <scaleLevel>90 a 120</scaleLevel> seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Sobre la Marcha",
+              "id": 8021
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Precisión",
+              "id": 8000
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerBarrier",
+              "displayName": "Barrera"
+            }
+          ]
+        },
+        {
+          "championName": "Malphite",
+          "riotId": "Chuchiling#LAN",
+          "summonerName": "Chuchiling#LAN",
+          "level": 11,
+          "position": "UTILITY",
+          "kills": 3,
+          "creepScore": 30,
+          "deaths": 8,
+          "assists": 10,
+          "wardScore": 51.29890060424805,
+          "currentGold": "unknown",
+          "team": "CHAOS",
+          "champion": {
+            "name": "Malphite",
+            "championImage": "Malphite.png",
+            "info": {
+              "attack": 5,
+              "defense": 9,
+              "magic": 7,
+              "difficulty": 2
+            },
+            "tags": [
+              "Tank",
+              "Mage"
+            ],
+            "energyType": "Maná",
+            "stats": {
+              "hp": 665,
+              "hpperlevel": 104,
+              "mp": 280,
+              "mpperlevel": 60,
+              "movespeed": 335,
+              "armor": 37,
+              "armorperlevel": 4.95,
+              "spellblock": 28,
+              "spellblockperlevel": 2.05,
+              "attackrange": 125,
+              "hpregen": 7,
+              "hpregenperlevel": 0.55,
+              "mpregen": 7.3,
+              "mpregenperlevel": 0.55,
+              "crit": 0,
+              "critperlevel": 0,
+              "attackdamage": 62,
+              "attackdamageperlevel": 4,
+              "attackspeedperlevel": 3.4,
+              "attackspeed": 0.736
+            }
+          },
+          "directOponent": "Brand",
+          "goldSpent": 7250,
+          "items": [
+            {
+              "id": 3075,
+              "count": 1,
+              "displayName": "Cota de Espinas",
+              "description": "<mainText><stats><attention>150</attention> de Vida<br><attention>75</attention> de Armadura</stats><br><br><passive>Espinas</passive><br>Al recibir un ataque, inflige <magicDamage>daño mágico</magicDamage> al atacante. Si el atacante es un campeón, le aplica un 40% de <keyword>Heridas</keyword> durante 3 seg.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 150,
+                "FlatArmorMod": 75
+              },
+              "price": 2450,
+              "slot": 0
+            },
+            {
+              "id": 8020,
+              "count": 1,
+              "displayName": "Máscara Abisal",
+              "description": "<mainText><stats><attention>350</attention> de Vida<br><attention>45</attention> de Resistencia Mágica<br><attention>15</attention> de Aceleración de Habilidad</stats><br><br><passive>Deshacer</passive><br>Los campeones enemigos cercanos reciben un 12% más de <magicDamage>daño mágico</magicDamage>.</mainText>",
+              "stats": {
+                "FlatSpellBlockMod": 45,
+                "FlatHPPoolMod": 350
+              },
+              "price": 2650,
+              "slot": 1
+            },
+            {
+              "id": 3869,
+              "count": 1,
+              "displayName": "Oposición Celestial",
+              "description": "<mainText><stats><attention>200</attention> de Vida<br><attention>75%</attention> de Regen. de Vida Básica<br><attention>75%</attention> de Regen. de Maná Básica<br><attention>5</attention> de oro cada 10 seg</stats><br><br><passive>Bendición de la Montaña</passive><br>Reduce el daño recibido de campeones durante 2 seg tras recibir daño de un campeón. Al finalizar el efecto, ralentiza a los enemigos cercanos en un 50% durante 1.5 seg.<br><active>Activa</active> (4 cargas)<br>Coloca un Centinela <keyword>Invisible</keyword> que otorga visión.</mainText>",
+              "stats": {
+                "FlatHPPoolMod": 200
+              },
+              "price": 400,
+              "slot": 2
+            },
+            {
+              "id": 3170,
+              "count": 1,
+              "displayName": "Botas de Marcha Rápida",
+              "description": "<mainText><stats><attention>70</attention> de Velocidad de Movimiento</stats><br><br><passive>Pies ligeros</passive><br>Reduce la eficacia de las <keyword>ralentizaciones</keyword> en un 25%.<br><br><passive>Fervor Noxiano</passive><br>Obtienes un <speed>4% de Velocidad de Movimiento total</speed>. </mainText>",
+              "stats": {
+                "FlatMovementSpeedMod": 70
+              },
+              "price": 1750,
+              "slot": 3
+            },
+            {
+              "id": 3364,
+              "count": 1,
+              "displayName": "Lente del Oráculo",
+              "description": "<mainText><stats></stats><br><br><active>Activa</active> (<scaleLevel>160 a 100</scaleLevel> seg, máx. 2 cargas)<br>Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 6 seg.</mainText>",
+              "stats": {},
+              "price": 0,
+              "slot": 6
+            }
+          ],
+          "runes": [
+            {
+              "type": "keystone",
+              "displayName": "Agarre del Perpetuo",
+              "id": 8437
+            },
+            {
+              "type": "primaryRuneTree",
+              "displayName": "Valor",
+              "id": 8400
+            },
+            {
+              "type": "secondaryRuneTree",
+              "displayName": "Brujería",
+              "id": 8200
+            }
+          ],
+          "spells": [
+            {
+              "spellOrder": "summonerSpellOne",
+              "id": "SummonerDot",
+              "displayName": "Ignición"
+            },
+            {
+              "spellOrder": "summonerSpellTwo",
+              "id": "SummonerFlash",
+              "displayName": "Destello"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
