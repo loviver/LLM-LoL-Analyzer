@@ -16,3 +16,4 @@
 - **Node.js** – Backend eficiente y escalable.
 - **LLM (GPT u otro modelo)** – Generación de insights estratégicos.
 
+![image](https://github.com/user-attachments/assets/32555dff-800a-4362-876a-ca9ebe4b24d9)
