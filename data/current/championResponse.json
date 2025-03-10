@@ -1,81 +1,117 @@
 {
-  "final_recommendation": "Tu equipo tiene un buen balance entre daño, control y capacidad de supervivencia. Sin embargo, la falta de daño AD consistente y la vulnerabilidad al control de masas son preocupaciones clave. Aprovecha la fase de líneas para sacar ventajas individuales y coordina emboscadas con Kayn para presionar al equipo enemigo. En las peleas de equipo, protege a Jinx y Sylas, y busca flanquear con Nocturne para eliminar amenazas clave. Kayn debe priorizar transformarse en Rhaast (forma roja) para mayor sustain y control de masas, lo cual complementa la composición del equipo.",
+  "final_recommendation": "La composición de tu equipo tiene un buen balance entre daño, control y utilidad, pero le falta daño AD consistente y es vulnerable a composiciones de pokeo y control de masas. En early, enfócate en farmear y evitar riesgos innecesarios. En mid/late, busca flanquear con Kayn o iniciar peleas con Shen, protegiendo a Ashe con Lux. Adaptar la build de Kayn a Rhaast (tanque) o Asesino según la composición enemiga es crucial.",
   "summary": [
     {
-      "title": "Análisis de Composición de Equipo",
-      "team": "Kayn, Brand, Sylas, Jinx, Nocturne",
+      "title": "Análisis de Composición de Equipo Propio",
+      "team": "Kayn, Lux, Galio, Shen, Ashe",
       "strengths": [
-        "Alto daño mágico explosivo con Brand y Sylas.",
-        "Buena capacidad de 'engage' y 'dive' con Nocturne y Kayn.",
-        "Potencial de 'hyper-carry' con Jinx.",
-        "Versatilidad gracias a Sylas, que puede robar habilidades clave del enemigo."
+        "Buen balance entre daño mágico y físico.",
+        "Capacidad de iniciación con Galio y Shen.",
+        "Alto potencial de control de masas con Lux, Galio y Ashe.",
+        "Movilidad global con Shen para apoyar otras líneas.",
+        "Kayn ofrece versatilidad para adaptarse a la composición enemiga (AD o Tank).",
+        "Ashe provee utilidad con su slow y visión global con su ultimate."
       ],
       "weaknesses": [
-        "Falta de daño AD constante, dependiendo fuertemente de Jinx.",
-        "Vulnerabilidad al control de masas y composiciones de 'poke'.",
-        "Requiere buena coordinación para aprovechar el potencial de 'dive' y flanqueo."
+        "Falta de daño AD sostenido. Ashe es el único carry AD principal.",
+        "Vulnerable a composiciones de pokeo debido a la falta de sustain.",
+        "Dependencia de la precisión de las habilidades (skillshots) de Lux y Ashe.",
+        "Kayn en forma Asesino es vulnerable al control de masas.",
+        "Early game relativamente débil para varios campeones, especialmente Ashe."
       ],
       "currentSituation": [
-        "Tu composición funciona mejor en escaramuzas y peleas de equipo donde puedes capitalizar el daño explosivo y la movilidad de Nocturne y Kayn.",
-        "La fase de líneas puede ser complicada contra composiciones de 'poke' o 'all-in' fuertes, por lo que es crucial jugar con precaución y buscar oportunidades de emboscada con Kayn.",
-        "En las peleas de equipo, protege a Jinx y permite que Nocturne y Kayn flanqueen o 'diveen' a los carries enemigos."
+        "La fase de líneas será crucial. Ashe necesita farmear de forma segura y Lux debe presionar su línea. Galio puede roam para apoyar al jungla y otras líneas después de limpiar oleadas.",
+        "Kayn debe farmear de manera eficiente y buscar oportunidades de gankeo en las líneas más vulnerables del equipo enemigo. Adaptar su forma (Rhaast o Asesino) según la composición del enemigo es clave.",
+        "Shen puede usar su ultimate para salvar aliados o iniciar peleas en otras líneas, proporcionando ventaja numérica."
       ],
-      "summary": "Una composición con gran potencial de daño mágico y 'engage', pero vulnerable al control de masas y la falta de daño AD constante. Requiere buena coordinación y visión para maximizar su potencial."
+      "summary": "Tienes una composición equilibrada, pero la falta de daño AD sostenido y la vulnerabilidad al pokeo son preocupaciones. La clave está en farmear de forma segura en early, aprovechar la movilidad global de Shen y coordinar las iniciaciones con Galio y Shen para proteger a Ashe y permitir que haga daño."
     },
     {
-      "title": "Complementación de Selección",
-      "recommendations": [
-        "Un campeón AD que pueda complementar el daño de Jinx y ofrecer una fuente confiable de daño físico.",
-        "Un soporte con capacidad de proteger a Jinx y Sylas del control de masas.",
-        "Un tanque con buena capacidad de iniciación y control de masas para complementar a Nocturne y Kayn."
+      "title": "Análisis de Composición de Equipo Enemigo",
+      "team": "Renata Glasc, Gwen, Lucian, Teemo, Aurelion Sol",
+      "strengths": [
+        "Alto daño mágico con Aurelion Sol y Teemo.",
+        "Buen daño AD con Lucian y Gwen.",
+        "Renata Glasc ofrece utilidad y control de masas.",
+        "Gwen es un duelista fuerte en el carril superior.",
+        "Teemo puede controlar áreas con sus setas (hongos)."
       ],
-      "examples": [
-        "Campeones AD: Un Zed o Talon podría darte daño explosivo y snowball en midlane.",
-        "Soporte Protector: Un campeón como Braum o Taric podría proteger a Jinx del daño enemigo, pero requeriría composiciones mas lentas y pensadas",
-        "Tanque Iniciador: Un buen pick podría ser Malphite o Amumu, que pueden asegurar el 'engage' y permitir que el resto del equipo siga con el daño."
+      "weaknesses": [
+        "Falta de iniciación directa.",
+        "Vulnerable a composiciones de all-in (entrar con todo).",
+        "Teemo es relativamente fácil de counterear en el carril superior.",
+        "Aurelion Sol puede ser vulnerable a ganks en early game.",
+        "Lucian requiere una buena sinergia con su soporte para ser efectivo."
       ],
-      "summary": "Prioriza la adición de daño AD constante, protección contra control de masas y capacidad de iniciación sólida para complementar las fortalezas del equipo."
-    },
-    {
-      "title": "Recomendaciones de Runas",
-      "matchups": [
-        {
-          "champion": "Kayn",
-          "runas": "Conquistador (si planeas transformarte en Rhaast) o Cosechador Oscuro (si planeas transformarte en Asesino)",
-          "notas": "Conquistador ofrece sustain y daño en peleas prolongadas, mientras que Cosechador Oscuro es ideal para asesinatos rápidos."
-        },
-        {
-          "champion": "Brand",
-          "runas": "Cometa Arcano o Cosechador Oscuro",
-          "notas": "Cometa Arcano ofrece daño consistente en la fase de líneas, mientras que Cosechador Oscuro es ideal para 'snowball'."
-        },
-        {
-          "champion": "Sylas",
-          "runas": "Conquistador o Electrocutar",
-          "notas": "Conquistador es bueno para peleas prolongadas, mientras que Electrocutar ofrece daño explosivo en trades cortos."
-        },
-        {
-          "champion": "Jinx",
-          "runas": "Compás Letal",
-          "notas": "Compás Letal te permite escalar mas facil en late y aumentar tu daño en las teamfights."
-        },
-        {
-          "champion": "Nocturne",
-          "runas": "Conquistador o Electrocutar",
-          "notas": "Conquistador es bueno para peleas prolongadas, mientras que Electrocutar ofrece daño explosivo en trades cortos."
-        }
+      "currentSituation": [
+        "La composición enemiga tiene un buen balance de daño, pero carece de iniciación dura. Esto significa que tu equipo puede dictar el ritmo de las peleas si se coordina bien.",
+        "Teemo en el carril superior puede ser una amenaza, pero Shen puede lidiar con él si juega con cuidado y aprovecha las oportunidades de gankeo.",
+        "Aurelion Sol es un objetivo prioritario para Kayn debido a su movilidad limitada y vulnerabilidad en early game.",
+        "Lucian y Renata Glasc pueden ser una amenaza en el carril inferior, por lo que Ashe debe jugar de forma segura y Lux debe controlar la visión."
       ],
-      "summary": "Adapta las runas según tu estilo de juego y la composición del equipo enemigo. Considera Conquistador para peleas prolongadas y Electrocutar/Cosechador Oscuro para daño explosivo."
-    },
-    {
-      "title": "Estrategia General en Fase de Líneas",
-      "recommendations": [
-        "Kayn debe priorizar el 'farm' y buscar oportunidades de emboscada para ayudar a las líneas que tengan un 'matchup' favorable.",
-        "Brand y Sylas deben jugar con precaución y buscar trades favorables utilizando su rango y movilidad.",
-        "Jinx debe 'farmear' de forma segura y esperar oportunidades para castigar errores del enemigo.",
-        "Nocturne debe presionar su línea y buscar oportunidades para rotar y ayudar a otras líneas después de nivel 6."
-      ],
-      "summary": "Juega con precaución en la fase de líneas, prioriza el 'farm' y busca oportunidades de emboscada para asegurar ventajas tempranas. Coordina rotaciones y utiliza la movilidad de Kayn y Nocturne para presionar al equipo enemigo."
+      "summary": "El equipo enemigo tiene daño, pero carece de iniciación. Aprovecha esto para iniciar peleas cuando tengas ventaja y coordinar los gankeos de Kayn. Controlar la visión es crucial para evitar sorpresas de Teemo y Aurelion Sol."
     }
-  ]
+  ],
+  "team_composition_recommendations": [
+    {
+      "type": "Campeones que complementan bien nuestra selección",
+      "recommendations": [
+        {
+          "champion": "Camille",
+          "reason": "Aporta daño AD sostenido, capacidad de splitpush y engage, cubriendo las carencias del equipo."
+        },
+        {
+          "champion": "Kha'Zix",
+          "reason": "Ofrece daño AD explosivo para eliminar carries enemigos y sinergiza bien con el potencial de flanqueo de Kayn."
+        },
+        {
+          "champion": "Ziggs",
+          "reason": "Aumenta la capacidad de pokeo del equipo y proporciona daño seguro desde la distancia."
+        }
+      ]
+    }
+  ],
+  "rune_recommendations": [
+    {
+      "champion": "Kayn",
+      "recommendations": [
+        {
+          "form": "Kayn Asesino",
+          "rune": "Cosechador Oscuro",
+          "reason": "Maximiza el daño explosivo para eliminar objetivos prioritarios rápidamente."
+        },
+        {
+          "form": "Rhaast (Kayn Tank)",
+          "rune": "Conquistador",
+          "reason": "Proporciona sustain y daño prolongado en peleas de equipo, permitiéndole aguantar en el frente."
+        }
+      ]
+    },
+    {
+      "champion": "Ashe",
+      "recommendations": [
+        {
+          "rune": "Compás Letal",
+          "reason": "Aumenta el daño sostenido en el carril inferior, especialmente contra Lucian."
+        }
+      ]
+    },
+    {
+      "champion": "Lux",
+      "recommendations": [
+        {
+          "rune": "Cometa Arcano",
+          "reason": "Mayor capacidad de pokeo en la fase de líneas"
+        }
+      ]
+    }
+  ],
+  "laning_phase_strategy": {
+    "general": "Fase de líneas enfocada en farmear de forma segura y evitar enfrentamientos directos hasta que Kayn pueda gankear o Shen pueda usar su ultimate para proporcionar apoyo. Controlar la visión es crucial para evitar ganks enemigos y permitir que Ashe farmee de forma segura.",
+    "specific": [
+      "Ashe debe concentrarse en farmear y evitar trades riesgosos contra Lucian y Renata Glasc. Lux puede ayudar a controlar la línea y pokear al enemigo.",
+      "Kayn debe farmear de manera eficiente en la jungla y buscar oportunidades de gankeo en las líneas más vulnerables, priorizando a Aurelion Sol.",
+      "Shen debe jugar de forma segura en el carril superior y buscar oportunidades para usar su ultimate y apoyar a otras líneas. Tener cuidado con Teemo y no darle muchas ventajas."
+    ]
+  }
 }

@@ -1,0 +1,2629 @@
+{
+  "activePlayer": {
+    "abilities": {
+      "E": {
+        "abilityLevel": 5,
+        "displayName": "Paso Sombrío",
+        "id": "KaynE",
+        "rawDescription": "GeneratedTip_SpellKayn_KaynE_Description",
+        "rawDisplayName": "GeneratedTip_SpellKayn_KaynE_DisplayName"
+      },
+      "Passive": {
+        "displayName": "La Guadaña Darkin",
+        "id": "KaynPassive",
+        "rawDescription": "GeneratedTip_Passive_KaynPassive_Description",
+        "rawDisplayName": "GeneratedTip_Passive_KaynPassive_DisplayName"
+      },
+      "Q": {
+        "abilityLevel": 5,
+        "displayName": "Corte Segador",
+        "id": "KaynQ",
+        "rawDescription": "GeneratedTip_SpellKayn_KaynQ_Description",
+        "rawDisplayName": "GeneratedTip_SpellKayn_KaynQ_DisplayName"
+      },
+      "R": {
+        "abilityLevel": 3,
+        "displayName": "Transgresión de Umbral",
+        "id": "KaynR",
+        "rawDescription": "GeneratedTip_SpellKayn_KaynR_Description",
+        "rawDisplayName": "GeneratedTip_SpellKayn_KaynR_DisplayName"
+      },
+      "W": {
+        "abilityLevel": 5,
+        "displayName": "Alcance de Cuchilla",
+        "id": "KaynW",
+        "rawDescription": "GeneratedTip_Spell_KaynW_Description",
+        "rawDisplayName": "GeneratedTip_Spell_KaynW_DisplayName"
+      }
+    },
+    "championStats": {
+      "abilityHaste": 52.5,
+      "abilityPower": 81.50260162353516,
+      "armor": 114.50000762939453,
+      "armorPenetrationFlat": 0,
+      "armorPenetrationPercent": 1,
+      "attackDamage": 384.8671875,
+      "attackRange": 175,
+      "attackSpeed": 1.059696078300476,
+      "bonusArmorPenetrationPercent": 1,
+      "bonusMagicPenetrationPercent": 1,
+      "critChance": 0,
+      "critDamage": 175,
+      "currentHealth": 1788.705078125,
+      "healShieldPower": 0,
+      "healthRegenRate": 8.30000114440918,
+      "lifeSteal": 0,
+      "magicLethality": 0,
+      "magicPenetrationFlat": 0,
+      "magicPenetrationPercent": 1,
+      "magicResist": 166.85000610351562,
+      "maxHealth": 3088.000244140625,
+      "moveSpeed": 410.79998779296875,
+      "omnivamp": 0,
+      "physicalLethality": 18,
+      "physicalVamp": 0,
+      "resourceMax": 1260.0001220703125,
+      "resourceRegenRate": 9.932084083557129,
+      "resourceType": "MANA",
+      "resourceValue": 1032.36572265625,
+      "spellVamp": 0,
+      "tenacity": 5
+    },
+    "currentGold": 4017.981689453125,
+    "fullRunes": {
+      "generalRunes": [
+        {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        {
+          "displayName": "Triunfo",
+          "id": 9111,
+          "rawDescription": "perk_tooltip_9111",
+          "rawDisplayName": "perk_displayname_9111"
+        },
+        {
+          "displayName": "Leyenda: Aceleración",
+          "id": 9105,
+          "rawDescription": "perk_tooltip_9105",
+          "rawDisplayName": "perk_displayname_9105"
+        },
+        {
+          "displayName": "La Última Batalla",
+          "id": 8299,
+          "rawDescription": "perk_tooltip_8234",
+          "rawDisplayName": "perk_displayname_8234"
+        },
+        {
+          "displayName": "Calzado Mágico",
+          "id": 8304,
+          "rawDescription": "perk_tooltip_MagicalFootwear",
+          "rawDisplayName": "perk_displayname_MagicalFootwear"
+        },
+        {
+          "displayName": "Tónico Triple",
+          "id": 8313,
+          "rawDescription": "perk_tooltip_PerfectTiming",
+          "rawDisplayName": "perk_displayname_PerfectTiming"
+        }
+      ],
+      "keystone": {
+        "displayName": "Conquistador",
+        "id": 8010,
+        "rawDescription": "perk_tooltip_Conqueror",
+        "rawDisplayName": "perk_displayname_Conqueror"
+      },
+      "primaryRuneTree": {
+        "displayName": "Precisión",
+        "id": 8000,
+        "rawDescription": "perkstyle_tooltip_7201",
+        "rawDisplayName": "perkstyle_displayname_7201"
+      },
+      "secondaryRuneTree": {
+        "displayName": "Inspiración",
+        "id": 8300,
+        "rawDescription": "perkstyle_tooltip_7203",
+        "rawDisplayName": "perkstyle_displayname_7203"
+      },
+      "statRunes": [
+        {
+          "id": 5008,
+          "rawDescription": "perk_tooltip_StatModAdaptive"
+        },
+        {
+          "id": 5008,
+          "rawDescription": "perk_tooltip_StatModAdaptive"
+        },
+        {
+          "id": 5001,
+          "rawDescription": "perk_tooltip_StatModHealthScaling"
+        }
+      ]
+    },
+    "level": 18,
+    "riotId": "BukeleDicktador#503",
+    "riotIdGameName": "BukeleDicktador",
+    "riotIdTagLine": "503",
+    "summonerName": "BukeleDicktador#503",
+    "teamRelativeColors": true
+  },
+  "allPlayers": [
+    {
+      "championName": "Teemo",
+      "isBot": false,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Diente de Nashor",
+          "itemID": 3115,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_3115_Description",
+          "rawDisplayName": "Item_3115_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas de Marcha Rápida",
+          "itemID": 3170,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3170_Description",
+          "rawDisplayName": "Item_3170_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "El Tormento de Liandry",
+          "itemID": 6653,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_6653_Description",
+          "rawDisplayName": "Item_6653_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Maldad",
+          "itemID": 3118,
+          "price": 650,
+          "rawDescription": "GeneratedTip_Item_3118_Description",
+          "rawDisplayName": "Item_3118_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Arco Recurvado",
+          "itemID": 1043,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1043_Description",
+          "rawDisplayName": "Item_1043_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cetro Vampírico",
+          "itemID": 1053,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_1053_Description",
+          "rawDisplayName": "Item_1053_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 17,
+      "position": "TOP",
+      "rawChampionName": "game_character_displayname_Teemo",
+      "rawSkinName": "game_character_skin_displayname_Teemo_47",
+      "respawnTimer": 7.462474822998047,
+      "riotId": "vale2200#LAN",
+      "riotIdGameName": "vale2200",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Cosecha Oscura",
+          "id": 8128,
+          "rawDescription": "perk_tooltip_DarkHarvest",
+          "rawDisplayName": "perk_displayname_DarkHarvest"
+        },
+        "primaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        }
+      },
+      "scores": {
+        "assists": 2,
+        "creepScore": 180,
+        "deaths": 10,
+        "kills": 9,
+        "wardScore": 41.471092224121094
+      },
+      "skinID": 47,
+      "skinName": "Teemo Onda Espacial",
+      "summonerName": "vale2200#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Gwen",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas del Hechicero",
+          "itemID": 3020,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_3020_Description",
+          "rawDisplayName": "Item_3020_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Reloj de Arena de Zhonya",
+          "itemID": 3157,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_3157_Description",
+          "rawDisplayName": "Item_3157_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Diente de Nashor",
+          "itemID": 3115,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_3115_Description",
+          "rawDisplayName": "Item_3115_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Impulso Cósmico",
+          "itemID": 4629,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_4629_Description",
+          "rawDisplayName": "Item_4629_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Antifaz Embrujado",
+          "itemID": 3147,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3147_Description",
+          "rawDisplayName": "Item_3147_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Códice Diabólico",
+          "itemID": 3108,
+          "price": 200,
+          "rawDescription": "GeneratedTip_Item_3108_Description",
+          "rawDisplayName": "Item_3108_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 18,
+      "position": "JUNGLE",
+      "rawChampionName": "game_character_displayname_Gwen",
+      "rawSkinName": "game_character_skin_displayname_Gwen_0",
+      "respawnTimer": 0,
+      "riotId": "EdsonLehi#LAN",
+      "riotIdGameName": "EdsonLehi",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 6,
+        "creepScore": 110,
+        "deaths": 8,
+        "kills": 2,
+        "wardScore": 30.870864868164062
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "EdsonLehi#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Fantasma",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Castigo Primitivo",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarOffensive_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarOffensive_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Aurelion Sol",
+      "isBot": false,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Vara de las Edades",
+          "itemID": 6657,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_6657_Description",
+          "rawDisplayName": "Item_6657_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Maldición de la Vampiresa",
+          "itemID": 8010,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_8010_Description",
+          "rawDisplayName": "Item_8010_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cetro de Cristal de Rylai",
+          "itemID": 3116,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_3116_Description",
+          "rawDisplayName": "Item_3116_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "El Tormento de Liandry",
+          "itemID": 6653,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_6653_Description",
+          "rawDisplayName": "Item_6653_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Zapatos de Lanzahechizos",
+          "itemID": 3175,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3175_Description",
+          "rawDisplayName": "Item_3175_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Alternador Hextech",
+          "itemID": 3145,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_3145_Description",
+          "rawDisplayName": "Item_3145_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 18,
+      "position": "MIDDLE",
+      "rawChampionName": "game_character_displayname_AurelionSol",
+      "rawSkinName": "game_character_skin_displayname_AurelionSol_1",
+      "respawnTimer": 30.494138717651367,
+      "riotId": "SOLIDSNAKESS23#LAN",
+      "riotIdGameName": "SOLIDSNAKESS23",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Cometa Arcano",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        }
+      },
+      "scores": {
+        "assists": 3,
+        "creepScore": 270,
+        "deaths": 5,
+        "kills": 6,
+        "wardScore": 26.28257179260254
+      },
+      "skinID": 1,
+      "skinName": "Aurelion Sol Señor de las Cenizas",
+      "summonerName": "SOLIDSNAKESS23#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Teleportación Desatada",
+          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Lucian",
+      "isBot": false,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cuchilla Rauda de Navori",
+          "itemID": 6675,
+          "price": 950,
+          "rawDescription": "GeneratedTip_Item_6675_Description",
+          "rawDisplayName": "Item_6675_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Saqueador de Esencias",
+          "itemID": 3508,
+          "price": 375,
+          "rawDescription": "GeneratedTip_Item_3508_Description",
+          "rawDisplayName": "Item_3508_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada del Rey Arruinado",
+          "itemID": 3153,
+          "price": 725,
+          "rawDescription": "GeneratedTip_Item_3153_Description",
+          "rawDisplayName": "Item_3153_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Grebas de Armacero",
+          "itemID": 3172,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3172_Description",
+          "rawDisplayName": "Item_3172_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Último Suspiro",
+          "itemID": 3035,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3035_Description",
+          "rawDisplayName": "Item_3035_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada Larga",
+          "itemID": 1036,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1036_Description",
+          "rawDisplayName": "Item_1036_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 15,
+      "position": "BOTTOM",
+      "rawChampionName": "game_character_displayname_Lucian",
+      "rawSkinName": "game_character_skin_displayname_Lucian_0",
+      "respawnTimer": 50.95485305786133,
+      "riotId": "HenorusOficial#LAN",
+      "riotIdGameName": "HenorusOficial",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Estrategia Ofensiva",
+          "id": 8005,
+          "rawDescription": "perk_tooltip_PressTheAttack",
+          "rawDisplayName": "perk_displayname_PressTheAttack"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 4,
+        "creepScore": 180,
+        "deaths": 12,
+        "kills": 9,
+        "wardScore": 24.63237762451172
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "HenorusOficial#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Curación",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Renata Glasc",
+      "isBot": false,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Mandato Imperial",
+          "itemID": 4005,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_4005_Description",
+          "rawDisplayName": "Item_4005_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Relicario de los Solari de Hierro",
+          "itemID": 3190,
+          "price": 700,
+          "rawDescription": "GeneratedTip_Item_3190_Description",
+          "rawDisplayName": "Item_3190_Name",
+          "slot": 1
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Tejesueños",
+          "itemID": 3870,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3870_Description",
+          "rawDisplayName": "Item_3870_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Pebetero Ardiente",
+          "itemID": 3504,
+          "price": 700,
+          "rawDescription": "GeneratedTip_Item_3504_Description",
+          "rawDisplayName": "Item_3504_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas Jonias de la Lucidez",
+          "itemID": 3158,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_3158_Description",
+          "rawDisplayName": "Item_3158_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Puñal Serrado",
+          "itemID": 3134,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_3134_Description",
+          "rawDisplayName": "Item_3134_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "UTILITY",
+      "rawChampionName": "game_character_displayname_Renata",
+      "rawSkinName": "game_character_skin_displayname_Renata_0",
+      "respawnTimer": 4.198921203613281,
+      "riotId": "YoFenixOficial#LAN",
+      "riotIdGameName": "YoFenixOficial",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Guardián",
+          "id": 8465,
+          "rawDescription": "perk_tooltip_Guardian",
+          "rawDisplayName": "perk_displayname_Guardian"
+        },
+        "primaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 13,
+        "creepScore": 40,
+        "deaths": 11,
+        "kills": 2,
+        "wardScore": 101.4510726928711
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "YoFenixOficial#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Extenuación",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerExhaust_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerExhaust_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Hexdestello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlashPerksHextechFlashtraptionV2_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlashPerksHextechFlashtraptionV2_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Shen",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Resplandor Vacío",
+          "itemID": 6664,
+          "price": 650,
+          "rawDescription": "GeneratedTip_Item_6664_Description",
+          "rawDisplayName": "Item_6664_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Cota de Espinas",
+          "itemID": 3075,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_3075_Description",
+          "rawDisplayName": "Item_3075_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Placa del Hombre Muerto",
+          "itemID": 3742,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_3742_Description",
+          "rawDisplayName": "Item_3742_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas de Mercurio",
+          "itemID": 3111,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_3111_Description",
+          "rawDisplayName": "Item_3111_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Rukerno Kaénico",
+          "itemID": 2504,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_2504_Description",
+          "rawDisplayName": "Item_2504_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 18,
+      "position": "TOP",
+      "rawChampionName": "game_character_displayname_Shen",
+      "rawSkinName": "game_character_skin_displayname_Shen_3",
+      "respawnTimer": 0,
+      "riotId": "ElGordoLoco#42069",
+      "riotIdGameName": "ElGordoLoco",
+      "riotIdTagLine": "42069",
+      "runes": {
+        "keystone": {
+          "displayName": "Agarre del Perpetuo",
+          "id": 8437,
+          "rawDescription": "perk_tooltip_GraspOfTheUndying",
+          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+        },
+        "primaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Dominación",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 19,
+        "creepScore": 170,
+        "deaths": 5,
+        "kills": 8,
+        "wardScore": 21.264310836791992
+      },
+      "skinID": 3,
+      "skinName": "Cirujano Shen",
+      "summonerName": "ElGordoLoco#42069",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Teleportación Desatada",
+          "rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Kayn",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada Fantasma de Youmuu",
+          "itemID": 3142,
+          "price": 675,
+          "rawDescription": "GeneratedTip_Item_3142_Description",
+          "rawDisplayName": "Item_3142_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Resplandor Vacío",
+          "itemID": 6664,
+          "price": 650,
+          "rawDescription": "GeneratedTip_Item_6664_Description",
+          "rawDisplayName": "Item_6664_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada Larga",
+          "itemID": 1036,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1036_Description",
+          "rawDisplayName": "Item_1036_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Fauces de Malmortius",
+          "itemID": 3156,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3156_Description",
+          "rawDisplayName": "Item_3156_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas de Mercurio",
+          "itemID": 3111,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_3111_Description",
+          "rawDisplayName": "Item_3111_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Eclipse",
+          "itemID": 6692,
+          "price": 625,
+          "rawDescription": "GeneratedTip_Item_6692_Description",
+          "rawDisplayName": "Item_6692_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 18,
+      "position": "JUNGLE",
+      "rawChampionName": "game_character_displayname_Kayn",
+      "rawSkinName": "game_character_skin_displayname_Kayn_0",
+      "respawnTimer": 0,
+      "riotId": "BukeleDicktador#503",
+      "riotIdGameName": "BukeleDicktador",
+      "riotIdTagLine": "503",
+      "runes": {
+        "keystone": {
+          "displayName": "Conquistador",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 16,
+        "creepScore": 270,
+        "deaths": 7,
+        "kills": 13,
+        "wardScore": 38.150367736816406
+      },
+      "skinID": 0,
+      "skinName": "",
+      "summonerName": "BukeleDicktador#503",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Castigo Primitivo",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarUtility_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarUtility_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Galio",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Guantelete de Sterak",
+          "itemID": 3053,
+          "price": 775,
+          "rawDescription": "GeneratedTip_Item_3053_Description",
+          "rawDisplayName": "Item_3053_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Égida de la Legión",
+          "itemID": 3105,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3105_Description",
+          "rawDisplayName": "Item_3105_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Rukerno Kaénico",
+          "itemID": 2504,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_2504_Description",
+          "rawDisplayName": "Item_2504_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Punteras de Acero Revestidas",
+          "itemID": 3047,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_3047_Description",
+          "rawDisplayName": "Item_3047_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Jak'Sho, el Proteico",
+          "itemID": 6665,
+          "price": 650,
+          "rawDescription": "GeneratedTip_Item_6665_Description",
+          "rawDisplayName": "Item_6665_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Acompañante de Luden",
+          "itemID": 6655,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_6655_Description",
+          "rawDisplayName": "Item_6655_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Alteración de Visión Lejana",
+          "itemID": 3363,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3363_Description",
+          "rawDisplayName": "Item_3363_Name",
+          "slot": 6
+        }
+      ],
+      "level": 18,
+      "position": "MIDDLE",
+      "rawChampionName": "game_character_displayname_Galio",
+      "rawSkinName": "game_character_skin_displayname_Galio_18",
+      "respawnTimer": 0,
+      "riotId": "Æquitas#LAN",
+      "riotIdGameName": "Æquitas",
+      "riotIdTagLine": "LAN",
+      "runes": {
+        "keystone": {
+          "displayName": "Réplica",
+          "id": 8439,
+          "rawDescription": "perk_tooltip_VeteranAftershock",
+          "rawDisplayName": "perk_displayname_VeteranAftershock"
+        },
+        "primaryRuneTree": {
+          "displayName": "Valor",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 15,
+        "creepScore": 220,
+        "deaths": 3,
+        "kills": 10,
+        "wardScore": 40.71125030517578
+      },
+      "skinID": 18,
+      "skinName": "Galio Infernal",
+      "summonerName": "Æquitas#LAN",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Ashe",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Filo del Infinito",
+          "itemID": 3031,
+          "price": 675,
+          "rawDescription": "GeneratedTip_Item_3031_Description",
+          "rawDisplayName": "Item_3031_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Grebas del Berserker",
+          "itemID": 3006,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_3006_Description",
+          "rawDisplayName": "Item_3006_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espada del Rey Arruinado",
+          "itemID": 3153,
+          "price": 725,
+          "rawDescription": "GeneratedTip_Item_3153_Description",
+          "rawDisplayName": "Item_3153_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Bailarín Espectral",
+          "itemID": 3046,
+          "price": 950,
+          "rawDescription": "GeneratedTip_Item_3046_Description",
+          "rawDisplayName": "Item_3046_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Último Suspiro",
+          "itemID": 3035,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3035_Description",
+          "rawDisplayName": "Item_3035_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Capa de Agilidad",
+          "itemID": 1018,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_1018_Description",
+          "rawDisplayName": "Item_1018_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Centinela Invisible",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 17,
+      "position": "BOTTOM",
+      "rawChampionName": "game_character_displayname_Ashe",
+      "rawSkinName": "game_character_skin_displayname_Ashe_20",
+      "respawnTimer": 0,
+      "riotId": "Kravèn#alvar",
+      "riotIdGameName": "Kravèn",
+      "riotIdTagLine": "alvar",
+      "runes": {
+        "keystone": {
+          "displayName": "Cadencia Letal",
+          "id": 8008,
+          "rawDescription": "perk_tooltip_LethalTempo",
+          "rawDisplayName": "perk_displayname_LethalTempo"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precisión",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 12,
+        "creepScore": 160,
+        "deaths": 9,
+        "kills": 8,
+        "wardScore": 34.15803909301758
+      },
+      "skinID": 20,
+      "skinName": "Ashe la Forajida",
+      "summonerName": "Kravèn#alvar",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Fantasma",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Lux",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Espina Dimensional de Zaz'Zak",
+          "itemID": 3871,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3871_Description",
+          "rawDisplayName": "Item_3871_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Descarga Tormentosa",
+          "itemID": 4646,
+          "price": 900,
+          "rawDescription": "GeneratedTip_Item_4646_Description",
+          "rawDisplayName": "Item_4646_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Acompañante de Luden",
+          "itemID": 6655,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_6655_Description",
+          "rawDisplayName": "Item_6655_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Botas del Hechicero",
+          "itemID": 3020,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_3020_Description",
+          "rawDisplayName": "Item_3020_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Enfoque al Horizonte",
+          "itemID": 4628,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_4628_Description",
+          "rawDisplayName": "Item_4628_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Varita Explosiva",
+          "itemID": 1026,
+          "price": 850,
+          "rawDescription": "GeneratedTip_Item_1026_Description",
+          "rawDisplayName": "Item_1026_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lente del Oráculo",
+          "itemID": 3364,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3364_Description",
+          "rawDisplayName": "Item_3364_Name",
+          "slot": 6
+        }
+      ],
+      "level": 15,
+      "position": "UTILITY",
+      "rawChampionName": "game_character_displayname_Lux",
+      "rawSkinName": "game_character_skin_displayname_Lux_8",
+      "respawnTimer": 0,
+      "riotId": "CLIXX#Tian",
+      "riotIdGameName": "CLIXX",
+      "riotIdTagLine": "Tian",
+      "runes": {
+        "keystone": {
+          "displayName": "Cometa Arcano",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Brujería",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Inspiración",
+          "id": 8300,
+          "rawDescription": "perkstyle_tooltip_7203",
+          "rawDisplayName": "perkstyle_displayname_7203"
+        }
+      },
+      "scores": {
+        "assists": 19,
+        "creepScore": 90,
+        "deaths": 6,
+        "kills": 7,
+        "wardScore": 65.56783294677734
+      },
+      "skinID": 8,
+      "skinName": "Lux Emperatriz Lunar",
+      "summonerName": "CLIXX#Tian",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ignición",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Destello",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    }
+  ],
+  "events": {
+    "Events": [
+      {
+        "EventID": 0,
+        "EventName": "GameStart",
+        "EventTime": 0.14981840550899506
+      },
+      {
+        "EventID": 1,
+        "EventName": "MinionsSpawning",
+        "EventTime": 65.0876693725586
+      },
+      {
+        "Assisters": [
+          "HenorusOficial"
+        ],
+        "EventID": 2,
+        "EventName": "ChampionKill",
+        "EventTime": 105.93693542480469,
+        "KillerName": "YoFenixOficial",
+        "VictimName": "CLIXX"
+      },
+      {
+        "EventID": 3,
+        "EventName": "FirstBlood",
+        "EventTime": 105.93693542480469,
+        "Recipient": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 4,
+        "EventName": "ChampionKill",
+        "EventTime": 156.8412628173828,
+        "KillerName": "HenorusOficial",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [],
+        "EventID": 5,
+        "EventName": "ChampionKill",
+        "EventTime": 195.4563751220703,
+        "KillerName": "SOLIDSNAKESS23",
+        "VictimName": "Æquitas"
+      },
+      {
+        "Assisters": [],
+        "EventID": 6,
+        "EventName": "ChampionKill",
+        "EventTime": 218.65130615234375,
+        "KillerName": "vale2200",
+        "VictimName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 7,
+        "EventName": "ChampionKill",
+        "EventTime": 224.0074462890625,
+        "KillerName": "HenorusOficial",
+        "VictimName": "CLIXX"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "EventID": 8,
+        "EventName": "ChampionKill",
+        "EventTime": 229.68060302734375,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 9,
+        "EventName": "ChampionKill",
+        "EventTime": 256.3240966796875,
+        "KillerName": "HenorusOficial",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [],
+        "EventID": 10,
+        "EventName": "ChampionKill",
+        "EventTime": 280.5063171386719,
+        "KillerName": "vale2200",
+        "VictimName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [],
+        "EventID": 11,
+        "EventName": "ChampionKill",
+        "EventTime": 281.47711181640625,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [],
+        "EventID": 12,
+        "EventName": "HordeKill",
+        "EventTime": 459.97174072265625,
+        "KillerName": "EdsonLehi",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "Æquitas"
+        ],
+        "EventID": 13,
+        "EventName": "ChampionKill",
+        "EventTime": 467.4209289550781,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [],
+        "EventID": 14,
+        "EventName": "HordeKill",
+        "EventTime": 473.6070556640625,
+        "KillerName": "EdsonLehi",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador"
+        ],
+        "EventID": 15,
+        "EventName": "ChampionKill",
+        "EventTime": 474.5440368652344,
+        "KillerName": "Æquitas",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [],
+        "EventID": 16,
+        "EventName": "HordeKill",
+        "EventTime": 488.6378479003906,
+        "KillerName": "EdsonLehi",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "CLIXX"
+        ],
+        "EventID": 17,
+        "EventName": "ChampionKill",
+        "EventTime": 491.56622314453125,
+        "KillerName": "Æquitas",
+        "VictimName": "SOLIDSNAKESS23"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 18,
+        "EventName": "ChampionKill",
+        "EventTime": 530.4578857421875,
+        "KillerName": "HenorusOficial",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [
+          "CLIXX"
+        ],
+        "DragonType": "Water",
+        "EventID": 19,
+        "EventName": "DragonKill",
+        "EventTime": 534.1603393554688,
+        "KillerName": "BukeleDicktador",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 20,
+        "EventName": "ChampionKill",
+        "EventTime": 557.4998779296875,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "EdsonLehi",
+          "SOLIDSNAKESS23"
+        ],
+        "EventID": 21,
+        "EventName": "ChampionKill",
+        "EventTime": 563.5933227539062,
+        "KillerName": "YoFenixOficial",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [],
+        "EventID": 22,
+        "EventName": "ChampionKill",
+        "EventTime": 585.3948974609375,
+        "KillerName": "vale2200",
+        "VictimName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 23,
+        "EventName": "ChampionKill",
+        "EventTime": 604.6558837890625,
+        "KillerName": "HenorusOficial",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 24,
+        "EventName": "ChampionKill",
+        "EventTime": 699.17626953125,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Æquitas"
+        ],
+        "EventID": 25,
+        "EventName": "ChampionKill",
+        "EventTime": 715.3605346679688,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "EventID": 26,
+        "EventName": "ChampionKill",
+        "EventTime": 761.0426025390625,
+        "KillerName": "CLIXX",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 27,
+        "EventName": "ChampionKill",
+        "EventTime": 763.0507202148438,
+        "KillerName": "HenorusOficial",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [],
+        "EventID": 28,
+        "EventName": "HordeKill",
+        "EventTime": 766.415283203125,
+        "KillerName": "BukeleDicktador",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "EventID": 29,
+        "EventName": "ChampionKill",
+        "EventTime": 766.6243896484375,
+        "KillerName": "CLIXX",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "EventID": 30,
+        "EventName": "Multikill",
+        "EventTime": 766.6243896484375,
+        "KillStreak": 2,
+        "KillerName": "CLIXX"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Æquitas"
+        ],
+        "EventID": 31,
+        "EventName": "ChampionKill",
+        "EventTime": 776.404541015625,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Æquitas"
+        ],
+        "EventID": 32,
+        "EventName": "HordeKill",
+        "EventTime": 786.1804809570312,
+        "KillerName": "BukeleDicktador",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "Æquitas"
+        ],
+        "EventID": 33,
+        "EventName": "HordeKill",
+        "EventTime": 797.1770629882812,
+        "KillerName": "BukeleDicktador",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 34,
+        "EventName": "ChampionKill",
+        "EventTime": 827.8018798828125,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [],
+        "EventID": 35,
+        "EventName": "ChampionKill",
+        "EventTime": 829.2958374023438,
+        "KillerName": "vale2200",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [],
+        "EventID": 36,
+        "EventName": "ChampionKill",
+        "EventTime": 832.7431640625,
+        "KillerName": "Turret_T100_L2_P3_1509986696",
+        "VictimName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 37,
+        "EventName": "ChampionKill",
+        "EventTime": 856.54052734375,
+        "KillerName": "HenorusOficial",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [],
+        "DragonType": "Air",
+        "EventID": 38,
+        "EventName": "DragonKill",
+        "EventTime": 870.9322509765625,
+        "KillerName": "EdsonLehi",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 39,
+        "EventName": "TurretKilled",
+        "EventTime": 925.7405395507812,
+        "KillerName": "Minion_T100L2S28N0171",
+        "TurretKilled": "Turret_T200_L2_P3_2521511112"
+      },
+      {
+        "EventID": 40,
+        "EventName": "FirstBrick",
+        "EventTime": 925.7405395507812,
+        "KillerName": "Minion_T100L2S28N0171"
+      },
+      {
+        "Assisters": [
+          "CLIXX"
+        ],
+        "EventID": 41,
+        "EventName": "ChampionKill",
+        "EventTime": 934.7664794921875,
+        "KillerName": "Kravèn",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Kravèn"
+        ],
+        "EventID": 42,
+        "EventName": "ChampionKill",
+        "EventTime": 935.28564453125,
+        "KillerName": "CLIXX",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador"
+        ],
+        "EventID": 43,
+        "EventName": "ChampionKill",
+        "EventTime": 1041.232177734375,
+        "KillerName": "Æquitas",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador"
+        ],
+        "EventID": 44,
+        "EventName": "ChampionKill",
+        "EventTime": 1054.7816162109375,
+        "KillerName": "Æquitas",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "CLIXX"
+        ],
+        "EventID": 45,
+        "EventName": "ChampionKill",
+        "EventTime": 1080.8583984375,
+        "KillerName": "Kravèn",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 46,
+        "EventName": "ChampionKill",
+        "EventTime": 1101.8109130859375,
+        "KillerName": "SOLIDSNAKESS23",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "EventID": 47,
+        "EventName": "ChampionKill",
+        "EventTime": 1102.88232421875,
+        "KillerName": "CLIXX",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [],
+        "EventID": 48,
+        "EventName": "TurretKilled",
+        "EventTime": 1114.9171142578125,
+        "KillerName": "Minion_T100L0S34N0215",
+        "TurretKilled": "Turret_T200_L0_P3_511845594"
+      },
+      {
+        "Assisters": [
+          "vale2200",
+          "BukeleDicktador",
+          "vale2200"
+        ],
+        "EventID": 49,
+        "EventName": "HeraldKill",
+        "EventTime": 1143.395751953125,
+        "KillerName": "EdsonLehi",
+        "Stolen": "True"
+      },
+      {
+        "Assisters": [
+          "EdsonLehi"
+        ],
+        "EventID": 50,
+        "EventName": "ChampionKill",
+        "EventTime": 1146.1883544921875,
+        "KillerName": "vale2200",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [],
+        "EventID": 51,
+        "EventName": "ChampionKill",
+        "EventTime": 1159.816650390625,
+        "KillerName": "Turret_T100_L1_P2_1225900006",
+        "VictimName": "Æquitas"
+      },
+      {
+        "Assisters": [],
+        "EventID": 52,
+        "EventName": "TurretKilled",
+        "EventTime": 1160.8209228515625,
+        "KillerName": "Æquitas",
+        "TurretKilled": "Turret_T100_L1_P3_1242677625"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 53,
+        "EventName": "TurretKilled",
+        "EventTime": 1177.6922607421875,
+        "KillerName": "HenorusOficial",
+        "TurretKilled": "Turret_T200_L1_P3_2254202041"
+      },
+      {
+        "Assisters": [
+          "CLIXX"
+        ],
+        "EventID": 54,
+        "EventName": "ChampionKill",
+        "EventTime": 1193.630615234375,
+        "KillerName": "Kravèn",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "SOLIDSNAKESS23"
+        ],
+        "DragonType": "Hextech",
+        "EventID": 55,
+        "EventName": "DragonKill",
+        "EventTime": 1199.0030517578125,
+        "KillerName": "EdsonLehi",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador"
+        ],
+        "EventID": 56,
+        "EventName": "ChampionKill",
+        "EventTime": 1235.9227294921875,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 57,
+        "EventName": "ChampionKill",
+        "EventTime": 1302.583740234375,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "SOLIDSNAKESS23"
+      },
+      {
+        "Assisters": [
+          "Kravèn",
+          "CLIXX"
+        ],
+        "EventID": 58,
+        "EventName": "ChampionKill",
+        "EventTime": 1314.402099609375,
+        "KillerName": "Æquitas",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 59,
+        "EventName": "TurretKilled",
+        "EventTime": 1322.8204345703125,
+        "KillerName": "BukeleDicktador",
+        "TurretKilled": "Turret_T100_L2_P3_1509986696"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 60,
+        "EventName": "ChampionKill",
+        "EventTime": 1461.3489990234375,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Æquitas",
+          "Kravèn",
+          "CLIXX"
+        ],
+        "EventID": 61,
+        "EventName": "ChampionKill",
+        "EventTime": 1461.8848876953125,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "EventID": 62,
+        "EventName": "Multikill",
+        "EventTime": 1461.8848876953125,
+        "KillStreak": 2,
+        "KillerName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador",
+          "CLIXX"
+        ],
+        "EventID": 63,
+        "EventName": "ChampionKill",
+        "EventTime": 1468.3466796875,
+        "KillerName": "Æquitas",
+        "VictimName": "SOLIDSNAKESS23"
+      },
+      {
+        "Assisters": [
+          "Æquitas"
+        ],
+        "EventID": 64,
+        "EventName": "ChampionKill",
+        "EventTime": 1485.070556640625,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [],
+        "EventID": 65,
+        "EventName": "ChampionKill",
+        "EventTime": 1503.9522705078125,
+        "KillerName": "EdsonLehi",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Kravèn"
+        ],
+        "EventID": 66,
+        "EventName": "AtakhanKill",
+        "EventTime": 1508.663818359375,
+        "KillerName": "CLIXX",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 67,
+        "EventName": "ChampionKill",
+        "EventTime": 1538.0987548828125,
+        "KillerName": "HenorusOficial",
+        "VictimName": "CLIXX"
+      },
+      {
+        "Assisters": [
+          "HenorusOficial",
+          "YoFenixOficial"
+        ],
+        "EventID": 68,
+        "EventName": "TurretKilled",
+        "EventTime": 1561.8944091796875,
+        "KillerName": "EdsonLehi",
+        "TurretKilled": "Turret_T200_L0_P2_528623213"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Kravèn",
+          "CLIXX"
+        ],
+        "EventID": 69,
+        "EventName": "ChampionKill",
+        "EventTime": 1642.5933837890625,
+        "KillerName": "Æquitas",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador",
+          "Æquitas",
+          "Kravèn"
+        ],
+        "EventID": 70,
+        "EventName": "ChampionKill",
+        "EventTime": 1649.297607421875,
+        "KillerName": "CLIXX",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 71,
+        "EventName": "ChampionKill",
+        "EventTime": 1659.900146484375,
+        "KillerName": "Kravèn",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 72,
+        "EventName": "ChampionKill",
+        "EventTime": 1660.0340576171875,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "Æquitas",
+          "Kravèn"
+        ],
+        "DragonType": "Hextech",
+        "EventID": 73,
+        "EventName": "DragonKill",
+        "EventTime": 1689.185546875,
+        "KillerName": "CLIXX",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 74,
+        "EventName": "TurretKilled",
+        "EventTime": 1759.8721923828125,
+        "KillerName": "Æquitas",
+        "TurretKilled": "Turret_T100_L0_P3_3795288474"
+      },
+      {
+        "Assisters": [
+          "Æquitas"
+        ],
+        "EventID": 75,
+        "EventName": "ChampionKill",
+        "EventTime": 1772.6575927734375,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "EdsonLehi",
+          "YoFenixOficial"
+        ],
+        "EventID": 76,
+        "EventName": "ChampionKill",
+        "EventTime": 1779.7421875,
+        "KillerName": "HenorusOficial",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [],
+        "EventID": 77,
+        "EventName": "ChampionKill",
+        "EventTime": 1783.4796142578125,
+        "KillerName": "SOLIDSNAKESS23",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador",
+          "CLIXX"
+        ],
+        "EventID": 78,
+        "EventName": "ChampionKill",
+        "EventTime": 1794.097412109375,
+        "KillerName": "Æquitas",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 79,
+        "EventName": "ChampionKill",
+        "EventTime": 1794.5992431640625,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "CLIXX"
+        ],
+        "EventID": 80,
+        "EventName": "ChampionKill",
+        "EventTime": 1795.2015380859375,
+        "KillerName": "Æquitas",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "EventID": 81,
+        "EventName": "Multikill",
+        "EventTime": 1795.2015380859375,
+        "KillStreak": 2,
+        "KillerName": "Æquitas"
+      },
+      {
+        "Assisters": [],
+        "EventID": 82,
+        "EventName": "TurretKilled",
+        "EventTime": 1849.0494384765625,
+        "KillerName": "Æquitas",
+        "TurretKilled": "Turret_T100_L1_P2_1225900006"
+      },
+      {
+        "Assisters": [
+          "EdsonLehi",
+          "HenorusOficial",
+          "YoFenixOficial"
+        ],
+        "EventID": 83,
+        "EventName": "ChampionKill",
+        "EventTime": 1880.5902099609375,
+        "KillerName": "SOLIDSNAKESS23",
+        "VictimName": "Æquitas"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Æquitas"
+        ],
+        "EventID": 84,
+        "EventName": "ChampionKill",
+        "EventTime": 1881.0946044921875,
+        "KillerName": "CLIXX",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "vale2200",
+          "SOLIDSNAKESS23",
+          "HenorusOficial",
+          "YoFenixOficial"
+        ],
+        "EventID": 85,
+        "EventName": "ChampionKill",
+        "EventTime": 1885.186767578125,
+        "KillerName": "EdsonLehi",
+        "VictimName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [
+          "vale2200",
+          "EdsonLehi",
+          "HenorusOficial",
+          "YoFenixOficial"
+        ],
+        "EventID": 86,
+        "EventName": "ChampionKill",
+        "EventTime": 1886.4931640625,
+        "KillerName": "SOLIDSNAKESS23",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "EventID": 87,
+        "EventName": "Multikill",
+        "EventTime": 1886.4931640625,
+        "KillStreak": 2,
+        "KillerName": "SOLIDSNAKESS23"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador",
+          "CLIXX"
+        ],
+        "EventID": 88,
+        "EventName": "ChampionKill",
+        "EventTime": 2000.110107421875,
+        "KillerName": "Kravèn",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 89,
+        "EventName": "ChampionKill",
+        "EventTime": 2010.8404541015625,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "SOLIDSNAKESS23"
+      },
+      {
+        "Assisters": [
+          "EdsonLehi",
+          "SOLIDSNAKESS23"
+        ],
+        "EventID": 90,
+        "EventName": "ChampionKill",
+        "EventTime": 2012.2459716796875,
+        "KillerName": "vale2200",
+        "VictimName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 91,
+        "EventName": "ChampionKill",
+        "EventTime": 2018.690185546875,
+        "KillerName": "Kravèn",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [],
+        "EventID": 92,
+        "EventName": "ChampionKill",
+        "EventTime": 2037.25634765625,
+        "KillerName": "vale2200",
+        "VictimName": "Kravèn"
+      },
+      {
+        "Assisters": [],
+        "EventID": 93,
+        "EventName": "ChampionKill",
+        "EventTime": 2043.6881103515625,
+        "KillerName": "vale2200",
+        "VictimName": "CLIXX"
+      },
+      {
+        "EventID": 94,
+        "EventName": "Multikill",
+        "EventTime": 2043.6881103515625,
+        "KillStreak": 2,
+        "KillerName": "vale2200"
+      },
+      {
+        "Assisters": [],
+        "EventID": 95,
+        "EventName": "TurretKilled",
+        "EventTime": 2060.579833984375,
+        "KillerName": "ElGordoLoco",
+        "TurretKilled": "Turret_T100_L2_P2_1526764315"
+      },
+      {
+        "Assisters": [],
+        "EventID": 96,
+        "EventName": "TurretKilled",
+        "EventTime": 2064.425048828125,
+        "KillerName": "Æquitas",
+        "TurretKilled": "Turret_T100_L0_P2_3812066093"
+      },
+      {
+        "Assisters": [],
+        "EventID": 97,
+        "EventName": "ChampionKill",
+        "EventTime": 2068.188232421875,
+        "KillerName": "Æquitas",
+        "VictimName": "EdsonLehi"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "DragonType": "Hextech",
+        "EventID": 98,
+        "EventName": "DragonKill",
+        "EventTime": 2114.50341796875,
+        "KillerName": "BukeleDicktador",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "BukeleDicktador",
+          "Æquitas",
+          "CLIXX"
+        ],
+        "EventID": 99,
+        "EventName": "ChampionKill",
+        "EventTime": 2123.476318359375,
+        "KillerName": "Kravèn",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador",
+          "Kravèn",
+          "CLIXX"
+        ],
+        "EventID": 100,
+        "EventName": "ChampionKill",
+        "EventTime": 2130.794677734375,
+        "KillerName": "ElGordoLoco",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "Assisters": [
+          "YoFenixOficial"
+        ],
+        "EventID": 101,
+        "EventName": "ChampionKill",
+        "EventTime": 2131.781982421875,
+        "KillerName": "vale2200",
+        "VictimName": "CLIXX"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Æquitas",
+          "Kravèn"
+        ],
+        "EventID": 102,
+        "EventName": "BaronKill",
+        "EventTime": 2169.00537109375,
+        "KillerName": "BukeleDicktador",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 103,
+        "EventName": "ChampionKill",
+        "EventTime": 2236.31396484375,
+        "KillerName": "SOLIDSNAKESS23",
+        "VictimName": "CLIXX"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 104,
+        "EventName": "ChampionKill",
+        "EventTime": 2268.599365234375,
+        "KillerName": "Kravèn",
+        "VictimName": "HenorusOficial"
+      },
+      {
+        "Assisters": [],
+        "EventID": 105,
+        "EventName": "TurretKilled",
+        "EventTime": 2280.6728515625,
+        "KillerName": "Æquitas",
+        "TurretKilled": "Turret_T100_L2_P1_1543541934"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "EventID": 106,
+        "EventName": "TurretKilled",
+        "EventTime": 2288.388916015625,
+        "KillerName": "ElGordoLoco",
+        "TurretKilled": "Turret_T100_L1_P1_1209122387"
+      },
+      {
+        "Assisters": [],
+        "EventID": 107,
+        "EventName": "ChampionKill",
+        "EventTime": 2293.875732421875,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "vale2200"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 108,
+        "EventName": "InhibKilled",
+        "EventTime": 2294.3779296875,
+        "InhibKilled": "Inhib_T100_L1_P1_2786523670",
+        "KillerName": "Kravèn"
+      },
+      {
+        "Assisters": [
+          "Kravèn"
+        ],
+        "EventID": 109,
+        "EventName": "ChampionKill",
+        "EventTime": 2299.415283203125,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "YoFenixOficial"
+      },
+      {
+        "EventID": 110,
+        "EventName": "Multikill",
+        "EventTime": 2299.415283203125,
+        "KillStreak": 2,
+        "KillerName": "BukeleDicktador"
+      },
+      {
+        "Assisters": [
+          "BukeleDicktador"
+        ],
+        "EventID": 111,
+        "EventName": "InhibKilled",
+        "EventTime": 2309.96142578125,
+        "InhibKilled": "Inhib_T100_L2_P1_2669080337",
+        "KillerName": "ElGordoLoco"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco",
+          "Kravèn"
+        ],
+        "EventID": 112,
+        "EventName": "ChampionKill",
+        "EventTime": 2313.8603515625,
+        "KillerName": "BukeleDicktador",
+        "VictimName": "SOLIDSNAKESS23"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 113,
+        "EventName": "TurretKilled",
+        "EventTime": 2319.033203125,
+        "KillerName": "BukeleDicktador",
+        "TurretKilled": "Turret_T100_L1_P5_3625540808"
+      },
+      {
+        "Assisters": [],
+        "EventID": 114,
+        "EventName": "TurretKilled",
+        "EventTime": 2333.58935546875,
+        "KillerName": "Minion_T200L1S75N0492",
+        "TurretKilled": "Turret_T100_L1_P4_3675873665"
+      },
+      {
+        "Assisters": [
+          "ElGordoLoco"
+        ],
+        "EventID": 115,
+        "EventName": "ChampionKill",
+        "EventTime": 2343.031494140625,
+        "KillerName": "CLIXX",
+        "VictimName": "HenorusOficial"
+      }
+    ]
+  },
+  "gameData": {
+    "gameMode": "CLASSIC",
+    "gameTime": 2345.25732421875,
+    "mapName": "Map11",
+    "mapNumber": 11,
+    "mapTerrain": "Default"
+  }
+}
